@@ -21,7 +21,7 @@
   <string name="applying_rom_message">Application de la mise à jour</string>
   <string name="applying_update">Application de la mise à jour...%s</string>
   <string name="best_update">2. Meilleure mise à jour</string>
-  <string name="boot_recovery">Redémarrage dans le Recovery</string>
+  <string name="boot_recovery">Redémarrer dans le Recovery</string>
   <string name="cancel_download_buton_text">Annuler</string>
   <string name="check_update_policy">Vérifier les mises à jour</string>
   <string name="check_update_when_wifi_available">Uniquement avec une connexion Wi-Fi</string>
@@ -29,13 +29,13 @@
   <string name="choose_recommend">Veuillez choisir ou non de recommander</string>
   <string name="confirm_download_cancelation_dialog_message">Êtes-vous sûr de que vouloir annuler le téléchargement en cours ?</string>
   <string name="copy_install_log">Copier dans le Presse-papiers</string>
-  <string name="current_version_text">Version actuelle</string>
+  <string name="current_version_text">Version actuelle: </string>
   <string name="current_version_update_monthly_build">Version actuelle (Mettre à jour vers la compilation mensuelle)</string>
   <string name="daily_build">Compilation quotidienne</string>
   <string name="dialog_no">Non</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_yes">Oui</string>
-  <string name="download_current_rom">Téléchargez la dernière version complète de la ROM</string>
+  <string name="download_current_rom">Télécharger la dernière version complète de la ROM</string>
   <string name="download_ota_rom">Télécharger la mise à jour OTA (%s)</string>
   <string name="download_whole_rom">Télécharger la ROM complète (%s)</string>
   <string name="downloading_description">Téléchargement...</string>
@@ -51,7 +51,7 @@
   <string name="install_email">Installez un logiciel de courrier électronique</string>
   <string name="install_file_explorer">s\'il vous plaît installer un explorateur de fichiers</string>
   <string name="install_qq">Installer l\'application QQ</string>
-  <string name="install_rom_from_sd">Sélectionnez le pack d\'installation</string>
+  <string name="install_rom_from_sd">Sélectionner un pack d\'installation</string>
   <string name="install_sina">Installer l\'application Sina</string>
   <string name="install_whole_rom">Le téléchargement complet de la ROM est recommandé</string>
   <string name="kernel_upgrade_link">Confirmer</string>

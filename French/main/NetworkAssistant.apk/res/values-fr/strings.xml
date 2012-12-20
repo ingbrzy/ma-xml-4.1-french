@@ -72,7 +72,7 @@
   <string name="menu_new_install_app_settings">Default Settings for newly installed apps</string>
   <string name="menu_refresh">Renouveler</string>
   <string name="menu_settings">Réglages services réseau</string>
-  <string name="menu_sort">Sort</string>
+  <string name="menu_sort">Trier</string>
   <string name="menu_sort_by_all_traffic">Sort by total traffic</string>
   <string name="menu_sort_by_disabled">Sort by disabled App</string>
   <string name="menu_sort_by_mobile_traffic">Sort by 2G/3G traffic</string>
@@ -115,7 +115,7 @@
   <string name="sms_match_fail">Failed to match SMS</string>
   <string name="sms_template_match_fail">Match SMS template fail</string>
   <string name="sms_template_updated_label">"Updated: "</string>
-  <string name="sort_dialog_title">Sort</string>
+  <string name="sort_dialog_title">Trier</string>
   <string name="sorted_flux">Traffic Stats</string>
   <string name="stop_app_button">Fermer</string>
   <string name="sync_fail_notify_detail">Feedback from operators not received, click to try again</string>

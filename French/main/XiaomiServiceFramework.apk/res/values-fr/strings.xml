@@ -39,7 +39,7 @@
   <string name="completed">Terminé</string>
   <string name="confirm">Confirmer</string>
   <string name="data_keep_in_phone">Conserver les données sur l\'appareil</string>
-  <string name="data_sync_notice">Utilisez votre compte Xiaomi pour synchroniser les Messages, Contacts et autres données</string>
+  <string name="data_sync_notice">Utilisez votre compte Xiaomi pour synchroniser vos messages, vos contacts et autres données...</string>
   <string name="data_wipe_from_phone">Supprimer de mon appareil</string>
   <string name="disable_find_device_error">%1$s, impossible de désactiver la localisation de l\'appareil</string>
   <string name="email_already_be_used">Adresse email déjà utilisée</string>
@@ -85,9 +85,9 @@
   <string name="find_device_error_server">Erreur de serveur</string>
   <string name="find_device_notice">Si vous ne parvenez pas à trouver votre téléphone, rendez-vous sur
 my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
-  <string name="find_device_notice_p1">Si vous avez perdu votre téléphone, rendez-vous içi</string>
+  <string name="find_device_notice_p1">Si vous avez perdu votre téléphone, rendez-vous sur</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
-  <string name="find_device_notice_p3">Pour le localiser, le verrouiller ou effacer les données</string>
+  <string name="find_device_notice_p3">Vous pourrez alors le localiser, le verrouiller ou effacer ses données</string>
   <string name="find_device_success_title">Localisation de l\'appareil activé</string>
   <string name="forget_password">Confirmer</string>
   <string name="header_data_and_synchronization">Données et Synchronisation</string>
@@ -123,10 +123,10 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="micloud_password_confirm_hint">Confirmer mot passe</string>
   <string name="micloud_password_error_inconsistent">Les mots de passe ne correspondent pas</string>
   <string name="micloud_password_req_notice">8~16 caractères, peut contenir des chiffres et des lettres, sensible à la casse</string>
-  <string name="micloud_reg_new">Créer un nouveau</string>
+  <string name="micloud_reg_new">S\'inscrire</string>
   <string name="micloud_resend_active_email">Renvoyer le mail d\'activation</string>
   <string name="micloud_title">MiCloud</string>
-  <string name="micloud_use_existing">Existant</string>
+  <string name="micloud_use_existing">Se connecter</string>
   <string name="micloud_val_sms_alert">Un SMS va être envoyé afin de confirmer votre numéro de téléphone, continuer?</string>
   <string name="micloud_waiting">En attente...</string>
   <string name="micloud_welcome_banner">Compte Xiaomi</string>
@@ -226,7 +226,7 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="sync_sub_dspt">Un SMS doit être envoyé pour activer le service</string>
   <string name="title_activate">Activer votre compte XIAOMI</string>
   <string name="title_alipay">Recharger via Alipay</string>
-  <string name="title_login">Me connecter à mon compte XIAOMI</string>
+  <string name="title_login">Connectez-vous à votre compte Xiaomi</string>
   <string name="title_mili_center">Centre Mi Crédits</string>
   <string name="title_pay_record">%1$s Journal des paiements</string>
   <string name="title_payment">Paiements mobiles XIAOMI</string>
