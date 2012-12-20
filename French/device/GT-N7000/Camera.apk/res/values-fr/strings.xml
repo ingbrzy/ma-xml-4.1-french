@@ -24,7 +24,7 @@
   <string name="F_MACRO">Macro</string>
   <string name="F_PANFOCUS">Panorama</string>
   <string name="GPS_msg">Désactiver GPS</string>
-  <string name="HDRShot_message">Press the shutter(HDR)</string>
+  <string name="HDRShot_message">Appuyer sur l\'obturateur (HDR)</string>
   <string name="HDR_Helptext">Veillez à ne pas bouger pendant que vous prenez des photos</string>
   <string name="ISO_100">100</string>
   <string name="ISO_1600">1600</string>
@@ -46,7 +46,7 @@
   <string name="Q_SUPER_FINE">Excellente</string>
   <string name="RM_MMS">Limite MMS</string>
   <string name="RM_NORMAL">Standard</string>
-  <string name="RM_SELF">Self recording</string>
+  <string name="RM_SELF">Enregistrement libre</string>
   <string name="RM_SLOW">Mouvement lent</string>
   <string name="R_1280x720">1280x720</string>
   <string name="R_1280x960">1280x960</string>
@@ -60,8 +60,8 @@
   <string name="R_2560x1536">2560x1536</string>
   <string name="R_2560x1920">2560x1920</string>
   <string name="R_3072x1856">3072x1856</string>
-  <string name="R_3072x2304">3072x2304</string>
-  <string name="R_320x240">320x240</string>
+  <string name="R_3072x2304">3072 x 2304</string>
+  <string name="R_320x240">320 x 240</string>
   <string name="R_3264x1836">3264x1836</string>
   <string name="R_3264x1968">3264x1968</string>
   <string name="R_3264x2448">3264x2448</string>
@@ -82,9 +82,9 @@
   <string name="SCN_Des_FIREWORK">Catches flame. Slow shutter speed. Keep camera still</string>
   <string name="SCN_Des_LANDSCAPE">Distant scenery. Infinite focusing</string>
   <string name="SCN_Des_NIGHT_SHOT">Beautiful night scenery. Keep camera still</string>
-  <string name="SCN_Des_PARTY_INDOOR">Indoor scenes</string>
+  <string name="SCN_Des_PARTY_INDOOR">Scènes d\'intérieur</string>
   <string name="SCN_Des_PORTRAIT">Takes picture of person</string>
-  <string name="SCN_Des_SPORTS">Fast moving objects such as sports scenes</string>
+  <string name="SCN_Des_SPORTS">Objets en mouvement rapide comme scènes de sport</string>
   <string name="SCN_Des_SUNSET">Beautiful sunset scenery. Daylight white balance</string>
   <string name="SCN_Des_TEXT">Text or document. Emphasises sharpness or contrast</string>
   <string name="SCN_FALL_COLOR">Automne</string>
@@ -107,7 +107,7 @@
   <string name="SM_HDR">HDR</string>
   <string name="SM_MOSAIC">Mosaïque</string>
   <string name="SM_PANORAMA">Panoramique</string>
-  <string name="SM_SELFSHOT">Self portrait</string>
+  <string name="SM_SELFSHOT">Auto-portrait</string>
   <string name="SM_SHOOTANDSHARE">Partage</string>
   <string name="SM_SINGLE">Cliché unique</string>
   <string name="SM_SMILE">Sourire</string>
@@ -125,7 +125,7 @@
   <string name="Settings_Help_BlinkDetection">Detects blink of human eye and warns user</string>
   <string name="Settings_Help_Effect">Sets special effect on image</string>
   <string name="Settings_Help_ExposureMeter">Selects area for measuring exposure level</string>
-  <string name="Settings_Help_Focus">Sets focus mode</string>
+  <string name="Settings_Help_Focus">Définit le mode de focus</string>
   <string name="Settings_Help_GPS">Stores GPS information in image files</string>
   <string name="Settings_Help_Guideline">Displays guidelines on LCD screen</string>
   <string name="Settings_Help_ISO">Adjusts ISO sensitivity of camera imaging sensor</string>

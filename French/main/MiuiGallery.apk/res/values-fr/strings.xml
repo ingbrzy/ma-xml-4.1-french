@@ -5,7 +5,7 @@
   <string name="account_not_login">You can login to your Xiaomi account and sync your data to MiCloud</string>
   <string name="activity_not_found">Aucune application n\'est disponible pour effectuer l\'action.</string>
   <string name="add_account">Ajouter un compte</string>
-  <string name="add_bookmark">Add to Favorites</string>
+  <string name="add_bookmark">Ajouter aux favoris</string>
   <string name="albums">Albums</string>
   <string name="alert">"Avis d\'information"</string>
   <string name="alert_message_initial_cloud">The system will automatically upload old and new photos and screenshots only when there is a Wi-Fi connection.</string>
@@ -37,7 +37,7 @@
   <string name="camera_setas_wallpaper">Wallpaper</string>
   <string name="camera_view_none_message">Captured photos will be displayed here.</string>
   <string name="cancel">Annuler</string>
-  <string name="cancel_bookmark">Remove from Favorites</string>
+  <string name="cancel_bookmark">Supprimer des favoris</string>
   <string name="cleaning_cache">Nettoyage du cache...</string>
   <string name="clear_thumbnail_cache">Clear thumbnail cache</string>
   <string name="clear_thumbnail_cache_confirm">Thumbnail cache will be cleared. Gallery will rescan media files and re-create thumbnails.</string>
@@ -110,7 +110,7 @@
   <string name="file_info_dimension">Résolution:</string>
   <string name="file_info_duration">Durée:</string>
   <string name="file_info_geo_location">Emplacement:</string>
-  <string name="file_info_path">Path:</string>
+  <string name="file_info_path">Chemin d\'accès :</string>
   <string name="file_info_size">Size:</string>
   <string name="file_info_title">Title:</string>
   <string name="file_size">Taille fichier</string>

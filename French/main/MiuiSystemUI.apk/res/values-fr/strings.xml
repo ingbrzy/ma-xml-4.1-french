@@ -155,7 +155,7 @@
   <string name="screen_button_enabled_message">Functions of buttons on the lower screen are enabled</string>
   <string name="screen_button_notification_text">"Pressing \'Home\'+\'Power\' to enable"</string>
   <string name="screen_button_notification_title">Screen buttons are disabled</string>
-  <string name="screen_key_back">Back key</string>
+  <string name="screen_key_back">Bouton Retour</string>
   <string name="screen_key_home">Home key</string>
   <string name="screen_key_menu">Menu key</string>
   <string name="screen_key_recent_apps">Recent apps key</string>

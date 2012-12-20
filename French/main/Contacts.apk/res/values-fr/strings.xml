@@ -222,9 +222,9 @@
   <string formatted="false" name="display_warn_remove_ungrouped">Si vous retirez %s de la synchronisation, les contacts non groupés le seront également</string>
   <string name="editContactDescription">Modifier contact</string>
   <string name="edit_contact">Modifier contact</string>
-  <string name="edit_contact_card_title">Edit contact card</string>
+  <string name="edit_contact_card_title">Modifier la fiche du contact</string>
   <string name="edit_hint">Modifier</string>
-  <string name="edit_photo">Edit Photo</string>
+  <string name="edit_photo">Editer la photo</string>
   <string name="email">E-mail</string>
   <string name="emailLabelsGroup">E-mail</string>
   <string formatted="false" name="email_custom">E-mail %s</string>
@@ -236,11 +236,11 @@
   <string name="enter_contact_name">"Entrer le nom d\'un contact"</string>
   <string name="eventLabelsGroup">Evén.</string>
   <string name="event_edit_field_hint_text">Date</string>
-  <string name="export_sim_contact_finish">Export to SIM card completed</string>
-  <string name="export_sim_contacts_dialog_message">Your SIM card can store %d contacts, Are you sure you want to proceed?</string>
+  <string name="export_sim_contact_finish">L\'export vers la carte SIM terminé</string>
+  <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, Etes-vous sûr de que vouloir continuer ?</string>
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
   <string name="export_to_sim">Exporter vers la carte SIM</string>
-  <string name="export_vcard_description">Export vCard to SD card</string>
+  <string name="export_vcard_description">Exporter vCard sur la carte SD</string>
   <string formatted="false" name="exporting_contact_failed_message">"Echec de l\'exportation des données des contacts. (Raison : %s)"</string>
   <string name="exporting_contact_failed_title">"Echec de l\'exportation des données des contacts"</string>
   <string formatted="false" name="exporting_contact_list_message">Exportation des données des contacts vers \"%s\"</string>
@@ -262,9 +262,9 @@
   <string name="favoritesFrequentCalled">Souvent appelé</string>
   <string name="favoritesFrequentContacted">Fréquemment contacté</string>
   <string formatted="false" name="foundTooManyContacts">Plus de %d contacts trouvés</string>
-  <string name="frequency_none">Do not remind</string>
-  <string name="frequency_three_days">Check and remind every 3 days</string>
-  <string name="frequency_weekly">Check and remind weekly</string>
+  <string name="frequency_none">Ne pas rappeler</string>
+  <string name="frequency_three_days">Vérifier et rappeler tous les 3 jours</string>
+  <string name="frequency_weekly">Vérifier et rappeler toutes les semaines</string>
   <string name="frequentList">Fréquent</string>
   <string formatted="false" name="from_account_format">%1$s</string>
   <string name="full_name">Nom</string>
@@ -320,7 +320,7 @@
   <string name="listTotalPhoneContactsZero">Pas de contacts avec des numéros de téléphone</string>
   <string name="list_filter_all_accounts">Tous les contacts</string>
   <string name="list_filter_all_starred">Favoris</string>
-  <string name="list_filter_custom">Custom</string>
+  <string name="list_filter_custom">Perso</string>
   <string name="list_filter_customize">Personnaliser...</string>
   <string name="list_filter_phones">Tous les contacts avec numéros de téléphone</string>
   <string name="list_filter_single">Contact</string>
@@ -373,7 +373,7 @@
   <string name="menu_removeStar">Supprimer des favoris</string>
   <string name="menu_search">Rechercher</string>
   <string name="menu_sendSMS">Envoyer un SMS au contact</string>
-  <string name="menu_send_to_desktop">Add desktop shortcut</string>
+  <string name="menu_send_to_desktop">Ajouter le raccourci sur le bureau</string>
   <string name="menu_set_ring_tone">Sonnerie appelant enregistrée</string>
   <string name="menu_settings">Paramètres</string>
   <string name="menu_share">Partager</string>
@@ -383,7 +383,7 @@
   <string formatted="false" name="merge_contact_message">(%1$d) contacts with partly duplicate data, (%2$d) merged</string>
   <string name="messageShortcutActivityTitle">Appuyez pour envoyer un message</string>
   <string name="missing_name">Nom inconnu</string>
-  <string name="move_and_resize">Move and Scale</string>
+  <string name="move_and_resize">Déplacer et redimensionner</string>
   <string name="multipleContactDeleteConfirmation">La suppression de ce contact entraînera la suppression des informations de plusieurs comptes</string>
   <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete information from multiple accounts.</string>
   <string name="nameLabelsGroup">Nom</string>
@@ -399,10 +399,10 @@
   <string name="next_birthday">Next birthday: %s</string>
   <string name="nfc_vcard_file_name">Contact reçu via NFC</string>
   <string name="nicknameLabelsGroup">Surnom</string>
-  <string name="nickname_picker_name_column">Contact Name</string>
+  <string name="nickname_picker_name_column">Nom du contact</string>
   <string name="nickname_picker_nickname_column">Titre</string>
   <string name="noAccounts">"Vous avez besoin d\'un compte pour créer des groupes"</string>
-  <string name="noContactHelpTextAccountsInfo">Sync Google, Exchange contacts.</string>
+  <string name="noContactHelpTextAccountsInfo">Google Sync, contacts Exchange.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restore data backed up in Xiaomi account and MiTalk</string>
   <string name="noContacts">Aucun contact</string>
   <string name="noContactsHelpText">\"Vous n\'avez aucun contact à afficher.
@@ -464,20 +464,20 @@ Pour ajouter un contact à la liste de favoris :
 \"</li></string>
   <string name="noGroups">Aucun groupe</string>
   <string name="noMatchingContacts">Pas de résultats</string>
-  <string name="noRecentContacts">No recent contact</string>
+  <string name="noRecentContacts">Aucun contact récent</string>
   <string name="no_account_prompt">\"Tirez le meilleur parti de l\'application Contacts en utilisant un compte Google.
 
 • Accédez-y depuis n\'importe quel navigateur Web.
 • Sauvegardez vos contacts en toute sécurité.\"</string>
   <string name="no_contact_details">Aucune information supplémentaire pour ce contact</string>
-  <string name="no_contact_name">No contact name stored</string>
+  <string name="no_contact_name">Aucun nom de contact a été stocké</string>
   <string name="no_contacts_selected">Aucun contact sélectionné</string>
   <string name="no_sdcard_message">Aucune carte SD détectée</string>
   <string name="no_sdcard_title">Aucune carte SD</string>
   <string name="non_phone_add_to_contacts">Ajouter</string>
   <string name="non_phone_caption">N° de téléphone</string>
   <string name="non_phone_close">Fermer</string>
-  <string name="not_applied">Not supported</string>
+  <string name="not_applied">Non pris en charge</string>
   <string formatted="false" name="notification_new_voicemail_ticker">Nouveau message vocal de %s</string>
   <string formatted="false" name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">Dial pad</string>
@@ -486,8 +486,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="option_edit_contact">Modifier</string>
   <string name="option_not_in_group">Supprimer</string>
   <string name="option_not_star">Unfavorite</string>
-  <string name="option_send_to_desktop">Send to desktop</string>
-  <string name="option_send_to_others">Send to others</string>
+  <string name="option_send_to_desktop">Envoyer vers le bureau</string>
+  <string name="option_send_to_others">Envoyer à d\'autres</string>
   <string name="option_view_contact">Affich.</string>
   <string name="organizationLabelsGroup">Organisation</string>
   <string formatted="false" name="organization_company_and_title">%2$s, %1$s</string>
@@ -514,19 +514,19 @@ Pour ajouter un contact à la liste de favoris :
   <string name="postal_street">Adresse</string>
   <string name="pref_key_photo">Photo</string>
   <string name="pref_key_photo_word_summary">Auto select a photo for contacts without one set.</string>
-  <string name="pref_key_photo_word_title">Auto select photo for contacts</string>
+  <string name="pref_key_photo_word_title">Auto sélectionner la photo pour les contacts</string>
   <string name="pref_key_rebuild_t9_index_message">Fix contact search indexing failure</string>
   <string name="pref_key_rebuild_t9_index_title">Rebuild T9 index data</string>
   <string name="pref_summary_import_from_account">Import contacts from Google and Exchange accounts to my Xiaomi Account</string>
-  <string name="pref_title_account_import">Import from account</string>
-  <string name="pref_title_import_from_account">Import to Xiaomi account</string>
+  <string name="pref_title_account_import">Importer depuis le compte</string>
+  <string name="pref_title_import_from_account">Importer vers le compte Xiami</string>
   <string name="preference_displayOptions">"Options d\'affichage"</string>
   <string name="preference_export">Exporter</string>
   <string name="preference_import">Importer</string>
   <string name="preference_import_export">Import / Export</string>
   <string name="preference_import_export_title">Importer/Exporter des contacts</string>
-  <string name="preference_others">Others</string>
-  <string name="preference_remove_duplicate">Merge duplicate contacts</string>
+  <string name="preference_others">Autres</string>
+  <string name="preference_remove_duplicate">Fusionner les contacts identiques</string>
   <string name="preference_select_account_display">Filtrer par compte</string>
   <string name="preference_smart_group_company_summary">Group contacts by company info</string>
   <string name="preference_smart_group_company_title">By company</string>

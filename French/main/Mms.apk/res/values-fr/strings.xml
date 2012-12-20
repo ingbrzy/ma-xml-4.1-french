@@ -91,7 +91,7 @@
   <string name="copy_to_sdcard_success">Pièce jointe copiée sur carte SD</string>
   <string name="database_corruption">Base de données corrompue, reconstruction...</string>
   <string name="delete">Supprimer</string>
-  <string name="delete_bookmark">Remove from Favorites</string>
+  <string name="delete_bookmark">Supprimer des favoris</string>
   <string name="delete_message">Supprimer</string>
   <string name="delete_phrase">Supprimer la phrase</string>
   <string name="delete_subject">Supprimer le sujet</string>

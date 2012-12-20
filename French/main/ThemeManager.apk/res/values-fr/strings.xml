@@ -81,12 +81,12 @@
   <string name="theme_component_title_lockwallpaper">Fond de l\'écran de verrouillage</string>
   <string name="theme_component_title_mms">SMS</string>
   <string name="theme_component_title_notification">Notifications</string>
-  <string name="theme_component_title_others">Others</string>
+  <string name="theme_component_title_others">Autres</string>
   <string name="theme_component_title_photo_frame">Cadre photo</string>
   <string name="theme_component_title_ringtone">Sonnerie</string>
   <string name="theme_component_title_statusbar">Barre de Status</string>
   <string name="theme_component_title_wallpaper">Wallpaper</string>
-  <string name="theme_description_title_customized">Custom</string>
+  <string name="theme_description_title_customized">Perso</string>
   <string name="theme_description_title_default">Par défaut</string>
   <string name="theme_format_wrong_content">Le format du thème est incorrect</string>
   <string name="theme_import">Importer depuis la carte SD</string>
@@ -114,7 +114,7 @@
   <string name="theme_is_imported">Thème importé</string>
   <string name="theme_pick_import_fail">Importation échoué</string>
   <string name="theme_sdcard_importing">Importation depuis la carte SD en cours</string>
-  <string name="theme_select_others">Others</string>
+  <string name="theme_select_others">Autres</string>
   <string name="theme_update_request_content">Le thème doit être mis à jour pour être fonctionnel. Ceci peut utiliser du trafic réseau, cliquez sur mise à jour pour continuer</string>
   <string name="theme_update_request_title">Mise à jour du thème</string>
   <string name="third_party_pickers_activity_title">Définir %1$s</string>
