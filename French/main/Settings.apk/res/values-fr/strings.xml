@@ -691,7 +691,7 @@ L\'utilisation des données est mesurée par votre téléphone mais votre opéra
   <string name="dolby_eq_jungle">Jungle</string>
   <string name="dolby_eq_metal">Metal</string>
   <string name="dolby_eq_pop">Pop</string>
-  <string name="dolby_eq_rb">R&ampB</string>
+  <string name="dolby_eq_rb">R&amp;B</string>
   <string name="dolby_eq_rock">Rock</string>
   <string name="dolby_equalizer">Égaliseur</string>
   <string name="dolby_mode_movie">Mode film</string>
