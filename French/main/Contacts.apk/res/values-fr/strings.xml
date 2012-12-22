@@ -206,11 +206,11 @@
   <string name="dialog_sync_add">Ajouter un groupe de synchronisation</string>
   <string name="directory_search_label">Répertoire</string>
   <string formatted="false" name="dirty_contacts_notification_description">Le stockage local a %d contacts non synchronisées</string>
-  <string name="dirty_contacts_notification_message"> (Disable notifications via settings)</string>
-  <string name="dirty_contacts_notification_title">Sync unsynced contacts?</string>
+  <string name="dirty_contacts_notification_message"> (Désactiver les notifications via les paramètres)</string>
+  <string name="dirty_contacts_notification_title">Synchroniser les contacts non qui ne le sont pas encore ?</string>
   <string name="display_all_contacts">Tous les contacts</string>
   <string name="display_more_groups">Autres groupes...</string>
-  <string name="display_only_phones">Display only with Phone number</string>
+  <string name="display_only_phones">Afficher uniquement avec le numéro de téléphone</string>
   <string name="display_options_sort_by_family_name">Nom de famille</string>
   <string name="display_options_sort_by_given_name">Prénom</string>
   <string name="display_options_sort_list_by">Trier par</string>
@@ -236,11 +236,11 @@
   <string name="enter_contact_name">"Entrer le nom d\'un contact"</string>
   <string name="eventLabelsGroup">Evén.</string>
   <string name="event_edit_field_hint_text">Date</string>
-  <string name="export_sim_contact_finish">L\'export vers la carte SIM terminé</string>
+  <string name="export_sim_contact_finish">L\'export vers la carte SIM est terminé</string>
   <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, Etes-vous sûr de que vouloir continuer ?</string>
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
   <string name="export_to_sim">Exporter vers la carte SIM</string>
-  <string name="export_vcard_description">Exporter vCard sur la carte SD</string>
+  <string name="export_vcard_description">Exporter la carte de visite sur la SD</string>
   <string formatted="false" name="exporting_contact_failed_message">"Echec de l\'exportation des données des contacts. (Raison : %s)"</string>
   <string name="exporting_contact_failed_title">"Echec de l\'exportation des données des contacts"</string>
   <string formatted="false" name="exporting_contact_list_message">Exportation des données des contacts vers \"%s\"</string>
@@ -373,19 +373,19 @@
   <string name="menu_removeStar">Supprimer des favoris</string>
   <string name="menu_search">Rechercher</string>
   <string name="menu_sendSMS">Envoyer un SMS au contact</string>
-  <string name="menu_send_to_desktop">Ajouter le raccourci sur le bureau</string>
+  <string name="menu_send_to_desktop">Ajouter le raccourci à l\'acceuil</string>
   <string name="menu_set_ring_tone">Sonnerie appelant enregistrée</string>
   <string name="menu_settings">Paramètres</string>
   <string name="menu_share">Partager</string>
   <string name="menu_splitAggregate">Séparer</string>
   <string name="menu_sync_remove">Supprimer le groupe sync</string>
   <string name="menu_viewContact">Voir le contact</string>
-  <string formatted="false" name="merge_contact_message">(%1$d) contacts with partly duplicate data, (%2$d) merged</string>
+  <string formatted="false" name="merge_contact_message">(%1$d) contacts avec des données partiellement en double, (%2$d) fusionné</string>
   <string name="messageShortcutActivityTitle">Appuyez pour envoyer un message</string>
   <string name="missing_name">Nom inconnu</string>
   <string name="move_and_resize">Déplacer et redimensionner</string>
   <string name="multipleContactDeleteConfirmation">La suppression de ce contact entraînera la suppression des informations de plusieurs comptes</string>
-  <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete information from multiple accounts.</string>
+  <string name="multipleContactDeleteConfirmationDetail">Supprimer \"%s\" entraînera la suppression des informations de comptes multiples.</string>
   <string name="nameLabelsGroup">Nom</string>
   <string name="name_family">Nom de famille</string>
   <string name="name_given">Prénom</string>
@@ -396,25 +396,18 @@
   <string name="name_phonetic_middle">Deuxième prénom phonétique</string>
   <string name="name_prefix">Titre</string>
   <string name="name_suffix">Titre post-nominal</string>
-  <string name="next_birthday">Next birthday: %s</string>
+  <string name="next_birthday">Prochain anniversaire : %s</string>
   <string name="nfc_vcard_file_name">Contact reçu via NFC</string>
   <string name="nicknameLabelsGroup">Surnom</string>
   <string name="nickname_picker_name_column">Nom du contact</string>
   <string name="nickname_picker_nickname_column">Titre</string>
   <string name="noAccounts">"Vous avez besoin d\'un compte pour créer des groupes"</string>
-  <string name="noContactHelpTextAccountsInfo">Google Sync, contacts Exchange.</string>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Restore data backed up in Xiaomi account and MiTalk</string>
+  <string name="noContactHelpTextAccountsInfo">Synchroniser les contacts Google et Exchange.</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données sauvegardées dans le compte Xiaomi et MiTalk</string>
   <string name="noContacts">Aucun contact</string>
-  <string name="noContactsHelpText">\"Vous n\'avez aucun contact à afficher.
+  <string name="noContactsHelpText">Vous n\'avez pas encore de contacts à afficher. 
 
-Pour ajouter des contacts, appuyez sur \"<b><font fgcolor="#ffffffff">Menu</font></b>\", puis sur :
- 
-\"<b><font fgcolor="#ffffffff"><li>\"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts avec votre téléphone
-\"</li></font></b>\" 
-\"<b><font fgcolor="#ffffffff"><li>\"Nouveau contact pour créer un nouveau contact
-\"</li></font></b>\" 
-\"<b><font fgcolor="#ffffffff"><li>\"Importer/Exporter pour importer les contacts depuis votre carte SIM ou votre carte SD
-\"</li></font></b></string>
+Pour ajouter des contacts, appuyez sur</string>
   <string name="noContactsHelpTextForCreateShortcut">Aucun contact à afficher</string>
   <string name="noContactsHelpTextWithSync">\"Vous n\'avez aucun contact à afficher (si vous venez d\'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes).
 
@@ -429,16 +422,9 @@ Pour ajouter des contacts, appuyez sur \"<font fgcolor="#ffffffff"><b>Menu</b></
 \"<li><font fgcolor="#ffffffff"><b>\"Importer/Exporter pour importer des contacts depuis votre carte SIM ou SD.
 \"</b></font></li></string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Aucun contact à afficher. (Si vous venez d\'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes)"</string>
-  <string name="noContactsNoSimHelpText">\"Vous n\'avez aucun contact à afficher.
+  <string name="noContactsNoSimHelpText">Vous n\'avez pas encore de contacts à afficher. 
 
-Pour ajouter des contacts, appuyez sur \"<b><font fgcolor="#ffffffff">Menu</font></b>\", puis sur :
- 
-\"<b><font fgcolor="#ffffffff"><li>\"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts avec votre téléphone
-\"</li></font></b>\" 
-\"<b><font fgcolor="#ffffffff"><li>\"Nouveau contact pour créer un nouveau contact
-\"</li></font></b>\" 
-\"<b><font fgcolor="#ffffffff"><li>\"Importer/Exporter pour importer les contacts depuis votre carte SIM ou votre carte SD
-\"</li></font></b></string>
+Pour ajouter des contacts, appuyez sur</string>
   <string name="noContactsNoSimHelpTextWithSync">\"Vous n\'avez aucun contact à afficher (si vous venez d\'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes).
 
 Pour ajouter des contacts, appuyez sur \"<font fgcolor="#ffffffff"><b>Menu</b></font>\" et sélectionnez :
@@ -480,12 +466,12 @@ Pour ajouter un contact à la liste de favoris :
   <string name="not_applied">Non pris en charge</string>
   <string formatted="false" name="notification_new_voicemail_ticker">Nouveau message vocal de %s</string>
   <string formatted="false" name="notification_voicemail_callers_list">%1$s, %2$s</string>
-  <string name="openDialKeyboard">Dial pad</string>
+  <string name="openDialKeyboard">Pavé numérique</string>
   <string name="open_contact">Voir le contact</string>
   <string name="option_delete_contact">Supprimer</string>
   <string name="option_edit_contact">Modifier</string>
   <string name="option_not_in_group">Supprimer</string>
-  <string name="option_not_star">Unfavorite</string>
+  <string name="option_not_star">Enlever des favoris</string>
   <string name="option_send_to_desktop">Envoyer vers le bureau</string>
   <string name="option_send_to_others">Envoyer à d\'autres</string>
   <string name="option_view_contact">Affich.</string>
@@ -493,18 +479,18 @@ Pour ajouter un contact à la liste de favoris :
   <string formatted="false" name="organization_company_and_title">%2$s, %1$s</string>
   <string name="payphone">Téléphone public</string>
   <string name="people">Contacts</string>
-  <string formatted="false" name="percentage">%s %%</string>
+  <string formatted="false" name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Téléphone</string>
   <string name="photoPickerNotFoundText">Aucune image disponible sur le téléphone</string>
-  <string name="photo_package_activity_title">Photo package</string>
-  <string name="pick_favorites_contacts_list_title">Total of %1$d favourite contacts</string>
-  <string formatted="false" name="pick_favorites_list_title">Total %1$d favorites contact numbers</string>
+  <string name="photo_package_activity_title">Paquet de photos</string>
+  <string name="pick_favorites_contacts_list_title">%1$d contacts favoris au total</string>
+  <string formatted="false" name="pick_favorites_list_title">Total de %1$d numéros de contacts favoris</string>
   <string name="pick_new_photo">Sélectionner une nouvelle photo dans la galerie</string>
   <string name="pick_photo">Photo</string>
-  <string name="pick_recent_contacts_list_title">Total of %1$d recent contacts</string>
-  <string formatted="false" name="pick_recent_list_title">Total %1$d recent contact numbers</string>
+  <string name="pick_recent_contacts_list_title">%1$d contacts récents au total</string>
+  <string formatted="false" name="pick_recent_list_title">Total de %1$d numéros de contact récent</string>
   <string name="pickerNewContactHeader">Créer un contact</string>
-  <string name="pkgLabel">Contacts and dialer</string>
+  <string name="pkgLabel">Contacts et pavé numérique</string>
   <string name="postalLabelsGroup">Adresse</string>
   <string name="postal_address">Adresse</string>
   <string name="postal_city">Localité</string>
@@ -513,39 +499,39 @@ Pour ajouter un contact à la liste de favoris :
   <string name="postal_region">Etat</string>
   <string name="postal_street">Adresse</string>
   <string name="pref_key_photo">Photo</string>
-  <string name="pref_key_photo_word_summary">Auto select a photo for contacts without one set.</string>
-  <string name="pref_key_photo_word_title">Auto sélectionner la photo pour les contacts</string>
-  <string name="pref_key_rebuild_t9_index_message">Fix contact search indexing failure</string>
-  <string name="pref_key_rebuild_t9_index_title">Rebuild T9 index data</string>
-  <string name="pref_summary_import_from_account">Import contacts from Google and Exchange accounts to my Xiaomi Account</string>
+  <string name="pref_key_photo_word_summary">Sélectionner automatiquement une photo pour les contacts sans.</string>
+  <string name="pref_key_photo_word_title">Sélection automatique de photo pour les contacts</string>
+  <string name="pref_key_rebuild_t9_index_message">Reconstruit l\'index des contacts en cas de problème d\'affichage</string>
+  <string name="pref_key_rebuild_t9_index_title">Reconstruit les données d\'index T9</string>
+  <string name="pref_summary_import_from_account">Importer les contacts depuis les comptes Google et Exchange sur mon compte Xiaomi</string>
   <string name="pref_title_account_import">Importer depuis le compte</string>
-  <string name="pref_title_import_from_account">Importer vers le compte Xiami</string>
+  <string name="pref_title_import_from_account">Importer vers le compte Xiaomi</string>
   <string name="preference_displayOptions">"Options d\'affichage"</string>
   <string name="preference_export">Exporter</string>
   <string name="preference_import">Importer</string>
   <string name="preference_import_export">Import / Export</string>
   <string name="preference_import_export_title">Importer/Exporter des contacts</string>
   <string name="preference_others">Autres</string>
-  <string name="preference_remove_duplicate">Fusionner les contacts identiques</string>
+  <string name="preference_remove_duplicate">Fusionner les contacts en double</string>
   <string name="preference_select_account_display">Filtrer par compte</string>
-  <string name="preference_smart_group_company_summary">Group contacts by company info</string>
-  <string name="preference_smart_group_company_title">By company</string>
-  <string name="preference_smart_group_frequency_summary">Group by the latest calls or SMS</string>
-  <string name="preference_smart_group_frequency_title">By recently contacted</string>
-  <string name="preference_smart_group_location_summary">Grouped according to the area code</string>
+  <string name="preference_smart_group_company_summary">Grouper les contacts par société</string>
+  <string name="preference_smart_group_company_title">Par société</string>
+  <string name="preference_smart_group_frequency_summary">Regrouper par les derniers appels ou SMS</string>
+  <string name="preference_smart_group_frequency_title">Par récemment contacté</string>
+  <string name="preference_smart_group_location_summary">Regroupés en fonction de l\'indicatif régional</string>
   <string name="preference_smart_group_location_title">Par emplacement</string>
-  <string name="preference_smart_group_title">Smart grouping</string>
-  <string name="preview_contact_card_title">Import contact card</string>
+  <string name="preference_smart_group_title">Regroupement intelligent</string>
+  <string name="preview_contact_card_title">Importer la fiche du contact</string>
   <string name="primary_indicator">(par défaut)</string>
   <string name="private_num">Numéro privé</string>
   <string name="profile_display_name">Profil configuré</string>
   <string formatted="false" name="progress_notifier_message">Importation de %1$s/%2$s : %3$s...</string>
   <string name="quickcontact_missing_app">Application introuvable</string>
-  <string name="quit_dialog_confirm_title">Are you sure you want to exit merge contacts?</string>
-  <string formatted="false" name="raw_contact_account_label">Compte : %1$s</string>
-  <string formatted="false" name="raw_contact_list_title">This contact includes following %1$d raw contacts，click to choose contact to edit</string>
+  <string name="quit_dialog_confirm_title">Êtes-vous sûr de vouloir quitter la fusion des contacts ?</string>
+  <string formatted="false" name="raw_contact_account_label">Compte: %1$s</string>
+  <string formatted="false" name="raw_contact_list_title">Ce contact inclus ces %1$d contacts brutes, cliquez pour choisir le contact à modifier</string>
   <string name="readOnlyContactDeleteConfirmation">Ce contact contient les informations de plusieurs comptes. Les informations de comptes en lecture seule seront masquées dans les listes des contacts et non supprimées</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts list but not deleted.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contient des informations provenant de plusieurs comptes. Les informations de comptes de lecture seule seront masquées dans votre liste de contacts mais ne seront pas supprimées.</string>
   <string name="readOnlyContactWarning">Il est impossible de supprimer des contacts sur les comptes en lecture seule. Vous pouvez cependant les masquer dans vos contacts</string>
   <string name="reading_vcard_failed_title">Echec lecture données carte de visite</string>
   <string name="recentCallsIconLabel">Journal des appels</string>
@@ -565,7 +551,7 @@ vide</string>
   <string name="save_photo_progress">Enregistrement de la photo...</string>
   <string name="savingDisplayGroups">Sauver les options d\'affichage...</string>
   <string name="scan_duplicate">"Recherche de données en double, patientez s\'il vous plaît..."</string>
-  <string formatted="false" name="scan_duplicate_message">Total of (%1$d) contacts with duplicates</string>
+  <string formatted="false" name="scan_duplicate_message">Totales de (%1$d) contacts avec doublons</string>
   <string name="scan_merge">Recherche d\'éventuels contacts en double, patientez s\'il vous plaît...</string>
   <string formatted="false" name="scanning_sdcard_failed_message">Echec de la recherche sur la carte SD (Raison : %s)</string>
   <string name="scanning_sdcard_failed_title">Recherche impossible sur la carte SD</string>
@@ -576,12 +562,12 @@ vide</string>
   <string name="searching_vcard_message">Recherche de cartes de visites dans le stockage</string>
   <string name="searching_vcard_title">Recherche de cartes de visite...</string>
   <string name="select_all">Tout sélectionner</string>
-  <string name="select_new_photo_from_photo_package">Select new photo from photo package</string>
-  <string name="select_none">Nothing selected, the operation is invalid</string>
-  <string name="select_photo_from_photo_package">Select photo from photo package</string>
+  <string name="select_new_photo_from_photo_package">Sélectionner une nouvelle photo du paquet de photos</string>
+  <string name="select_none">Aucune sélection, l\'opération est invalide</string>
+  <string name="select_photo_from_photo_package">Sélectionnez une photo du paquet de photos</string>
   <string name="select_show_contacts">Affichez le contact</string>
   <string name="select_vcard_title">Sélectionner le fichier de carte de visite</string>
-  <string name="send_contact_shortcut_todesktop_success">Added contact shortcut to homescreen successfully</string>
+  <string name="send_contact_shortcut_todesktop_success">Ajout du raccourci de contact sur l\'acceuil avec succès</string>
   <string name="separatorJoinAggregateAll">Tous les contacts</string>
   <string name="separatorJoinAggregateSuggestions">Contacts suggérés</string>
   <string name="service_provider">Pages jaunes</string>
@@ -596,24 +582,24 @@ vide</string>
   <string name="showAllContactsJoinItem">Afficher tous les contacts</string>
   <string name="simContacts_emptyLoading">Lecture depuis la carte SIM...</string>
   <string name="simContacts_title">Sélectionner les contacts à importer</string>
-  <string name="sim_card_no_free_space_message">Your SIM card capacity is full, unable to import new contacts. Please clear the SIM card and try again</string>
+  <string name="sim_card_no_free_space_message">La carte SIM est pleine, impossible d\'importer de nouveaux contacts. S\'il vous plaît libérez de l\'espace et essayez à nouveau</string>
   <string name="sim_card_no_free_space_title">Carte SIM saturée</string>
-  <string name="sim_contact_search_error">Error occurs when searching SIM card contacts</string>
+  <string name="sim_contact_search_error">Une erreur s\'est produite lors de la recherche de contacts sur la carte SIM</string>
   <string name="sim_contacts">Contacts de la carte SIM</string>
-  <string name="sim_export_loading">SIM card information is being read. This operation may take a minute, please be patient.</string>
-  <string name="sim_indexed_contact_not_exist">Position %1$d on SIM card is not valid, should between %2$d and %3$d</string>
+  <string name="sim_export_loading">Informations de la carte SIM est en cours de lecture. Cette opération peut prendre quelques minutes, veuillez patientez...</string>
+  <string name="sim_indexed_contact_not_exist">La position %1$d sur la carte SIM n\'est pas valide, elle se trouve peut-être entre %2$d et %3$d</string>
   <string name="sim_no_contact">Aucun contact sur la carte SIM</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s</string>
-  <string name="smart_group_company_label">By company</string>
-  <string name="smart_group_company_unavailable">No company info</string>
-  <string name="smart_group_frequency_1">Contacted within the month</string>
-  <string name="smart_group_frequency_2">Contacted within 3 months</string>
-  <string name="smart_group_frequency_3">Contacted within 6 months</string>
-  <string name="smart_group_frequency_4">No contact for over 6 months</string>
-  <string name="smart_group_frequency_label">By recently contacted</string>
-  <string name="smart_group_label">Smart grouping</string>
+  <string name="smart_group_company_label">Par société</string>
+  <string name="smart_group_company_unavailable">Aucune information sur la société</string>
+  <string name="smart_group_frequency_1">Contacté ce mois-ci</string>
+  <string name="smart_group_frequency_2">Contacté ces 3 derniers mois</string>
+  <string name="smart_group_frequency_3">Contacté ces 6 derniers mois</string>
+  <string name="smart_group_frequency_4">Aucun contact depuis plus de 6 mois</string>
+  <string name="smart_group_frequency_label">Par récemment contacté</string>
+  <string name="smart_group_label">Regroupement intelligent</string>
   <string name="smart_group_location_label">Par emplacement</string>
-  <string name="smart_group_location_unavailable">No address info</string>
+  <string name="smart_group_location_unavailable">Aucune information sur l\'adresse</string>
   <string name="sms">SMS</string>
   <string formatted="false" name="sms_assistant">Texte %s</string>
   <string name="sms_callback">Envoyer un message au numéro de rappel</string>
@@ -649,7 +635,7 @@ vide</string>
   <string name="success_message_import_from_account">Importé avec succès</string>
   <string name="summary_kind_title">Résumé</string>
   <string name="t9_search_guide">Entrez le numéro de l\'utilisateur ou rechercher des contacts avec le T9.</string>
-  <string name="t9_search_guide_zhuyin">Input number or search contacts using T9 indexing</string>
+  <string name="t9_search_guide_zhuyin">Composez le numéro ou recherchez un contact en utilisant le T9</string>
   <string name="take_new_photo">Prendre une nouvelle photo</string>
   <string name="take_photo">Prendre une photo</string>
   <string name="titleJoinContactDataWith">Rejoindre le contacts</string>

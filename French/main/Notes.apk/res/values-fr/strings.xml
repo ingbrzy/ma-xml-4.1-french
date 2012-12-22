@@ -63,7 +63,7 @@
   <string name="menu_move_parent_folder">Dossier parent</string>
   <string name="menu_search">Rechercher</string>
   <string name="menu_select_all">Tout sélectionner</string>
-  <string name="menu_select_none">Nothing selected, the operation is invalid</string>
+  <string name="menu_select_none">Aucune sélection, l\'opération est invalide</string>
   <string name="menu_select_title">%d sélectionné</string>
   <string name="menu_send_to_desktop">Envoyer sur l\'écran d\'accueil</string>
   <string name="menu_setting">Paramètres</string>

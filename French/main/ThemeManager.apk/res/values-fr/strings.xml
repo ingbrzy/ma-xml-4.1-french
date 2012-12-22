@@ -31,7 +31,7 @@
   <string name="download_success">Téléchargé avec succès</string>
   <string name="fail_to_add_account">Impossible d\'ajouter le compte</string>
   <string name="live_wallpaper">Fond d\'écran animé</string>
-  <string name="lockscreen_wallpaper">Lockscreen wallpaper</string>
+  <string name="lockscreen_wallpaper">Fond d\'écran de verrouillage</string>
   <string name="lockstyle_personal_settings">Personnalisation</string>
   <string name="long_ringtone_resource">Long (&gt;5sec)</string>
   <string name="menu_refresh">Renouveler</string>

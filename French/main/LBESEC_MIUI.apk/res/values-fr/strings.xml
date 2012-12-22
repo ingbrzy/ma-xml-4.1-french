@@ -27,12 +27,12 @@
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Grant ROOT permission to 3rd party apps may cause system instability, or loss of personal data, system or hardware damage. Please switch to a development version of MIUI to enable ROOT permissions."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
-  <string name="Dashboard_Perm_SU_Switch">ROOT Permission</string>
+  <string name="Dashboard_Perm_SU_Switch">Permission Root</string>
   <string name="Dashboard_Su_Enable_Content">Enabling it will allow apps to request ROOT permission. Note: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions. Are you sure you wish to enable it?</string>
-  <string name="Dashboard_Su_Enable_Title">ROOT Permission</string>
+  <string name="Dashboard_Su_Enable_Title">Permission Root</string>
   <string name="Generic_Canceling">Annulation en cours…...</string>
-  <string name="Generic_Check">Check</string>
-  <string name="Generic_Clean">Clean</string>
+  <string name="Generic_Check">Vérifier</string>
+  <string name="Generic_Clean">Nettoyer</string>
   <string name="Generic_Configuration">Paramètres</string>
   <string name="Generic_Copyright">Powered by Team LBE</string>
   <string name="Generic_Disable">Désactiv.</string>
@@ -43,7 +43,7 @@
   <string name="Generic_Loading">Chargement...</string>
   <string name="Generic_MonitoredApp">Monitored Apps (%1$d)</string>
   <string name="Generic_Operating">En cours...</string>
-  <string name="Generic_Optimize">Optimize</string>
+  <string name="Generic_Optimize">Optimiser</string>
   <string name="Generic_Service_Disabled">Service is turned off</string>
   <string name="Generic_Service_Enabled">Service is active</string>
   <string name="Generic_Shortcut">Contextual menu</string>
@@ -70,7 +70,7 @@
   <string name="HIPS_Group_Location">Positioning</string>
   <string name="HIPS_Group_PIM">Personal information</string>
   <string name="HIPS_Group_PhoneID">Phone Identification</string>
-  <string name="HIPS_Group_ROOT">ROOT</string>
+  <string name="HIPS_Group_ROOT">Root</string>
   <string name="HIPS_Perm_AdjustRingerVolume">adjust ringer volume</string>
   <string name="HIPS_Perm_AdjustVolumeInCall">adjust in call volume</string>
   <string name="HIPS_Perm_AllowAll">Allow all</string>
@@ -127,7 +127,7 @@
   <string name="HIPS_Perm_PhoneID_IMSI">obtain IMSI number</string>
   <string name="HIPS_Perm_PhoneID_Number">obtain your phone number</string>
   <string name="HIPS_Perm_PromptAll">Prompt all</string>
-  <string name="HIPS_Perm_ROOT">ROOT</string>
+  <string name="HIPS_Perm_ROOT">Root</string>
   <string name="HIPS_Perm_ROOT_Desc">Request ROOT Permission</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">Unavailable in MIUI Stable version</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s apps are allowed to get ROOT Permission</string>

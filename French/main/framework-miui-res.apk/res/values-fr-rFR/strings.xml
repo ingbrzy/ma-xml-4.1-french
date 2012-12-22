@@ -259,7 +259,7 @@
   <string name="description_file">Fichier:</string>
   <string name="description_missed">N/A</string>
   <string name="description_modifiedtime">Modified:</string>
-  <string name="description_size">Size:</string>
+  <string name="description_size">Taille :</string>
   <string name="description_unknown">Inconnu</string>
   <string name="description_uploadtime">Durée d\'Upload:</string>
   <string name="description_version">Version du téléphone:</string>

@@ -69,7 +69,7 @@
   <string name="confirm_dialog_title">Supprimer</string>
   <string name="confirm_rate_limit">De nombreux MMS sont en cours d\'envoi. Est-ce possible ?</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
-  <string name="context_menu_browse_web">Browse</string>
+  <string name="context_menu_browse_web">Parcourir</string>
   <string name="context_menu_call">Appeler</string>
   <string name="context_menu_contact">Contact: %1$s</string>
   <string name="context_menu_copy">Copier</string>

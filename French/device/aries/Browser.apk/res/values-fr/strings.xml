@@ -267,13 +267,9 @@
   <string name="pref_content_search_engine">Définir le moteur de recherche</string>
   <string name="pref_content_search_engine_summary">Choisir un moteur de recherche</string>
   <string name="pref_content_title">Contenu de la page</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Préchargement du résultat de la recherche</string>
   <string name="pref_data_preload_summary">Permettre au navigateur de précharger les résultats de recherche de haut niveau de confiance en l\'arrière-plan</string>
   <string name="pref_data_preload_title">Préchargement du résultat de la recherche</string>
-  <string name="pref_data_preload_value_always">TOUJOURS</string>
-  <string name="pref_data_preload_value_never">JAMAIS</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_SEULEMENT</string>
   <string name="pref_data_title">Gestion de la bande passante</string>
   <string name="pref_default_text_encoding">Encodage du texte</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
