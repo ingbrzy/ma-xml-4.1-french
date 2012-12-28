@@ -296,7 +296,6 @@ pendant appel</string>
   <string name="take_photo">Photo</string>
   <string name="unknown_error_callback_msg">Une erreur inconnue est survenue</string>
   <string name="user_profile_title">Profil utilisateur</string>
-  <string name="video_file_name_format">"\'vidéo\'-aaaa-MM-jj-HH-mm-ss"</string>
   <string name="video_play">Lire</string>
   <string name="video_reach_size_limit">Taille maximum d\'enregistrement atteinte</string>
   <string name="wait">Veuillez patienter...</string>

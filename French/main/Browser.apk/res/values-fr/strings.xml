@@ -170,7 +170,6 @@
   <string name="google_bookmarks">Google:</string>
   <string name="goto_dot">OK</string>
   <string name="history">Historique</string>
-  <string name="homepage_base">http://www.google.fr/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Ensemble de pages d\'accueil.</string>
   <string name="http">http://</string>
   <string name="import_bookmark">Importer les signets</string>
@@ -190,7 +189,6 @@
   <string name="import_bookmarks_wizard_next">Suivant</string>
   <string name="import_bookmarks_wizard_previous">Précédent</string>
   <string name="importing_favorite_files">Importation des données ...</string>
-  <string name="instant_base">http://www.google.fr/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
   <string name="instant_search_label">Google avec Instant (Labs)</string>
   <string name="is_first_history_item">Est le premier élément de l\'historique</string>
   <string name="is_first_tab">Est le premier onglet</string>
@@ -218,6 +216,10 @@
   <string name="move_to_up_folder">Remonter d\'un niveau</string>
   <string name="multi_select_title">%1$s éléments(s) sélectionné(s)</string>
   <string name="name">Légende</string>
+  <string name="navigator_permissions_prompt_dont_share">Refuser</string>
+  <string formatted="false" name="navigator_permissions_prompt_message">%s veut accéder à %s sur votre appareil</string>
+  <string name="navigator_permissions_prompt_remember">Se souvernir des préferences</string>
+  <string name="navigator_permissions_prompt_share">Autoriser</string>
   <string name="new_folder">Nouveau dossier</string>
   <string name="new_incognito_tab">Nouvel onglet en mode privé</string>
   <string name="new_tab">Nouvel onglet</string>
@@ -287,6 +289,7 @@
   <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_viewport">Utiliser une large fenêtre</string>
   <string name="pref_development_visual_indicator">Activez l\'indicateur visuel</string>
+  <string name="pref_development_woff">Activez WOFF</string>
   <string name="pref_exit_on_closing_last_tab_enabled_summary">Cochez cette case pour quitter le navigateur en fermant le dernier onglet. Décochez la case pour afficher la page d\'accueil</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Quitter en fermant le dernier onglet</string>
   <string name="pref_extras_reset_default">Restaurer valeurs par défaut</string>
@@ -316,6 +319,8 @@
   <string name="pref_lab_fullscreen_summary">Utiliser le mode plein écran pour masquer la barre d\'état</string>
   <string name="pref_lab_quick_controls">Contrôles rapides</string>
   <string name="pref_lab_quick_controls_summary">Faites glisser le pouce sur le bord gauche ou droit pour ouvrir les contrôles rapides et cacher les apps et la barre de URL</string>
+  <string name="pref_lab_slide_tab_transitions">Transition du glissement d\'onglet</string>
+  <string name="pref_lab_slide_tab_transitions_summary">Faites glisser à partir du bord afin de révéler l\'onglet suivant/précédent de la liste.</string>
   <string name="pref_lab_title">Labs</string>
   <string name="pref_link_prefetch_dialogtitle">Préchargement de la page web</string>
   <string name="pref_link_prefetch_summary">Autoriser le navigateur de précharger les pages Web en l\'arrière-plan</string>
@@ -344,7 +349,7 @@
   <string name="pref_privacy_enable_geolocation_summary">Permettre aux sites de demander l\'accès à votre emplacement</string>
   <string name="pref_privacy_formdata_title">Données de formulaire</string>
   <string name="pref_privacy_location_title">Lieu</string>
-  <string name="pref_privacy_security_title">Confidentialité & sécurité</string>
+  <string name="pref_privacy_security_title">Confidentialité et sécurité</string>
   <string name="pref_reading_mode_enabled_title">Mode de lecture</string>
   <string name="pref_reading_mode_enabled_title_summary">JavaScript doit être activé</string>
   <string name="pref_security_accept_cookies">Accepter les cookies</string>
@@ -358,11 +363,14 @@
   <string name="pref_security_show_security_warning_summary">"Afficher un avertissement si il y a un problème avec la sécurité d\'un site"</string>
   <string name="pref_set_homepage_to">Mettre sur</string>
   <string name="pref_text_zoom">Mise à l\'échelle du texte</string>
-  <string name="pref_ua_mione_entry">Mi-one</string>
+  <string name="pref_ua_mione_entry">MiOne</string>
   <string name="pref_ua_string">Chaîne de l\'User agent</string>
   <string name="pref_ua_title">Gestion de l\'User agent</string>
   <string name="pref_use_instant_search">Recherche instantanée Google</string>
   <string name="pref_use_instant_search_summary">Utiliser la recherche instantanée de Google lorsque vous utilisez Google Search pour afficher les résultats que vous tapez (cela peut augmenter l\'utilisation des données).</string>
+  <string name="pref_video_preload_dialogtitle">Préchargement de la vidéo...</string>
+  <string name="pref_video_preload_summary">Autoriser le navigateur de précharger les vidéos lorsque le serveur le supporte</string>
+  <string name="pref_video_preload_title">Préchargement de la vidéo</string>
   <string name="pref_volume_key_enabled">Touches de volume</string>
   <string name="pref_volume_key_operation">Fonctionnement des touches de volume</string>
   <string name="pref_zoom_on_double_tap">Double-clic pour zommer</string>

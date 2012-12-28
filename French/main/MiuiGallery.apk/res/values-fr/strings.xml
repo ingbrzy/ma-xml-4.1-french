@@ -33,7 +33,6 @@
   <string name="camera_connected">Appareil photo connecté.</string>
   <string name="camera_disconnected">Appareil photo déconnecté.</string>
   <string name="camera_folder_display_name">Photos de la caméra</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Wallpaper</string>
   <string name="camera_view_none_message">Les photos prises seront affichées ici.</string>
   <string name="cancel">Annuler</string>

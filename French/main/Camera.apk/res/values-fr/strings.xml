@@ -54,7 +54,6 @@
   <string name="pano_review_saving_indication_str">Enregistrement...</string>
   <string name="pano_too_fast_prompt">Trop rapide</string>
   <string name="pref_camcorder_settings_category">Mode Caméra</string>
-  <string name="pref_camera_flashmode_default">auto</string>
   <string name="pref_camera_flashmode_entry_auto">Automatique</string>
   <string name="pref_camera_flashmode_entry_off">Désactivées</string>
   <string name="pref_camera_flashmode_entry_on">Activé</string>
@@ -64,7 +63,6 @@
   <string name="pref_camera_focusmode_entry_infinity">Infini</string>
   <string name="pref_camera_focusmode_entry_macro">Macro</string>
   <string name="pref_camera_focusmode_title">Mise au point</string>
-  <string name="pref_camera_id_default">0</string>
   <string name="pref_camera_id_entry_back">Arrière</string>
   <string name="pref_camera_id_entry_front">Avant</string>
   <string name="pref_camera_id_title">Sélectionner caméra</string>
@@ -96,13 +94,11 @@
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Incandescent</string>
   <string name="pref_camera_whitebalance_title">Balance blancs</string>
-  <string name="pref_exposure_default">0</string>
   <string name="pref_exposure_title">Exposition</string>
   <string name="pref_restore_detail">Restaurer les paramètres par défaut</string>
   <string name="pref_restore_title">Paramètres appareil photo</string>
   <string name="pref_video_effect_default">aucun</string>
   <string name="pref_video_effect_title">Effets</string>
-  <string name="pref_video_quality_default">5</string>
   <string name="pref_video_quality_entry_1080p">HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_720p">HD</string>

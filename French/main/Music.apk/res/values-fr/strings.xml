@@ -15,7 +15,6 @@
   <string name="all_tracks">Toutes les chansons</string>
   <string name="android_album_settings">Utiliser la pochette de l\'albums intégré</string>
   <string name="android_album_summary">Afficher automatiquement la pochette de l\'album pourrait entraîner des erreurs.</string>
-  <string formatted="false" name="artist_details_format">%1$s, %2$s</string>
   <string name="artist_edit">Artiste</string>
   <string name="artists_title">Artistes</string>
   <string name="auto_correct_id3_settings">Auto-corriger les paramètres ID3</string>
@@ -25,7 +24,6 @@
   <string name="buffering">Mise en mémoire tampon...</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_sleep_mode">Mode veille désactivé</string>
-  <string name="category_num_format">(%s)</string>
   <string name="channel">FM</string>
   <string formatted="false" name="channel_format">"%s  %s MHZ"</string>
   <string name="channel_postfix">MHZ</string>
@@ -68,9 +66,6 @@
   <string name="download_lyric_settings">Télécharge automatiquement les paroles</string>
   <string name="download_lyric_summary">Le téléchargement des paroles n\'utilise pas de grandes quantités de données, vous pouvez désactiver afin de réduire les allocations de données</string>
   <string name="download_processing">Téléchargement</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_id3">Modifier le Tag ID3</string>
   <string name="edit_playlist_menu">Modifier</string>
   <string name="empty_edit_hint">Information sur le morceau indisponible</string>
@@ -102,7 +97,6 @@
   <string name="flow_save_confirm">Je sais</string>
   <string name="flow_save_hint">Activer les pop-ups</string>
   <string name="flow_save_hint_summary">Activer les pop-ups pour confirmer le téléchargement de la musique</string>
-  <string formatted="false" name="folder_title_format">%s(%d)</string>
   <string name="folders_title">Dossiers</string>
   <string name="frequentlyplayed_title">Joué fréquemment</string>
   <string name="hot_artists">Artistes populaires</string>
@@ -222,7 +216,6 @@
   <string name="search_hint">Rechercher dans la musique</string>
   <string name="search_history">Historique de recherche</string>
   <string name="search_in_process">Recherche...</string>
-  <string name="search_result_format">\"%s\"</string>
   <string name="search_settings_description">Artistes, albums et pistes</string>
   <string name="search_suggestion">Suggestions de recherche: </string>
   <string name="search_title">Rechercher</string>
@@ -252,9 +245,7 @@
   <string name="start_to_download_album">Téléchargement de pochette(s) d\'album(s) pour votre bibliothèque de musique(s)</string>
   <string name="stop_when_wifi_disconnect">La connexion Wi-Fi a été perdue, les chansons en ligne ont été arrêtées. Si vous voulez écouter des chansons en ligne en utilisant le réseau de mobile, vous pouvez modifier les paramètres.</string>
   <string name="streamloadingtext">Connexion à %s…</string>
-  <string formatted="false" name="track_album_format">%s - %s</string>
   <string name="track_edit">Chanson</string>
-  <string name="track_num_format">(%s)</string>
   <string name="tracks_title">Toutes les chansons</string>
   <string name="unknown_album_name">Album inconnu</string>
   <string name="unknown_artist_name">Artiste inconnu</string>

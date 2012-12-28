@@ -19,7 +19,6 @@
   <string name="data_usage_restrict_background_summary">Si vous limitez les données en arrière-plan, les services ne fonctionneront que si vous êtes connecté à un réseau Wi-Fi.</string>
   <string name="data_usage_restrict_background_title">Limiter l\'utilisation en arrière-plan ?</string>
   <string name="data_usage_uninstalled_apps">Application désinstallée</string>
-  <string formatted="false" name="date_format">%s</string>
   <string name="display_system_app">Voir les applications du système</string>
   <string formatted="false" name="duration">Durée du journal: %d/%d/%d - %d/%d/%d</string>
   <string formatted="false" name="duration_days">%d jours %d heures %d minutes</string>
