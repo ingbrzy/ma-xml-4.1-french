@@ -145,7 +145,7 @@
   <string name="mediaplaybacklabel">Music</string>
   <string name="menu_batch_selection">Editeur</string>
   <string name="min_interval">1</string>
-  <string name="mobile_connect_settings">Mobile network</string>
+  <string name="mobile_connect_settings">Réseau mobile</string>
   <string name="modify_id3_for_list">La liste actuelle des informations des musiques ID3 seront modifiés</string>
   <string name="modify_id3_for_selected">Les informations des musiques ID3 seront modifiées</string>
   <string name="modify_meta">Modifier Meta Info</string>
@@ -221,7 +221,7 @@
   <string name="search_failed">La recherche a échouée</string>
   <string name="search_hint">Rechercher dans la musique</string>
   <string name="search_history">Historique de recherche</string>
-  <string name="search_in_process">Searching...</string>
+  <string name="search_in_process">Recherche...</string>
   <string name="search_result_format">\"%s\"</string>
   <string name="search_settings_description">Artistes, albums et pistes</string>
   <string name="search_suggestion">Suggestions de recherche: </string>

@@ -75,7 +75,7 @@
   <string name="fee">%1$s Mi crédits</string>
   <string name="filter_query">Filtre de requête</string>
   <string name="filter_to">A</string>
-  <string name="find_device">Locate device</string>
+  <string name="find_device">Localiser le périphérique</string>
   <string name="find_device_check_phone_error_title">Impossible d\'activer la localisation de l\'appareil</string>
   <string name="find_device_disabled_notice">Vous pouvez la ré-ouvrir via Paramètres - Synchronisation de comptes - Compte Xiaomi</string>
   <string name="find_device_disabled_title">Localisation de l\'appareil désactivé</string>
@@ -100,7 +100,7 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="login_notice">Connexion...</string>
   <string name="login_retry">Réessayer</string>
   <string name="micloud_about">" "</string>
-  <string name="micloud_account">Xiaomi account</string>
+  <string name="micloud_account">Compte Xiaomi</string>
   <string name="micloud_account_label">Compte: %1$s</string>
   <string name="micloud_account_name">Compte Xiaomi</string>
   <string name="micloud_account_not_actived">Compte non activé</string>
@@ -160,7 +160,6 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="prepaid_picker_hint_2_2_a">La valeur nominale choisi doit être dans la gamme de la carte prépayée, sinon il en résultera une perte d\'argent.</string>
   <string name="prepaid_picker_hint_2_2_b">Si la valeur nominale de la carte prépayée n\'est pas de %1$s yuans, cela se terminera en un échec ainsi que la perte du solde de la carte</string>
   <string name="prepaid_picker_title">Montant de la recharge</string>
-  <string name="prepaid_picker_value_default">Sélectionner</string>
   <string name="prev">Arrière</string>
   <string name="progress_alipay_creating">Génération de la commande Alipay...</string>
   <string name="progress_alipay_installing">Installation du plugin de sécurité mobile Alipay...</string>

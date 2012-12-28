@@ -557,7 +557,7 @@ vide</string>
   <string name="scanning_sdcard_failed_title">Recherche impossible sur la carte SD</string>
   <string name="searchHint">Rechercher des contacts</string>
   <string name="search_bar_hint">Rechercher des contacts</string>
-  <string name="search_results_searching">Searching...</string>
+  <string name="search_results_searching">Recherche...</string>
   <string name="search_settings_description">Noms de vos contacts</string>
   <string name="searching_vcard_message">Recherche de cartes de visites dans le stockage</string>
   <string name="searching_vcard_title">Recherche de cartes de visite...</string>

@@ -324,15 +324,10 @@
   <string name="pref_lab_slide_tab_transitions">Transition du glissement d\'onglet</string>
   <string name="pref_lab_slide_tab_transitions_summary">Faites glisser à partir du bord afin de révéler l\'onglet suivant/précédent de la liste.</string>
   <string name="pref_lab_title">Labs</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_dialogtitle">Préchargement de la page web</string>
   <string name="pref_link_prefetch_summary">Autoriser le navigateur de précharger les pages Web en l\'arrière-plan</string>
   <string name="pref_link_prefetch_title">Préchargement de la page web</string>
-  <string name="pref_link_prefetch_value_always">TOUJOURS</string>
-  <string name="pref_link_prefetch_value_never">JAMAIS</string>
-  <string name="pref_link_prefetch_value_wifi_only">WIFI_SEULEMENT</string>
   <string name="pref_min_font_size">Taille de police minimale</string>
-  <string formatted="false" name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Vider le cache</string>
   <string name="pref_privacy_clear_cache_dlg">Supprimer les bases de données et le contenu mis en cache localement ?</string>
   <string name="pref_privacy_clear_cache_summary">Supprimer les bases de données et le contenu mis en cache localement</string>
@@ -371,18 +366,13 @@
   <string name="pref_set_homepage_to">Mettre sur</string>
   <string name="pref_text_zoom">Mise à l\'échelle du texte</string>
   <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">6</string>
   <string name="pref_ua_string">Chaîne de l\'User agent</string>
   <string name="pref_ua_title">Gestion de l\'User agent</string>
   <string name="pref_use_instant_search">Recherche instantanée Google</string>
   <string name="pref_use_instant_search_summary">Utiliser la recherche instantanée de Google lorsque vous utilisez Google Search pour afficher les résultats que vous tapez (cela peut augmenter l\'utilisation des données).</string>
-  <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
   <string name="pref_video_preload_dialogtitle">Préchargement de la vidéo...</string>
   <string name="pref_video_preload_summary">Autoriser le navigateur de précharger les vidéos lorsque le serveur le supporte</string>
   <string name="pref_video_preload_title">Préchargement de la vidéo</string>
-  <string name="pref_video_preload_value_always">TOUJOURS</string>
-  <string name="pref_video_preload_value_never">JAMAIS</string>
-  <string name="pref_video_preload_value_wifi_only">WIFI_SEULEMENT</string>
   <string name="pref_volume_key_enabled">Touches de volume</string>
   <string name="pref_volume_key_operation">Fonctionnement des touches de volume</string>
   <string name="pref_zoom_on_double_tap">Double-clic pour zommer</string>

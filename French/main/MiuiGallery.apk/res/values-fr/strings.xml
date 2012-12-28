@@ -272,7 +272,7 @@
   <string name="screen_saver_wallpaper">Fond d\'écran de verrouillage</string>
   <string name="sd_explorer">Parcourir la carte SD</string>
   <string name="sd_folder">Dossier de la carte SD</string>
-  <string name="sd_not_available">SD card unmounted or unavailable</string>
+  <string name="sd_not_available">Carte SD non montée ou indisponible</string>
   <string name="seconds">secondes</string>
   <string name="select_album">Sélectionner album</string>
   <string name="select_all">Tout sélectionner</string>

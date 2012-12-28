@@ -18,7 +18,7 @@
   <string name="close">Fermer</string>
   <string name="component_category_finest_title">En vedette</string>
   <string name="component_category_more_title">Plus</string>
-  <string name="component_category_ringtone_title">Ringtones</string>
+  <string name="component_category_ringtone_title">Sonneries</string>
   <string name="component_category_style_title">Styles</string>
   <string name="component_category_title">Personnaliser</string>
   <string name="component_category_wallpaper_title">Fonds d\'écran</string>
@@ -102,7 +102,7 @@
   <string name="theme_import_item_not_upgraded">Non mis à jour</string>
   <string name="theme_import_item_reject_use">Le thème est en cours de mise à jour, veuillez patienter...</string>
   <string name="theme_import_item_waiting">En attente</string>
-  <string name="theme_import_new_download">Importing</string>
+  <string name="theme_import_new_download">Importation en cours</string>
   <string name="theme_import_normal">Mise à jour du thème</string>
   <string name="theme_import_oper_start">Tout mettre à jour</string>
   <string name="theme_import_oper_stop">Arrêter</string>
@@ -119,10 +119,10 @@
   <string name="theme_update_request_title">Mise à jour du thème</string>
   <string name="third_party_pickers_activity_title">Définir %1$s</string>
   <string name="title_component">Personnaliser</string>
-  <string name="title_download_resource">Downloaded resources</string>
+  <string name="title_download_resource">Ressources téléchargées</string>
   <string name="title_local">Local</string>
   <string name="title_online">En ligne</string>
-  <string name="title_system_resource">System resources</string>
+  <string name="title_system_resource">Ressources du système</string>
   <string name="wallpaper_crop">Rogner</string>
   <string name="wallpaper_decoded_error">Impossible de décoder</string>
   <string name="wallpaper_loading_text">Chargement en cours...</string>

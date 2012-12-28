@@ -1008,10 +1008,6 @@ La prochaine période démarre dans %2$d jours (%3$s).\"</string>
   <string name="voice_privacy_miui">Confidentialité vocale</string>
   <string name="voice_privacy_summary">Activer le mode confidentialité avancé</string>
   <string name="voice_privacy_summary_miui">Activer le mode confidentialité avancé</string>
-  <string name="voice_quality_ui_values_bright_miui">Clair</string>
-  <string name="voice_quality_ui_values_clear_miui">Effacer</string>
-  <string name="voice_quality_ui_values_crisp_miui">Net</string>
-  <string name="voice_quality_ui_values_normal_miui">Standard</string>
   <string name="voicemail">Messagerie vocale</string>
   <string name="voicemail_abbreviated">MV :</string>
   <string name="voicemail_default">Mon opérateur</string>

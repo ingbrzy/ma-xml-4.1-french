@@ -724,9 +724,9 @@
     <item>Désactivées</item>
   </string-array>
   <string-array name="pref_content_plugins_values">
-    <item>Activé</item>
-    <item>SUR DEMANDE</item>
-    <item>Désactivé</item>
+    <item>ON</item>
+    <item>ON_DEMAND</item>
+    <item>OFF</item>
   </string-array>
   <string-array name="pref_homepage_choices">
     <item>Page en cours</item>
@@ -737,12 +737,12 @@
     <item>Autre</item>
   </string-array>
   <string-array name="pref_homepage_values">
-    <item>actuel</item>
-    <item>accueil miui</item>
-    <item>blanc</item>
-    <item>par défaut</item>
-    <item>les plus visitées</item>
-    <item>autres</item>
+    <item>current</item>
+    <item>miui_home</item>
+    <item>blank</item>
+    <item>default</item>
+    <item>most_visited</item>
+    <item>other</item>
   </string-array>
   <string-array name="pref_text_size_choices">
     <item>Minuscule</item>
@@ -757,9 +757,9 @@
     <item>Fermer</item>
   </string-array>
   <string-array name="pref_default_zoom_values">
-    <item>LOIN</item>
-    <item>MOYEN</item>
-    <item>FERMER</item>
+    <item>FAR</item>
+    <item>MEDIUM</item>
+    <item>CLOSE</item>
   </string-array>
   <string-array name="pref_development_ua_choices">
     <item>Android</item>

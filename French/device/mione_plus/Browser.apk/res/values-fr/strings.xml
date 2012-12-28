@@ -323,7 +323,6 @@
   <string name="pref_lab_slide_tab_transitions_summary">Glisser sur le bord pour révéler l\'onglet suivant/précédent dans la liste.</string>
   <string name="pref_lab_title">Laboratoires</string>
   <string name="pref_min_font_size">Taille de police minimale</string>
-  <string formatted="false" name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Vider le cache</string>
   <string name="pref_privacy_clear_cache_dlg">Supprimer les bases de données et le contenu en cache ?</string>
   <string name="pref_privacy_clear_cache_summary">Effacez les bases de données et le contenu en cache</string>
@@ -362,7 +361,6 @@
   <string name="pref_set_homepage_to">Appliquer</string>
   <string name="pref_text_zoom">Mettre le texte à l\'échelle</string>
   <string name="pref_ua_mione_entry">Mi-one</string>
-  <string name="pref_ua_mione_value">6</string>
   <string name="pref_ua_string">Séquence user agent</string>
   <string name="pref_ua_title">Gestion de l\'user agent</string>
   <string name="pref_use_instant_search">Google Instant</string>
