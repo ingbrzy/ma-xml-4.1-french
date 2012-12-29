@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Classic</item>
+        <item>Classic (No Overshoot)</item>
+        <item>Crossfade</item>
+        <item>Tumbling</item>
+        <item>Page</item>
+        <item>Cascading</item>
+        <item>Rotation</item>
+        <item>3D Cube</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>By Theme</item>
+        <item>Center</item>
+        <item>Left</item>
+        <item>Right</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Default</item>
+        <item>Classic</item>
+    </string-array>
+</resources>
