@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perso</string>
+    <string name="label_perso">Verrouillage réseau</string>
+    <string name="label_mcc_mnc">MCC/MNC</string>
+    <string name="label_nsp">NSP</string>
+    <string name="label_sp">SP</string>
+    <string name="label_cp">CP</string>
+    <string name="label_second">NCK</string>
+    <string name="label_control_key">Cle de contrôle</string>
+    <string name="sim_perso_ok_text">OK</string>
+    <string name="sim_perso_dismiss_text">Rejeté</string>
+    <string name="requesting_lock">Requête de verrouillage…</string>
+    <string name="lock_failed">Requête de verrouillage échouée.</string>
+    <string name="lock_success">Verrouillage réussi.</string>
+    <string name="requesting_unlock">Requête de déverrouillage…</string>
+    <string name="unlock_failed">Requête de déverrouillage échouée.</string>
+    <string name="unlock_success">Déverrouillage réussi.</string>
+    <string name="label_perso_unlock_tile">Déverrouillage réseau</string>
+    <string name="label_unlock">Entrer la clé de contrôle</string>
+    <string name="label_unlock_np">Réseau verrrouilé</string>
+    <string name="label_unlock_nsp">Verrouillage du sous-ensemble réseau</string>
+    <string name="label_unlock_sp">Verrouillage SP</string>
+    <string name="label_unlock_cp">Verrouillage CP</string>
+    <string name="label_controlkey_np">Entrer la clé de contrôle du réseau</string>
+    <string name="label_controlkey_nsp">Entrer la clé de contrôle du sous ensemble réseau</string>
+    <string name="label_controlkey_sp">Entrer la clé de contrôle SP</string>
+    <string name="label_controlkey_cp">Entrer la clé de contrôle CP</string>
+</resources>

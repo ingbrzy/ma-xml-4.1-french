@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calldiverting_list">
+        <item>Toujours</item>
+        <item>Si occupé</item>
+        <item>Sur non réponse</item>
+        <item>Si hors réseau</item>
+        <item>Annuler tout</item>
+    </string-array>
+    <string-array name="callbarring_list">
+        <item>Tous les appels sortants</item>
+        <item>Appels sortants internationnaux</item>
+        <item>Appel internationnaux sauf domicile</item>
+        <item>Tous les appels entrants</item>
+        <item>Entrants sur itinérance</item>
+        <item>Annuler</item>
+    </string-array>
+    <string-array name="waiting_time">
+        <item>5 secondes</item>
+        <item>10 secondes</item>
+        <item>15 secondes</item>
+        <item>20 secondes</item>
+        <item>25 secondes</item>
+        <item>30 secondes</item>
+    </string-array>
+    <string-array name="automatic_time">
+        <item>1 seconde</item>
+        <item>2 secondes</item>
+        <item>3 secondes</item>
+        <item>4 secondes</item>
+        <item>5 secondes</item>
+    </string-array>
+    <string-array name="autoreject_alert">
+        <item>Logs</item>
+        <item>Contacts</item>
+    </string-array>
+    <string-array name="fakecallerimage_alert">
+        <item>Image</item>
+        <item>Prendre une photo</item>
+    </string-array>
+    <string-array name="callerimage_alert_video_default">
+        <item>Images</item>
+        <item>Vidéos</item>
+    </string-array>
+    <string-array name="callerimage_alert_video_changed">
+        <item>Image par défaut</item>
+        <item>Photos</item>
+        <item>Vidéos</item>
+    </string-array>
+    <string-array name="callerimage_alert_default">
+        <item>Images</item>
+        <item>Vidéos</item>
+        <item>Prendre une photo</item>
+        <item>Enregistrer une vidéo</item>
+    </string-array>
+    <string-array name="callerimage_alert_changed">
+        <item>Image par défaut</item>
+        <item>Images</item>
+        <item>Vidéos</item>
+        <item>Prendre une photo</item>
+        <item>Enregistrer une vidéo</item>
+    </string-array>
+    <string-array name="entries_list_preference">
+        <item>Eteint</item>
+        <item>Après 1 seconde</item>
+        <item>Après 2 secondes</item>
+        <item>Après 3 secondes</item>
+        <item>Après 4 secondes</item>
+        <item>Après 5 secondes</item>
+    </string-array>
+    <string-array name="entryvalues_list_preference">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="match_criteria_entries">
+        <item>Identique à</item>
+        <item>Commençant par</item>
+        <item>Terminant par</item>
+        <item>Incluant</item>
+    </string-array>
+    <string-array name="match_criteria_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_000e">false</item>
+    <item type="array" name="APKTOOL_DUMMY_000f">false</item>
+    <string-array name="auto_reject_mode">
+        <item>Eteint</item>
+        <item>Tous numéros</item>
+        <item>Rejet automatique</item>
+    </string-array>
+    <string-array name="auto_reject_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
