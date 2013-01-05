@@ -1,3 +1,13 @@
-FRENCH strings for multilang MIUIv4.1 by miuiandroid.com
+License of this work is covered below...
 
-Main translator: Abdess
+FRENCH Strings for MIUIAndroid MIUIv4.0/v4.1 (all supported devices)
+
+MIUI Android French Translations (Started December 2012) by Abdess and other French users on crowdin.
+
+MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+
+FRENCH strings are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+
+Based on a work at http://miui.com and http://miuiandroid.com
+
+MIUI Translation: Abdess and other French users on crowdin
