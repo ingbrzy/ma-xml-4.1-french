@@ -316,6 +316,7 @@
     <string-array name="led_color_entries">
         <item>Blue</item>
         <item>Red</item>
+        <item>Orange</item>
         <item>Yellow</item>
         <item>Green</item>
         <item>Cyan</item>
