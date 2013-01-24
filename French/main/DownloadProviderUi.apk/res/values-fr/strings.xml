@@ -56,6 +56,7 @@
   <string name="paused_unknown">Erreur inconnue</string>
   <string name="paused_waiting_for_network">En attente d\'une connexion réseau</string>
   <string name="paused_waiting_to_retry">En attente d\'une nouvelle tentative</string>
+  <string name="prefDefault_max_bytes_limit">1048576</string>
   <string name="pref_dialog_title_max_bytes_limit">Limite de taille de fichier</string>
   <string name="pref_download_settings_title">Invite d\'utilisation de Data</string>
   <string name="pref_summary_enable_max_bytes_popup">"Sous le réseau de l\'opérateur, une demande de confirmation peut apparaître si la taille du fichier dépasse la limite"</string>

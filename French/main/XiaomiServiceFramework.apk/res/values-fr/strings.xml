@@ -36,6 +36,7 @@
   <string name="button_retry">Réessayer</string>
   <string name="check_phone_error_title">Impossible d\'activer le service de synchronisation</string>
   <string name="check_phone_io_error">Erreur réseau</string>
+  <string name="checking_account">Vérification du compte...</string>
   <string name="completed">Terminé</string>
   <string name="confirm">Confirmer</string>
   <string name="data_keep_in_phone">Conserver les données sur l\'appareil</string>
@@ -160,6 +161,7 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="prepaid_picker_hint_2_2_a">La valeur nominale choisi doit être dans la gamme de la carte prépayée, sinon il en résultera une perte d\'argent.</string>
   <string name="prepaid_picker_hint_2_2_b">Si la valeur nominale de la carte prépayée n\'est pas de %1$s yuans, cela se terminera en un échec ainsi que la perte du solde de la carte</string>
   <string name="prepaid_picker_title">Montant de la recharge</string>
+  <string name="prepaid_picker_value_default">Sélectionner</string>
   <string name="prev">Arrière</string>
   <string name="progress_alipay_creating">Génération de la commande Alipay...</string>
   <string name="progress_alipay_installing">Installation du plugin de sécurité mobile Alipay...</string>
@@ -199,6 +201,7 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="reg_by_email_failure">Échec de l\'enregistrement: %1$s</string>
   <string name="reg_failed">Échec de l\'enregistrement</string>
   <string name="remove_account_notice">Que voulez-vous faire avec les messages, les contacts, les journaux d\'appels et des notes déjà synchronisés sur votre appareil ?</string>
+  <string name="removing_account">Suppression du compte...</string>
   <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
   <string name="send_sms_for_sync_title">Service de synchronisation non activé</string>
   <string name="sim_changed_notification_content">Carte SIM non activé. veuillez réactiver</string>

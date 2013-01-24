@@ -3,32 +3,32 @@
 <resources>
   <string-array name="traffic_sort_type">
     <item>Trier par nom</item>
-    <item>Trier par trafic de 2G/3G</item>
+    <item>Trier par trafic 2G/3G</item>
     <item>Trier par trafic total</item>
   </string-array>
   <string-array name="date_of_traffic">
     <item>Le trafic d\'hier</item>
-    <item>Le trafic aujourd\'hui</item>
-    <item>Le trafic ce mois-ci</item>
+    <item>Le trafic d\'aujourd\'hui</item>
+    <item>Le trafic du mois</item>
   </string-array>
   <string-array name="date_of_app_all">
     <item>Hier avec la 2G/3G</item>
     <item>Aujourd\'hui avec la 2G/3G</item>
-    <item>Ce mois-ci avec la 2G/3G</item>
-    <item>Hier avec une connexion Wi-Fi</item>
-    <item>Aujourd\'hui avec la connexion Wi-fi</item>
-    <item>Ce mois-ci avec Wi-Fi</item>
+    <item>Ce mois avec la 2G/3G</item>
+    <item>Hier avec le WiFi</item>
+    <item>Aujourd\'hui avec le Wifi</item>
+    <item>Ce mois avec le Wi-Fi</item>
   </string-array>
   <string-array name="date_of_app">
     <item>Hier 2G/3G</item>
     <item>Aujourd\'hui 2G/3G</item>
-    <item>Ce mois-ci 2G/3G</item>
+    <item>Ce mois 2G/3G</item>
   </string-array>
   <string-array name="traffic_uints">
-    <item>B</item>
-    <item>KB</item>
-    <item>MB</item>
-    <item>GB</item>
+    <item>" o"</item>
+    <item>Ko</item>
+    <item>Mo</item>
+    <item>Go</item>
   </string-array>
   <string-array name="network_speed_update_internals">
     <item>3s</item>
@@ -38,5 +38,14 @@
     <item>7s</item>
     <item>8s</item>
     <item>9s</item>
+  </string-array>
+  <string-array name="network_speed_update_internal_values">
+    <item>3000</item>
+    <item>4000</item>
+    <item>5000</item>
+    <item>6000</item>
+    <item>7000</item>
+    <item>8000</item>
+    <item>9000</item>
   </string-array>
 </resources>

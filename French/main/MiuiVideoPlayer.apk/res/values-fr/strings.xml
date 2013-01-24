@@ -18,7 +18,7 @@
   <string name="buffering">Mise en mémoire tampon...</string>
   <string name="buffering_video_netplay_label_v5">Mise en mémoire tampon...</string>
   <string name="hello">Activité du lecteur vidéo</string>
-  <string name="loading_video_netplay_label">Loading, please wait...</string>
+  <string name="loading_video_netplay_label">Chargement, veuillez patienter...</string>
   <string name="loading_video_netplay_label_v5">Chargement du flux, veuillez patienter...</string>
   <string name="menu_item_about_label">À propos de</string>
   <string name="menu_item_hide_media_info_label">Masquer les informations sur le média</string>
