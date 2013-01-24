@@ -370,7 +370,7 @@
   <string name="dial_pad_touch_tone_setting_miui">Paramètres de tonalité</string>
   <string name="dialerKeyboardHintText">Utiliser le clavier pour numéroter</string>
   <string name="dialer_emptyListWorking">Chargement en cours...</string>
-  <string name="disable">Désactiv.</string>
+  <string name="disable">Désativ.</string>
   <string name="disable_all_cf_miui">Désactiver tous les renvois d\'appel</string>
   <string name="disable_cfb_forbidden">Impossible de désactiver le renvoi d\'appel lorsque le téléphone est occupé. Non pris en charge par l\'opérateur</string>
   <string name="disable_cfnrc_forbidden">Impossible de désactiver le renvoi d\'appel lorsque vous êtes injoignable. Non pris en charge par l\'opérateur</string>
@@ -407,7 +407,7 @@
   <string name="emergency_enable_radio_dialog_title">"Appel d\'urgence"</string>
   <string name="empty_alert">%s ne peut pas être vide</string>
   <string name="empty_networks_list">Réseau introuvable</string>
-  <string name="enable">Activer</string>
+  <string name="enable">Activé</string>
   <string name="enable_disable_administrative">Administration</string>
   <string name="enable_disable_advertisements">Publicités</string>
   <string name="enable_disable_atr">Rapports sur le trafic de la région</string>
@@ -1106,10 +1106,10 @@ La prochaine période démarre dans %2$d jours (%3$s).\"</string>
   <string name="voice_privacy_miui">Confidentialité vocale</string>
   <string name="voice_privacy_summary">Activer le mode confidentialité avancé</string>
   <string name="voice_privacy_summary_miui">Activer le mode confidentialité avancé</string>
-  <string name="voice_quality_ui_values_bright_miui">Clair</string>
+  <string name="voice_quality_ui_values_bright_miui">Bright</string>
   <string name="voice_quality_ui_values_clear_miui">Effacer</string>
-  <string name="voice_quality_ui_values_crisp_miui">Net</string>
-  <string name="voice_quality_ui_values_normal_miui">Standard</string>
+  <string name="voice_quality_ui_values_crisp_miui">Crisp</string>
+  <string name="voice_quality_ui_values_normal_miui">Normale</string>
   <string name="voicemail">Messagerie vocale</string>
   <string name="voicemail_abbreviated">MV :</string>
   <string name="voicemail_default">Mon opérateur</string>

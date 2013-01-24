@@ -721,7 +721,7 @@
   <string-array name="pref_content_plugins_choices">
     <item>Toujours activé</item>
     <item>À la demande</item>
-    <item>Désactivées</item>
+    <item>Désactivés</item>
   </string-array>
   <string-array name="pref_content_plugins_values">
     <item>ON</item>
@@ -747,7 +747,7 @@
   <string-array name="pref_text_size_choices">
     <item>Minuscule</item>
     <item>Petit</item>
-    <item>Standard</item>
+    <item>Normale</item>
     <item>Grand</item>
     <item>Énorme</item>
   </string-array>

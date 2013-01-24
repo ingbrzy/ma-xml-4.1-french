@@ -688,7 +688,7 @@ L\'utilisation des données est mesurée par votre téléphone mais votre opéra
   <string name="does_not_exist">"L\'application n\'existe pas."</string>
   <string name="dolby_bassboost_high">Forte</string>
   <string name="dolby_bassboost_low">Faible</string>
-  <string name="dolby_bassboost_normal">Standard</string>
+  <string name="dolby_bassboost_normal">Normale</string>
   <string name="dolby_bassboost_title">Amplificateur de basses:\u0020</string>
   <string name="dolby_effects">Effets Dolby</string>
   <string name="dolby_eq_auto">Perso</string>
@@ -712,7 +712,7 @@ L\'utilisation des données est mesurée par votre téléphone mais votre opéra
   <string name="dolby_equalizer">Égaliseur</string>
   <string name="dolby_mode_movie">Mode film</string>
   <string name="dolby_mode_music">Mode musique</string>
-  <string name="dolby_mode_off">Désactivées</string>
+  <string name="dolby_mode_off">Désactivés</string>
   <string name="dolby_movie_advance">Paramètres avancés de vidéo</string>
   <string name="dolby_music_advance">Paramètres avancés de musique</string>
   <string name="dolby_preset_create">Créer</string>
