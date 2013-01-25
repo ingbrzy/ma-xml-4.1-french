@@ -37,7 +37,6 @@
   <string name="batch_deleting_progress_message">Suppression de la sélection</string>
   <string name="bcc_label">Cci :</string>
   <string name="bookmark">Favoris</string>
-  <string name="bookmark_attr_format">%1$s, %2$s</string>
   <string name="bookmark_confirm_delete_message">Les éléments sélectionnés seront supprimés des favoris</string>
   <string name="bookmark_list_title">Favoris</string>
   <string name="cannot_add_picture_and_video">Impossible d\'ajouter une vidéo et une photo à une diapositive</string>
@@ -142,7 +141,6 @@
   <string name="festival_sms_loading">Chargement...</string>
   <string name="festival_sms_push">Recommandé</string>
   <string name="fetion_prefix">[Fetion]</string>
-  <string name="flatshow_page_no">%1$d</string>
   <string name="forward_prefix">Tr :</string>
   <string name="found_old_messages">Un total de: %1$s message(s) ont été trouvés sur l\'ancien compte. Voulez-vous les télécharger sur votre compte actuel: %2$s ?</string>
   <string name="found_old_messages_title">Upload de messages</string>
@@ -275,10 +273,6 @@
   <string formatted="false" name="phrase_list_title">Phrases (%1$d)</string>
   <string name="pick_too_many_recipients">Trop de destinataires</string>
   <string name="play">Lire</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
-  <string name="prefDefault_vibrateWhen">jamais</string>
-  <string name="prefDefault_vibrate_false">jamais</string>
-  <string name="prefDefault_vibrate_true">Toujours</string>
   <string name="prefDialogTitle_vibrateWhen">Vibreur</string>
   <string name="pref_advanced_settings_title">Paramètres avancés</string>
   <string name="pref_conversation_show_avatar">Voir l\'avatar</string>
