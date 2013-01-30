@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+OK
 <resources>
     <string name="build_number">20080722-0001</string>
     <string name="permission_read_attachment_label">Lire les pièces jointes</string>
-    <string name="permission_read_attachment_desc">Permet à cette application de lire les pièces jointes aux e-mails.</string>
+    <string name="permission_read_attachment_desc">Permettre à cette application de lire les pièces jointes aux e-mails.</string>
     <string name="permission_access_provider_label">Accéder aux données du fournisseur de messagerie</string>
-    <string name="permission_access_provider_desc">"Permet à cette application d'accéder à votre base de données de messagerie, y compris aux messages reçus et envoyés, aux noms d'utilisateur et aux mots de passe."</string>
+    <string name="permission_access_provider_desc">"Permettre à cette application d'accéder à votre base de données de messagerie, y compris aux messages reçus et envoyés, aux noms d'utilisateur et aux mots de passe."</string>
     <string name="app_name">E-mail</string>
     <string name="compose_title">Nouveau message</string>
     <string name="debug_title">Débogage</string>
@@ -71,9 +72,9 @@
     <string name="picker_mailbox_name_all_inbox">Boîte de réception (tous)</string>
     <string name="picker_combined_view_fmt">Boîte globale (%s)</string>
     <string name="debug_version_fmt">Version: %s</string>
-    <string name="debug_enable_debug_logging_label">Activer le mode débogage avancé?</string>
-    <string name="debug_enable_exchange_logging_label">Activer la journalisation des échanges? (Bavard)</string>
-    <string name="debug_enable_exchange_file_logging_label">Activer la journalisation des échanges avec la carte SD?</string>
+    <string name="debug_enable_debug_logging_label">Activer le mode débogage avancé ?</string>
+    <string name="debug_enable_exchange_logging_label">Activer la journalisation des échanges ? (Bavard)</string>
+    <string name="debug_enable_exchange_file_logging_label">Activer la journalisation des échanges avec la carte SD ?</string>
     <string name="debug_clear_webview_cache">Vider le cache</string>
     <string name="debug_disable_graphics_acceleration_label">"Désactiver l'accélération graphique"</string>
     <string name="debug_force_one_minute_refresh_label">"Forcer l'actualisation toutes les minutes pour les comptes POP/IMAP"</string>
@@ -138,7 +139,7 @@ Cc : %4$s
     <string name="message_view_attachment_saved">Enregistré</string>
     <string name="message_view_attachment_cancel_action">Arrêter</string>
     <string name="message_view_status_attachment_saved">PJ enregistrée sous %s.</string>
-    <string name="message_view_status_attachment_not_saved">Impossible enreg. pièce jointe.</string>
+    <string name="message_view_status_attachment_not_saved">Impossible d\'enreg. pièce jointe.</string>
     <string name="message_view_attachment_background_load">"Remarque : Une ou plusieurs pièces jointes du message que vous transférez vont être téléchargées avant l'envoi."</string>
     <string name="message_view_show_message_action">Message</string>
     <string name="message_view_show_invite_action">Inviter</string>
@@ -165,7 +166,7 @@ Cc : %4$s
     <string name="attachment_info_malware">Vous ne pouvez pas enregistrer ni ouvrir ce fichier, car ce type de pièce jointe est susceptible de contenir des logiciels malveillants.</string>
     <string name="attachment_info_policy">"Impossible d'enregistrer ou d'ouvrir cette pièce jointe en raison des règles de sécurité de ce compte."</string>
     <string name="attachment_info_wifi_only">Cette pièce jointe est trop volumineuse pour être téléchargée via un réseau pour mobile. Vous pourrez la télécharger lors de votre prochaine connexion à un réseau Wi-Fi.</string>
-    <string name="attachment_info_no_intent">"Aucune application installée n'est en mesure d'ouvrir cette pièce jointe. Essayez de télécharger une application appropriée depuis l'Android Market."</string>
+    <string name="attachment_info_no_intent">"Aucune application installée n'est en mesure d'ouvrir cette pièce jointe. Essayez de télécharger une application appropriée depuis le Play Store."</string>
     <string name="attachment_info_sideload_disabled">"Cette pièce jointe est une application. Vous devez sélectionner \"Sources inconnues\" dans Paramètres > Applications avant de pouvoir l'installer."</string>
     <string name="attachment_info_apk_install_disabled">"Les applications ne peuvent pas être installées directement depuis un e-mail. Enregistrez tout d'abord cette application, puis installez-la à l'aide de l'application Téléchargements."</string>
     <string name="attachment_not_found">Impossible de télécharger la pièce jointe.</string>
@@ -176,7 +177,7 @@ Cc : %4$s
     <string name="message_saved_toast">Brouillon enregistré</string>
     <string name="message_view_display_attachment_toast">"Impossible d'afficher la pièce jointe."</string>
     <string name="message_view_load_attachment_failed_toast">Impossible de charger la pièce jointe \"%s\".</string>
-    <string name="message_view_parse_message_toast">Ouverture du message…</string>
+    <string name="message_view_parse_message_toast">Ouverture du message...</string>
     <string name="forward_download_failed_ticker">Impossible de transférer une ou plusieurs pièces jointes.</string>
     <string name="forward_download_failed_title">Pièce jointe non transférée</string>
     <string name="login_failed_ticker">Échec de la connexion au compte %s.</string>
@@ -199,9 +200,9 @@ Cc : %4$s
     <string name="account_duplicate_dlg_title">Dupliquer le compte</string>
     <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte \"%s\"."</string>
     <string name="account_password_spaces_error">"Ce mot de passe débute ou se termine par un ou plusieurs espaces. De nombreux serveurs n'acceptent pas les mots de passe contenant des espaces."</string>
-    <string name="account_setup_check_settings_retr_info_msg">Récupération des informations sur le compte…</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Vérification des paramètres de serveur entrant…</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">Vérification des paramètres de serveur sortant…</string>
+    <string name="account_setup_check_settings_retr_info_msg">Récupération des informations sur le compte...</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Vérification des paramètres de serveur entrant...</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">Vérification des paramètres de serveur sortant...</string>
     <string name="account_setup_names_title">Configuration du compte</string>
     <string name="account_setup_names_headline">Votre compte est configuré et votre messagerie a été activée !</string>
     <string name="account_setup_names_account_name_label">Nom du compte (facultatif)</string>
@@ -322,7 +323,7 @@ Cc : %4$s
     <string name="account_settings_default_label">Compte par défaut</string>
     <string name="account_settings_default_summary">Par défaut, envoyer les e-mails avec ce compte</string>
     <string name="account_settings_background_attachments_label">Télécharger les pièces jointes</string>
-    <string name="account_settings_background_attachments_summary">Téléch. auto des pièces jointes aux messages récents via Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary">Téléch. auto des pièces jointes des messages récents via Wi-Fi</string>
     <string name="account_settings_notify_label">Notifications</string>
     <string name="account_settings_summary">Fréquence de synchronisation, notifications, etc.</string>
     <string name="account_settings_notify_summary">"Afficher une notification dans la barre système à la réception d'e-mails"</string>
@@ -376,7 +377,7 @@ Cc : %4$s
     <string name="system_account_create_failed">Impossible de créer le compte. Veuillez réessayer.</string>
     <string name="device_admin_label">E-mail</string>
     <string name="device_admin_description">Active les stratégies de sécurité spécifiées par le serveur.</string>
-    <string name="gal_searching_fmt">Recherche en cours dans %s…</string>
+    <string name="gal_searching_fmt">Recherche en cours dans %s...</string>
     <string name="settings_activity_title">Paramètres</string>
     <string name="header_label_general_preferences">Paramètres généraux</string>
     <string name="category_general_preferences">Application</string>
@@ -402,10 +403,10 @@ Cc : %4$s
     <string name="waitinf_for_sync_message_1">En attente de synchronisation</string>
     <string name="waitinf_for_sync_message_2">"Votre e-mail va bientôt s'afficher."</string>
     <string name="widget_other_views">Appuyez pour changer.</string>
-    <string name="widget_all_mail">Boîte réception combinée</string>
+    <string name="widget_all_mail">Boîte de réception combinée</string>
     <string name="widget_unread">Non lus</string>
     <string name="widget_starred">Suivis</string>
-    <string name="widget_loading">Chargement…</string>
+    <string name="widget_loading">Chargement...</string>
     <string name="widget_touch_to_configure">Appuyez pour configurer.</string>
     <string name="widget_no_accounts">"Vous n'avez pas encore créé de compte de messagerie."</string>
     <string name="more_than_999">> 999</string>
@@ -524,7 +525,7 @@ Cc : %4$s
     <string name="preference_mobile_data_usage_for_photos_only">Réseaux mobiles uniquement pour les photos</string>
     <string name="preference_mobile_data_usage_for_all_media">Photos et vidéos via les réseaux mobiles</string>
     <string name="preference_mobile_data_usage_never">Photos et vidéos via Wi-Fi uniquement</string>
-    <string name="preference_category_title_about">À propos de</string>
+    <string name="preference_category_title_about">À propos</string>
     <string name="preference_title_camera_sync_version">Version Instant Upload</string>
     <string name="photos_upload_dimension_1600">"Recommandé : 1 600 pixels (pour le partage, l'impression et les fonds d'écran)"</string>
     <string name="photos_upload_dimension_original">"Taille d'origine (transfert le plus lent)"</string>
@@ -555,10 +556,10 @@ Cc : %4$s
     <string name="contextmenu_openlink">Ouvrir dans le navigateur</string>
     <string name="contextmenu_copy">Copier</string>
     <string name="contextmenu_copylink">"Copier l'URL"</string>
-    <string name="contextmenu_dial_dot">Appeler…</string>
-    <string name="contextmenu_sms_dot">envoyer un SMS…</string>
+    <string name="contextmenu_dial_dot">Appeler...</string>
+    <string name="contextmenu_sms_dot">envoyer un SMS...</string>
     <string name="contextmenu_add_contact">Ajouter le contact</string>
-    <string name="contextmenu_send_mail">Envoyer un email</string>
+    <string name="contextmenu_send_mail">Envoyer un e-mail</string>
     <string name="contextmenu_map">Carte</string>
     <string name="contextmenu_sharelink">Partager le lien</string>
     <string name="contextmenu_help">Aide</string>

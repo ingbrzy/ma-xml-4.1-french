@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+OK
 <resources>
     <plurals name="move_messages">
         <item quantity="other">Déplacer des messages</item>
@@ -6,7 +7,7 @@
     </plurals>
     <plurals name="notification_new_one_account_fmt">
         <item quantity="other">%1$d non lus (%2$s)</item>
-        <item quantity="one">%1$d non lus (%2$s)</item>
+        <item quantity="one">%1$d non lu (%2$s)</item>
         <item quantity="few">%1$d non lus (%2$s)</item>
     </plurals>
     <plurals name="notification_new_multi_account_fmt">
@@ -23,7 +24,7 @@
     </plurals>
     <plurals name="message_view_selected_message_count">
         <item quantity="other">%d sélectionné(s)</item>
-        <item quantity="one">%d sélectionné(s)</item>
+        <item quantity="one">%d sélectionné</item>
     </plurals>
     <plurals name="message_view_show_attachments_action">
         <item quantity="other">Pièces jointes %1$d</item>

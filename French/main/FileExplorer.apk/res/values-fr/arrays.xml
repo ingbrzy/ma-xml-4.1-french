@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+OK
 <resources>
     <string-array name="task_status">
-        <item>Processing</item>
-        <item>Waiting</item>
-        <item>Cancelled</item>
-        <item>Failed</item>
-        <item>Completed</item>
-        <item>Paused</item>
+        <item>En cours</item>
+        <item>En attente</item>
+        <item>Annulé</item>
+        <item>Échoué</item>
+        <item>Terminé</item>
+        <item>En pause</item>
     </string-array>
 </resources>

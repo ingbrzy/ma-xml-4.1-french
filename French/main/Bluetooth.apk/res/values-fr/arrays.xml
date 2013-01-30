@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+OK
 <resources>
     <string-array name="numberup">
         <item>Une page à la fois</item>
@@ -23,8 +24,8 @@
         <item>reverse-portrait</item>
     </string-array>
     <string-array name="sides">
-        <item>Uen page</item>
-        <item>deux pages côté long</item>
+        <item>Une page</item>
+        <item>Deux pages côté long</item>
         <item>Deux pages côté court</item>
     </string-array>
     <string-array name="sides_val">

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+OK
 <resources>
     <string name="app_name">"Programme d'installation du kit"</string>
     <string name="install">Installer</string>
@@ -20,24 +21,24 @@
     <string name="install_failed_msg">"Impossible d'installer %1$s sur ce téléphone."</string>
     <string name="launch">Ouvrir</string>
     <string name="unknown_apps_dlg_title">Installation bloquée</string>
-    <string name="unknown_apps_dlg_text">"Pour plus de sécurité, votre téléphone est configuré de façon à bloquer l'installation des applications ne provenant pas d'Android Market."</string>
+    <string name="unknown_apps_dlg_text">"Pour plus de sécurité, votre téléphone est configuré de façon à bloquer l'installation des applications ne provenant pas du Play Store."</string>
     <string name="ok">OK</string>
     <string name="settings">Paramètres</string>
-    <string name="allow_source_dlg_title">Autoriser de nouvelles sources pour les applications?</string>
+    <string name="allow_source_dlg_title">Autoriser de nouvelles sources pour les applications ?</string>
     <string name="allow_source_dlg_text">"%1$s souhaite installer d'autres applications.
 
-Le permettre maintenant et à l'avenir?"</string>
+Le permettre maintenant et à l'avenir ?"</string>
     <string name="manage_applications">Gérer les applications</string>
     <string name="dlg_app_replacement_title">"Remplacer l'application"</string>
     <string name="dlg_app_replacement_statement">"L'application que vous installez actuellement remplacera l'autre application.
 
 Toutes les données d'utilisateur existantes seront enregistrées."</string>
-    <string name="dlg_sys_app_replacement_statement">"Ceci est une application système. Souhaitez vous vraiment la remplacer?
+    <string name="dlg_sys_app_replacement_statement">"Ceci est une application système. Souhaitez vous vraiment la remplacer ?
 
 Toutes ses données utilisateurs seront alors perdues."</string>
     <string name="lift_ban">"Lever l'interdiction"</string>
     <string name="out_of_space_dlg_title">Mémoire insuffisante</string>
-    <string name="out_of_space_dlg_text">"%1$s n'a pu être installé. Libérez de l'espace et réessayez."</string>
+    <string name="out_of_space_dlg_text">"%1$s n'a pu être installé. Veuillez libérer de l'espace et réessayer."</string>
     <string name="dlg_ok">OK</string>
     <string name="app_not_found_dlg_title">Application introuvable</string>
     <string name="app_not_found_dlg_text">Cette application ne figure pas dans la liste des applications installées.</string>

@@ -168,7 +168,7 @@
     <string name="terabyteShort">To</string>
     <string name="petabyteShort">Po</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
-    <string name="ellipsis">…</string>
+    <string name="ellipsis">...</string>
     <string name="ellipsis_two_dots">‥</string>
     <string name="mmiError">Problème de connexion ou code IHM non valide.</string>
     <string name="mmiFdnError">Opération réservée aux numéros autorisés</string>
@@ -466,10 +466,10 @@
     <string name="permdesc_readContacts">"Permet à l'application de lire les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des e-mails ou avez communiqué avec elles par d'autres moyens. Cette autorisation permet aux applications d'enregistrer ces données. Les applications malveillantes peuvent les partager à votre insu."</string>
     <string name="permlab_writeContacts">modifier les contacts</string>
     <string name="permdesc_writeContacts">"Permet à l'application de modifier les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des e-mails ou avez communiqué avec elles par d'autres moyens. Cette autorisation permet aux applications de supprimer ces données."</string>
-    <string name="permlab_readCallLog">"lire le journal d'appels"</string>
-    <string name="permdesc_readCallLog">"Permet à l'application d'accéder au journal d'appels de votre téléphone, y compris aux données relatives aux appels entrants et sortants. Cette autorisation permet aux applications d'enregistrer les données du journal d'appels. Les applications malveillantes peuvent partager ces données à votre insu."</string>
-    <string name="permlab_writeCallLog">"modifier le journal d'appels"</string>
-    <string name="permdesc_writeCallLog">"Permet à l'application de lire le journal d'appels de votre téléphone, y compris les données relatives aux appels entrants et sortants. Des applications malveillantes peuvent utiliser cette fonctionnalité pour effacer ou modifier votre journal d'appels."</string>
+    <string name="permlab_readCallLog">"lire le journal d'appel"</string>
+    <string name="permdesc_readCallLog">"Permet à l'application d'accéder au journal d'appel de votre téléphone, y compris aux données relatives aux appels entrants et sortants. Cette autorisation permet aux applications d'enregistrer les données du journal d'appel. Les applications malveillantes peuvent partager ces données à votre insu."</string>
+    <string name="permlab_writeCallLog">"modifier le journal d'appel"</string>
+    <string name="permdesc_writeCallLog">"Permet à l'application de lire le journal d'appel de votre téléphone, y compris les données relatives aux appels entrants et sortants. Des applications malveillantes peuvent utiliser cette fonctionnalité pour effacer ou modifier votre journal d'appel."</string>
     <string name="permlab_readProfile">voir votre fiche de contact</string>
     <string name="permdesc_readProfile">"Permet à l'application d'accéder aux informations de profil stockées sur votre appareil, telles que votre nom et vos coordonnées. L'application peut alors vous identifier et envoyer vos informations de profil à des tiers."</string>
     <string name="permlab_writeProfile">modifier votre fiche de contact</string>
@@ -788,7 +788,7 @@ Veuillez réessayer dans %d secondes."</string>
     <string name="lockscreen_glogin_invalid_input">"Nom d'utilisateur ou mot de passe incorrect."</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Vous avez oublié votre nom d'utilisateur ou votre mot de passe ?
 Accédez à la page "<b>google.com/accounts/recovery</b>.</string>
-    <string name="lockscreen_glogin_checking_password">Vérification en cours…</string>
+    <string name="lockscreen_glogin_checking_password">Vérification en cours...</string>
     <string name="lockscreen_unlock_label">Déverrouiller</string>
     <string name="lockscreen_sound_on_label">Son activé</string>
     <string name="lockscreen_sound_off_label">Son désactivé</string>
@@ -909,7 +909,7 @@ Appuyez sur \"OK\" pour continuer ou \"Annuler\" pour rester sur la page actuell
     <string name="editTextMenuTitle">Actions sur le texte</string>
     <string name="low_internal_storage_view_title">Espace de stockage bientôt saturé</string>
     <string name="low_internal_storage_view_text">Il est possible que certaines fonctionnalités du système ne soient pas opérationnelles.</string>
-    <string name="loading">Chargement…</string>
+    <string name="loading">Chargement...</string>
     <string name="capital_on">OUI</string>
     <string name="capital_off">NON</string>
     <string name="whichApplication">Continuer avec</string>
@@ -946,9 +946,9 @@ Voulez-vous la fermer ?"</string>
     <string name="screen_compat_mode_hint">Réactivez ce mode en accédant à Paramètres système > Applications > Téléchargements</string>
     <string name="smv_application">"L'application %1$s (du processus %2$s) a enfreint ses propres règles du mode strict."</string>
     <string name="smv_process">Le processus %1$s a enfreint ses propres règles du mode strict.</string>
-    <string name="android_upgrading_title">"Mise à jour d'Android…"</string>
-    <string name="android_upgrading_apk">"Optimisation de l'application %1$d sur %2$d…"</string>
-    <string name="android_upgrading_starting_apps">Lancement des applications…</string>
+    <string name="android_upgrading_title">"Mise à jour d'Android..."</string>
+    <string name="android_upgrading_apk">"Optimisation de l'application %1$d sur %2$d..."</string>
+    <string name="android_upgrading_starting_apps">Lancement des applications...</string>
     <string name="android_upgrading_complete">Finalisation de la mise à jour.</string>
     <string name="heavy_weight_notification">"%1$s en cours d'exécution"</string>
     <string name="heavy_weight_notification_detail">"Appuyez ici pour changer d'application."</string>
@@ -1118,8 +1118,8 @@ pour le compte \"%s\""</string>
     <string name="no_matches">Aucune correspondance</string>
     <string name="find_on_page">Rechercher sur la page</string>
     <string name="action_mode_done">OK</string>
-    <string name="progress_unmounting">Désinstallation de la mémoire de stockage USB en cours…</string>
-    <string name="progress_erasing">Effacement de la mémoire de stockage USB en cours…</string>
+    <string name="progress_unmounting">Désinstallation de la mémoire de stockage USB en cours...</string>
+    <string name="progress_erasing">Effacement de la mémoire de stockage USB en cours...</string>
     <string name="format_error">"Impossible d'effacer la mémoire de stockage USB."</string>
     <string name="media_bad_removal">La carte SD a été retirée sans avoir été désinstallée.</string>
     <string name="media_checking">Vérification de la mémoire de stockage USB...</string>
@@ -1221,7 +1221,7 @@ pour le compte \"%s\""</string>
     <string name="share_action_provider_share_with">Partager avec</string>
     <string name="status_bar_device_locked">Appareil verrouillé</string>
     <string name="list_delimeter">", "</string>
-    <string name="sending">Envoi en cours…</string>
+    <string name="sending">Envoi en cours...</string>
     <string name="launchBrowserDefault">Lancer le navigateur ?</string>
     <string name="SetupCallDefault">"Prendre l'appel ?"</string>
     <string name="activity_resolver_use_always">Toujours</string>
