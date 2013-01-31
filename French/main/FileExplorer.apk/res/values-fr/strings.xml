@@ -6,7 +6,7 @@
   <string name="background">Télécharger en arrière-plan</string>
   <string name="bind_account">Lier au compte KuaiPan</string>
   <string name="bind_account_summary">Si vous avez déjà un compte KuaiPan vous pouvez l\'ajouter pour récupérer vos données personnelles</string>
-  <string name="binded_accout_description">Les comptes sont fusionnées, utilisez votre compte Xiaomi ou KuaiPan pour vous connecter, les deux peuvent lire vos données</string>
+  <string name="binded_accout_description">Les comptes sont fusionnés, utilisez votre compte Xiaomi ou KuaiPan pour vous connecter, les deux peuvent lire vos données</string>
   <string name="binded_accout_title">Compte KuaiPan</string>
   <string name="binded_accout_warning">Avertissement: Cette opération est irréversible, voulez-vous continuer ?</string>
   <string name="binding_accout_title">Ajouter un compte KuaiPan existant</string>
