@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-OK
 <resources>
     <plurals name="move_messages">
         <item quantity="other">Déplacer des messages</item>

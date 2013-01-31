@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-OK
 <resources>
     <string name="backup_confirm_title">Sauvegarde complète</string>
     <string name="restore_confirm_title">Restauration complète</string>
