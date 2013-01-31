@@ -5,6 +5,11 @@
   <string name="app_name">Explorateur de fichiers</string>
   <string name="background">Télécharger en arrière-plan</string>
   <string name="bind_account">Lier au compte KuaiPan</string>
+  <string name="bind_account_summary">Si vous avez déjà un compte KuaiPan vous pouvez l\'ajouter pour récupérer vos données personnelles</string>
+  <string name="binded_accout_description">Les comptes sont fusionnées, utilisez votre compte Xiaomi ou KuaiPan pour vous connecter, les deux peuvent lire vos données</string>
+  <string name="binded_accout_title">Compte KuaiPan</string>
+  <string name="binded_accout_warning">Avertissement: Cette opération est irréversible, voulez-vous continuer ?</string>
+  <string name="binding_accout_title">Ajouter un compte KuaiPan existant</string>
   <string name="cancel">Annuler</string>
   <string name="category_all">Tout</string>
   <string name="category_apk">APKs</string>
@@ -110,6 +115,7 @@
   <string name="guide_senior_tech">Techniques supérieures</string>
   <string name="instruction">Entrer l\'adresse suivante dans votre client FTP:</string>
   <string name="instruction_pre">Démarrer le service pour activer le serveur FTP</string>
+  <string name="kingsoft_account">Compte Kingsoft KuaiPan</string>
   <string name="kuaipan_over_space">Votre MiDrive n\'a perdu aucun espace.</string>
   <string name="kuaipan_prompt">Aide MiDrive</string>
   <string name="kuaipan_prompt_message">« Le serveur est actuellement indisponible, veuillez réessayer plus tard »</string>
@@ -120,6 +126,7 @@
   <string name="local_cache">Cache local</string>
   <string name="local_cache_size">Taille du cache local : %s</string>
   <string name="login_reg_content">MiDrive vous permet de stocker des fichiers et de les synchroniser entre plusieurs périphériques.</string>
+  <string name="login_reg_content0">KuaiPan est votre lecteur cloud</string>
   <string name="login_reg_login_xiaomi">Connexion au compte Xiaomi</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Rechercher</string>
