@@ -47,10 +47,10 @@
   <string name="cannot_save_message">Impossible d\'enregistrer ce message</string>
   <string name="cannot_send_message">Impossible d\'envoyer ce message</string>
   <string name="cannot_send_message_reason">Destinataires non valides</string>
-  <string name="change_duration_activity">Modifier durée</string>
+  <string name="change_duration_activity">Modifier la durée</string>
   <string name="check_all">Tout sélectionner</string>
   <string name="check_nothing">Tout désélectionner</string>
-  <string name="chenghu_disable_mms">Impossible d\'utiliser de pseudonyme dans les Mms</string>
+  <string name="chenghu_disable_mms">Impossible d\'utiliser un pseudonyme dans les Mms</string>
   <string name="class_0_message_activity">Message classe 0</string>
   <string name="close">Fermer</string>
   <string name="compressing">Image trop volumineuse. Compression...</string>
@@ -150,10 +150,10 @@
   <string name="full_phrase">La phrase saisie dépasse 50 caractères</string>
   <string name="generating_mms_to_forward">Génération du MMS à envoyer...</string>
   <string name="group_message">Message groupé</string>
-  <string name="group_message_failed_title">N\'a pas pu envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
+  <string name="group_message_failed_title">Impossible d\'envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
   <string name="group_resend_message">Renvoyer (%d)</string>
   <string name="guild_add_attachments">Cliquez ici pour ajouter des pièces jointes ou des émoticônes au message</string>
-  <string name="guild_add_recipients">Cliquez ici pour ajouter les destinataires au carnet d\'adresses</string>
+  <string name="guild_add_recipients">Cliquez ici pour ajouter les destinataires au carnet d\'adresse</string>
   <string name="has_draft">Brouillon</string>
   <string name="has_invalid_recipient">Destinataire(s) invalide(s): &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Adresse de l\'expéditeur masquée</string>
@@ -328,7 +328,7 @@
   <string name="pref_title_auto_delete">Supprimer les anciens messages</string>
   <string name="pref_title_delivery_reports">Accusé de réception</string>
   <string name="pref_title_delivery_ringtone">Notification des accusés réception</string>
-  <string name="pref_title_filter_phone">Filtrez les numéros fixes</string>
+  <string name="pref_title_filter_phone">Filtrer les numéros fixes</string>
   <string name="pref_title_hide_festival">Masquer l\'onglet Recommandé</string>
   <string name="pref_title_manage_sim_messages">Gérer les messages de la carte SIM</string>
   <string name="pref_title_mms_auto_retrieval">Récupération automatique</string>
@@ -394,7 +394,7 @@
   <string name="select_audio">Sélectionner audio</string>
   <string name="select_bottom_text">Texte en bas</string>
   <string name="select_conversations">Sélectionner des fils</string>
-  <string name="select_different_media">Sélectionnez un autre média</string>
+  <string name="select_different_media">Sélectionner un autre média</string>
   <string name="select_link_title">Sélectionner l\'action</string>
   <string name="select_top_text">Texte au premier plan</string>
   <string name="send">Envoyer</string>
@@ -413,7 +413,7 @@
   <string name="sim_copy_to_phone_memory">Copier dans le téléphone</string>
   <string name="sim_delete">Supprimer</string>
   <string name="sim_empty">Aucun message</string>
-  <string name="sim_full_body">Carte SIM saturée. Supprimez certains éléments</string>
+  <string name="sim_full_body">Carte SIM saturée. Veuillez supprimer certains éléments</string>
   <string name="sim_full_title">Carte SIM saturée</string>
   <string name="sim_manage_messages_title">SMS sur la carte SIM</string>
   <string name="sim_view">Affich.</string>
@@ -421,7 +421,7 @@
   <string name="slide_show_part">Part %1$s/%2$s</string>
   <string name="slideshow_activity">Diaporama</string>
   <string name="sms_content">Contenu du message</string>
-  <string name="sms_full_body">Impossible de recevoir le message. Mémoire du périphérique saturée. Supprimez certains éléments</string>
+  <string name="sms_full_body">Impossible de recevoir le message. Mémoire du périphérique saturée. Veuillez supprimer certains éléments</string>
   <string name="sms_full_title">Mémoire des messages saturée</string>
   <string name="sms_rejected_body">Erreur lors de la réception du message</string>
   <string name="sms_rejected_title">SMS rejeté</string>

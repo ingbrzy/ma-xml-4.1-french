@@ -17,7 +17,7 @@
     <string name="exception_cancel">Cet événement a été annulé pour : %s</string>
     <string name="exception_updated">Les détails de cet événement ont été modifiés pour : %s</string>
     <string name="policy_dont_allow_storage_cards">ne pas autoriser les cartes de stockage</string>
-    <string name="policy_dont_allow_unsigned_apps">ne pas autoriser applications non signées</string>
+    <string name="policy_dont_allow_unsigned_apps">ne pas autoriser les applications non signées</string>
     <string name="policy_dont_allow_unsigned_installers">"ne pas autoriser prog. d'install. non signés"</string>
     <string name="policy_dont_allow_wifi">ne pas autoriser le Wi-Fi</string>
     <string name="policy_dont_allow_text_messaging">ne pas autoriser les SMS</string>

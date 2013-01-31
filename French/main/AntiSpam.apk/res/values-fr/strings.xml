@@ -40,8 +40,8 @@
   <string name="clear_all_mslog">Effacer le journal de message</string>
   <string name="close_rule">Désactiver la règle</string>
   <string name="confirm">OK</string>
-  <string name="confirm_clear_blacklist">Êtes-vous sûr de que vouloir effacer la liste noire ?</string>
-  <string name="confirm_clear_whitelist">Êtes-vous sûr de que vouloir effacer la liste blanche ?</string>
+  <string name="confirm_clear_blacklist">Êtes-vous sûr de vouloir effacer la liste noire ?</string>
+  <string name="confirm_clear_whitelist">Êtes-vous sûr de vouloir effacer la liste blanche ?</string>
   <string name="context_add_contact">Ajouter à un contact existant</string>
   <string name="context_call">Appeler</string>
   <string name="context_ms">Envoyer le message</string>

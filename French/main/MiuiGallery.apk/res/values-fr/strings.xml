@@ -52,8 +52,8 @@
   <string name="cloud_album_set_create">Nouveau</string>
   <string name="cloud_albums">Albums du cloud</string>
   <string name="cloud_camera_display_name">Non trié</string>
-  <string name="cloud_gallery_no_pictures">Aucunes image trouvée dans MiCloud</string>
-  <string name="cloud_gallery_recyclebin_full">Corbeille du cloud pleine, veuillez vider la corbeille sur i.xiaomi.com.</string>
+  <string name="cloud_gallery_no_pictures">Aucune image trouvée dans MiCloud</string>
+  <string name="cloud_gallery_recyclebin_full">La corbeille du cloud pleine, veuillez vider la corbeille sur i.xiaomi.com.</string>
   <string name="cloud_gallery_setting">Paramètres de la galerie du cloud</string>
   <string name="cloud_gallery_space_full">Échec de l\'envoi ! Mémoire de la galerie cloud pleine</string>
   <string name="cloud_media_set_set">Albums du cloud</string>
@@ -185,7 +185,7 @@
   <string name="loading_image">Chargement de l\'image...</string>
   <string name="loading_thumbnail">Chargement de la miniature...</string>
   <string name="loading_video">Chargement de la vidéo...</string>
-  <string name="loading_will_cost">Téléchargement d\'images, utilisera votre allocation de données (environ %1$d Ko)</string>
+  <string name="loading_will_cost">Le téléchargement d\'image utilisera votre allocation de données (environ %1$d Ko)</string>
   <string name="location">Emplacement</string>
   <string name="locations">Lieux</string>
   <string name="login_account">Se connecter sur le compte Xiaomi et Sync.</string>

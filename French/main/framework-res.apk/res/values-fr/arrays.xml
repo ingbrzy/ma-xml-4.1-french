@@ -35,7 +35,7 @@
         <item>Domicile</item>
         <item>Bureau</item>
         <item>Autre</item>
-        <item>Personnalisée</item>
+        <item>Personnalisé</item>
     </string-array>
     <string-array name="imAddressTypes">
         <item>Domicile</item>

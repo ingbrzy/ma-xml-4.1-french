@@ -45,11 +45,11 @@ Note: Des applications ayant des permissions pourraient causer l\'instabilité d
   <string name="Generic_MonitoredApp">Applications surveillées (%1$d)</string>
   <string name="Generic_Operating">En cours...</string>
   <string name="Generic_Optimize">Optimiser</string>
-  <string name="Generic_Service_Disabled">Le service s\'est désactivé</string>
+  <string name="Generic_Service_Disabled">Le service est désactivé</string>
   <string name="Generic_Service_Enabled">Le service est actif</string>
   <string name="Generic_Shortcut">Menu contextuel</string>
   <string name="Generic_ShowSystemApp">Afficher le système des applications</string>
-  <string name="Generic_Summary_Disabled">Désactivées</string>
+  <string name="Generic_Summary_Disabled">Désactivé</string>
   <string name="Generic_Summary_Enabled">Activé</string>
   <string name="Generic_SystemApp">Système d\'applications (%d)</string>
   <string name="Generic_SystemApp_Label">[Système d\'applications]</string>
@@ -131,7 +131,7 @@ Note: Des applications ayant des permissions pourraient causer l\'instabilité d
   <string name="HIPS_Perm_ROOT">Root</string>
   <string name="HIPS_Perm_ROOT_Desc">Demander la permission Root</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">Non disponible dans la version Stable MIUI</string>
-  <string name="HIPS_Perm_ROOT_Hint">%1$s applications sont autorisés à obtenir la permission Root</string>
+  <string name="HIPS_Perm_ROOT_Hint">%1$s applications sont autorisées à obtenir la permission Root</string>
   <string name="HIPS_Perm_ROOT_Title">Obtenir la permission Root</string>
   <string name="HIPS_Perm_RejectAll">Tout refuser</string>
   <string name="HIPS_Perm_SMS">SMS</string>
@@ -160,9 +160,9 @@ Note: Des applications ayant des permissions pourraient causer l\'instabilité d
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Mise en garde importante</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Êtes-vous sûr de vouloir autoriser à %1$s la permission Root ?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">La permission Root peut provoquer une instabilité du système</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step3">Vos données de protection de renseignements personnels tels que les comptes, les mot de passes et les messages pourraient être compromises</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step3">Vos données personnelles telles que vos comptes, vos mot de passes et vos messages pourraient être compromises</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Un dommage matériel permanent est également possible</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step5">Utiliser avec précautions!</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step5">Utiliser avec précaution !</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Êtes vous sûr de permettre à %1$s d\'obtenir la permission Root ?</string>
   <string name="HIPS_SecurityPrompt_Reject">Refusé (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Se souvenir de mon choix</string>

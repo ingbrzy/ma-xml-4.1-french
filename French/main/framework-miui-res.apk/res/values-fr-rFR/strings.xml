@@ -282,10 +282,10 @@
   <string name="fools_day">Poisson d\'avril</string>
   <string name="force_exit_message">Fermé avec succès \"%1$s\"</string>
   <string name="format_time_in_12_hours">%1$s %2$s</string>
-  <string name="global_action_privacy_mode_dialog_message">En mode ninja, les appels, les notes, les photos et les SMS sont cachés et le lanceur ne sera pas en mesure de passer en mode édition. Vous pouvez définir le mode de passe pour protéger le mode ninja dans les paramètres de contrôle d’accès</string>
+  <string name="global_action_privacy_mode_dialog_message">En mode ninja, les appels, les notes, les photos et les SMS sont cachés et le lanceur ne sera pas en mesure de passer en mode édition. Vous pouvez définir le mot de passe pour protéger le mode ninja dans les paramètres de contrôle d’accès</string>
   <string name="global_action_privacy_mode_off_status">Le mode ninja est désactivé</string>
   <string name="global_action_privacy_mode_on_status">Le mode ninja est activé</string>
-  <string name="global_action_privacy_mode_on_toast">Le mode ninja est activée. Les appels, les notes, la galerie, et les messages sont cachés, le lanceur ne peut plus entrer en mode d\'édition.</string>
+  <string name="global_action_privacy_mode_on_toast">Le mode ninja est activé. Les appels, les notes, la galerie, et les messages sont cachés, le lanceur ne peut plus entrer en mode d\'édition.</string>
   <string name="global_action_toggle_privacy_mode">Protection</string>
   <string name="grain_buds">Confirmer</string>
   <string name="grain_in_ear">Confirmer</string>
@@ -308,7 +308,7 @@
   <string name="loading">Chargement...</string>
   <string name="lock_screen_date">MMMM, EEEE d</string>
   <string name="lockscreen_call_bottom_hint">Glisser vers le bas pour ouvrir le Dialer</string>
-  <string name="lockscreen_sms_bottom_hint">Faites glisser vers le bas pour consulter les SMS</string>
+  <string name="lockscreen_sms_bottom_hint">Glisser vers le bas pour consulter les SMS</string>
   <string name="lockscreen_time_bottom_hint">Glisser vers le bas pour déverrouiller</string>
   <string name="lockscreen_unlock_sim_via_puk">Entrez le code PUK pour déverrouiller la carte SIM</string>
   <string name="lunar_ba">Confirmer</string>
@@ -419,7 +419,7 @@
   <string name="screen_on_proximity_sensor_summary">"Mode de mauvaise utilisation activée. Les fonctions de téléphonie sont actuellement désactivées !"</string>
   <string name="screen_on_proximity_sensor_title">Empêcher toute utilisation abusive du téléphone</string>
   <string name="sd_not_available">Carte SD non montée ou indisponible</string>
-  <string name="sd_not_available_low_internal_storage">Carte SD non montés ou indisponible, espace disque faible sur le stockage interne</string>
+  <string name="sd_not_available_low_internal_storage">Carte SD non montée ou indisponible, espace disque faible sur le stockage interne</string>
   <string name="sd_not_available_saved_to_internal_storage">Enregistré dans la mémoire interne</string>
   <string name="sd_not_available_use_internal_storage">Carte SD indisponible, sauvegarde sur le stockage interne</string>
   <string name="sdcard_status_changed_dialog_message">« Sortie en cours. ré-ouvrez l\'application. »</string>
@@ -481,7 +481,7 @@
   <string name="theme_update_complete_content_fail">, échec de %1$ d</string>
   <string name="theme_update_complete_content_success">%1$ d réussie</string>
   <string name="theme_update_complete_title">Mise à niveau terminée</string>
-  <string name="theme_update_request_content">Nouveau format de thèmes, le processus de mise à niveau peut prendre un certain temps, les packs de thèmes qui ne sont pas téléchargés du market ne fonctionneront plus, merci de cliquer sur OK pour mettre à niveau maintenant.</string>
+  <string name="theme_update_request_content">Nouveau format de thèmes, le processus de mise à niveau peut prendre un certain temps, les packs de thèmes qui ne proviennent pas du Play Store ne fonctionneront plus, merci de cliquer sur OK pour mettre à niveau maintenant.</string>
   <string name="theme_update_request_continue_content">Le dernier processus de mise à niveau du thème n\'était pas terminé, continuer ?</string>
   <string name="theme_update_request_title">Mise à jour du thème</string>
   <string name="theme_updating_content">Mise à jour de %1$d/%2$d, veuillez patienter</string>

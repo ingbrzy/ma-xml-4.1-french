@@ -37,7 +37,7 @@ Toutes les données d'utilisateur existantes seront enregistrées."</string>
 Toutes ses données utilisateurs seront alors perdues."</string>
     <string name="lift_ban">"Lever l'interdiction"</string>
     <string name="out_of_space_dlg_title">Mémoire insuffisante</string>
-    <string name="out_of_space_dlg_text">"%1$s n'a pu être installé. Veuillez libérer de l'espace et réessayer."</string>
+    <string name="out_of_space_dlg_text">"%1$s n'a pas pu être installé. Veuillez libérer de l'espace et réessayer."</string>
     <string name="dlg_ok">OK</string>
     <string name="app_not_found_dlg_title">Application introuvable</string>
     <string name="app_not_found_dlg_text">Cette application ne figure pas dans la liste des applications installées.</string>

@@ -27,7 +27,7 @@
   <string name="error_sdcard_unmounted">Carte SD occupée ou non lisible, veuillez essayer de nouveau</string>
   <string name="error_sync_cancelled">La synchronisation est annulée</string>
   <string name="error_sync_internal">La synchronisation a échouée, une erreur interne s\'est produite</string>
-  <string name="error_sync_network">Échec de la synchronisation, veuillez vérifiez les paramètres réseau et les paramètres du compte</string>
+  <string name="error_sync_network">Échec de la synchronisation, veuillez vérifier les paramètres réseau et les paramètres du compte</string>
   <string name="error_widget_exist_for_send_to_desktop">Cette note existe déjà sur l\'écran d\'accueil</string>
   <string name="failed_sdcard_export">Export échoué</string>
   <string name="file_name_txt_format">notes_%s.txt</string>

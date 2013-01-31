@@ -63,7 +63,7 @@ Vous pouvez aussi annuler cette alarme."</string>
     <string name="battery_charging_level">%d%%</string>
     <string name="weather_fetch_failure">Les informations météorologiques sont actuellement indisponibles.</string>
     <string name="menu_item_dock_settings">"Paramètres station d'accueil"</string>
-    <string name="alarm_klaxon_service_desc">Service de lecture du son pour les alarme</string>
+    <string name="alarm_klaxon_service_desc">Service de lecture du son pour les alarmes</string>
     <string name="loading_ringtone">Chargement de la sonnerie...</string>
     <string name="control_set_alarm">"Définir l'alarme"</string>
     <string name="control_set_alarm_with_existing">Alarme définie: %s</string>
