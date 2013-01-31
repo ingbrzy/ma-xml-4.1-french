@@ -12,7 +12,7 @@
     <string name="disable_alarm">"Désactiver l'alarme"</string>
     <string name="delete_alarm_confirm">Cette alarme va être supprimée.</string>
     <string name="show_clock">"Afficher l'horloge"</string>
-    <string name="hide_clock">"masquer l'horloge"</string>
+    <string name="hide_clock">"Masquer l'horloge"</string>
     <string name="label">Libellé</string>
     <string name="default_label">Alarme</string>
     <string name="set_alarm">"Régler l'alarme"</string>
@@ -64,7 +64,7 @@ Vous pouvez aussi annuler cette alarme."</string>
     <string name="weather_fetch_failure">Les informations météorologiques sont actuellement indisponibles.</string>
     <string name="menu_item_dock_settings">"Paramètres station d'accueil"</string>
     <string name="alarm_klaxon_service_desc">Service de lecture du son pour les alarme</string>
-    <string name="loading_ringtone">Chargement de la sonnerie…</string>
+    <string name="loading_ringtone">Chargement de la sonnerie...</string>
     <string name="control_set_alarm">"Définir l'alarme"</string>
     <string name="control_set_alarm_with_existing">Alarme définie: %s</string>
     <string name="common_settings">Paramètres généraux</string>
@@ -78,13 +78,13 @@ Vous pouvez aussi annuler cette alarme."</string>
     <string name="menu_delete">Supprimer</string>
     <string name="menu_edit_systemtime">"Editer l'heure du système"</string>
     <string name="delete_timezone_title">Supprimer le fuseau horaire</string>
-    <string name="delelte_selected_timezone">Voulez vous vraiment supprimer le(s) fuseau(x) horaire(s)?</string>
+    <string name="delelte_selected_timezone">Voulez vous vraiment supprimer le(s) fuseau(x) horaire(s) ?</string>
     <string name="wait_when_operating_data_message">Opération en cours, veuillez patienter.</string>
     <string name="timezone_exist_error_message">"Echec de l'opération, le fuseau horaire semble déjà exister."</string>
     <string name="timezone_search_hint">Chercher une ville pour ajouter une horloge mondiale</string>
     <string name="alarm_disabled">Alarme inactive</string>
-    <string name="alarm_ascending_mode_title">Alarme de plus en plus fort</string>
-    <string name="alarm_ascending_mode_summary">"Alarme de plus en plus fort jusqu'au volume défini dans les paramètres."</string>
+    <string name="alarm_ascending_mode_title">Alarme de plus en plus forte</string>
+    <string name="alarm_ascending_mode_summary">"Alarme de plus en plus forte jusqu'au volume défini dans les paramètres."</string>
     <string name="slide_down_delelte_alarm">"Abaissez pour arrêter l'alarme"</string>
     <string name="start">Départ</string>
     <string name="pause">Pause</string>
@@ -96,7 +96,7 @@ Vous pouvez aussi annuler cette alarme."</string>
     <string name="alarmclock_empty_text">Aucune alarme</string>
     <string name="timer_got_it">Arrêter le son</string>
     <string name="timer_start_alarm">Temps écoulé</string>
-    <string name="dialog_confirm_abort">Voulez-vous abandonner vos modifications?</string>
+    <string name="dialog_confirm_abort">Voulez-vous abandonner vos modifications ?</string>
     <string name="remind_ringtone">Mémoriser la sonnerie</string>
     <string name="keep_screen_on">"Laisser l'écran allumé"</string>
     <string name="start_up">Départ</string>

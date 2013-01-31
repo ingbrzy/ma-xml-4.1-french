@@ -74,13 +74,13 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
+        <item>Scanning...</item>
+        <item>Connecting...</item>
+        <item>Authenticating...</item>
+        <item>Obtaining IP address...</item>
         <item>Connected</item>
         <item>Suspended</item>
-        <item>Disconnecting…</item>
+        <item>Disconnecting...</item>
         <item>Disconnected</item>
         <item>Unsuccessful</item>
         <item>Blocked</item>
@@ -88,13 +88,13 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
+        <item>Scanning...</item>
+        <item>Connecting to %1$s...</item>
+        <item>Authenticating with %1$s...</item>
+        <item>Obtaining IP address from %1$s...</item>
         <item>Connected to %1$s</item>
         <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
+        <item>Disconnecting from %1$s...</item>
         <item>Disconnected</item>
         <item>Unsuccessful</item>
         <item>Blocked</item>
@@ -275,8 +275,8 @@
     </string-array>
     <string-array name="vpn_states">
         <item>Disconnected</item>
-        <item>Initializing…</item>
-        <item>Connecting…</item>
+        <item>Initializing...</item>
+        <item>Connecting...</item>
         <item>Connected</item>
         <item>Timeout</item>
         <item>Unsuccessful</item>

@@ -20,7 +20,7 @@
   <string name="add_video">Ajouter une vidéo</string>
   <string name="adding_attachments">Veuillez patienter pendant l\'ajout des éléments au diaporama</string>
   <string name="adding_attachments_title">Ajout de pièces jointes...</string>
-  <string name="adding_recipients">Ajout de destinataires…</string>
+  <string name="adding_recipients">Ajout de destinataires...</string>
   <string name="all_threads">Tous les fils</string>
   <string name="app_label">SMS/MMS</string>
   <string name="attach_image">Images</string>
@@ -44,9 +44,9 @@
   <string name="cannot_forward_drm_obj">Impossible de transférer l\'objet DRM inclus dans le message</string>
   <string name="cannot_get_details">Impossible d\'obtenir les détails</string>
   <string name="cannot_play_audio">Lecture audio impossible</string>
-  <string name="cannot_save_message">Impossible d\'enregistrer le message</string>
+  <string name="cannot_save_message">Impossible d\'enregistrer ce message</string>
   <string name="cannot_send_message">Impossible d\'envoyer ce message</string>
-  <string name="cannot_send_message_reason">Destinataires non valides entrés</string>
+  <string name="cannot_send_message_reason">Destinataires non valides</string>
   <string name="change_duration_activity">Modifier durée</string>
   <string name="check_all">Tout sélectionner</string>
   <string name="check_nothing">Tout désélectionner</string>
@@ -64,9 +64,9 @@
   <string name="confirm_delete_group_message">Ce groupe de messages sera supprimé.</string>
   <string name="confirm_delete_locked_message">Supprimer ce message protégé ?</string>
   <string name="confirm_delete_message">Ce message sera supprimé</string>
-  <string name="confirm_dialog_locked_title">Supprimer message(s) vérouillé(s)?</string>
+  <string name="confirm_dialog_locked_title">Supprimer message(s) vérouillé(s) ?</string>
   <string name="confirm_dialog_title">Supprimer</string>
-  <string name="confirm_rate_limit">De nombreux MMS sont en cours d\'envoi. Est-ce possible ?</string>
+  <string name="confirm_rate_limit">De nombreux MMS sont en cours d\'envoi. Confirmez-vous ?</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
   <string name="context_menu_browse_web">Parcourir</string>
   <string name="context_menu_call">Appeler</string>
@@ -150,7 +150,7 @@
   <string name="full_phrase">La phrase saisie dépasse 50 caractères</string>
   <string name="generating_mms_to_forward">Génération du MMS à envoyer...</string>
   <string name="group_message">Message groupé</string>
-  <string name="group_message_failed_title">N\'a pas pu envoyer aux %d contacts, réessayer ?</string>
+  <string name="group_message_failed_title">N\'a pas pu envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
   <string name="group_resend_message">Renvoyer (%d)</string>
   <string name="guild_add_attachments">Cliquez ici pour ajouter des pièces jointes ou des émoticônes au message</string>
   <string name="guild_add_recipients">Cliquez ici pour ajouter les destinataires au carnet d\'adresses</string>
@@ -170,7 +170,7 @@
   <string name="loading_all_messages">Chargement de tous les messages...</string>
   <string name="loading_contacts">Chargement des contacts...</string>
   <string name="loading_conversations">Chargement des conversations...</string>
-  <string name="loading_mms">Chargement MMS…</string>
+  <string name="loading_mms">Chargement MMS...</string>
   <string name="me">Moi</string>
   <string name="menu_add_address_to_contacts">Ajouter %s aux contacts</string>
   <string name="menu_add_to_contacts">Ajouter aux contacts</string>
@@ -190,7 +190,7 @@
   <string name="menu_send_email">Envoyer un e-mail à %s</string>
   <string name="menu_timed_message">Heure définie</string>
   <string name="menu_unlock">Déverr.</string>
-  <string name="menu_view">Afficher fil</string>
+  <string name="menu_view">Afficher le fil</string>
   <string name="menu_view_contact">Voir le contact</string>
   <string name="menu_view_original_message">Voir le message original</string>
   <string name="message_class_label">"Classe de message :  "</string>
@@ -227,15 +227,15 @@
   <string name="multi_select_title_message_init">Sélectionnez le(s) message(s)</string>
   <string name="multimedia_message">Message multimédia</string>
   <string name="multimedia_notification">Notification de message MMS</string>
-  <string name="mx_activate_error_malformed_info">Échec de l\'activation de la messagerie cloud, réactivez la</string>
+  <string name="mx_activate_error_malformed_info">Échec de l\'activation de la messagerie cloud, veuillez la réactiver</string>
   <string name="mx_activate_error_server">Le serveur n\'a pas réussi à activer la messagerie cloud</string>
   <string name="mx_activate_error_sim_change">La carte SIM a changé, la réactivation des messages cloud est nécessaire</string>
   <string name="mx_activate_error_title">Impossible d\'activer la messagerie cloud</string>
   <string name="mx_activate_failure">Impossible d\'activer la messagerie cloud</string>
-  <string name="mx_activate_hint_malformed_info">Opération interrompue, la réactivation de la messagerie en mode cloud est nécessaire. L\'activer maintenant?</string>
-  <string name="mx_activate_hint_server">Le serveur n\'a pas réussi à activer la messagerie cloud ? L\'activer maintenant ?</string>
+  <string name="mx_activate_hint_malformed_info">Opération interrompue, la réactivation de la messagerie en mode cloud est nécessaire. L\'activer maintenant ?</string>
+  <string name="mx_activate_hint_server">Le serveur n\'a pas réussi à activer la messagerie cloud. L\'activer maintenant ?</string>
   <string name="mx_activate_hint_sim_change">Carte SIM changée, la réactivation de messagerie cloud est nécessaire. L\'activer maintenant ?</string>
-  <string name="mx_activating">Activation…</string>
+  <string name="mx_activating">Activation...</string>
   <string name="mx_auto_resend_mms">Auto ré-envoyer le MMS</string>
   <string name="mx_auto_resend_mms_summary">Envoyer comme MMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_auto_resend_sms">Envoyer en tant que SMS</string>
@@ -280,8 +280,8 @@
   <string name="pref_key_append_signature_summary">Ajouter automatiquement la signature à la fin du message</string>
   <string name="pref_key_append_signature_title">Signature (facultative)</string>
   <string name="pref_key_edit_signature_title">Modifier la signature</string>
-  <string name="pref_key_signature_hint">Veuillez entrez votre signature</string>
-  <string name="pref_key_signature_summary">Entrez ici pour définir votre signature</string>
+  <string name="pref_key_signature_hint">Veuillez entrer votre signature</string>
+  <string name="pref_key_signature_summary">Définir votre signature</string>
   <string name="pref_messages_to_save">Définir le nombre de messages à enregistrer</string>
   <string name="pref_messaging_bubble_title">Bulles</string>
   <string name="pref_messaging_list_title">Liste</string>
@@ -314,8 +314,8 @@
   <string name="pref_summary_notification_vibrateWhen">Notification avec vibreur</string>
   <string name="pref_summary_off_system_mms_priority">Les applications tierces recevront les MMS en premier</string>
   <string name="pref_summary_on_system_mms_priority">L\'application recevra les MMS en premier</string>
-  <string name="pref_summary_ringtone_repeat">Rappel toutes les 5 minutes quand un nouveau message est reçu</string>
-  <string name="pref_summary_show_recent_contacts">Affiche la liste des derniers contacts utilisés lors de la composition d\'un message</string>
+  <string name="pref_summary_ringtone_repeat">Rappeller toutes les 5 minutes quand un nouveau message est reçu</string>
+  <string name="pref_summary_show_recent_contacts">Afficher la liste des derniers contacts utilisés lors de la composition d\'un message</string>
   <string name="pref_summary_sms_delivery_reports">Demander un accusé de réception pour chaque message que vous envoyez</string>
   <string name="pref_summary_wake_up_screen">Allumer l\'écran lorsque vous recevez de nouveaux messages</string>
   <string name="pref_theme_modify">Modifier le thème</string>
@@ -348,7 +348,7 @@
   <string name="pref_title_system_mms_priority">L\'application a la priorité de réception des MMS</string>
   <string name="pref_title_wake_up_screen">Allumer l\'écran</string>
   <string name="preferences_title">Paramètres</string>
-  <string name="prepare_send">Prépare à envoyer...</string>
+  <string name="prepare_send">Prépare l'envoi...</string>
   <string name="preview">Aperçu</string>
   <string name="preview_slideshow">Aperçu</string>
   <string name="priority_high">Élevée</string>
@@ -365,7 +365,7 @@
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">Destinataire :</string>
   <string name="refresh">Renouveler</string>
-  <string name="refresh_failed">La mise à jour a échoué</string>
+  <string name="refresh_failed">La mise à jour a échouée</string>
   <string name="refreshing">Actualisation...</string>
   <string name="remove">Supprimer</string>
   <string name="remove_music">Supprimer musique</string>
@@ -383,7 +383,7 @@
   <string name="save_to_sim">Enregistrer sur la carte SIM</string>
   <string name="saved_label">Enregistré :</string>
   <string name="saved_ringtone">Sonnerie enregistrée</string>
-  <string name="saved_ringtone_fail">Impossible d\'enregistrer sonnerie</string>
+  <string name="saved_ringtone_fail">Impossible d\'enregistrer la sonnerie</string>
   <string name="search">SMS/MMS</string>
   <string name="search_empty">Aucune correspondance</string>
   <string name="search_hint">Chercher dans les messages</string>
@@ -403,7 +403,7 @@
   <string name="send_to">Envoyer à: %1$s</string>
   <string name="send_to_count">%1$s message(s) envoyé</string>
   <string name="send_to_index_contact">Envoi de %1$s sur %2$s...</string>
-  <string name="sending_message">Envoi…</string>
+  <string name="sending_message">Envoi...</string>
   <string name="sent_label">Envoyé :</string>
   <string name="service_message_not_found">Message expiré ou non disponible</string>
   <string name="service_network_problem">Erreur : une erreur réseau s\'est produite</string>
@@ -436,7 +436,7 @@
   <string name="status_unread">Non lu</string>
   <string name="storage_limits_activity">Limites de stockage</string>
   <string name="storage_limits_message">Limiter le nombre de messages enregistrés par conversation ?</string>
-  <string name="storage_limits_setting">Déf.limite</string>
+  <string name="storage_limits_setting">Déf. limite</string>
   <string name="storage_limits_setting_dismiss">Auc limite</string>
   <string name="storage_limits_title">Limites des messages</string>
   <string name="subject_hint">Sujet</string>

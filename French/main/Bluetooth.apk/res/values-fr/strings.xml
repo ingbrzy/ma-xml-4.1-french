@@ -34,7 +34,7 @@
     <string name="download_line2">Fichier : %1$s</string>
     <string name="download_line3">Taille du fichier : %1$s</string>
     <string name="download_line4" />
-    <string name="download_line5">Réception du fichier…</string>
+    <string name="download_line5">Réception du fichier...</string>
     <string name="download_cancel">Arrêter</string>
     <string name="download_ok">Masquer</string>
     <string name="download_fail_line1">Fichier non reçu</string>
@@ -45,7 +45,7 @@
     <string name="download_succ_ok">Ouvrir</string>
     <string name="upload_line1">À : \"%1$s\"</string>
     <string name="upload_line3">Type de fichier : %1$s (%2$s)</string>
-    <string name="upload_line5">Envoi du fichier…</string>
+    <string name="upload_line5">Envoi du fichier...</string>
     <string name="upload_succ_line5">Fichier envoyé</string>
     <string name="upload_succ_ok">OK</string>
     <string name="upload_fail_line1">"Le fichier n'a pas été envoyé à \"%1$s\"."</string>
@@ -59,8 +59,8 @@
     <string name="not_exist_file">Aucun fichier</string>
     <string name="not_exist_file_desc">"Le fichier n'existe pas. 
 "</string>
-    <string name="enabling_progress_title">Veuillez patienter…</string>
-    <string name="enabling_progress_content">Activation de Bluetooth…</string>
+    <string name="enabling_progress_title">Veuillez patienter...</string>
+    <string name="enabling_progress_content">Activation de Bluetooth...</string>
     <string name="bt_toast_1">Le fichier sera reçu. Vérifiez la progression dans le panneau Notifications.</string>
     <string name="bt_toast_2">Impossible de recevoir le fichier.</string>
     <string name="bt_toast_3">Réception du fichier de \"%1$s\" interrompue</string>
@@ -113,7 +113,7 @@
     <string name="app_name">Partage Bluetooth</string>
     <string name="insert_record">"Insérer l'enregistrement"</string>
     <string name="update_record">"Confirmer l'enregistrement"</string>
-    <string name="ack_record">Enregistrement accusé de réception</string>
+    <string name="ack_record">Enregistrement de l'accusé de réception</string>
     <string name="deleteAll_record">"Supprimer tout l'enregistrement"</string>
     <string name="ok_button">OK</string>
     <string name="delete_record">"Supprimer l'enregistrement"</string>
@@ -126,16 +126,16 @@
     <string name="bpp_cancel">Annuler</string>
     <string name="bpp_session_key_dialog_title">Saisir la clé pour %1$s</string>
     <string name="bpp_session_key_dialog_header">Clé de session Bluetooth requise</string>
-    <string name="bpp_authentication_timeout_message">Temps de saisie de la clé écoulé pour %1$s</string>
-    <string name="status_bpp_media_jam">Impression échoué suite à un bourrage papier</string>
+    <string name="bpp_authentication_timeout_message">Temps de saisi de la clé écoulé pour %1$s</string>
+    <string name="status_bpp_media_jam">Impression échouée suite à un bourrage papier</string>
     <string name="status_bpp_paused">"Impression échouée suite à une mise en pause de l'imprimante"</string>
     <string name="status_bpp_door_open">Impression échouée à cause du tiroir ouvert</string>
     <string name="status_bpp_media_low">Impression échouée pour cause de manque de papier</string>
-    <string name="status_bpp_media_empty">Impression échouée car plus de papier</string>
+    <string name="status_bpp_media_empty">Impression échouée par manque de papier</string>
     <string name="status_bpp_output_area_almost_full">Impression échouée en raison de la zone de sortie presque complète</string>
     <string name="status_bpp_output_area_full">Impression échouée en raison de la zone de sortie complète</string>
     <string name="status_bpp_marker_supply_low">"Impression échouée car le niveau d'encre est bas"</string>
-    <string name="status_bpp_marker_supply_empty">"Impression échouée pour cause cartouche d'encre vide"</string>
+    <string name="status_bpp_marker_supply_empty">"Impression échouée car la cartouche d'encre est vide"</string>
     <string name="status_bpp_marker_failure">"Impression échouée pour cause d'erreur de communication"</string>
     <string name="status_bpp_stopped_by_printer">"Impression arrêtée par l'imprimante"</string>
     <string name="status_bpp_aborted_by_printer">"Impression arrêtée par l'utilisateur"</string>
@@ -145,7 +145,7 @@
     <string name="status_bpp_canceled_by_user">Impression annulée par un utilisateur</string>
     <string name="status_bpp_sucess">Impression terminée avec succès</string>
     <string name="status_bpp_disconnected">Connexion Bluetooth perdue</string>
-    <string name="ftp_acceptance_dialog_title">%1$s demande un accès aux dossiers de votre téléphone. Accordez vous cet accès à %2$s?</string>
+    <string name="ftp_acceptance_dialog_title">%1$s demande un accès aux dossiers de votre téléphone. Accordez vous cet accès à %2$s ?</string>
     <string name="ftp_acceptance_dialog_header">Accès aux dossiers du téléphone</string>
     <string name="ftp_session_key_dialog_title">Saisir la clé pour %1$s</string>
     <string name="ftp_session_key_dialog_header">Clé de session Bluetooth requise</string>
@@ -154,7 +154,7 @@
     <string name="ftp_notif_ticker">"Demandes d'accès aux dossiers"</string>
     <string name="ftp_notif_title">Requêtes FTP</string>
     <string name="ftp_notif_message">"Permettre l'accès aux dossiers racines à %1$s"</string>
-    <string name="map_acceptance_dialog_title">%1$s demande un accès aux dossiers de votre téléphone. Accordez vous cet accès à %2$s?</string>
+    <string name="map_acceptance_dialog_title">%1$s demande un accès aux dossiers de votre téléphone. Accordez vous cet accès à %2$s ?</string>
     <string name="map_acceptance_dialog_header">Accès aux dossiers du téléphone</string>
     <string name="map_session_key_dialog_title">Saisir la clé pour %1$s</string>
     <string name="map_session_key_dialog_header">Clé de session Bluetooth requise</string>

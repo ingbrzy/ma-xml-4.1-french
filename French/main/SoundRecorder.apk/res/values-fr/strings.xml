@@ -48,7 +48,7 @@
   <string name="record_list">Liste des enregistrements</string>
   <string name="record_saving">Sauvegarde de l\'enregistrement en cours, merci de patienter !</string>
   <string name="recording">Enregistrement...</string>
-  <string name="recording_stopped">Enregistrement a cessé</string>
+  <string name="recording_stopped">L\'enregistrement a cessé</string>
   <string name="sd_card_not_available">La carte SD n\'est pas disponible</string>
   <string formatted="false" name="second">%d secondes</string>
   <string name="storage_is_full">Il n\'y a plus d\'espace libre</string>

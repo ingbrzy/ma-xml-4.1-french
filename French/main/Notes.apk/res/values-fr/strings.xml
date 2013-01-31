@@ -53,7 +53,7 @@
   <string name="menu_export_text">Exporter le texte</string>
   <string name="menu_folder_change_name">Renommer le dossier</string>
   <string name="menu_font_large">Grand</string>
-  <string name="menu_font_normal">Moyenne</string>
+  <string name="menu_font_normal">Moyen</string>
   <string name="menu_font_size">Taille de police</string>
   <string name="menu_font_small">Petit</string>
   <string name="menu_font_super">Énorme</string>
@@ -96,7 +96,7 @@
   <string name="preferences_menu_change_account">Modifier les paramètres du compte de synchronisation</string>
   <string name="preferences_menu_remove_account">Supprimer le compte de synchronisation</string>
   <string name="preferences_title">Paramètres</string>
-  <string name="preferences_toast_cannot_change_account">Impossible de modifier le compte parce qu\'une synchronisation est en cours</string>
+  <string name="preferences_toast_cannot_change_account">Impossible de modifier le compte lorsqu\'une synchronisation est en cours</string>
   <string name="preferences_toast_success_set_accout">%1$s a été défini comme compte de synchronisation</string>
   <string name="search">Notes</string>
   <string name="search_hint">Rechercher des notes</string>
