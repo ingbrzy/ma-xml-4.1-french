@@ -150,10 +150,10 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="paytool_alipay">Alipay</string>
   <string name="paytool_edit_hint">Montant de la recharge (RMB):</string>
   <string name="paytool_edit_limit">Inférieure à %1$s</string>
-  <string name="paytool_error_denomination">S'il vous plaît entrez le bon montant de la recharge</string>
+  <string name="paytool_error_denomination">S\'il vous plaît entrez le bon montant de la recharge</string>
   <string name="paytool_error_install">L\'installation du plugin de sécurité mobile %1$s a échoué</string>
   <string name="paytool_error_msp">La recharge %1$s a échoué !</string>
-  <string name="paytool_msp_not_installed">Vous n'avez pas installé le plugin de sécurité mobile %1$s, l'installer maintenant ?</string>
+  <string name="paytool_msp_not_installed">Vous n\'avez pas installé le plugin de sécurité mobile %1$s, l\'installer maintenant ?</string>
   <string name="paytool_picker_hint">Montant de la recharge Mi Credit</string>
   <string name="paytool_tenpay">Tenpay</string>
   <string name="prepaid_china_mobile">China Mobile</string>
