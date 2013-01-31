@@ -17,7 +17,7 @@
   <string-array name="pref_content_plugins_choices">
     <item>Toujours activé</item>
     <item>À la demande</item>
-    <item>Désactivées</item>
+    <item>Désactivés</item>
   </string-array>
   <string-array name="pref_homepage_choices">
     <item>Page en cours</item>

@@ -100,7 +100,7 @@
   <string name="pref_exposure_title">Exposition</string>
   <string name="pref_restore_detail">Restaurer les paramètres par défaut</string>
   <string name="pref_restore_title">Paramètres appareil photo</string>
-  <string name="pref_video_effect_default">aucun</string>
+  <string name="pref_video_effect_default">Aucun</string>
   <string name="pref_video_effect_title">Effets</string>
   <string name="pref_video_quality_default">5</string>
   <string name="pref_video_quality_entry_1080p">HD</string>

@@ -49,7 +49,7 @@
     <string name="status_network_error">Problème de connexion.</string>
     <string name="error_loading_message_body">Impossible de charger le texte du message. Il est possible que ce dernier soit trop volumineux.</string>
     <string name="cannot_move_protocol_not_supported_toast">"Les messages ne peuvent pas être déplacés, car cette action n'est pas compatible avec les comptes POP3."</string>
-    <string name="cannot_move_multiple_accounts_toast">Impossible de déplacer le message, car la sélection comprend plusieurs comptes.</string>
+    <string name="cannot_move_multiple_accounts_toast">Impossible de déplacer le message car la sélection comprend plusieurs comptes.</string>
     <string name="cannot_move_special_mailboxes_toast">"Impossible de déplacer les messages se trouvant dans les dossiers \"Brouillons\", \"Boîte d'envoi\" et \"Messages envoyés\"."</string>
     <string name="notification_to_account">à %1$s</string>
     <string name="notification_multiple_new_messages_fmt">%1$d nouveaux messages</string>

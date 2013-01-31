@@ -37,7 +37,7 @@
   <string name="button_next">Suivant</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Arrière</string>
-  <string name="call_title">Journal des appels</string>
+  <string name="call_title">Journal d\'appel</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_backup">Annuler la sauvegarde</string>
   <string name="cancel_restore">Annuler la restauration</string>
@@ -59,7 +59,7 @@
   <string name="current_account">Connecté en tant que: %s</string>
   <string name="current_sim">Carte SIM actuelle</string>
   <string name="data_no_enough_space">Pas assez d\'espace libre dans la mémoire interne, libérez de l\'espace et essayez à nouveau</string>
-  <string name="data_no_enough_space_message">La restauration a peut-être échouée, veuillez libérer un peu d\'espace de stockage interne et essayez à nouveau</string>
+  <string name="data_no_enough_space_message">La restauration a peut-être échoué, veuillez libérer un peu d\'espace de stockage interne et essayer à nouveau</string>
   <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
   <string name="delete">Supprimer</string>
   <string name="delete_backup_confirm">La sauvegarde sélectionnée sera supprimée, en êtes-vous sûr ?</string>
@@ -85,7 +85,7 @@
   <string name="import_from_xiaomi_account_hint2">Remarque : Passez à l\'étape suivante si la sauvegarde existe déjà</string>
   <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder les contacts sur d\'autres appareils, sauf MI-ONE</string>
   <string name="local_app_name">Sauvegarde</string>
-  <string name="local_backup_window_title">Données de sauvegarde locales</string>
+  <string name="local_backup_window_title">Données de sauvegarde locale</string>
   <string name="local_home_title">Sauvegarde locale</string>
   <string name="local_no_backup">Aucune sauvegarde locale</string>
   <string name="local_restore_window_title">Restauration locale</string>

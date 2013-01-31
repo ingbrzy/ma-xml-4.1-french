@@ -78,7 +78,7 @@
   <string name="filter_to">A</string>
   <string name="find_device">Localiser le périphérique</string>
   <string name="find_device_check_phone_error_title">Impossible d\'activer la localisation de l\'appareil</string>
-  <string name="find_device_disabled_notice">Vous pouvez la ré-ouvrir via Paramètres - Synchronisation de comptes - Compte Xiaomi</string>
+  <string name="find_device_disabled_notice">Vous pouvez la réouvrir via Paramètres - Synchronisation de comptes - Compte Xiaomi</string>
   <string name="find_device_disabled_title">Localisation de l\'appareil désactivée</string>
   <string name="find_device_disabling">Désactivation...</string>
   <string name="find_device_enabling">Activation...</string>
@@ -123,7 +123,7 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="micloud_on_pc_notice">Visitez i.xiaomi.com à partir de votre ordinateur pour gérer vos données</string>
   <string name="micloud_password_confirm_hint">Confirmer mot passe</string>
   <string name="micloud_password_error_inconsistent">Les mots de passe ne correspondent pas</string>
-  <string name="micloud_password_req_notice">8~16 caractères, peut contenir des chiffres et des lettres, sensible à la casse</string>
+  <string name="micloud_password_req_notice">8 à 16 caractères, peut contenir des chiffres et des lettres, sensible à la casse</string>
   <string name="micloud_reg_new">S\'inscrire</string>
   <string name="micloud_resend_active_email">Renvoyer le mail d\'activation</string>
   <string name="micloud_title">MiCloud</string>

@@ -118,7 +118,7 @@
   <string name="theme_update_request_content">Le thème doit être mis à jour pour être fonctionnel. Ceci peut utiliser du trafic réseau, cliquez sur mise à jour pour continuer</string>
   <string name="theme_update_request_title">Mise à jour du thème</string>
   <string name="theme_upgrade_request_cancel">Annuler</string>
-  <string name="theme_upgrade_request_content">Vos thèmes locaux devraient être convertis pour améliorer l\'efficacité. Ceci peut prendre quelques minutes et le téléphone pourrait sembler bloqué. Convertir les thèmes maintenant ?</string>
+  <string name="theme_upgrade_request_content">Vos thèmes locaux devraient être convertis pour en améliorer l\'efficacité. Ceci peut prendre quelques minutes et le téléphone pourrait sembler bloqué. Convertir les thèmes maintenant ?</string>
   <string name="theme_upgrade_request_title">Conversion de thème nécessaire</string>
   <string name="theme_upgrade_request_yes">OK</string>
   <string name="third_party_pickers_activity_title">Définir %1$s</string>

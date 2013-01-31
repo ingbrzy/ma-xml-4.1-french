@@ -30,10 +30,10 @@
   <string formatted="false" name="channel_format">"%s  %s MHZ"</string>
   <string name="channel_postfix">MHZ</string>
   <string name="clear_search_history">Effacer l\'historique de recherche</string>
-  <string name="click_to_shuffle">Cliquez pour tout mélanger</string>
+  <string name="click_to_shuffle">Cliquer pour mélanger</string>
   <string name="confirm">Confirmer</string>
   <string name="continue_when_wifi_disconnect">Continuer à écouter de la musique en ligne via le réseau mobile</string>
-  <string name="correct_id3_by_internet">Autocorriger l\'ID3 avec Internet</string>
+  <string name="correct_id3_by_internet">Auto-corriger l\'ID3 avec Internet</string>
   <string name="correct_id3_failed">Correction des données ID3 échouée !</string>
   <string name="correct_id3_not_support">La correction de l\'ID3 n\'est pas prise en charge par ce type de fichier</string>
   <string name="correct_id3_open_other_connect">Veuillez lancer la correction de l\'ID3 en utilisant les paramètres Internet mobile</string>

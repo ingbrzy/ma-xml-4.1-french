@@ -21,7 +21,7 @@
   <string name="accessibility_button_voice">Débuter la recherche vocale</string>
   <string name="accessibility_state_frozen">Sauvegarder la page</string>
   <string name="accessibility_state_incognito">Page privée</string>
-  <string name="accessibility_transition_navscreen">Gestionnaire des onglets</string>
+  <string name="accessibility_transition_navscreen">Gestionnaire d\'onglet</string>
   <string name="account">Compte</string>
   <string name="account_chooser_dialog_title">Choisir compte</string>
   <string name="action">Se connecter</string>
@@ -150,7 +150,7 @@
   <string name="export_bookmark_sucess">L\'exportation des signets vers la carte SD a été effectué.</string>
   <string name="exported_bookmark_file_name">Mes favoris</string>
   <string name="file_picker_new_folder">Nouveau dossier</string>
-  <string name="file_picker_sdcard_not_found">Aucune carte SD n\'est détectée, vérifiez si l\'appareil est connecté en USB ou en utilisation.</string>
+  <string name="file_picker_sdcard_not_found">Aucune carte SD n\'est détectée, vérifiez si l\'appareil est n\'est pas connecté en USB ou en utilisation.</string>
   <string name="find_on_page">Rechercher sur la page</string>
   <string name="folder_name">Nom du dossier</string>
   <string name="forward">Avancer</string>

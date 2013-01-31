@@ -16,8 +16,8 @@
   <string name="administrative_enable">Menu Administration activé</string>
   <string name="advanced_settings">Paramètres facultatifs</string>
   <string name="advanced_settings_container">conteneur de paramètres avancés</string>
-  <string name="advanced_settings_hide">▽ Touchez pour masquer tout</string>
-  <string name="advanced_settings_show">▷ Touchez pour afficher tous</string>
+  <string name="advanced_settings_hide">▽ Touchez pour tout masquer</string>
+  <string name="advanced_settings_show">▷ Touchez pour tout afficher</string>
   <string name="advanced_settings_title">Paramètres avancés</string>
   <string name="advertisements_disable">Publicités désactivées</string>
   <string name="advertisements_enable">Publicités activées</string>
@@ -509,7 +509,7 @@
   <string name="labelCF">Transfert d\'appel</string>
   <string name="labelCFB">Transférer si occupé</string>
   <string name="labelCFNRc">Transférer si injoignable</string>
-  <string name="labelCFNRy">Transféré si pas de réponse</string>
+  <string name="labelCFNRy">Transférer si aucune réponse</string>
   <string name="labelCFU">Toujours transférer</string>
   <string name="labelCW">Appel en attente</string>
   <string name="labelCallerId">Affichage du numéro</string>
