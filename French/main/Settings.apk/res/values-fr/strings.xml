@@ -1143,7 +1143,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="pref_button_light_summary">Indicateur de la touche Menu, Accueil et Retour</string>
   <string name="pref_operational_key">Clé utilisable</string>
   <string name="pref_volume_category_title">Volume</string>
-  <string name="pref_volume_wake_summary">Presser les boutons de volume réactive l'écran. Utile si le bouton Power est difficile d\'accès</string>
+  <string name="pref_volume_wake_summary">Presser les boutons de volume réactive l\'écran. Utile si le bouton Power est difficile d\'accès</string>
   <string name="pref_volume_wake_title">Eveil par boutons volume</string>
   <string name="preference_change_password_title">Modifier mot de passe</string>
   <string name="preferred_media_app_summary">Choisissez le lecteur de musique</string>
@@ -2025,7 +2025,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="wifi_wapi_cert_uninstall_button">Supprimer</string>
   <string name="wifi_wapi_certification_dont_exist">Le mot de passe réseau que vous avez entré est incorrect. Veuillez réessayer.</string>
   <string name="wifi_wapi_fail_to_auth">Authetification WAPI échouée. Veuillez vérifier la validité des certificats</string>
-  <string name="wifi_wapi_fail_to_init">Impossible d'ouvrir les certificats WAPI. Stockage des identifiants indisponible ou non connecté</string>
+  <string name="wifi_wapi_fail_to_init">Impossible d\'ouvrir les certificats WAPI. Stockage des identifiants indisponible ou non connecté</string>
   <string name="wifi_wapi_psk_type">Type de mot de passe</string>
   <string name="wifi_wapi_user_cert">Certificat utilisateur</string>
   <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>

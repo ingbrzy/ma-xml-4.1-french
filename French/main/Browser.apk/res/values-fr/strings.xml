@@ -157,7 +157,7 @@
   <string name="geolocation_permissions_prompt_dont_share">Refuser</string>
   <string formatted="false" name="geolocation_permissions_prompt_message">%s veut connaître votre emplacement</string>
   <string name="geolocation_permissions_prompt_remember">Se souvernir des préferences</string>
-  <string name="geolocation_permissions_prompt_share">Partager l'emplacement</string>
+  <string name="geolocation_permissions_prompt_share">Partager l\'emplacement</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Ce site peut accéder à votre localisation. Changez cela dans Paramètres &gt; Avancés &gt; Options Sites Web.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Ce site ne peut pas accéder à votre localisation. Changez cela via Paramètres &gt; Avancés &gt; Options Sites Web.</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Annuler</string>

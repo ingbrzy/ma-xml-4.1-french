@@ -11,7 +11,7 @@
   <string name="albums">Albums</string>
   <string name="alert">"Avis d\'information"</string>
   <string name="alert_message_initial_cloud">Le système va automatiquement télécharger les anciennes et nouvelles photos et captures d\'écran seulement lorsqu\'il y a une connexion WiFi.</string>
-  <string name="alert_message_open_sync">Sync est requis, souhaitez-vous l'ouvrir sync maintenant ?</string>
+  <string name="alert_message_open_sync">Sync est requis, souhaitez-vous l\'ouvrir sync maintenant?</string>
   <string name="alert_message_sync_histoy_power_on">Par défaut, l\'historique d\'images est synchronisé uniquement lors de la charge. Vous pouvez utiliser le menu Paramètre pour modifier l\'option.</string>
   <string name="all_album">Tout</string>
   <string name="all_albums_desc">Album(s)</string>

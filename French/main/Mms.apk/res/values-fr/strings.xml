@@ -348,7 +348,7 @@
   <string name="pref_title_system_mms_priority">L\'application a la priorité de réception des MMS</string>
   <string name="pref_title_wake_up_screen">Allumer l\'écran</string>
   <string name="preferences_title">Paramètres</string>
-  <string name="prepare_send">Prépare l'envoi...</string>
+  <string name="prepare_send">Prépare l\'envoi...</string>
   <string name="preview">Aperçu</string>
   <string name="preview_slideshow">Aperçu</string>
   <string name="priority_high">Élevée</string>

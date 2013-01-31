@@ -113,7 +113,7 @@
     <string name="app_name">Partage Bluetooth</string>
     <string name="insert_record">"Insérer l'enregistrement"</string>
     <string name="update_record">"Confirmer l'enregistrement"</string>
-    <string name="ack_record">Enregistrement de l'accusé de réception</string>
+    <string name="ack_record">Enregistrement de l\'accusé de réception</string>
     <string name="deleteAll_record">"Supprimer tout l'enregistrement"</string>
     <string name="ok_button">OK</string>
     <string name="delete_record">"Supprimer l'enregistrement"</string>

@@ -85,7 +85,7 @@
   <string name="theme_component_title_photo_frame">Cadre photo</string>
   <string name="theme_component_title_ringtone">Sonnerie</string>
   <string name="theme_component_title_statusbar">Barre de statut</string>
-  <string name="theme_component_title_wallpaper">Fond d'écran</string>
+  <string name="theme_component_title_wallpaper">Fond d\'écran</string>
   <string name="theme_description_title_customized">Perso</string>
   <string name="theme_description_title_default">Par défaut</string>
   <string name="theme_format_wrong_content">Le format du thème est incorrect</string>
