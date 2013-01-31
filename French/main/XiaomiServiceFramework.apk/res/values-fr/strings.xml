@@ -147,6 +147,15 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="password_hint_text">6 à 16 caractères</string>
   <string name="pay_record">Historique des paiements</string>
   <string name="pay_record_empty">Aucun historique de paiement</string>
+  <string name="paytool_alipay">Alipay</string>
+  <string name="paytool_edit_hint">Montant de la recharge (RMB):</string>
+  <string name="paytool_edit_limit">Inférieure à %1$s</string>
+  <string name="paytool_error_denomination">S'il vous plaît entrez le bon montant de la recharge</string>
+  <string name="paytool_error_install">L\'installation du plugin de sécurité mobile %1$s a échoué</string>
+  <string name="paytool_error_msp">La recharge %1$s a échoué !</string>
+  <string name="paytool_msp_not_installed">Vous n'avez pas installé le plugin de sécurité mobile %1$s, l'installer maintenant ?</string>
+  <string name="paytool_picker_hint">Montant de la recharge Mi Credit</string>
+  <string name="paytool_tenpay">Tenpay</string>
   <string name="prepaid_china_mobile">China Mobile</string>
   <string name="prepaid_china_telcom">China Telecom</string>
   <string name="prepaid_china_unicom">China Unicom</string>
@@ -179,6 +188,8 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="progress_error_title">Rechargement échoué</string>
   <string name="progress_error_waiting">Toujours pas mis à jour, veuillez réessayer plus tard !</string>
   <string name="progress_loading">Traitement en cours, veuillez patienter...</string>
+  <string name="progress_paytool_creating">Génération commande de %1$s...</string>
+  <string name="progress_paytool_installing">Installation du plug-in de sécurité mobile %1$s...</string>
   <string name="progress_prepaid_creating">Génération de la commande de la recharge...</string>
   <string name="progress_querying">Traitement de la demande de paiement...</string>
   <string name="progress_submit_hint">Recharge effective dans 3 minutes environ</string>
@@ -202,6 +213,8 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="recharge_prepaid_title">Cartes de recharge prépayées</string>
   <string name="recharge_record">Historique des recharges</string>
   <string name="recharge_record_empty">Aucun historique de recharge</string>
+  <string name="recharge_tenpay_summary">Assistance de recharge Tenpay</string>
+  <string name="recharge_tenpay_title">Tenpay</string>
   <string name="reg_by_email_failure">Échec de l\'enregistrement: %1$s</string>
   <string name="reg_failed">Échec de l\'enregistrement</string>
   <string name="remove_account_notice">Que voulez-vous faire avec les messages, les contacts, les journaux d\'appel et des notes déjà synchronisés sur votre appareil ?</string>
@@ -231,11 +244,12 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="sync_settings">Paramètres de sync.</string>
   <string name="sync_sub_dspt">Un SMS sera envoyé pour activer le service</string>
   <string name="title_activate">Activer votre compte Xiaomi</string>
-  <string name="title_alipay">Recharger via Alipay</string>
+  <string name="title_alipay">Recharger par Alipay</string>
   <string name="title_login">Connectez-vous à votre compte Xiaomi</string>
   <string name="title_mili_center">Centre Mi Crédits</string>
   <string name="title_pay_record">%1$s historique(s) de paiements</string>
   <string name="title_payment">Paiements mobiles Xiaomi</string>
+  <string name="title_paytool">Recharger par %1$s</string>
   <string name="title_prepaid">Recharger par carte</string>
   <string name="title_recharge">Recharger Mi Crédits</string>
   <string name="title_recharge_record">Historique des recharges</string>
