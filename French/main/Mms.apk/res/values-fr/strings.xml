@@ -450,9 +450,9 @@
   <string name="timed_message_to">À</string>
   <string name="title_date_type">Horodatage du message</string>
   <string name="title_timed_message_dialog">Définir l\'heure d\'envoi de ce message</string>
-  <string name="to_address_label">A :</string>
+  <string name="to_address_label">À :</string>
   <string name="to_count">%d au total</string>
-  <string name="to_hint">A</string>
+  <string name="to_hint">À</string>
   <string name="to_label">"À "</string>
   <string name="to_send_wrapper">Sera envoyé à %s</string>
   <string name="too_many_attachments">Nombre maximum de pièces jointes (%1$s) dépassé. Seuls les premiers %2$s seront ajoutés</string>

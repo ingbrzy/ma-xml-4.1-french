@@ -46,7 +46,7 @@ Note: Des applications ayant des permissions pourraient causer l\'instabilité d
   <string name="Generic_Operating">En cours...</string>
   <string name="Generic_Optimize">Optimiser</string>
   <string name="Generic_Service_Disabled">Le service est désactivé</string>
-  <string name="Generic_Service_Enabled">Le service est actif</string>
+  <string name="Generic_Service_Enabled">Le service est activé</string>
   <string name="Generic_Shortcut">Menu contextuel</string>
   <string name="Generic_ShowSystemApp">Afficher le système des applications</string>
   <string name="Generic_Summary_Disabled">Désactivé</string>

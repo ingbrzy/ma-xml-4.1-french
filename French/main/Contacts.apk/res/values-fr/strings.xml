@@ -459,7 +459,7 @@ Pour ajouter un contact à la liste de favoris :
 • Accédez-y depuis n\'importe quel navigateur Web.
 • Sauvegardez vos contacts en toute sécurité.\"</string>
   <string name="no_contact_details">Aucune information supplémentaire pour ce contact</string>
-  <string name="no_contact_name">Aucun nom de contact a été stocké</string>
+  <string name="no_contact_name">Aucun nom de contact n\'a été stocké</string>
   <string name="no_contacts_selected">Aucun contact sélectionné</string>
   <string name="no_sdcard_message">Aucune carte SD détectée</string>
   <string name="no_sdcard_title">Aucune carte SD</string>

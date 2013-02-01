@@ -121,7 +121,7 @@
   <string name="delete">Supprimer</string>
   <string formatted="false" name="delete_bookmark_warning">Supprimer le signet \"%s\" ?</string>
   <string name="delete_folder">Supprimer le dossier</string>
-  <string name="delete_multi_bookmarks_alert_title">Êtes-vous sur de vouloir supprimer %1$s ?</string>
+  <string name="delete_multi_bookmarks_alert_title">Êtes-vous sûr de vouloir supprimer %1$s ?</string>
   <string name="disable_autofill">Désactiver le remplissage automatique</string>
   <string name="do_not_save">Annuler</string>
   <string formatted="false" name="download_no_sdcard_dlg_msg">Le stockage USB est requis pour le téléchargement %s.</string>
@@ -147,7 +147,7 @@
   <string name="exit_browser_warning">Quitter le navigateur ?</string>
   <string name="export_bookmark">Exporter les signets</string>
   <string name="export_bookmark_failure">L\'exportation des signets vers la carte SD a échoué !</string>
-  <string name="export_bookmark_sucess">L\'exportation des signets vers la carte SD a été effectué.</string>
+  <string name="export_bookmark_sucess">L\'exportation des signets vers la carte SD a été effectuée.</string>
   <string name="exported_bookmark_file_name">Mes favoris</string>
   <string name="file_picker_new_folder">Nouveau dossier</string>
   <string name="file_picker_sdcard_not_found">Aucune carte SD n\'est détectée, vérifiez si l\'appareil est n\'est pas connecté en USB ou en utilisation.</string>

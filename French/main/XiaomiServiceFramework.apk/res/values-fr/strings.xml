@@ -46,7 +46,7 @@
   <string name="enable_find_device_error">%1$s, impossible d\'activer la localisation de l\'appareil</string>
   <string name="error_auth_summary">Erreur d\'identification, veuillez réessayer</string>
   <string name="error_auth_title">Erreur de compte</string>
-  <string name="error_common_summary">Erreur système, réessayez plus tard</string>
+  <string name="error_common_summary">Erreur système, veuillez réessayer plus tard</string>
   <string name="error_common_title">Erreur système</string>
   <string name="error_dup_phone">Le téléphone a été enregistré</string>
   <string name="error_has_bought_summary">Vous avez déjà acheté ce produit</string>
@@ -56,7 +56,7 @@
   <string name="error_mili_summary">Mi Crédits insuffisant, veuillez recharger</string>
   <string name="error_mili_title">Mi crédits insuffisant</string>
   <string name="error_network">Erreur réseau</string>
-  <string name="error_network_summary">Une erreur réseau s\'est produite, veuillez vérifier que le réseau est actif puis réessayez</string>
+  <string name="error_network_summary">Une erreur réseau s\'est produite, veuillez vérifier que le réseau est actif puis réessayer</string>
   <string name="error_network_title">Erreur réseau</string>
   <string name="error_no_sms_service">Service SMS indisponible</string>
   <string name="error_password_summary">Merci de vérifier le mot de passe et essayez à nouveau</string>
@@ -76,7 +76,7 @@
   <string name="failed_to_send_activate_email">Impossible d\'envoyer un e-mail d\'activation</string>
   <string name="fee">%1$s Mi crédits</string>
   <string name="filter_query">Filtre de requête</string>
-  <string name="filter_to">A</string>
+  <string name="filter_to">À</string>
   <string name="find_device">Localiser le périphérique</string>
   <string name="find_device_check_phone_error_title">Impossible d\'activer la localisation de l\'appareil</string>
   <string name="find_device_disabled_notice">Vous pouvez la réouvrir via Paramètres - Synchronisation de comptes - Compte Xiaomi</string>

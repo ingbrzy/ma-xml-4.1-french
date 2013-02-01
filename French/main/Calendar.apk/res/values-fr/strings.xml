@@ -100,7 +100,7 @@
     <string name="delete_this_event_title">Cet événement va être supprimé.</string>
     <string name="change_response_title">Modifier la réponse</string>
     <string name="menu_general_preferences">Préférences générales</string>
-    <string name="menu_about_preferences">"A propos de l'application"</string>
+    <string name="menu_about_preferences">"À propos de l'application"</string>
     <string name="preferences_title">Paramètres</string>
     <string name="preferences_general_title">"Paramètres d'affichage de l'agenda"</string>
     <string name="preferences_reminder_title">Paramètres des rappels</string>

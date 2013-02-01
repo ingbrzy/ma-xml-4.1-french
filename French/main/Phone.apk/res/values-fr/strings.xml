@@ -74,7 +74,7 @@
   <string name="auto_ip_exception_summary_miui">%d au total</string>
   <string name="auto_ip_exception_summary_more_miui">,... %d au total</string>
   <string name="auto_ip_no_exceptions_miui">"Ajouter des numéros qui ne nécessitent pas de préfixe IP"</string>
-  <string name="auto_ip_remove_exception_numbers_confirm_miui">Êtes-vous sur de vouloir supprimer les %d numéros suivants ?</string>
+  <string name="auto_ip_remove_exception_numbers_confirm_miui">Êtes-vous sûr de vouloir supprimer les %d numéros suivants ?</string>
   <string name="auto_ip_setting_miui">Paramètres IP automatiques</string>
   <string name="auto_ip_summary_not_enabled">Innactif</string>
   <string name="auto_ip_support_local_numbers">Support des numéros locaux</string>
@@ -711,7 +711,7 @@
   <string name="pin2_invalid_or_name_is_too_long">Le FDN n\'a pas été mis à jour: vous avez entré un code PIN2 incorrect ou le nom est trop long.</string>
   <string name="pin2_lock_warning_miui">Veuillez noter que les fonctionnalités associées au PIN2 seront verrouillées en cas de nouvel échec !</string>
   <string name="pin2_locked_message_miui">PIN2 incorrect, les fonctionnalités associées au PIN2 sont verrouillées. Veuillez réinitialiser le code PIN2 avec le code PUK2.</string>
-  <string name="pin2_or_fdn_invalid">"FDN n\'a pas été mis à jour. Le code PIN2 est incorrecte, ou le numéro de téléphone a été rejetée."</string>
+  <string name="pin2_or_fdn_invalid">"FDN n\'a pas été mis à jour. Le code PIN2 est incorrect, ou le numéro de téléphone a été rejeté."</string>
   <string name="pinUnlocked">Carte SIM déverrouillée</string>
   <string name="pin_attempts_miui">Il vous reste %d essais</string>
   <string name="pin_changed">Modification du code PIN de la carte SIM</string>

@@ -26,7 +26,7 @@
   <string name="error_sdcard_export">Échec de l\'export, veuillez vérifier la carte SD</string>
   <string name="error_sdcard_unmounted">Carte SD occupée ou non lisible, veuillez essayer de nouveau</string>
   <string name="error_sync_cancelled">La synchronisation est annulée</string>
-  <string name="error_sync_internal">La synchronisation a échouée, une erreur interne s\'est produite</string>
+  <string name="error_sync_internal">La synchronisation a échoué, une erreur interne s\'est produite</string>
   <string name="error_sync_network">Échec de la synchronisation, veuillez vérifier les paramètres réseau et les paramètres du compte</string>
   <string name="error_widget_exist_for_send_to_desktop">Cette note existe déjà sur l\'écran d\'accueil</string>
   <string name="failed_sdcard_export">Export échoué</string>
@@ -111,7 +111,7 @@
   <string name="sync_progress_login">Ouvre une session sur %1$s...</string>
   <string name="sync_progress_syncing">Synchroniser les notes locales avec Google Task...</string>
   <string name="ticker_cancel">La synchronisation a été annulée</string>
-  <string name="ticker_fail">La synchronisation a échouée</string>
+  <string name="ticker_fail">La synchronisation a échoué</string>
   <string name="ticker_success">Synchronisation réussie</string>
   <string name="ticker_syncing">Synchronisation des notes en cours...</string>
   <string name="time_picker_dialog_title">Réglage du rappel</string>

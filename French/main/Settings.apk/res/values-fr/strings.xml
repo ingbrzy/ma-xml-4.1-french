@@ -530,7 +530,7 @@ Pour sélectionner les informations à synchroniser pour chaque compte, accédez
   <string name="data_usage_change_cycle">Modifier le cycle</string>
   <string name="data_usage_cycle">Cycle d\'util. des données</string>
   <string name="data_usage_cycle_editor_positive">Définir</string>
-  <string name="data_usage_cycle_editor_subtitle">A cette date chaque mois :</string>
+  <string name="data_usage_cycle_editor_subtitle">À cette date chaque mois :</string>
   <string name="data_usage_cycle_editor_title">Date de réinitialisation du cycle d\'utilisation</string>
   <string name="data_usage_disable_3g_limit">Définir limite des données 2G/3G</string>
   <string name="data_usage_disable_4g_limit">Définir la limite des données 4G</string>

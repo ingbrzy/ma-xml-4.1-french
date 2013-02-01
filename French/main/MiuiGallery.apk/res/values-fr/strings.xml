@@ -53,7 +53,7 @@
   <string name="cloud_albums">Albums du cloud</string>
   <string name="cloud_camera_display_name">Non trié</string>
   <string name="cloud_gallery_no_pictures">Aucune image trouvée dans MiCloud</string>
-  <string name="cloud_gallery_recyclebin_full">La corbeille du cloud pleine, veuillez vider la corbeille sur i.xiaomi.com.</string>
+  <string name="cloud_gallery_recyclebin_full">Corbeille du cloud pleine, veuillez vider la corbeille sur i.xiaomi.com.</string>
   <string name="cloud_gallery_setting">Paramètres de la galerie du cloud</string>
   <string name="cloud_gallery_space_full">Échec de l\'envoi ! Mémoire de la galerie cloud pleine</string>
   <string name="cloud_media_set_set">Albums du cloud</string>
@@ -129,7 +129,7 @@
   <string name="filllight">"Éclairage d\'appoint"</string>
   <string name="filllight_polymorphism">Eclairage d\'appoint</string>
   <string name="fisheye">Objectif fisheye</string>
-  <string name="fisheye_polymorphism">Oeil de poisson</string>
+  <string name="fisheye_polymorphism">Effet fisheye</string>
   <string name="flash">Flash</string>
   <string name="flash_off">Flash désactivé</string>
   <string name="flash_on">Flash déclenché</string>
