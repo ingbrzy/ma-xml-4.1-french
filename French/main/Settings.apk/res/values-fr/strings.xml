@@ -1200,7 +1200,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="radioInfo_display_packets">paquets</string>
   <string name="radioInfo_lac">LAC</string>
   <string name="radioInfo_menu_getPDP">Récupérer la liste PDP</string>
-  <string name="radioInfo_menu_viewADN">Afficher le carnet d\'adresses de la carte SIM</string>
+  <string name="radioInfo_menu_viewADN">Afficher le carnet d\'adresse de la carte SIM</string>
   <string name="radioInfo_menu_viewFDN">Afficher les numéros autorisés</string>
   <string name="radioInfo_menu_viewSDN">Afficher les numéros de service</string>
   <string name="radioInfo_phone_idle">Inactif</string>
@@ -1364,7 +1364,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="search_settings_summary">Gérer les paramètres de recherche et l\'historique</string>
   <string name="search_silent">Silencieux</string>
   <string name="search_sms_received">SMS reçu</string>
-  <string name="search_status_bar">Barre de statut</string>
+  <string name="search_status_bar">Barre d\'état</string>
   <string name="search_sync">Synchroniser</string>
   <string name="search_tether">Tether</string>
   <string name="search_unlock_set">Déverrouiller</string>

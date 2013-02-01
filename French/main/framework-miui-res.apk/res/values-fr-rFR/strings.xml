@@ -373,8 +373,8 @@
   <string name="perm_get_user_info_lab">Obtenir des informations du compte Xiaomi</string>
   <string name="perm_send_push_dspt">Autoriser les messages push à Xiaomi</string>
   <string name="perm_send_push_lab">Envoyer un message push</string>
-  <string name="perm_tigger_toggle_dspt">Permettre aux applications d\'utiliser les boutons du widget de la barre de statut</string>
-  <string name="perm_tigger_toggle_lab">Utiliser les boutons du widget de la barre de statut</string>
+  <string name="perm_tigger_toggle_dspt">Permettre aux applications d\'utiliser les boutons du widget de la barre d\'état</string>
+  <string name="perm_tigger_toggle_lab">Utiliser les boutons du widget de la barre d\'état</string>
   <string name="perm_use_find_device">Localiser le périphérique</string>
   <string name="perm_use_pin_security">Utiliser la sécurité du code PIN</string>
   <string name="permdesc_accessNote">Autorise l\'application à lire et modifier vos notes stockées sur votre téléphone. Les applications malicieuses peuvent en profiter pour les envoyer à d\'autres personnes ou les supprimer.</string>

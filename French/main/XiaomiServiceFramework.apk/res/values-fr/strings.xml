@@ -17,7 +17,7 @@
   <string name="alipay_msp_not_installed">Le plug-in de sécurité mobile Alipay n\'est pas installé, l\'installer maintenant ?</string>
   <string name="alipay_picker_hint">Sélectionnez le montant de la recharge Mi Crédit:</string>
   <string name="app_name">Xiaomi Services Framework</string>
-  <string name="bad_authentication">Échec d\'authentification, identifiant ou/et mot de passe incorrect</string>
+  <string name="bad_authentication">Échec d\'authentification, identifiant et/ou mot de passe incorrect</string>
   <string name="balance">Solde: %1$s Mi Crédit</string>
   <string name="basic_info">Informations de base</string>
   <string name="btn_activate">Activer</string>

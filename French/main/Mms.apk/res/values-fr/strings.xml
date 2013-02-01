@@ -308,7 +308,7 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Récupérer automatiquement les messages en itinérance</string>
   <string name="pref_summary_new_message_popup">Afficher un pop-up quand un nouveau message est reçu</string>
   <string name="pref_summary_new_message_popup_when_secure">Aucune notification en mode visiteur</string>
-  <string name="pref_summary_notification_body_enabled">Prévisualiser les messages sur l\'écran de verrouillage et sur la barre de statut</string>
+  <string name="pref_summary_notification_body_enabled">Prévisualiser les messages sur l\'écran de verrouillage et sur la barre d\'état</string>
   <string name="pref_summary_notification_body_enabled_when_secure">La prévisualisation des messages est désactivée en mode visiteur</string>
   <string name="pref_summary_notification_enabled">Emettre un son et afficher l\'icône dans la barre d\'état lorsque vous recevez des messages</string>
   <string name="pref_summary_notification_vibrateWhen">Notification avec vibreur</string>

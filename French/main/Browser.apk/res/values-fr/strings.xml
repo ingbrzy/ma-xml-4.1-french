@@ -355,7 +355,7 @@
   <string name="pref_security_save_form_data">Se souvenir des données de formulaire</string>
   <string name="pref_security_save_form_data_summary">Se souvenir des données que j\'ai écrit dans les formulaires pour une utilisation ultérieure</string>
   <string name="pref_security_show_security_warning">Afficher les avertissements de sécurité</string>
-  <string name="pref_security_show_security_warning_summary">"Afficher un avertissement si il y a un problème avec la sécurité d\'un site"</string>
+  <string name="pref_security_show_security_warning_summary">"Afficher un avertissement s\'il y a un problème avec la sécurité d\'un site"</string>
   <string name="pref_set_homepage_to">Mettre sur</string>
   <string name="pref_text_zoom">Mise à l\'échelle du texte</string>
   <string name="pref_ua_mione_entry">Mi-one</string>
