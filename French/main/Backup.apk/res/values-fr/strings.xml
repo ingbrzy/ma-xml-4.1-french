@@ -83,7 +83,7 @@
   <string name="guarded_mode_dialog_title">Mode ninja</string>
   <string name="import_from_xiaomi_account_hint1">1.Installez MiTalk et connectez-vous.\n http://www.miliao.com\n\n3.	Entrez les paramètres MiTalk et choisissez \"Sauvegardez les contacts sur le compte Xiaomi\"</string>
   <string name="import_from_xiaomi_account_hint2">Remarque : Passez à l\'étape suivante si la sauvegarde existe déjà</string>
-  <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder les contacts sur d\'autres appareils, sauf le Mi-One</string>
+  <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder les contacts sur d\'autres appareils, sauf sur le Mi-One</string>
   <string name="local_app_name">Sauvegarde</string>
   <string name="local_backup_window_title">Données de sauvegarde locale</string>
   <string name="local_home_title">Sauvegarde locale</string>

@@ -71,7 +71,7 @@
   <string name="callrecordview_item_op_time_rejected">Appel rejeté</string>
   <string name="callrecordview_item_op_time_short_incoming">"Entrant:"</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Sortant:"</string>
-  <string name="callrecordview_menu_delete">Supprimer les journaux d\'appel</string>
+  <string name="callrecordview_menu_delete">Effacer le journal d\'appel</string>
   <string name="callrecordview_menu_delete_accepted">Effacer les appels reçus du journal d\'appel</string>
   <string name="callrecordview_menu_delete_all">Effacer tous les appels</string>
   <string name="callrecordview_menu_delete_called">Effacer le journal des appels émis</string>
@@ -106,7 +106,7 @@
   <string name="chat_yahoo">Chatter avec Yahoo</string>
   <string name="check_unsynchronized_accounts">Vérifier les contacts non synchronisés</string>
   <string name="clearCallLogConfirmation">Êtes-vous sûr de vouloir effacer le journal d\'appel ?</string>
-  <string name="clearCallLogConfirmation_title">Effacer le journal des appels</string>
+  <string name="clearCallLogConfirmation_title">Effacer le journal d\'appel</string>
   <string name="clearCallLogProgress_title">Effacer le journal d\'appel</string>
   <string name="clear_default">Effacer par défaut</string>
   <string name="click_close">Cliquez pour fermer</string>
@@ -372,7 +372,7 @@
   <string name="menu_new_contact_action_bar">Nouveau</string>
   <string name="menu_new_favorite_action_bar">Nouveau</string>
   <string name="menu_new_group_action_bar">Nouveau</string>
-  <string name="menu_redirect_calls_to_vm">Tous appels vers messag. voc.</string>
+  <string name="menu_redirect_calls_to_vm">Dévier vers la messagerie vocale</string>
   <string name="menu_removeStar">Supprimer des favoris</string>
   <string name="menu_search">Rechercher</string>
   <string name="menu_sendSMS">Envoyer un SMS au contact</string>
@@ -540,8 +540,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="recentCallsIconLabel">Journal des appels</string>
   <string name="recentCalls_addToContact">Ajouter</string>
   <string name="recentCalls_editNumberBeforeCall">Modifier le numéro avant l\'appel</string>
-  <string name="recentCalls_empty">journal d\'appel
-vide</string>
+  <string name="recentCalls_empty">Journal d\'appel vide</string>
   <string name="recentCalls_removeFromRecentList">Supprimer du journal d\'appel</string>
   <string name="recentCalls_trashVoicemail">Supprimer le message vocal</string>
   <string name="recent_contacts_label">Récent</string>

@@ -32,7 +32,7 @@
   <string name="app_name">Protection</string>
   <string name="black_white_list_tab_title">Listes</string>
   <string name="call_log_tab_title">Appels</string>
-  <string name="calllog">Journal des appels</string>
+  <string name="calllog">Journal d\'appel</string>
   <string name="cancel_button">Annuler</string>
   <string name="check_all">Effacer tout</string>
   <string name="check_nothing">Tout désélectionner</string>
@@ -49,7 +49,7 @@
   <string name="edit_blacklist">Modifier la note</string>
   <string name="edit_whitelist">Modifier la note</string>
   <string name="emptylist_fwlog_call">Tous les appels bloqués seront enregistrés ici.</string>
-  <string name="emptylist_fwlog_ms">Tous bloqués les messages, SMS et MMS, seront enregistrés ici.</string>
+  <string name="emptylist_fwlog_ms">Tous les messages bloqués, SMS et MMS, seront enregistrés ici.</string>
   <string name="enable_firewall">Activer le pare-feu</string>
   <string name="firewall_action">Opération de blocage</string>
   <string name="firewall_log">Paramètres du mode \"Ne pas déranger\"</string>
@@ -120,12 +120,12 @@
   <string name="opt_reject_blacklist_stranger_summary">Les appels seront rejetés à partir de la liste noire mais seront autorisés à partir de la liste blanche</string>
   <string name="remove">Supprimer</string>
   <string name="remove_all_keywords">Êtes-vous sûr de vouloir supprimer tous les mots clés ?</string>
-  <string name="remove_call_log">Supprimer tous les journaux d\'appel ?</string>
+  <string name="remove_call_log">Effacer le journal d\'appel ?</string>
   <string name="remove_contact">Supprimer le contact sélectionné ?</string>
   <string name="remove_delete">Supprimer</string>
   <string name="remove_inf">Supprimer les informations sélectionnées ?</string>
   <string name="remove_keyword">Êtes-vous sûr de vouloir supprimer ce mot clé ?</string>
-  <string name="remove_sms">Supprimer tous les journaux de messages ?</string>
+  <string name="remove_sms">Supprimer tous les messages du journal ?</string>
   <string name="save_button">Enregistrer</string>
   <string name="show_firewall_notification">Afficher les notifications de pare-feu</string>
   <string name="show_notification">Afficher les notifications</string>

@@ -142,14 +142,14 @@
   <string name="call_forwarding_number_hint_miui">Entrez le numéro de transfert à</string>
   <string name="call_forwarding_settings">Paramètres de renvoi d\'appel</string>
   <string name="call_forwarding_settings_miui">Paramètres de renvoi d\'appel</string>
-  <string name="call_log_number_limit_key_title">Les entrées de journal maximal</string>
-  <string name="call_log_number_limit_miui">Limiter les éléments de journal d\'appel</string>
+  <string name="call_log_number_limit_key_title">Entrées maximales du journal</string>
+  <string name="call_log_number_limit_miui">Limiter les éléments du journal d\'appel</string>
   <string name="call_log_number_limit_setting_switcher">Restrictions</string>
-  <string name="call_log_number_limit_setting_switcher_summary">Limiter la capacité de stockage du journal d\'appel pour assurer l\'efficacité</string>
+  <string name="call_log_number_limit_setting_switcher_summary">Limiter la capacité de stockage du journal d\'appel pour en assurer l\'efficacité</string>
   <string name="call_log_number_limit_setting_title">Paramètres de stockage du journal d\'appel</string>
   <string name="call_log_number_limit_subsummary">%d</string>
-  <string name="call_log_number_limit_summary_miui">Limiter les enregistrements de journal d\'appel permettra d\'améliorer l\'efficacité</string>
-  <string name="call_log_number_limit_title">Limite de stockage des journaux d\'appel</string>
+  <string name="call_log_number_limit_summary_miui">Limiter les enregistrements du journal d\'appel permettra d\'améliorer son efficacité</string>
+  <string name="call_log_number_limit_title">Limiter de stockage du journal d\'appel</string>
   <string name="call_lost">L\'appel a été perdu.</string>
   <string name="call_lost_title">Appel perdu</string>
   <string name="call_priority">Appel sortant via SIP</string>
@@ -233,11 +233,11 @@
   <string name="change_pin2_miui">Changer le code PIN2</string>
   <string name="change_pin_miui">Changer le code PIN de la SIM</string>
   <string name="clir_choices_hide_number_miui">Masquer le numéro</string>
-  <string name="clir_choices_network_default_miui">Paramètre par défaut du réseau</string>
+  <string name="clir_choices_network_default_miui">Paramètres par défaut du réseau</string>
   <string name="clir_choices_show_number_miui">Afficher le numéro</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">Fermer</string>
-  <string name="command_error_fdn_failure_miui">Cette opération n\'est pas autorisée lorsque la correction du numéro d\'appel est activé (FDN), réessayez après l\'avoir désactivé.</string>
+  <string name="command_error_fdn_failure_miui">Cette opération n\'est pas autorisée lorsque la correction du numéro d\'appel est activé (FDN), réessayez après l\'avoir désactivée.</string>
   <string name="command_error_generic_failure_miui">Impossible de terminer cette opération, veuillez réessayer plus tard.</string>
   <string name="command_error_illegal_sim_or_me_miui">Échec de la sélection du réseau à cause d\'une mauvaise carte SIM/ME.</string>
   <string name="command_error_invalid_response_miui">Réponse invalide du réseau, veuillez réessayer plus tard.</string>
@@ -255,7 +255,7 @@
   <string name="confCall">Conférence téléphonique</string>
   <string name="confirmPin2Label">Confirmer le nouveau code PIN2</string>
   <string name="confirmPinLabel">Confirmer le nouveau code PIN</string>
-  <string name="confirm_delete_message_title_miui">Vous allez supprimer ces messages d\'attribution personnalisés.</string>
+  <string name="confirm_delete_message_title_miui">Vous allez supprimer ces messages d\'attribution personnalisée.</string>
   <string name="confirm_delete_sim_entry_miui">Supprimer les %d contacts sélectionné sur la carte SIM ?</string>
   <string name="confirm_no_countrycode_for_custom_location_miui">Entrez le numéro sans l\'indicatif du pays.</string>
   <string name="confirm_pin2_hint_miui">Confirmer le nouveau code PIN2</string>
@@ -278,7 +278,7 @@
   <string name="current_areacode_sum_miui">Indicatif régional de l\'emplacement actuel, ou indicatif régional d\'itinérance si vous êtes en itinérance. Par exemple: 010</string>
   <string name="current_areacode_sum_set_miui">Emplacement de l\'indicatif régional actuel: %s</string>
   <string name="custom_location_location_hint_miui">Nom</string>
-  <string name="custom_location_number_hint_miui">Indicatif régional telle que 010, numéro de groupe tel que 68#####</string>
+  <string name="custom_location_number_hint_miui">Indicatif régional tel que 010, numéro de groupe tel que 68#####</string>
   <string name="cw_title_miui">Appel en attente</string>
   <string name="data_enable_summary">Autoriser l\'accès aux données sur le réseau mobile</string>
   <string name="data_enabled">Connexions de données</string>
@@ -444,7 +444,7 @@
   <string name="general_news_settings">Actualités générales</string>
   <string name="get_pin2">Saisir le code PIN2</string>
   <string name="get_smsc_address_error_miui">Impossible d\'obtenir le numéro du centre SMS, veuillez recommencer plus tard.</string>
-  <string name="get_smsc_address_timeout_miui">Délai dépassé pour obtenir le numéro du centre SMS, veuillez recommencer plus tard.</string>
+  <string name="get_smsc_address_timeout_miui">Délai d'attente pour obtenir le numéro du centre SMS dépassé, veuillez recommencer plus tard.</string>
   <string name="goPrivate">Modifier en Appel privé</string>
   <string name="go_private_miui">Modifier en Appel privé</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Préférences réseau GSM/UMTS</string>
@@ -493,7 +493,7 @@
   <string name="international_enable">Actualités internationales activées</string>
   <string name="internet_phone">Appel Internet</string>
   <string name="invalidPin">Entrez un code PIN composé de 4 à 8 chiffres</string>
-  <string name="invalidPin2">Saisir un code PIN2 comptant entre 4 et 8 chiffres</string>
+  <string name="invalidPin2">Saisir un code PIN2 comptant de 4 à 8 chiffres</string>
   <string name="invalidPuk2">Entrez un code PUK2 de 8 chiffres</string>
   <string name="invalid_new_pin2_miui">Nouveau code PIN2 invalide, saisissez un code comportant de 4 à 8 chiffres.</string>
   <string name="invalid_new_pin_miui">Nouveau code PIN invalide, saisissez un code comportant de 4 à 8 chiffres.</string>
@@ -778,7 +778,7 @@ Appuyez sur OK pour continuer.</string>
   <string name="registration_status_checking_status">"Vérification de l\'état..."</string>
   <string name="registration_status_done">Réception des appels</string>
   <string name="registration_status_failed_try_later">Impossible d\'enregistrer le compte. %s. Veuillez essayer plus tard</string>
-  <string name="registration_status_invalid_credentials">Impossible d\'enregistrer le compte. Nom utilisateur ou mot de passe incorrect</string>
+  <string name="registration_status_invalid_credentials">Impossible d\'enregistrer le compte. Nom d\'utilisateur ou mot de passe incorrect</string>
   <string name="registration_status_no_data">Impossible d\'enregistrer le compte. Pas de connexion Internet</string>
   <string name="registration_status_no_wifi_data">Impossible d\'enregistrer le compte. Pas de connexion Wi-Fi</string>
   <string name="registration_status_not_receiving">Pas de réception d\'appel</string>
@@ -830,7 +830,7 @@ Appuyez sur OK pour continuer.</string>
   <string name="roaming">Itinérance</string>
   <string name="roaming_disable">Connecter aux services de données en itinérance</string>
   <string name="roaming_enable">Connecter aux services de données en itinérance</string>
-  <string name="roaming_reenable_message">"Vous avez perdu la connectivité des données, car vous avez laissé l\'itinérance désactivée sur votre réseau domestique"</string>
+  <string name="roaming_reenable_message">"Vous avez perdu la connectivité des données car vous avez laissé l\'itinérance désactivée sur votre réseau domestique"</string>
   <string name="roaming_warning">L\'itinérance implique des frais supplémentaires. Continuer ?</string>
   <string name="rsp_unlock_failed">La demande de déverrouillage du prestataire de services de l\'UIM hrpd a échoué.</string>
   <string name="ruim_unlock_failed">La demande de déverrouillage de l\'UIM UIM a échoué.</string>
@@ -849,7 +849,7 @@ Appuyez sur OK pour continuer.</string>
   <string name="set_primary_summary">Utilisé pour appels sort.</string>
   <string name="set_primary_title">Déf. comme cpte principal</string>
   <string name="set_smsc_address_error_miui">Impossible d\'obtenir le numéro du centre SMS, veuillez recommencer plus tard.</string>
-  <string name="set_smsc_address_timeout_miui">Le temps d\'attente a été écoulé lorsque l\'on a tenté de définir le numéro du centre SMS, veuillez réessayer plus tard.</string>
+  <string name="set_smsc_address_timeout_miui">Le délai d\'attente lors de la tentative de redéfinition du numéro de centre SMS a écoulé, veuillez réessayer plus tard.</string>
   <string name="set_smsc_address_title_miui">Définir le numéro du centre SMS</string>
   <string name="settings_label">Réseau</string>
   <string name="simContacts_airplaneMode">Pour importer des contacts de la carte SIM, désactivez le mode Hors-ligne</string>
@@ -912,7 +912,7 @@ Appuyez sur OK pour continuer.</string>
   <string name="sliding_up_hint_miui">Glisser vers le haut pour rejeter</string>
   <string name="sms_content">Contenu du message</string>
   <string name="sms_sender">De</string>
-  <string name="sports_news_settings">Infos Sports</string>
+  <string name="sports_news_settings">Infos Sport</string>
   <string name="stock_quotes_disable">Cotations boursières désactivées</string>
   <string name="stock_quotes_enable">Cotations boursières activées</string>
   <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
@@ -981,7 +981,7 @@ La prochaine période démarre dans %2$d jours (%3$s).\"</string>
   <string name="tty_mode_option_title_miui">Mode TTY</string>
   <string name="tty_mode_summary">Activer le mode TTY</string>
   <string name="tty_mode_title">Mode TTY</string>
-  <string name="turn_off_auto_select_confirm_message_miui">Le signal du réseau est peut-être indisponibles, êtes-vous sûr de vouloir désactiver cette option ?</string>
+  <string name="turn_off_auto_select_confirm_message_miui">Le signal du réseau est peut-être indisponible, êtes-vous sûr de vouloir désactiver cette option ?</string>
   <string name="turn_off_auto_select_title_miui">Désactiver la sélection automatique du réseau</string>
   <string name="turn_off_auto_select_warning_message_miui">Après la désactivation de cette option, il utilisera le réseau que vous avez sélectionné manuellement et ne sera pas enregistré à un autre réseau</string>
   <string name="turn_off_miui">Extinction</string>
@@ -999,7 +999,7 @@ La prochaine période démarre dans %2$d jours (%3$s).\"</string>
   <string name="username_title">Nom d\'utilisateur</string>
   <string name="ussdRunning">Exécution du code USSD...</string>
   <string name="verifyFailed">Les codes PIN de la carte SIM ne correspondent pas. Veuillez réessayer</string>
-  <string name="verifyNewPin">Entrez de nouveau le code PIN de la carte SIM pour confirmer</string>
+  <string name="verifyNewPin">Entrez à nouveau le code PIN de la carte SIM pour le confirmer</string>
   <string name="vibrate_on_ring_title">Vibreur et sonnerie</string>
   <string name="vm_change_failed">"Impossible de changer le numéro de messagerie vocale. Contactez votre opérateur si ce problème persiste."</string>
   <string name="vm_changed">N° de messagerie vocale modifié</string>
@@ -1018,7 +1018,7 @@ La prochaine période démarre dans %2$d jours (%3$s).\"</string>
   <string name="voicemail_miui">Messagerie vocale</string>
   <string name="voicemail_notification_ringtone_title">Sonnerie</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibreur</string>
-  <string name="voicemail_notification_vibrate_when_default">jamais</string>
+  <string name="voicemail_notification_vibrate_when_default">Jamais</string>
   <string name="voicemail_notification_vibrate_when_title">Vibreur</string>
   <string name="voicemail_number_not_set">(Non défini)</string>
   <string name="voicemail_provider">Service de messagerie vocale</string>
@@ -1027,7 +1027,7 @@ La prochaine période démarre dans %2$d jours (%3$s).\"</string>
   <string name="voicemail_settings">Param. messagerie vocale</string>
   <string name="voicemail_settings_for">Paramètres %s</string>
   <string name="voicemail_settings_miui">Param. messagerie vocale</string>
-  <string name="voicemail_settings_number_hint_miui">Saisir le numéro de la boite vocale</string>
+  <string name="voicemail_settings_number_hint_miui">Saisir le numéro de la messagerie vocale</string>
   <string name="voicemail_settings_number_label">N° de messagerie vocale</string>
   <string name="voicemail_settings_number_title_miui">N° de messagerie vocale</string>
   <string name="wait_prompt_str">Envoyer les tonalités suivantes ?</string>

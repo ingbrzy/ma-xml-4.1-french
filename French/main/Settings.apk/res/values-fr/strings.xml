@@ -1740,7 +1740,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="virus_scan_app_waiting">En attente de</string>
   <string name="virus_scanner_auto_update">Mise à jour automatique</string>
   <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
-  <string name="virus_scanner_kinsoft_provider">La prise en charge de la sécurité est fournie par Kingsoft téléphone Guardian</string>
+  <string name="virus_scanner_kinsoft_provider">La prise en charge de la sécurité est fournie par Kingsoft Phone Guardian</string>
   <string name="virus_scanner_lib_already_latest">Base de données antivirus est à jour</string>
   <string name="virus_scanner_lib_update">Mise à jour de base de données antivirus disponible</string>
   <string name="virus_scanner_lib_update_failed">Échec de la mise à jour de base de données Antivirus !</string>
