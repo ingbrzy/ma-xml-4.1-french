@@ -237,7 +237,7 @@
   <string name="clir_choices_show_number_miui">Afficher le numéro</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">Fermer</string>
-  <string name="command_error_fdn_failure_miui">Cette opération n\'est pas autorisée lorsque la correction du numéro d\'appel est activé (FDN), réessayez après l\'avoir désactivée.</string>
+  <string name="command_error_fdn_failure_miui">Cette opération n\'est pas autorisée lorsque la correction du numéro d\'appel est activée (FDN), réessayez après l\'avoir désactivée.</string>
   <string name="command_error_generic_failure_miui">Impossible de terminer cette opération, veuillez réessayer plus tard.</string>
   <string name="command_error_illegal_sim_or_me_miui">Échec de la sélection du réseau à cause d\'une mauvaise carte SIM/ME.</string>
   <string name="command_error_invalid_response_miui">Réponse invalide du réseau, veuillez réessayer plus tard.</string>

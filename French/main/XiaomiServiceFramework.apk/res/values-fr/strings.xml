@@ -217,7 +217,7 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="recharge_tenpay_title">Tenpay</string>
   <string name="reg_by_email_failure">Échec de l\'enregistrement: %1$s</string>
   <string name="reg_failed">Échec de l\'enregistrement</string>
-  <string name="remove_account_notice">Que voulez-vous faire avec les messages, les contacts, le journal d\'appel et des notes déjà synchronisés sur votre appareil ?</string>
+  <string name="remove_account_notice">Que voulez-vous faire des messages, des contacts, du journal d\'appel et des notes déjà synchronisés sur votre appareil ?</string>
   <string name="removing_account">Suppression du compte...</string>
   <string name="send_sms_for_sync_notice">Un SMS d\'activation sera envoyé, continuer ?</string>
   <string name="send_sms_for_sync_title">Service de synchronisation non activé</string>
