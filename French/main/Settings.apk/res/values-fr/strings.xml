@@ -426,14 +426,14 @@
   <string name="camera_key_action_app_title">Ouvrir l\'application</string>
   <string name="camera_key_action_category_title">Utiliser si l\'appareil photo n\'est pas ouvert</string>
   <string name="camera_key_action_none_title">Aucune action</string>
-  <string name="camera_key_action_setting_title">Bouton MI</string>
+  <string name="camera_key_action_setting_title">Bouton Mi</string>
   <string name="camera_key_action_shortcut_call">Appeler</string>
   <string name="camera_key_action_shortcut_home">Retour à l\'écran d\'accueil</string>
   <string name="camera_key_action_shortcut_screenshot">Capture d\'écran</string>
   <string name="camera_key_action_shortcut_search">Recherche Google</string>
   <string name="camera_key_action_shortcut_title">Raccourci</string>
   <string name="camera_key_action_shortcut_wake">Verrouiller/Déverrouiller l\'appareil</string>
-  <string name="camera_key_action_title">Bouton MI</string>
+  <string name="camera_key_action_title">Bouton Mi</string>
   <string name="camera_key_action_toggle_title">Gâchette</string>
   <string name="cancel">Annuler</string>
   <string name="cant_sync_dialog_message">La synchronisation de cet élément est désactivée. Pour l\'activer, activez temporairement les données d\'arrière-plan et la synchronisation automatique.</string>
@@ -1041,7 +1041,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="menu_stats_refresh">Actualiser</string>
   <string name="menu_stats_total">Utilisation totale</string>
   <string name="menu_stats_unplugged">%1$s depuis dernier recharg.</string>
-  <string name="milicenter_settings">Paramètres de MiCredit</string>
+  <string name="milicenter_settings">Paramètres de Mi Credit</string>
   <string name="misc_files">Fichiers divers</string>
   <string name="misc_files_selected_count">%1$d sur %2$d sélectionné(s)</string>
   <string name="misc_files_selected_count_bytes">%1$s sur %2$s</string>

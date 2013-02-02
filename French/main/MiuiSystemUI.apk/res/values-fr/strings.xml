@@ -71,14 +71,14 @@
   <string name="camera_key_action_app_title">Ouvrir l\'application</string>
   <string name="camera_key_action_category_title">Utiliser si l\'appareil photo n\'est pas ouvert</string>
   <string name="camera_key_action_none_title">Aucune action</string>
-  <string name="camera_key_action_setting_title">Bouton MI</string>
+  <string name="camera_key_action_setting_title">Bouton Mi</string>
   <string name="camera_key_action_shortcut_call">Appeler</string>
   <string name="camera_key_action_shortcut_home">Retour à l\'écran d\'accueil</string>
   <string name="camera_key_action_shortcut_screenshot">Capture d\'écran</string>
   <string name="camera_key_action_shortcut_search">Rechercher</string>
   <string name="camera_key_action_shortcut_title">Raccourci</string>
   <string name="camera_key_action_shortcut_wake">Verrouiller/Déverrouiller l\'appareil</string>
-  <string name="camera_key_action_title">Bouton MI</string>
+  <string name="camera_key_action_title">Bouton Mi</string>
   <string name="camera_key_action_toggle_title">Gâchette</string>
   <string name="chooseUsbActivity">Sélectionnez une application pour le périphérique USB</string>
   <string name="compat_mode_help_body">Lorsqu\'une application est conçue pour un écran plus petit, une commande de zoom apparaît au niveau de l\'horloge</string>

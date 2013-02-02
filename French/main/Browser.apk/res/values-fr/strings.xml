@@ -358,7 +358,7 @@
   <string name="pref_security_show_security_warning_summary">"Afficher un avertissement s\'il y a un problème avec la sécurité d\'un site"</string>
   <string name="pref_set_homepage_to">Mettre sur</string>
   <string name="pref_text_zoom">Mise à l\'échelle du texte</string>
-  <string name="pref_ua_mione_entry">Mi-one</string>
+  <string name="pref_ua_mione_entry">Mi-One</string>
   <string name="pref_ua_string">Chaîne de l\'User agent</string>
   <string name="pref_ua_title">Gestion de l\'User agent</string>
   <string name="pref_use_instant_search">Recherche instantanée Google</string>
