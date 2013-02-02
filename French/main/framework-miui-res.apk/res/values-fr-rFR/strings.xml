@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activate">Activer</string>
-  <string name="activate_fail_notification_title">Veuillez ré-activer le service Xiaomi Sync </string>
+  <string name="activate_fail_notification_title">Veuillez ré-activer le service Xiaomi Sync</string>
   <string name="activating">Activation...</string>
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="all_resources">Tout</string>
@@ -252,13 +252,13 @@
   <string name="day_of_month">" %d"</string>
   <string name="delete">Supprimer</string>
   <string name="description_author">Auteur:</string>
-  <string name="description_designer">Concepteur :</string>
+  <string name="description_designer">Concepteur : </string>
   <string name="description_download">Téléchargement:</string>
   <string name="description_downloadtime">Durée de téléchargement:</string>
   <string name="description_file">Fichier:</string>
   <string name="description_missed">N/A</string>
   <string name="description_modifiedtime">Mis à jour : </string>
-  <string name="description_size">Taille :</string>
+  <string name="description_size">Taille : </string>
   <string name="description_unknown">Inconnu</string>
   <string name="description_uploadtime">Durée d\'Upload:</string>
   <string name="description_version">Version du téléphone:</string>

@@ -122,9 +122,9 @@
   <string name="file_info_dimension">Résolution:</string>
   <string name="file_info_duration">Durée:</string>
   <string name="file_info_geo_location">Emplacement:</string>
-  <string name="file_info_path">Chemin d\'accès :</string>
-  <string name="file_info_size">Taille :</string>
-  <string name="file_info_title">Titre:</string>
+  <string name="file_info_path">Chemin d\'accès : </string>
+  <string name="file_info_size">Taille : </string>
+  <string name="file_info_title">Titre : </string>
   <string name="file_size">Taille fichier</string>
   <string name="filllight">"Éclairage d\'appoint"</string>
   <string name="filllight_polymorphism">Eclairage d\'appoint</string>
@@ -164,7 +164,7 @@
   <string name="height">Hauteur</string>
   <string name="highlight">Reflets</string>
   <string name="highlight_polymorphism">Surligner</string>
-  <string name="home_my_captured_items">photo(s) total</string>
+  <string name="home_my_captured_items">photo(s) au total</string>
   <string name="how_many_pics">%d Photos</string>
   <string name="how_many_sub_folders">%d Dossiers</string>
   <string name="how_many_videos">%d Vidéos</string>
@@ -175,7 +175,7 @@
   <string name="import_fail">"Échec de l\'importation."</string>
   <string name="input_cloudfolder_name">Nom du dossier cloud</string>
   <string name="internal_camera_folder_display_name">Photos internes de la caméra</string>
-  <string name="internal_miui_capture_screen_folder_display_name">Captures d\'écran interne</string>
+  <string name="internal_miui_capture_screen_folder_display_name">Captures d\'écran internes</string>
   <string name="internal_sd_card">Carte SD interne</string>
   <string name="iso">ISO</string>
   <string name="loading">Chargement...</string>

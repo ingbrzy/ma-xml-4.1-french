@@ -13,7 +13,7 @@
   <string name="alipay_edit_unit">Yuan</string>
   <string name="alipay_error_denomination">Veuillez entrez le montant de la recharge correctement</string>
   <string name="alipay_error_install">Échec de l\'installation du plugin de sécurité mobile Alipay !</string>
-  <string name="alipay_error_msp">Echec de la recharge Alipay</string>
+  <string name="alipay_error_msp">Échec de la recharge Alipay</string>
   <string name="alipay_msp_not_installed">Le plug-in de sécurité mobile Alipay n\'est pas installé, l\'installer maintenant ?</string>
   <string name="alipay_picker_hint">Sélectionnez le montant de la recharge Mi Credit:</string>
   <string name="app_name">Xiaomi Services Framework</string>
@@ -109,7 +109,7 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="micloud_account_label">Compte: %1$s</string>
   <string name="micloud_account_name">Compte Xiaomi</string>
   <string name="micloud_account_not_actived">Compte non activé</string>
-  <string name="micloud_active_email_sent_1">Nous avons envoyé un lien d\'activation à votre adresse e-mail :</string>
+  <string name="micloud_active_email_sent_1">Nous avons envoyé un lien d\'activation à votre adresse e-mail : </string>
   <string name="micloud_active_email_sent_2">Confirmer</string>
   <string name="micloud_active_email_visit">Visitez %s</string>
   <string name="micloud_activing_account">Activation de votre compte</string>

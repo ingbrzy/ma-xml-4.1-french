@@ -36,9 +36,9 @@
     <string name="hint_where">Lieu</string>
     <string name="hint_description">Description</string>
     <string name="hint_attendees">Invités</string>
-    <string name="creating_event">Evénement créé</string>
-    <string name="saving_event">Evénement enregistré</string>
-    <string name="empty_event">Evénement vide non créé</string>
+    <string name="creating_event">Événement créé</string>
+    <string name="saving_event">Événement enregistré</string>
+    <string name="empty_event">Événement vide non créé</string>
     <string name="creating_event_with_guest">Invitations envoyées</string>
     <string name="saving_event_with_guest">Mises à jour envoyées</string>
     <string name="alert_title">Notifications du calendrier</string>
@@ -76,13 +76,13 @@
     <string name="show_newer_events">Touchez pour voir les événements après %1$s</string>
     <string name="search_title">Rechercher</string>
     <string name="edit_event_label">Détails</string>
-    <string name="edit_label">Editer</string>
+    <string name="edit_label">Éditer</string>
     <string name="delete_label">Supprimer</string>
     <string name="save_label">Enregistrer</string>
     <string name="discard_label">Annuler</string>
     <string name="snooze_all_label">Tout éteindre temporairement</string>
     <string name="dismiss_all_label">Tout éteindre définitivement</string>
-    <string name="does_not_repeat">Evénement unique</string>
+    <string name="does_not_repeat">Événement unique</string>
     <string name="daily">Quotidien</string>
     <string name="every_weekday">Chaque semaine (Lun-Ven)</string>
     <string name="weekly">Hebdomadaire (chaque %s)</string>
@@ -151,7 +151,7 @@
     <string name="accessibility_reminder_showmeas">"M'afficher en tant que"</string>
     <string name="accessibility_reminder_privacy">Confidentialité</string>
     <string name="day_view_new_event_hint">+ Nouvel événement</string>
-    <string name="template_announce_item_index">Evénement %1$s de %2$s.</string>
+    <string name="template_announce_item_index">Événement %1$s de %2$s.</string>
     <string name="local_calendar_display_name">Calendrier local</string>
     <string name="birthday_calendar_display_name">"Rappel d'anniversaire"</string>
     <string name="local_owner_account_name">Compte local</string>

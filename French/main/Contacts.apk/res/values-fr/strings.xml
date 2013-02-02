@@ -18,7 +18,7 @@
   <string name="add_organization">Ajouter une organisation</string>
   <string name="add_to_my_contacts">Ajouter à mes Contacts</string>
   <string name="aggregation_suggestion_edit_dialog_message">Basculer vers l\'édition du contact sélectionné ? Les informations que vous avez entrées jusqu\'à présent seront copiées.</string>
-  <string name="aggregation_suggestion_edit_dialog_title">Editer les contacts sélectionnés</string>
+  <string name="aggregation_suggestion_edit_dialog_title">Éditer les contacts sélectionnés</string>
   <string name="aggregation_suggestion_join_dialog_message">Associer ce contact au contact sélectionné ?</string>
   <string name="aggregation_suggestion_join_dialog_title">Fusionner les contacts</string>
   <string name="attach_photo_dialog_title">Photo du contact</string>
@@ -187,7 +187,7 @@
   <string name="description_image_button_pound">livre</string>
   <string name="description_image_button_seven">Sept</string>
   <string name="description_image_button_six">Six</string>
-  <string name="description_image_button_star">Etoile</string>
+  <string name="description_image_button_star">Étoile</string>
   <string name="description_image_button_three">Trois</string>
   <string name="description_image_button_two">Deux</string>
   <string name="description_image_button_zero">Zéro</string>
@@ -240,12 +240,12 @@
   <string name="eventLabelsGroup">Evén.</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">L\'export vers la carte SIM est terminé</string>
-  <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, Etes-vous sûr de vouloir continuer ?</string>
+  <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
   <string name="export_to_sdcard">Exporter vers la carte SD</string>
   <string name="export_to_sim">Exporter vers la carte SIM</string>
   <string name="export_vcard_description">Exporter la carte de visite sur la SD</string>
-  <string formatted="false" name="exporting_contact_failed_message">"Echec de l\'exportation des données des contacts. (Raison : %s)"</string>
-  <string name="exporting_contact_failed_title">"Echec de l\'exportation des données des contacts"</string>
+  <string formatted="false" name="exporting_contact_failed_message">"Échec de l\'exportation des données des contacts. (Raison : %s)"</string>
+  <string name="exporting_contact_failed_title">"Échec de l\'exportation des données des contacts"</string>
   <string formatted="false" name="exporting_contact_list_message">Exportation des données des contacts vers \"%s\"</string>
   <string name="exporting_contact_list_title">Exportation des contacts</string>
   <string formatted="false" name="exporting_vcard_canceled_title">Exportation de %s annulée</string>
@@ -499,7 +499,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="postal_city">Localité</string>
   <string name="postal_country">Country</string>
   <string name="postal_postcode">Code postal</string>
-  <string name="postal_region">Etat</string>
+  <string name="postal_region">État</string>
   <string name="postal_street">Adresse</string>
   <string name="pref_key_photo">Photo</string>
   <string name="pref_key_photo_word_summary">Sélectionner automatiquement une photo pour les contacts sans photo.</string>
@@ -536,7 +536,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="readOnlyContactDeleteConfirmation">Ce contact contient les informations de plusieurs comptes. Les informations de comptes en lecture seule seront masquées dans les listes des contacts et non supprimées</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contient des informations provenant de plusieurs comptes. Les informations de comptes de lecture seule seront masquées dans votre liste de contacts mais ne seront pas supprimées.</string>
   <string name="readOnlyContactWarning">Il est impossible de supprimer des contacts sur les comptes en lecture seule. Vous pouvez cependant les masquer dans vos contacts</string>
-  <string name="reading_vcard_failed_title">Echec lecture données carte de visite</string>
+  <string name="reading_vcard_failed_title">Échec lecture données carte de visite</string>
   <string name="recentCallsIconLabel">Journal des appels</string>
   <string name="recentCalls_addToContact">Ajouter</string>
   <string name="recentCalls_editNumberBeforeCall">Modifier le numéro avant l\'appel</string>
@@ -556,7 +556,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="scan_duplicate">"Recherche de données en double, veuillez patienter..."</string>
   <string formatted="false" name="scan_duplicate_message">Total de (%1$d) contacts avec doublons</string>
   <string name="scan_merge">Recherche d\'éventuels contacts en double, veuillez patientez...</string>
-  <string formatted="false" name="scanning_sdcard_failed_message">Echec de la recherche sur la carte SD (Raison : %s)</string>
+  <string formatted="false" name="scanning_sdcard_failed_message">Échec de la recherche sur la carte SD (Raison : %s)</string>
   <string name="scanning_sdcard_failed_title">Recherche impossible sur la carte SD</string>
   <string name="searchHint">Rechercher des contacts</string>
   <string name="search_bar_hint">Rechercher des contacts</string>
@@ -663,10 +663,10 @@ Pour ajouter un contact à la liste de favoris :
   <string name="upgrade_out_of_memory_uninstall">Désinstaller des applications</string>
   <string name="use_photo_as_primary">Utiliser cette image pour le contact</string>
   <string name="user_profile_contacts_list_header">Moi</string>
-  <string name="vcard_export_request_rejected_message">"Echec de l\'exportation de la carte de visite. Veuillez essayer plus tard"</string>
+  <string name="vcard_export_request_rejected_message">"Échec de l\'exportation de la carte de visite. Veuillez essayer plus tard"</string>
   <string formatted="false" name="vcard_export_will_start_message">%s sera exporté</string>
-  <string name="vcard_import_failed">Echec importation carte de visite</string>
-  <string name="vcard_import_request_rejected_message">"Echec de l\'importation de la carte de visite. Veuillez essayer plus tard"</string>
+  <string name="vcard_import_failed">Échec importation carte de visite</string>
+  <string name="vcard_import_request_rejected_message">"Échec de l\'importation de la carte de visite. Veuillez essayer plus tard"</string>
   <string formatted="false" name="vcard_import_will_start_message">%s sera importé</string>
   <string name="vcard_import_will_start_message_with_default_name">Le fichier sera importé</string>
   <string name="vcard_unknown_filename">Contact</string>

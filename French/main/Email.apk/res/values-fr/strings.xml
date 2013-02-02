@@ -123,7 +123,7 @@ Cc : %4$s
     <string name="message_compose_attachment_size">Impossible de joindre le fichier, car il est trop volumineux.</string>
     <string name="message_compose_insert_quick_response_list_title">Insérer une réponse rapide</string>
     <string name="message_compose_display_name">%1$s et %2$d autres</string>
-    <string name="message_view_to_label">À :</string>
+    <string name="message_view_to_label">À : </string>
     <string name="message_view_cc_label">Cc :</string>
     <string name="message_view_bcc_label">Cci :</string>
     <string name="message_view_date_label">Date :</string>

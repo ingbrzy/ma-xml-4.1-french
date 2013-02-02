@@ -163,5 +163,5 @@
     <string name="map_notif_ticker">"Demandes d'accès aux dossiers"</string>
     <string name="map_notif_title">Requêtes MAP</string>
     <string name="map_notif_message">"Permettre l'accès aux dossiers racines à %1$s"</string>
-    <string name="map_alert_conn_failed_message">Echec de la connexion Bluetooth MAP</string>
+    <string name="map_alert_conn_failed_message">Échec de la connexion Bluetooth MAP</string>
 </resources>

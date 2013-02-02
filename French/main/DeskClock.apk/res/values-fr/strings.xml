@@ -73,10 +73,10 @@ Vous pouvez aussi annuler cette alarme."</string>
     <string name="stopwatch_title">Chronomètre</string>
     <string name="timer_title">Minuteur</string>
     <string name="menu_add_worldclock">Ajouter un fuseau horaire</string>
-    <string name="menu_worldclock_edit">"Editer l'horloge mondiale"</string>
-    <string name="menu_alarmclock_edit">"Editer l'alarme"</string>
+    <string name="menu_worldclock_edit">"Éditer l'horloge mondiale"</string>
+    <string name="menu_alarmclock_edit">"Éditer l'alarme"</string>
     <string name="menu_delete">Supprimer</string>
-    <string name="menu_edit_systemtime">"Editer l'heure du système"</string>
+    <string name="menu_edit_systemtime">"Éditer l'heure du système"</string>
     <string name="delete_timezone_title">Supprimer le fuseau horaire</string>
     <string name="delelte_selected_timezone">Voulez vous vraiment supprimer le(s) fuseau(x) horaire(s) ?</string>
     <string name="wait_when_operating_data_message">Opération en cours, veuillez patienter.</string>

@@ -163,7 +163,7 @@
   <string name="screenshot_failed_text">Impossible d\'enregistrer la capture d\'écran. Le stockage USB est peut-être en cours d\'utilisation</string>
   <string name="screenshot_failed_title">Impossible de faire une capture d\'écran</string>
   <string name="screenshot_saved_text">Appuyer pour afficher la capture d\'écran</string>
-  <string name="screenshot_saved_title">Ecran capturé</string>
+  <string name="screenshot_saved_title">Écran capturé</string>
   <string name="screenshot_saving_text">Capture d\'écran en cours d\'enregistrement</string>
   <string name="screenshot_saving_ticker">Enregistrement capture d\'écran...</string>
   <string name="screenshot_saving_title">Enregistrement capture d\'écran...</string>
@@ -259,7 +259,7 @@
   <string name="usb_storage_message">Vous êtes connecté à votre ordinateur par l\'USB. Appuyer sur le bouton ci-dessous si vous souhaitez copier des fichiers entre votre ordinateur et la mémoire de stockage USB de votre appareil Android.</string>
   <string name="usb_storage_notification_message">Sélectionnez cette option pour copier des fichiers vers/depuis votre ordinateur.</string>
   <string name="usb_storage_notification_title">Périphérique USB connecté</string>
-  <string name="usb_storage_stop_message">Avant de désactiver la mémoire de stockage USB, assurez-vous que vous avez bien arrêter (\"Ejecter\") le périphérique USB visible de votre ordinateur.</string>
+  <string name="usb_storage_stop_message">Avant de désactiver la mémoire de stockage USB, assurez-vous que vous avez bien arrêter (\Éjecter\") le périphérique USB visible de votre ordinateur.</string>
   <string name="usb_storage_stop_notification_message">Sélectionnez cette option pour éjecter le périphérique USB.</string>
   <string name="usb_storage_stop_notification_title">Éjecter le périphérique USB</string>
   <string name="usb_storage_stop_title">Le périphérique de stockage USB est en cours d\'utilisation</string>

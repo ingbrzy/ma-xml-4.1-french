@@ -77,7 +77,7 @@
   <string name="permlab_read_settings">Lire les paramètres et les raccourcis de la page d\'accueil</string>
   <string name="permlab_uninstall_shortcut">Désinstaller des raccourcis</string>
   <string name="permlab_write_settings">Accéder en écriture aux paramètres et aux raccourcis de la page d\'accueil</string>
-  <string name="photo_adjust">Editer la photo</string>
+  <string name="photo_adjust">Éditer la photo</string>
   <string name="photo_confirm">Confirmer</string>
   <string name="photo_load_failed">Impossible de charger la photo !</string>
   <string name="pref_cell_layout_size">Format de la grille</string>

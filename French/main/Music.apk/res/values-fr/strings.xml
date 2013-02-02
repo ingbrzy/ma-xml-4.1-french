@@ -125,7 +125,7 @@
   <string name="load_channel_failed">Impossible de charger la liste des canaux, veuillez recommencer</string>
   <string name="load_channel_in_process">Charger la liste de canaux</string>
   <string name="loading">Chargement...</string>
-  <string name="lpa_off_hint">Vous devez désactiver le mode basse consommation pour activer l\'égaliseur, allez dans Paramètres-&gt; Système -&gt; Energie. La consommation de la batterie augmentera.</string>
+  <string name="lpa_off_hint">Vous devez désactiver le mode basse consommation pour activer l\'égaliseur, allez dans Paramètres-&gt; Système -&gt; Énergie. La consommation de la batterie augmentera.</string>
   <string name="lrc_progress_modify">Ajuster la vitesse de défilement des paroles</string>
   <string name="lrc_progress_modify_helper">Ajuster les vitesse de défilement des paroles en les faisant glisser vers le haut ou vers le bas</string>
   <string name="lrc_search_failed">Paroles introuvables !</string>
@@ -139,7 +139,7 @@
   <string name="lyric_picker_not_found">Le gestionnaire de fichier est introuvable sur le périphérique</string>
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Music</string>
-  <string name="menu_batch_selection">Editeur</string>
+  <string name="menu_batch_selection">Éditeur</string>
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Réseau mobile</string>
   <string name="modify_id3_for_list">La liste actuelle des informations des musiques ID3 sera modifiée</string>
@@ -148,7 +148,7 @@
   <string name="modify_tracks_id3_background">Modifier les informations ID3 des morceaux sélectionnées en arrière-plan</string>
   <string name="music_browser_label">Music</string>
   <string name="music_filter">Filtrer les fichiers</string>
-  <string name="music_filter_helper">Afin de cacher des fichiers qui ne sont pas liés à la musique, un filtre a été appliqué pour cacher les fichiers de moins de 800K. Le seuil est réglable, pour ceci allez dans paramètres / filtre de fichiers.</string>
+  <string name="music_filter_helper">Afin de cacher des fichiers qui ne sont pas liés à la musique, un filtre a été appliqué pour cacher les fichiers de moins de 800K. Le seuil est réglable, pour ceci allez dans paramètres &gt; filtre de fichiers.</string>
   <string name="music_picker_title">Sélectionnez la piste</string>
   <string name="music_settings">Paramètres</string>
   <string name="network_error">Aucune connexion réseau, veuillez vérifier vos paramètres réseau</string>
@@ -164,9 +164,9 @@
   <string name="online_music">Musique en ligne</string>
   <string name="online_search_hint">Rechercher des musiques en ligne</string>
   <string name="other_settings">Autres</string>
-  <string name="overwrite_confirm">Ecraser</string>
+  <string name="overwrite_confirm">Écraser</string>
   <string name="picker_song_add">Ajouter (%d)</string>
-  <string name="play_and_download">Ecouter et télécharger</string>
+  <string name="play_and_download">Écouter et télécharger</string>
   <string name="play_and_download_summary">Écouter la musique pendant le téléchargement</string>
   <string name="play_selection">Lire</string>
   <string name="playback_failed">Impossible de lire le titre demandé.</string>

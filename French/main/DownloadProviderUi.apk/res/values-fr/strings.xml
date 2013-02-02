@@ -20,7 +20,7 @@
   <string name="dialog_insufficient_space_on_external">Impossible de terminer le téléchargement. Il n\'y a pas assez d\'espace sur votre stockage externe.</string>
   <string name="dialog_media_not_found">Impossible de télécharger. Le support externe n\'est pas disponible.</string>
   <string name="dialog_queued_body">Ce fichier est mis en attente pour un futur téléchargement.</string>
-  <string name="dialog_title_not_available">Echec du téléchargement</string>
+  <string name="dialog_title_not_available">Échec du téléchargement</string>
   <string name="dialog_title_queued_body">Fichier non disponible</string>
   <string name="download_complete">Téléchargé</string>
   <string name="download_error">Échoué</string>

@@ -313,13 +313,13 @@
   <string name="description_image_button_pound">livre</string>
   <string name="description_image_button_seven">Sept</string>
   <string name="description_image_button_six">Six</string>
-  <string name="description_image_button_star">Etoile</string>
+  <string name="description_image_button_star">Étoile</string>
   <string name="description_image_button_three">Trois</string>
   <string name="description_image_button_two">Deux</string>
   <string name="description_image_button_zero">Zéro</string>
   <string name="description_search_button">Rechercher</string>
-  <string name="description_target_answer">Vous pouvez toujours configurer le remplissage de texte automatique via le Navigateur &gt; Paramètres &gt; Ecran général.</string>
-  <string name="description_target_answer_miui">Vous pouvez toujours configurer le remplissage de texte automatique via le Navigateur &gt; Paramètres &gt; Ecran général.</string>
+  <string name="description_target_answer">Vous pouvez toujours configurer le remplissage de texte automatique via le Navigateur &gt; Paramètres &gt; Écran général.</string>
+  <string name="description_target_answer_miui">Vous pouvez toujours configurer le remplissage de texte automatique via le Navigateur &gt; Paramètres &gt; Écran général.</string>
   <string name="description_target_decline">Refuser</string>
   <string name="description_target_decline_miui">Refuser</string>
   <string name="description_target_send_sms">Envoyer un SMS</string>
@@ -685,11 +685,11 @@
   <string name="ota_successful">Téléphone activé. Le lancement du service peut prendre jusqu\'à 15 minutes</string>
   <string name="ota_title_activate">Activer votre téléphone</string>
   <string name="ota_title_activate_success">Téléphone activé</string>
-  <string name="ota_title_problem_with_activation">Echec de l\'activation du téléphone</string>
+  <string name="ota_title_problem_with_activation">Échec de l\'activation du téléphone</string>
   <string name="ota_touch_activate">Un appel spécial est nécessaire pour activer le service du téléphone. Après avoir appuyé sur Activer, suivez les instructions pour activer votre téléphone</string>
   <string name="ota_touch_activate_new">Appuyez sur Activer pour appeler un numéro spécial qui activera votre appareil sur le réseau mobile de votre opérateur. Vous pourrez ensuite passer des appels et vous connecter aux réseaux de données mobiles</string>
   <string name="ota_try_again">Veuillez réessayer.</string>
-  <string name="ota_unsuccessful">Echec de l\'activation du téléphone. Vous devez vous déplacer dans une zone permettant une meilleure réception du signal (près d\'une fenêtre ou dehors). Réessayez ou appelez le service client pour plus d\'options</string>
+  <string name="ota_unsuccessful">Échec de l\'activation du téléphone. Vous devez vous déplacer dans une zone permettant une meilleure réception du signal (près d\'une fenêtre ou dehors). Réessayez ou appelez le service client pour plus d\'options</string>
   <string name="other_settings">Autres paramètres d\'appel</string>
   <string name="other_settings_miui">Autres paramètres d\'appel</string>
   <string name="password">Mot de passe</string>
@@ -728,7 +728,7 @@
   <string name="pref_custom_location_summary_miui">Personnaliser l\'attribution régionale et l\'attribution du numéro</string>
   <string name="pref_custom_location_title_miui">Personnaliser l\'attribution</string>
   <string name="prefer_2g">Réseaux 2G uniquement</string>
-  <string name="prefer_2g_summary">Economise la batterie</string>
+  <string name="prefer_2g_summary">Économise la batterie</string>
   <string name="preference_category_ringtone">Sonnerie</string>
   <string name="preferred_network_mode_cdma_evdo_summary">Mode réseau préféré : CDMA/EvDo</string>
   <string name="preferred_network_mode_cdma_only_summary">Mode réseau préféré : CDMA uniquement</string>
@@ -903,7 +903,7 @@ Appuyez sur OK pour continuer.</string>
   <string name="slide_to_answer_and_end_active">Faire glisser vers la droite pour répondre et terminer l\'appel actif</string>
   <string name="slide_to_answer_and_end_onhold">Faire glisser vers la droite pour répondre et terminer l\'appel en attente</string>
   <string name="slide_to_answer_and_hold">Faire glisser vers la droite pour répondre et mettre l\'appel actuel en attente</string>
-  <string name="slide_to_answer_hint">Vous pouvez toujours configurer le remplissage de texte automatique via le Navigateur &gt; Paramètres &gt; Ecran général.</string>
+  <string name="slide_to_answer_hint">Vous pouvez toujours configurer le remplissage de texte automatique via le Navigateur &gt; Paramètres &gt; Écran général.</string>
   <string name="slide_to_decline">Faire glisser vers la gauche pour rejeter l\'appel</string>
   <string name="slide_to_decline_hint">Refuser</string>
   <string name="slide_to_silence">Faire glisser vers la gauche pour arrêter la sonnerie</string>
@@ -1013,7 +1013,7 @@ La prochaine période démarre dans %2$d jours (%3$s).\"</string>
   <string name="voice_quality_ui_values_crisp_miui">Grésillements</string>
   <string name="voice_quality_ui_values_normal_miui">Normal</string>
   <string name="voicemail">Messagerie vocale</string>
-  <string name="voicemail_abbreviated">MV :</string>
+  <string name="voicemail_abbreviated">MV : </string>
   <string name="voicemail_default">Mon opérateur</string>
   <string name="voicemail_miui">Messagerie vocale</string>
   <string name="voicemail_notification_ringtone_title">Sonnerie</string>
