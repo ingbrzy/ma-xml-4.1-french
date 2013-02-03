@@ -87,7 +87,7 @@ Sortez du cadre quelques instants.</string>
   <string name="group_by_time">Par date</string>
   <string name="hdr_exit_button_text">Quitter le mode HDR</string>
   <string name="height">Hauteur</string>
-  <string name="image_file_name_format">\'IMG\'_aaaaMMJJ_HHmmss</string>
+  <string name="image_file_name_format">\'IMG\'_ddMMyyyy_HHmmss</string>
   <string name="import_complete">Importation terminée</string>
   <string name="import_fail">Échec de l\'importation !</string>
   <string name="iso">ISO</string>
@@ -456,7 +456,7 @@ Sortez du cadre quelques instants.</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Caméra</string>
   <string name="video_err">"Impossible de lire le fichier vidéo."</string>
-  <string name="video_file_name_format">\'VID\'_aaaaMMjj_HHmmss</string>
+  <string name="video_file_name_format">\'VID\'_ddMMyyyy_HHmmss</string>
   <string name="video_reach_size_limit">Taille maximale atteinte.</string>
   <string name="video_snapshot_hint">Appuyez pour prendre une photo pendant l\'enregistrement</string>
   <string name="videocamera_settings_label">Paramètres de la caméra vidéo</string>
