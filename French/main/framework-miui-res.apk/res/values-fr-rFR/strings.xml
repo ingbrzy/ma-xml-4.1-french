@@ -457,7 +457,7 @@
   <string name="status_bar_toggle_rotate">Rotation</string>
   <string name="status_bar_toggle_screen_button">Touches de l\'écran</string>
   <string name="status_bar_toggle_screenshot">"Captures d\'écran"</string>
-  <string name="status_bar_toggle_shutdown">Puissance</string>
+  <string name="status_bar_toggle_shutdown">Éteindre</string>
   <string name="status_bar_toggle_sync">Synchroniser</string>
   <string name="status_bar_toggle_sync_auto">Synchronisation automatique</string>
   <string name="status_bar_toggle_sync_manual">Synchroniser</string>

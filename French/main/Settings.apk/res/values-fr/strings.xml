@@ -1296,8 +1296,8 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="screen_color_temperature_adjust">Ajuster la température des couleurs</string>
   <string name="screen_compatibility_label">Compatibilité écran</string>
   <string name="screen_compatibility_text">Cette application n\'est peut-être pas conçue pour votre écran. Vous pouvez contrôler l\'ajustement de l\'application par rapport à votre écran ici</string>
-  <string name="screen_on_proximity_sensor_summary">Prévention des fonctions d\'appels si l\'appareil est dans la poche (via le détecteur de proximité).</string>
-  <string name="screen_on_proximity_sensor_title">signaler des abus</string>
+  <string name="screen_on_proximity_sensor_summary">Désactive les fonctions d\'appels si l\'appareil est dans la poche (via le détecteur de proximité).</string>
+  <string name="screen_on_proximity_sensor_title">Éviter les erreurs de manipulation</string>
   <string name="screen_saturation_adjust">Ajuster la saturation</string>
   <string name="screen_timeout">Mise en veille de l\'écran</string>
   <string name="screen_timeout_summary">Après %1$s d\'inactivité</string>

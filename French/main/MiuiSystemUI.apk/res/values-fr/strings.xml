@@ -130,8 +130,8 @@
   <string name="move_data_to_sdcard_title">Export des données internes sur la carte SD</string>
   <string name="no_vibrate_hint">Selon vos paramètres, les notifications d\'appels entrants et les sms ne vibreront pas, activer les vibrations n\'aura aucun effet</string>
   <string name="not_all_vibrate_hint">Selon vos paramètres, %1$s vibre, %2$s ne vibre pas, vous pouvez le modifier via les paramètres &gt; Sons &gt; Vibreur</string>
-  <string name="notification_icon_filter">Personnaliser les notification de la barre d\'état</string>
-  <string name="notification_icon_filter_hide">Personnaliser les notifications de la barre d\'état</string>
+  <string name="notification_icon_filter">Personnaliser les notifications</string>
+  <string name="notification_icon_filter_hide">Personnaliser les notifications</string>
   <string name="notification_icon_filter_list_empty_summary">La liste est vide</string>
   <string name="notification_icon_filter_menu_item_hide">Ne pas afficher les notifications de cette application dans la barre d\'état</string>
   <string name="notification_icon_filter_menu_item_show">Afficher les notifications de cette application dans la barre d\'état</string>
@@ -141,7 +141,7 @@
   <string name="notification_icon_filter_other_list">Liste des applications</string>
   <string name="notification_icon_filter_settings">Notifications</string>
   <string name="notification_icon_filter_settings_loading">Chargement, veuillez patienter...</string>
-  <string name="notification_icon_filter_show">Afficher les notifications dans la barre d\'état</string>
+  <string name="notification_icon_filter_show">Afficher les notifications de la barre d\'état</string>
   <string name="notification_icon_filter_summary">Désactiver cette option affichera les notifications de toutes les applications dans le coin supérieur gauche de la barre d\'état.</string>
   <string name="notification_icon_filter_title">Masquer les notification</string>
   <string name="notification_vibrate_hint">Notification</string>
@@ -172,7 +172,7 @@
   <string name="settings_expandable_under_keyguard">Extensible sur l\'écran de vérouillage</string>
   <string name="settings_expandable_under_keyguard_summary">ne fonctionne que sur l\'écran de vérouillage non sécurisé</string>
   <string name="settings_expanded_view">Notification en mode étendu</string>
-  <string name="settings_notification_icon">Notifications dans la barre d\'état</string>
+  <string name="settings_notification_icon">Notifications de la barre d\'état</string>
   <string name="settings_screenshot_notification_disabled">Afficher les informations de la capture d\'écran</string>
   <string name="settings_separator">,</string>
   <string name="settings_show_flow_info">Afficher les informations du trafic</string>
@@ -183,7 +183,7 @@
   <string name="settings_toggle_layout_style_applying">Modification du style des commutateurs...</string>
   <string name="settings_toggle_layout_style_compact">Compact</string>
   <string name="settings_toggle_layout_style_single_page">Page</string>
-  <string name="settings_toggle_position">Personnalisation de la position des commutateurs</string>
+  <string name="settings_toggle_position">Position des commutateurs</string>
   <string name="settings_toggle_position_divider_list">Les commutateurs placés au-dessus de la barre sont actifs</string>
   <string name="settings_toggle_position_divider_page">%1$d commutateurs placés au-dessus de la barre sont actifs</string>
   <string name="settings_toggle_position_reset">Réinitialiser les paramètres d\'activation/désactivation</string>
@@ -194,7 +194,7 @@
   <string name="sleep_notification_action_stop">Confirmer</string>
   <string name="status_bar_accessibility_dismiss_recents">Supprimer des applications de la liste des éléments récemment utilisés</string>
   <string name="status_bar_clear_all_button">Effacer</string>
-  <string name="status_bar_date_format">MMMM d, yyyy</string>
+  <string name="status_bar_date_format">d.MMMM yyyy</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_do_not_disturb_button">Ne pas déranger</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configurer les modes de saisie</string>

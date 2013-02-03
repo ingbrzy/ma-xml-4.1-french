@@ -2,7 +2,7 @@
 <resources>
   <string name="add_task">Ajouter une tâche</string>
   <string name="adding_upload_tasks">Ajout de tâches à partager.</string>
-  <string name="app_name">Explorateur de fichiers</string>
+  <string name="app_name">Explorateur</string>
   <string name="background">Télécharger en arrière-plan</string>
   <string name="bind_account">Lier au compte KuaiPan</string>
   <string name="bind_account_summary">Si vous avez déjà un compte KuaiPan vous pouvez l\'ajouter pour récupérer vos données personnelles</string>
@@ -102,7 +102,7 @@
   <string name="gbk_summary">Si vous utilisez l\'encodage GBK, par exemple l\'Explorateur Windows, choisissez ce type de codage pour éviter la présence de caractères chinois</string>
   <string name="gbk_title">GBK</string>
   <string name="guide_access_files_through_phone">« Vous pouvez également partager des fichiers par l\'intermédiaire de pages Web, ils seront alors affichés sur MiDrive dans votre téléphone »</string>
-  <string name="guide_access_files_through_web">« Votre fichier peut être consulté sur n\'importe quel ordinateur connecté à Internet »</string>
+  <string name="guide_access_files_through_web">Votre fichier peut être consulté sur n\'importe quel ordinateur connecté à Internet</string>
   <string name="guide_advance_tech">Techniques avancées</string>
   <string name="guide_begin_to_use">Commencer à utiliser MiDrive</string>
   <string name="guide_changes_sync">« Synchroniser les modifications sur tous vos appareils. C\'est trop fastoche !\"</string>

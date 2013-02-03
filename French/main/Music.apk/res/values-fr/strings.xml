@@ -138,7 +138,7 @@
   <string name="lyric_open_other_connect">Télécharger les paroles à l\'aide de la connexion Internet mobile</string>
   <string name="lyric_picker_not_found">Le gestionnaire de fichier est introuvable sur le périphérique</string>
   <string name="max_interval">90</string>
-  <string name="mediaplaybacklabel">Music</string>
+  <string name="mediaplaybacklabel">Musique</string>
   <string name="menu_batch_selection">Éditeur</string>
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Réseau mobile</string>
@@ -146,7 +146,7 @@
   <string name="modify_id3_for_selected">Les informations des musiques ID3 seront modifiées</string>
   <string name="modify_meta">Modifier Meta Info</string>
   <string name="modify_tracks_id3_background">Modifier les informations ID3 des morceaux sélectionnées en arrière-plan</string>
-  <string name="music_browser_label">Music</string>
+  <string name="music_browser_label">Musique</string>
   <string name="music_filter">Filtrer les fichiers</string>
   <string name="music_filter_helper">Afin de cacher des fichiers qui ne sont pas liés à la musique, un filtre a été appliqué pour cacher les fichiers de moins de 800K. Le seuil est réglable, pour ceci allez dans paramètres &gt; filtre de fichiers.</string>
   <string name="music_picker_title">Sélectionnez la piste</string>

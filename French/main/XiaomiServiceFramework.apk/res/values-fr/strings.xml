@@ -206,7 +206,7 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="recharge_alipay_summary">Recharge Alipay</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_denomination">%1$s yuan</string>
-  <string name="recharge_hint">1 yuan équivaut à 1 Mi Crédit</string>
+  <string name="recharge_hint">1 yuan équivaut à 1 Mi Credit</string>
   <string name="recharge_notification">Rechargement de %1$s Mi Credits</string>
   <string name="recharge_other">Choisir une autre méthode de paiement</string>
   <string name="recharge_prepaid_summary">Supporte les recharges China Mobile, China Unicom et China Telecom</string>
