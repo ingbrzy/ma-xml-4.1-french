@@ -194,7 +194,7 @@
   <string name="sleep_notification_action_stop">Confirmer</string>
   <string name="status_bar_accessibility_dismiss_recents">Supprimer des applications de la liste des éléments récemment utilisés</string>
   <string name="status_bar_clear_all_button">Effacer</string>
-  <string name="status_bar_date_format">d.MMMM yyy</string>
+  <string name="status_bar_date_format">d.MMMM yyyy</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_do_not_disturb_button">Ne pas déranger</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configurer les modes de saisie</string>
