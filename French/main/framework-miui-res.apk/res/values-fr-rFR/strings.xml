@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activate">Activer</string>
-  <string name="activate_fail_notification_title">Veuillez ré-activer le service Xiaomi Sync</string>
+  <string name="activate_fail_notification_title">Veuillez réactiver le service Xiaomi Sync</string>
   <string name="activating">Activation...</string>
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="all_resources">Tout</string>
@@ -422,7 +422,7 @@
   <string name="sd_not_available_low_internal_storage">Carte SD non montée ou indisponible, espace disque faible sur le stockage interne</string>
   <string name="sd_not_available_saved_to_internal_storage">Enregistré dans la mémoire interne</string>
   <string name="sd_not_available_use_internal_storage">Carte SD indisponible, sauvegarde sur le stockage interne</string>
-  <string name="sdcard_status_changed_dialog_message">« Sortie en cours. ré-ouvrez l\'application. »</string>
+  <string name="sdcard_status_changed_dialog_message">« Sortie en cours. réouvrez l\'application. »</string>
   <string name="sdcard_status_changed_dialog_title">Le statut de la carte SD a changé</string>
   <string name="select">Sélectionner</string>
   <string name="select_all">Tout sélectionner</string>

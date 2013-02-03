@@ -236,7 +236,7 @@
   <string name="mx_activate_hint_server">Le serveur n\'a pas réussi à activer la messagerie cloud. L\'activer maintenant ?</string>
   <string name="mx_activate_hint_sim_change">Carte SIM changée, la réactivation de messagerie cloud est nécessaire. L\'activer maintenant ?</string>
   <string name="mx_activating">Activation...</string>
-  <string name="mx_auto_resend_mms">Auto ré-envoyer le MMS</string>
+  <string name="mx_auto_resend_mms">Réenvoyer automatiquement le MMS</string>
   <string name="mx_auto_resend_mms_summary">Envoyer comme MMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_auto_resend_sms">Envoyer en tant que SMS</string>
   <string name="mx_auto_resend_sms_summary">Envoyer comme SMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>

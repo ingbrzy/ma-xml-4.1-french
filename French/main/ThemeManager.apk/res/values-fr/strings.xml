@@ -16,7 +16,7 @@
   <string name="backup_theme_success_message">Le thème a été sauvegardé avec succès !</string>
   <string name="change_wallpaper">Changer le fond d\'écran</string>
   <string name="close">Fermer</string>
-  <string name="component_category_finest_title">En vedette</string>
+  <string name="component_category_finest_title">Principaux</string>
   <string name="component_category_more_title">Plus</string>
   <string name="component_category_ringtone_title">Sonneries</string>
   <string name="component_category_style_title">Styles</string>
