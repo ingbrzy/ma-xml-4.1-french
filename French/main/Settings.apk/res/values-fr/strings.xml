@@ -603,7 +603,6 @@ L\'utilisation des données est mesurée par votre téléphone mais votre opéra
   <string name="debug_log">Journal de débogage</string>
   <string name="debug_monitoring_category">Contrôle</string>
   <string name="debug_ui_category">Interface utilisateur</string>
-  <string name="default_date_format">MM/JJ/AAAA</string>
   <string name="default_input_method">Choisissez la méthode d\'entrée par défaut</string>
   <string name="default_usb_mode">Type de connexion USB par défaut</string>
   <string name="delete">Supprimer</string>
@@ -629,7 +628,7 @@ L\'utilisation des données est mesurée par votre téléphone mais votre opéra
   <string name="device_internal_memory">Mémoire Interne:</string>
   <string name="device_internal_partition">Données/carte SD:</string>
   <string name="device_memory">RAM:</string>
-  <string name="device_miui_version">Version MIUI:</string>
+  <string name="device_miui_version">Version MIUI: </string>
   <string name="device_picker">Sélectionnez le périphérique</string>
   <string name="device_sd_memory">Carte SD:</string>
   <string name="device_status">État</string>
