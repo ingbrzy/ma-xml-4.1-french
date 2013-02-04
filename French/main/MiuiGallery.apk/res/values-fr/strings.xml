@@ -26,9 +26,9 @@
   <string name="appwidget_empty_text">Aucune photo</string>
   <string name="appwidget_title">Galerie photos</string>
   <string name="auto">Automatique</string>
-  <string name="auto_create_recent_album">Créer un ou des albums automatiquement</string>
+  <string name="auto_create_recent_album">Création automatique d\'album</string>
   <string name="auto_create_recent_album_confirm">Après avoir désactivé cette fonctionnalité, la galerie effacera les données créées des albums favoris. Les albums favoris définis par l\'utilisateur ne seront pas affectés. Alternativement, vous pouvez le définir manuellement en touchant longuement un album.</string>
-  <string name="auto_create_recent_album_over_ten_times">Création automatique d\'album(s) favoris lorsque vous ouvrez un album plus de 10 fois</string>
+  <string name="auto_create_recent_album_over_ten_times">Créer un album favori lorsque vous ouvrez un album plus de 10 fois</string>
   <string name="autofix">Correction auto</string>
   <string name="autofix_polymorphism">Corriger automatiquement</string>
   <string name="bigscrren_slide_exit">Quitter le diaporama affiché sur la TV</string>

@@ -113,11 +113,11 @@
   <string name="mms_log_tab_title">SMS</string>
   <string name="no">Annuler</string>
   <string name="number_add_hint">Ajouter le numéro à la liste noire</string>
-  <string name="opt_accept_whitelist">Accepter à partir de la liste blanche</string>
+  <string name="opt_accept_whitelist">Accepter si dans liste blanche</string>
   <string name="opt_reject_all">Rejeter tout</string>
-  <string name="opt_reject_blacklist">Rejeter à partir de la liste noire</string>
-  <string name="opt_reject_blacklist_stranger">Rejeter les appelants inconnus</string>
-  <string name="opt_reject_blacklist_stranger_summary">Les appels seront rejetés à partir de la liste noire mais seront autorisés à partir de la liste blanche</string>
+  <string name="opt_reject_blacklist">Rejeter si dans liste noire</string>
+  <string name="opt_reject_blacklist_stranger">Rejeter les appels inconnus</string>
+  <string name="opt_reject_blacklist_stranger_summary">Les appels provenant de la liste noire seront rejetés, mais ceux de la liste blanche seront autorisés</string>
   <string name="remove">Supprimer</string>
   <string name="remove_all_keywords">Êtes-vous sûr de vouloir supprimer tous les mots clés ?</string>
   <string name="remove_call_log">Effacer le journal d\'appel ?</string>
@@ -127,6 +127,6 @@
   <string name="remove_keyword">Êtes-vous sûr de vouloir supprimer ce mot clé ?</string>
   <string name="remove_sms">Supprimer tous les messages du journal ?</string>
   <string name="save_button">Enregistrer</string>
-  <string name="show_firewall_notification">Afficher les notifications de pare-feu</string>
+  <string name="show_firewall_notification">Notifications du pare-feu</string>
   <string name="show_notification">Afficher les notifications</string>
 </resources>

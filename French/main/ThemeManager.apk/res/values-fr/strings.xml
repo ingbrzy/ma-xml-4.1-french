@@ -27,7 +27,7 @@
   <string name="component_screen_title">Y compris le fond d\'écran</string>
   <string name="component_select_title">%1$s composants sélectionnés</string>
   <string name="component_settings_title">Personnaliser le thème</string>
-  <string name="desktop_wallpaper">Fond de l\'écran d\'accueil</string>
+  <string name="desktop_wallpaper">Écran d\'accueil</string>
   <string name="download_success">Téléchargé avec succès</string>
   <string name="fail_to_add_account">Impossible d\'ajouter le compte</string>
   <string name="live_wallpaper">Fond d\'écran animé</string>
@@ -78,7 +78,7 @@
   <string name="theme_component_title_icon">Icônes</string>
   <string name="theme_component_title_launcher">Domicile</string>
   <string name="theme_component_title_lockstyle">Style de verrouillage</string>
-  <string name="theme_component_title_lockwallpaper">Fond de l\'écran de verrouillage</string>
+  <string name="theme_component_title_lockwallpaper">Écran de verrouillage</string>
   <string name="theme_component_title_mms">Application SMS</string>
   <string name="theme_component_title_notification">Notifications</string>
   <string name="theme_component_title_others">Autres</string>

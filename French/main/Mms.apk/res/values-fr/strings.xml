@@ -128,7 +128,7 @@
   <string name="error_state_text">L\'état des fils de discussion et des destinataires n\'est pas cohérent. Générez un rapport sur les bugs et envoyez-le à android-sms-bugs@google.com</string>
   <string name="error_timed_msg">Impossible de planifier un moment avant maintenant</string>
   <string name="ex_type_mms">MMS</string>
-  <string name="ex_type_mx">Message Cloud</string>
+  <string name="ex_type_mx">Messagerie Cloud</string>
   <string name="ex_type_sms">SMS</string>
   <string name="exceed_message_size_limitation">Taille max du message atteinte</string>
   <string name="exit_edit_mode">Annuler</string>
@@ -242,8 +242,8 @@
   <string name="mx_auto_resend_sms_summary">Envoyer comme SMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_btn_enable">Activer</string>
   <string name="mx_count_dspt">Depuis l\'activation, MIUI a envoyé %1$d message(s) cloud pour vous (%2$s)</string>
-  <string name="mx_dspt">Envoyer des messages via Internet entre MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
-  <string name="mx_dspt_disabled">Envoyer des messages via Internet entre MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
+  <string name="mx_dspt">Envoyer des messages via Internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
+  <string name="mx_dspt_disabled">Envoyer des messages via Internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
   <string name="mx_enable">Activer la messagerie cloud</string>
   <string name="mx_enable_popup_msg">La messagerie cloud vous permet d\'envoyer des messages via MIUI. L\'envoi d\'un SMS est nécessaire pour activer la fonction, il vous sera facturé le prix d\'un SMS international si vous ne vous trouvez pas en Chine. Voulez-vous l\'activer maintenant ?</string>
   <string name="mx_offline">Hors-ligne</string>
@@ -325,7 +325,7 @@
   <string name="pref_time_auto_group_title">Groupes</string>
   <string name="pref_title_allow_3rd_mms">Accès des tiers</string>
   <string name="pref_title_allow_si_sl_push">Autoriser le WAP push</string>
-  <string name="pref_title_auto_delete">Supprimer les anciens messages</string>
+  <string name="pref_title_auto_delete">Anciens messages</string>
   <string name="pref_title_delivery_reports">Accusé de réception</string>
   <string name="pref_title_delivery_ringtone">Notification des accusés réception</string>
   <string name="pref_title_filter_phone">Filtrer les numéros fixes</string>
@@ -335,7 +335,8 @@
   <string name="pref_title_mms_delete">Limite MMS</string>
   <string name="pref_title_mms_delivery_reports">Accusé de réception</string>
   <string name="pref_title_mms_read_reports">Confirmation de lecture</string>
-  <string name="pref_title_mms_retrieval_during_roaming">Récupération automatique en itinérance</string>
+  <string name="pref_title_mms_retrieval_during_roaming">Récupération en itinérance</string>
+  <string name="pref_title_mms_retrieval_during_roaming">Récupération en itinérance</string>
   <string name="pref_title_new_message_popup">Pop-ups de nouveau message</string>
   <string name="pref_title_notification_body_enabled">Prévisualisation</string>
   <string name="pref_title_notification_enabled">Notifications</string>
@@ -345,7 +346,7 @@
   <string name="pref_title_show_recent_contacts">Afficher les contacts récents</string>
   <string name="pref_title_sms_delete">Limite SMS</string>
   <string name="pref_title_sms_delivery_reports">Accusé de réception</string>
-  <string name="pref_title_system_mms_priority">L\'application a la priorité de réception des MMS</string>
+  <string name="pref_title_system_mms_priority">Priorité de réception des MMS</string>
   <string name="pref_title_wake_up_screen">Allumer l\'écran</string>
   <string name="preferences_title">Paramètres</string>
   <string name="prepare_send">Prépare l\'envoi...</string>

@@ -11,9 +11,9 @@
   <string name="auto_backup_choose_title">Choisir des éléments de sauvegarde</string>
   <string name="auto_backup_date">Fréquence de sauvegarde (en jours)</string>
   <string name="auto_backup_only_wifi">Sauvegardez automatiquement seulement en Wi-Fi</string>
-  <string name="auto_backup_open">Activer la sauvegarde automatique</string>
+  <string name="auto_backup_open">Activer la sauvegarde auto</string>
   <string name="auto_backup_progress">Exécution d\'une sauvegarde automatique, veuillez patienter...</string>
-  <string name="auto_backup_setting">Paramètres de sauvegarde automatique</string>
+  <string name="auto_backup_setting">Sauvegarde automatique</string>
   <string name="auto_backup_time">Planifier une sauvegarde</string>
   <string name="backup">Sauvegarde</string>
   <string name="backup_delete">Supprimer:</string>

@@ -143,7 +143,7 @@
   <string name="app_not_found_dlg_text">Application introuvable dans la liste des applications installées</string>
   <string name="app_not_found_dlg_title">Confirmer</string>
   <string name="app_notifications_switch_label">Afficher notifications</string>
-  <string name="app_process_limit_title">Limiter le nombre de processus en arrière-plan</string>
+  <string name="app_process_limit_title">Limite du nombre de processus actifs</string>
   <string name="application_info_label">Informations application</string>
   <string name="application_size_label">Application</string>
   <string name="applications_settings">Gestionnaire applications</string>
@@ -637,7 +637,7 @@ L\'utilisation des données est mesurée par votre téléphone mais votre opéra
   <string name="dialog_title_entryvalues_dolby_control">Contrôle Dolby</string>
   <string name="dialog_title_font_size">Taille de police</string>
   <string name="disableNetwork">Désactiver le réseau</string>
-  <string name="disable_overlays">Désactiver les superpositions de matériel</string>
+  <string name="disable_overlays">Hardware overlay</string>
   <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition de l\'écran</string>
   <string name="disable_power_key_long_press_under_keyguard">Désactiver sur l\'écran de verrouillage</string>
   <string name="disable_text">Désactiv.</string>
@@ -728,10 +728,10 @@ L\'utilisation des données est mesurée par votre téléphone mais votre opéra
   <string name="enableNetwork">Activer le réseau</string>
   <string name="enable_adb">Débogage USB</string>
   <string name="enable_adb_summary">Le mode débogage se lance lors de la connexion d\'un périphérique USB</string>
-  <string name="enable_assist_key_long_press">Appui long pour ouvrir l\'application Voix</string>
-  <string name="enable_back_long_press">Appui long pour fermer l\'application</string>
+  <string name="enable_assist_key_long_press">Appui long ouvre l\'appli. Voix</string>
+  <string name="enable_back_long_press">Appui long ferme l\'appli.</string>
   <string name="enable_compatibility">"Adapter l\'application"</string>
-  <string name="enable_snapshot_screenlock">Appui long pour prendre une capture d\'écran</string>
+  <string name="enable_snapshot_screenlock">Appui long pour capture d\'écran</string>
   <string name="enable_text">Activer</string>
   <string name="enable_traces_dialog_title">Sélectionner les modes de traçage activés</string>
   <string name="enable_traces_summary_all">Tous les modes de traçage actuellement activés</string>
@@ -782,8 +782,8 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Petit</string>
   <string name="font_size_summary">Modifier la taille du texte dans les applications suivantes : </string>
-  <string name="force_hw_ui">Forcer rendu GPU</string>
-  <string name="force_hw_ui_summary">Utiliser accélération matérielle 2D dans les applis</string>
+  <string name="force_hw_ui">Forcer le rendu GPU</string>
+  <string name="force_hw_ui_summary">Utiliser l\'accélération matérielle 2D dans les applications</string>
   <string name="force_stop">Forcer l\'arrêt</string>
   <string name="force_stop_dlg_text">Le fait de forcer l\'arrêt d\'une application peut entraîner des erreurs</string>
   <string name="force_stop_dlg_title">Forcer l\'arrêt</string>
@@ -1148,7 +1148,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="preferred_media_app_summary">Choisissez le lecteur de musique</string>
   <string name="privacy_mode_enable_sum">Cacher l\'historique d\'appels, les messages et les autres données lors  de l\'utilisation du mode protégé</string>
   <string name="privacy_mode_enable_title">Activer le mode privé</string>
-  <string name="privacy_protect_title">Protection des renseignements personnels</string>
+  <string name="privacy_protect_title">Protection des données personnelles</string>
   <string name="privacy_settings">Sauvegarder et réinitialiser</string>
   <string name="privacy_settings_title">Sauvegarder et réinitialiser</string>
   <string name="process_kernel_label">Système d\'exploitation Android</string>
@@ -1410,11 +1410,11 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="show_cpu_usage_summary">Superp. écrans affichant infos ut. proc. actuelles</string>
   <string name="show_fc">Afficher les FC</string>
   <string name="show_fc_summary">Afficher les messages de fermetures inopinées des applications</string>
-  <string name="show_hw_screen_updates">Afficher les mises à jour du rendu GPU</string>
+  <string name="show_hw_screen_updates">Mises à jour du rendu GPU</string>
   <string name="show_hw_screen_updates_summary">Affichage Flash dans les fenêtres lorsque généré par le GPU</string>
   <string name="show_magnifier_when_input">Afficher la loupe</string>
   <string name="show_owner_info_on_lockscreen_label">Afficher infos sur le propriétaire lors du verr. de l\'écran</string>
-  <string name="show_password">Rendre les mots de passe visibles</string>
+  <string name="show_password">Afficher les mots de passe</string>
   <string name="show_password_summary">Confirmer</string>
   <string name="show_rounded_corners">Afficher les coins arrondis</string>
   <string name="show_rounded_corners_summary">Un redémarrage est nécessaire pour prendre effet</string>
@@ -1423,7 +1423,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="show_screen_updates_summary">Faire clignoter les zones de l\'écran lorsqu\'elles sont mises à jour</string>
   <string name="show_touches">Afficher les touches</string>
   <string name="show_touches_summary">Afficher retour visuel pour interactions tactiles</string>
-  <string name="silent_mode_title">Profils de sons</string>
+  <string name="silent_mode_title">Silencieux</string>
   <string name="sim_bad_pin">Code PIN incorrect</string>
   <string name="sim_change_failed">Impossible de modifier le PIN. Un PIN incorrect a peut-être été saisi</string>
   <string name="sim_change_failed_enable_sim_lock">"Impossible de modifier SIM/RUIM PIN. Veuillez activer le verrou SIM/RUIM."</string>
@@ -1612,8 +1612,8 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="unlock_disable_lock_pattern_summary">Supprimer le modèle</string>
   <string name="unlock_disable_lock_pin_summary">Supprimer le code PIN</string>
   <string name="unlock_disable_lock_title">Verrouillage écran OFF</string>
-  <string name="unlock_set_enter_system">Accéder au système directement</string>
-  <string name="unlock_set_enter_system_summary">Le thème système d\'écran de verrouillage ne sera pas utilisé après son autorisation. Réveillez l\'écran pour accéder directement au système</string>
+  <string name="unlock_set_enter_system">Accès direct au système</string>
+  <string name="unlock_set_enter_system_summary">L\'écran de verrouillage ne sera pas utilisé. Vous accéderez directement au système en allumant l\écran</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Sécurité minimale</string>
   <string name="unlock_set_unlock_biometric_weak_title">Déverrouillage visage</string>
   <string name="unlock_set_unlock_disabled_summary">Désactivé par l\'administrateur, la politique de cryptage ou le stockage des informations d\'identification</string>
@@ -1754,7 +1754,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="virus_scanner_select_multi">Sélectionner plus d\'une base de données de signature des virus requerra une réinstallation</string>
   <string name="virus_scanner_select_single">Sélectionner la base de signatures de virus la plus fiable</string>
   <string name="virus_scanner_select_trust_lib">Choisir au moins une base de données</string>
-  <string name="virus_scanner_title">Anti Virus</string>
+  <string name="virus_scanner_title">Antivirus</string>
   <string name="virus_scanner_update_lib">Mettre à jour la base de données</string>
   <string name="voice_category">Voix</string>
   <string name="voice_input_output_settings">Entrée et sortie voix</string>

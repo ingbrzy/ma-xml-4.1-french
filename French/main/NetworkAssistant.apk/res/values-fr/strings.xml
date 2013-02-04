@@ -94,11 +94,11 @@ Si ce n\'est pas le cas vous pouvez réajuster.</string>
   <string name="plate_traffic_remain">Restant (%s)</string>
   <string name="powered_by">Support technique apporté par MIUIAndroid.com</string>
   <string name="pref_category_adjust_traffic">Ajuster les paramètres de trafic</string>
-  <string name="pref_connect_settings_enable_backgroung">Activer les services d\'arrière-plan</string>
+  <string name="pref_connect_settings_enable_backgroung">Services en arrière-plan</string>
   <string name="pref_connect_settings_enable_backgroung_hint">Permettre la connexion automatique au réseau lorsque l\'application s\'exécute en arrière-plan</string>
   <string name="pref_connect_settings_exceed_limit">Désactiver les données</string>
   <string name="pref_connect_settings_exceed_limit_hint">Être informé et déconnecter d\'Internet lorsque le trafic mensuel est dépassé</string>
-  <string name="pref_connect_settings_notify_in_statusbar">Afficher dans la barre de notification</string>
+  <string name="pref_connect_settings_notify_in_statusbar">Afficher dans la barre d\'état</string>
   <string name="pref_connect_settings_title">Paramètres du moniteur réseau</string>
   <string name="pref_network_speed_internal_title">Intervalle de vitesse du réseau</string>
   <string name="pref_network_speed_settings">Afficher la vitesse du réseau</string>

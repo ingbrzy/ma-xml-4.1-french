@@ -26,7 +26,7 @@
   <string name="mark_now">(En cours)</string>
   <string name="max_length_reached">Durée maximale atteinte</string>
   <string name="menu_setting">Paramètres</string>
-  <string name="menu_view_record_list">Affichage des enregistrements</string>
+  <string name="menu_view_record_list">Voir la liste des enregistrements</string>
   <string formatted="false" name="minute">%d minute</string>
   <string name="no_file">Aucun enregistrement</string>
   <string name="notification_playback">Lecture de l\'enregistrement...</string>
