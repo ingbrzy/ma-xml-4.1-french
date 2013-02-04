@@ -7,20 +7,20 @@
         <item>--%s</item>
     </string-array>
     <string-array name="menu_share_ways">
-        <item>Messaging</item>
-        <item>Email</item>
+        <item>Messagerie</item>
+        <item>E-mail</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Name</item>
-        <item>Nickname</item>
-        <item>Phone</item>
+        <item>Nom</item>
+        <item>Surnom</item>
+        <item>Téléphone</item>
         <item>E-mail</item>
-        <item>Organization</item>
-        <item>IM</item>
-        <item>SIP Phone</item>
-        <item>Birthday</item>
-        <item>Website</item>
-        <item>Address</item>
+        <item>Organisation</item>
+        <item>Messagerie Instantanée</item>
+        <item>Téléphone SIP</item>
+        <item>Anniversaire</item>
+        <item>Site Internet</item>
+        <item>Addresse</item>
         <item>Note</item>
     </string-array>
 </resources>
