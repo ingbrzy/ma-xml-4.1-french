@@ -60,12 +60,12 @@
   <string name="current_sim">Carte SIM actuelle</string>
   <string name="data_no_enough_space">Pas assez d\'espace libre dans la mémoire interne, libérez de l\'espace et essayez à nouveau</string>
   <string name="data_no_enough_space_message">La restauration a peut-être échoué, veuillez libérer un peu d\'espace de stockage interne et essayer à nouveau</string>
-  <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
+  <string name="date_format">dd/MM/yyyy HH:mm:ss</string>
   <string name="delete">Supprimer</string>
   <string name="delete_backup_confirm">La sauvegarde sélectionnée sera supprimée, en êtes-vous sûr ?</string>
   <string name="delete_backup_process">Suppression de sauvegarde(s)...</string>
   <string name="delete_failed_backup_confirm">La sauvegarde contient une erreur, vous ne pouvez pas restaurer cette sauvegarde</string>
-  <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
+  <string name="dir_date_format">dd/MM/yyyy HH:mm:ss</string>
   <string name="disable_encrypt_title">Cryptage désactivé</string>
   <string name="enable_encrypt">Activer maintenant</string>
   <string name="enable_encrypt_fail">L\'activation du cryptage a échoué</string>
@@ -113,7 +113,7 @@
   <string name="restore_contacts_hit">(Remarque: Vous devez restaurer manuellement les contacts créés avant le compte d\'origine)</string>
   <string name="restore_counts">Récupération:</string>
   <string name="restore_finished">Restauration terminée</string>
-  <string name="restore_launcher_layout_hit">(Remarque: Restaure la disposition du lanceur)</string>
+  <string name="restore_launcher_layout_hit">(Remarque: Restaure la disposition du launcher)</string>
   <string name="restore_progress">Restauration...</string>
   <string name="restore_report">Rapport de restauration</string>
   <string name="restore_telephony_hit">(Remarque : le processus de récupération va redémarrer l\'application du téléphone)</string>

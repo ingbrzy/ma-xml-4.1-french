@@ -76,7 +76,7 @@
   <string name="theme_component_title_font">Polices</string>
   <string name="theme_component_title_framework">Système</string>
   <string name="theme_component_title_icon">Icônes</string>
-  <string name="theme_component_title_launcher">Domicile</string>
+  <string name="theme_component_title_launcher">Launcher</string>
   <string name="theme_component_title_lockstyle">Style de verrouillage</string>
   <string name="theme_component_title_lockwallpaper">Écran de verrouillage</string>
   <string name="theme_component_title_mms">Application SMS</string>

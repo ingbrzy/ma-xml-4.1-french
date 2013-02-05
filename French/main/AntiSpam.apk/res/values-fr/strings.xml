@@ -110,7 +110,7 @@
   <string name="fw_whitelist_hint">Les membres de la liste blanche ne seront pas bloqués</string>
   <string formatted="false" name="member_firewall_log">Bloqué : Numéro %d détails %d</string>
   <string name="menu_edit">Modifier</string>
-  <string name="mms_log_tab_title">SMS</string>
+  <string name="mms_log_tab_title">Messages</string>
   <string name="no">Annuler</string>
   <string name="number_add_hint">Ajouter le numéro à la liste noire</string>
   <string name="opt_accept_whitelist">Accepter si dans liste blanche</string>
