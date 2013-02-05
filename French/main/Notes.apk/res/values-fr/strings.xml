@@ -55,8 +55,8 @@
   <string name="menu_font_size">Taille de police</string>
   <string name="menu_font_small">Petit</string>
   <string name="menu_font_super">Énorme</string>
-  <string name="menu_grid_mode">Mode d\'affichage en grille</string>
-  <string name="menu_list_mode">Mode d\'affichage en liste</string>
+  <string name="menu_grid_mode">Affichage en grille</string>
+  <string name="menu_list_mode">Affichage en liste</string>
   <string name="menu_move">Déplacer vers le dossier</string>
   <string name="menu_move_parent_folder">Dossier parent</string>
   <string name="menu_search">Rechercher</string>

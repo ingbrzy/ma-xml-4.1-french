@@ -34,7 +34,7 @@
   <string name="lockscreen_wallpaper">Fond d\'écran de verrouillage</string>
   <string name="lockstyle_personal_settings">Personnalisation</string>
   <string name="long_ringtone_resource">Long (&gt;5sec)</string>
-  <string name="menu_refresh">Renouveler</string>
+  <string name="menu_refresh">Raffraichir</string>
   <string name="play_all_audio_effect">Jouer les effets audio (total : %1$s)</string>
   <string name="resource_comment_account_need_activitied">Votre compte n\'est pas activé, voulez-vous l\'activer maintenant ?</string>
   <string name="resource_comment_count">%1$s a une note de %2$s et %3$s commentaires</string>

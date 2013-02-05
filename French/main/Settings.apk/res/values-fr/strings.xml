@@ -374,7 +374,7 @@
   <string name="bluetooth_preference_device_settings">"Paramètres de l\'appareil"</string>
   <string name="bluetooth_preference_found_devices">Périphériques disponibles</string>
   <string name="bluetooth_preference_paired_devices">Périphériques appairés</string>
-  <string name="bluetooth_preference_scan_title">Analyser</string>
+  <string name="bluetooth_preference_scan_title">Scanner</string>
   <string name="bluetooth_profile_a2dp">Audio pour les médias</string>
   <string name="bluetooth_profile_headset">Audio pour les appels</string>
   <string name="bluetooth_profile_hid">Périphérique d\'entrée</string>
@@ -386,7 +386,7 @@
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_rename_button">Renommer</string>
   <string name="bluetooth_rename_device">Renommer le périphérique</string>
-  <string name="bluetooth_scan_for_devices">Analyser</string>
+  <string name="bluetooth_scan_for_devices">Scanner</string>
   <string name="bluetooth_search_for_devices">Rechercher des périphériques</string>
   <string name="bluetooth_searching_for_devices">Recherche en cours...</string>
   <string name="bluetooth_settings">Bluetooth</string>
@@ -1102,9 +1102,9 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="nsd_quick_toggle_title">Identification du service réseau</string>
   <string name="oem_radio_info_label">Infos/paramètres OEM</string>
   <string name="onscreen_keyboard_settings_summary">Paramètres du clavier à l\'écran</string>
-  <string name="owner_info_settings_edit_text_hint">Entrer le texte à afficher lors du verrouillage de l\'écran</string>
-  <string name="owner_info_settings_summary">Confirmer</string>
-  <string name="owner_info_settings_title">Infos propriétaire</string>
+  <string name="owner_info_settings_edit_text_hint">Entrer le texte à afficher sur l\'écran de vérouillage</string>
+  <string name="owner_info_settings_summary">Afficher un texte sur l\'écran de vérouillage</string>
+  <string name="owner_info_settings_title">Informations du propriétaire</string>
   <string name="packages_subtitle">Ensembles inclus</string>
   <string name="password_guard">Securité</string>
   <string name="percentage">%d%%</string>
@@ -1413,7 +1413,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="show_hw_screen_updates">Mises à jour du rendu GPU</string>
   <string name="show_hw_screen_updates_summary">Affichage Flash dans les fenêtres lorsque généré par le GPU</string>
   <string name="show_magnifier_when_input">Afficher la loupe</string>
-  <string name="show_owner_info_on_lockscreen_label">Afficher infos sur le propriétaire lors du verr. de l\'écran</string>
+  <string name="show_owner_info_on_lockscreen_label">Afficher des informations sur le propriétaire sur l\'écran de vérouillage</string>
   <string name="show_password">Afficher les mots de passe</string>
   <string name="show_password_summary">Affiche les mots de passe lors de leur saisie</string>
   <string name="show_rounded_corners">Afficher les coins arrondis</string>
@@ -1878,7 +1878,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="wifi_menu_forget">Retirer le réseau</string>
   <string name="wifi_menu_modify">Modifier config. réseau</string>
   <string name="wifi_menu_p2p">Wi-Fi Direct</string>
-  <string name="wifi_menu_scan">Analyser</string>
+  <string name="wifi_menu_scan">Scanner</string>
   <string name="wifi_menu_wfd">Wi-Fi Display</string>
   <string name="wifi_menu_wps_pbc">Bouton WPS</string>
   <string name="wifi_menu_wps_pin">Entrée PIN WPS</string>
@@ -1989,13 +1989,13 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="wifi_state_disabling">Désactivation</string>
   <string name="wifi_state_enabled">Activé</string>
   <string name="wifi_state_enabling">Activation</string>
-  <string name="wifi_state_label">État de la connexion Wi-Fi:</string>
+  <string name="wifi_state_label">État de la connexion Wi-Fi :</string>
   <string name="wifi_state_unknown">Inconnu</string>
   <string name="wifi_status">État</string>
   <string name="wifi_status_test">État des connexions Wi-Fi</string>
   <string name="wifi_stopping">Désactivation...</string>
   <string name="wifi_tether_checkbox_text">Point d\'accès mobile</string>
-  <string name="wifi_tether_configure_ap_text">Configurer point d\'accès</string>
+  <string name="wifi_tether_configure_ap_text">Configurer le point d\'accès</string>
   <string name="wifi_tether_configure_ssid_default">Hotspot Android</string>
   <string name="wifi_tether_configure_subtext">Point d\'accès Wi-Fi portable %1$s %2$s</string>
   <string name="wifi_tether_enabled_subtext">Point d\'accès Wi-Fi %1$s actif</string>
@@ -2028,8 +2028,8 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="wifi_wapi_psk_type">Type de mot de passe</string>
   <string name="wifi_wapi_user_cert">Certificat utilisateur</string>
   <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
-  <string name="wifi_wps_available_first_item"> Réseau protégé disponible</string>
-  <string name="wifi_wps_available_second_item"> Réseau protégé disponible</string>
+  <string name="wifi_wps_available_first_item">\nRéseau protégé disponible</string>
+  <string name="wifi_wps_available_second_item">\nRéseau protégé disponible</string>
   <string name="wifi_wps_complete">WPS terminé. Connexion au réseau...</string>
   <string name="wifi_wps_connected">Connecté au réseau Wi-Fi %s</string>
   <string name="wifi_wps_failed">Impossible de démarrer WPS. Veuillez réessayer</string>

@@ -23,9 +23,9 @@
   <string name="backup_file_error">Il y a un problème avec la sauvegarde, l\'opération n\'est pas valide.</string>
   <string name="backup_finished">Sauvegarde terminée</string>
   <string name="backup_hint">N\'éteignez pas le téléphone au risque de corrompre les données</string>
-  <string name="backup_items_app_tailer">\u0020Fichiers de données de l\'application</string>
-  <string name="backup_items_sysdata_tailer">\u0020Fichiers de données système</string>
-  <string name="backup_new">Nouveau:</string>
+  <string name="backup_items_app_tailer">\u0020fichiers de données d'application</string>
+  <string name="backup_items_sysdata_tailer">\u0020fichiers de données système</string>
+  <string name="backup_new">Nouveau :</string>
   <string name="backup_progress">Sauvegarde...</string>
   <string name="backup_recently">\u0020(Dernier)</string>
   <string name="backup_report">Rapport de sauvegarde</string>
@@ -106,7 +106,7 @@
   <string name="prompt_sending">Téléchargement...</string>
   <string name="prompt_writing">Enregistrement...</string>
   <string name="read_encrypt_fail">Le chiffrement de lecture a échoué</string>
-  <string name="refresh">Renouveler</string>
+  <string name="refresh">Raffraichir</string>
   <string name="restore">Restauration</string>
   <string name="restore_contact">Restaurer les contacts</string>
   <string name="restore_contact_content">La restauration des contacts peut entraîner des doublons, êtes-vous sûr de vouloir faire cela ?\n Remarque: Vous pouvez fusionner les contacts en double dans les paramètres de la liste des contacts</string>

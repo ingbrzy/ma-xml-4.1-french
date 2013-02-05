@@ -236,8 +236,8 @@
   <string name="mx_activate_hint_server">Le serveur n\'a pas réussi à activer la messagerie cloud. L\'activer maintenant ?</string>
   <string name="mx_activate_hint_sim_change">Carte SIM changée, la réactivation de messagerie cloud est nécessaire. L\'activer maintenant ?</string>
   <string name="mx_activating">Activation...</string>
-  <string name="mx_auto_resend_mms">Réenvoyer automatiquement le MMS</string>
-  <string name="mx_auto_resend_mms_summary">Envoyer comme MMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
+  <string name="mx_auto_resend_mms">Réenvoyer le MMS</string>
+  <string name="mx_auto_resend_mms_summary">Envoyer automatiquement comme MMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_auto_resend_sms">Envoyer en tant que SMS</string>
   <string name="mx_auto_resend_sms_summary">Envoyer comme SMS quand la messagerie cloud est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
   <string name="mx_btn_enable">Activer</string>
@@ -248,7 +248,7 @@
   <string name="mx_enable_popup_msg">La messagerie cloud vous permet d\'envoyer des messages via MIUI. L\'envoi d\'un SMS est nécessaire pour activer la fonction, il vous sera facturé le prix d\'un SMS international si vous ne vous trouvez pas en Chine. Voulez-vous l\'activer maintenant ?</string>
   <string name="mx_offline">Hors-ligne</string>
   <string name="mx_online">En ligne</string>
-  <string name="mx_reactivate">Ré-activer la messagerie cloud</string>
+  <string name="mx_reactivate">Réactiver la messagerie cloud</string>
   <string name="mx_warning_notice">Un SMS sera envoyé pour activer la messagerie cloud. Il est possible que certains opérateurs le facturent</string>
   <string name="need_download">En attente de synchronisation...</string>
   <string name="new_message">Messages</string>
@@ -278,7 +278,7 @@
   <string name="pref_conversation_show_avatar">Voir l\'avatar</string>
   <string name="pref_edit_smsc_address">Numéro du centre SMS</string>
   <string name="pref_key_append_signature_summary">Ajouter automatiquement la signature à la fin du message</string>
-  <string name="pref_key_append_signature_title">Signature (facultative)</string>
+  <string name="pref_key_append_signature_title">Activer la signature</string>
   <string name="pref_key_edit_signature_title">Modifier la signature</string>
   <string name="pref_key_signature_hint">Veuillez entrer votre signature</string>
   <string name="pref_key_signature_summary">Définir votre signature</string>
@@ -300,7 +300,7 @@
   <string name="pref_summary_delete_limit">%1$s messages par conversation</string>
   <string name="pref_summary_delivery_reports">Demander un accusé de réception pour chaque message que vous envoyez</string>
   <string name="pref_summary_filter_phone">Ne pas afficher les numéros de téléphones qui ne peuvent pas recevoir de SMS</string>
-  <string name="pref_summary_hide_festival">Masquer l\'onglet Recommandé pour les non-chinois</string>
+  <string name="pref_summary_hide_festival">Masquer l\'onglet Recommandé pour les utilisateurs non-chinois</string>
   <string name="pref_summary_manage_sim_messages">Gérer les messages stockés sur la carte SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Récupérer automatiquement les messages</string>
   <string name="pref_summary_mms_delivery_reports">Demander un accusé de réception pour chaque message que vous envoyez</string>
@@ -364,7 +364,7 @@
   <string name="recent_contact_list_title">Récent</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">Destinataire : </string>
-  <string name="refresh">Renouveler</string>
+  <string name="refresh">Raffraichir</string>
   <string name="refresh_failed">La mise à jour a échouée</string>
   <string name="refreshing">Actualisation...</string>
   <string name="remove">Supprimer</string>

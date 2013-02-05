@@ -177,7 +177,7 @@
   <string name="settings_separator">,</string>
   <string name="settings_show_flow_info">Afficher les informations du trafic</string>
   <string name="settings_show_network_speed">Afficher la vitesse du réseau</string>
-  <string name="settings_toggle">Activer/désactiver</string>
+  <string name="settings_toggle">Raccourcis</string>
   <string name="settings_toggle_collapse_after_clicked">Réduire après un clic</string>
   <string name="settings_toggle_layout_style">Style des commutateurs</string>
   <string name="settings_toggle_layout_style_applying">Modification du style des commutateurs...</string>
@@ -194,7 +194,7 @@
   <string name="sleep_notification_action_stop">Confirmer</string>
   <string name="status_bar_accessibility_dismiss_recents">Supprimer des applications de la liste des éléments récemment utilisés</string>
   <string name="status_bar_clear_all_button">Effacer</string>
-  <string name="status_bar_date_format">d.MMMM yyyy</string>
+  <string name="status_bar_date_format">d MMMM yyyy</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_do_not_disturb_button">Ne pas déranger</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configurer les modes de saisie</string>

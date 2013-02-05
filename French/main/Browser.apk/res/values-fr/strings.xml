@@ -305,13 +305,13 @@
   <string name="pref_general_exit_setting_title">Options de fermeture</string>
   <string name="pref_general_sync_title">Synchroniser</string>
   <string name="pref_general_title">Paramètres généraux</string>
-  <string name="pref_gesture_title">Opérations de geste</string>
+  <string name="pref_gesture_title">Opérations gestuelles</string>
   <string name="pref_inverted">Rendu inversé</string>
   <string name="pref_inverted_category">Rendu écran inversé</string>
   <string name="pref_inverted_contrast">Contraste</string>
   <string name="pref_inverted_summary">Le noir devient blanc et vice versa</string>
   <string name="pref_key_gesture_title">Touches et gestes</string>
-  <string name="pref_key_title">Paramètres de clé</string>
+  <string name="pref_key_title">Paramètres des touches</string>
   <string name="pref_lab_fullscreen">Plein écran</string>
   <string name="pref_lab_fullscreen_summary">Utiliser le mode plein écran pour masquer la barre d\'état</string>
   <string name="pref_lab_quick_controls">Contrôles rapides</string>
@@ -343,7 +343,7 @@
   <string name="pref_privacy_enable_geolocation">Activer la localisation</string>
   <string name="pref_privacy_enable_geolocation_summary">Permettre aux sites de demander l\'accès à votre emplacement</string>
   <string name="pref_privacy_formdata_title">Données de formulaire</string>
-  <string name="pref_privacy_location_title">Lieu</string>
+  <string name="pref_privacy_location_title">Lieux</string>
   <string name="pref_privacy_security_title">Confidentialité et sécurité</string>
   <string name="pref_reading_mode_enabled_title">Mode de lecture</string>
   <string name="pref_reading_mode_enabled_title_summary">JavaScript doit être activé</string>
@@ -352,9 +352,9 @@
   <string name="pref_security_passwords_title">Mots de passe</string>
   <string name="pref_security_remember_passwords">Mémoriser les mots de passe</string>
   <string name="pref_security_remember_passwords_summary">Enregistrer les noms d\'utilisateur et mots de passe des sites Web</string>
-  <string name="pref_security_save_form_data">Se souvenir des données de formulaire</string>
+  <string name="pref_security_save_form_data">Se souvenir des formulaire</string>
   <string name="pref_security_save_form_data_summary">Se souvenir des données que j\'ai écrit dans les formulaires pour une utilisation ultérieure</string>
-  <string name="pref_security_show_security_warning">Afficher les avertissements de sécurité</string>
+  <string name="pref_security_show_security_warning">Avertissements de sécurité</string>
   <string name="pref_security_show_security_warning_summary">"Afficher un avertissement s\'il y a un problème avec la sécurité d\'un site"</string>
   <string name="pref_set_homepage_to">Mettre sur</string>
   <string name="pref_text_zoom">Mise à l\'échelle du texte</string>
@@ -365,7 +365,7 @@
   <string name="pref_use_instant_search_summary">Utiliser la recherche instantanée de Google lorsque vous utilisez Google Search pour afficher les résultats que vous tapez (cela peut augmenter l\'utilisation des données).</string>
   <string name="pref_volume_key_enabled">Touches de volume</string>
   <string name="pref_volume_key_operation">Fonctionnement des touches de volume</string>
-  <string name="pref_zoom_on_double_tap">Double-clic pour zommer</string>
+  <string name="pref_zoom_on_double_tap">Zoom du double-clic</string>
   <string name="preview">Aperçu</string>
   <string name="progress_dialog_setting_wallpaper">"Définition du fond d\'écran..."</string>
   <string name="readmode_reach_last_page">La dernière page a été atteinte</string>
@@ -373,7 +373,7 @@
   <string name="readmodelist_bookmarks_to_show">Listes de lecture</string>
   <string name="recover">Récupérer</string>
   <string name="recover_from_crash">Continuer avec les dernière session de navigation</string>
-  <string name="reload">Renouveler</string>
+  <string name="reload">Raffraichir</string>
   <string name="remove">Supprimer</string>
   <string name="remove_bookmark">Supprimer le signet</string>
   <string name="remove_from_bookmarks">Supprimer des signets</string>

@@ -66,7 +66,7 @@
   <string name="download_batch_start">Commencer tous les téléchargements</string>
   <string name="download_finished">Téléchargé</string>
   <string name="download_lyric_settings">Télécharger les paroles automatiquement</string>
-  <string name="download_lyric_summary">Le téléchargement des paroles n\'utilise pas beaucoup de données, vous pouvez le désactiver afin de réduire les allocations de données</string>
+  <string name="download_lyric_summary">Le téléchargement des paroles n\'utilise pas beaucoup de données, vous pouvez le désactiver afin de réduire la consommation de données</string>
   <string name="download_processing">Téléchargement</string>
   <string name="edit_id3">Modifier le Tag ID3</string>
   <string name="edit_playlist_menu">Modifier</string>
@@ -193,7 +193,7 @@
   <string name="recommend">Recommander</string>
   <string name="refresh_finish">Actualisé avec succès</string>
   <string name="refresh_in_processing">Actualisation...</string>
-  <string name="refresh_media_db">Renouveler</string>
+  <string name="refresh_media_db">Raffraichir</string>
   <string name="refresh_start">Actualisation commencée, veuillez patienter...</string>
   <string name="remove_from_favorite">Supprimer des favoris</string>
   <string name="remove_item">Supprimer</string>
