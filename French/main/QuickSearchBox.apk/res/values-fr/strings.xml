@@ -13,7 +13,7 @@ Pour supprimer l\'historique du navigateur, utilisez les paramètres du navigate
   <string name="corpus_description_apps">Noms des applications installées</string>
   <string name="corpus_description_web">Recherche web, signets et marque-pages</string>
   <string name="corpus_hint_apps">Recherche des applications</string>
-  <string name="corpus_label_apps">Gestionnaire applications</string>
+  <string name="corpus_label_apps">Gestionnaire d\'applications</string>
   <string name="corpus_label_global">Tout</string>
   <string name="corpus_label_web">Web</string>
   <string name="corpus_selection_heading">Rechercher</string>

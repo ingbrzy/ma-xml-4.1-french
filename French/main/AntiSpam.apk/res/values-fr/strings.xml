@@ -38,7 +38,7 @@
   <string name="check_nothing">Tout désélectionner</string>
   <string name="clear_all_calllog">Effacer le journal d\'appel</string>
   <string name="clear_all_mslog">Effacer le journal de message</string>
-  <string name="close_rule">Désactiver la règle</string>
+  <string name="close_rule">Aucune règle</string>
   <string name="confirm">OK</string>
   <string name="confirm_clear_blacklist">Êtes-vous sûr de vouloir effacer la liste noire ?</string>
   <string name="confirm_clear_whitelist">Êtes-vous sûr de vouloir effacer la liste blanche ?</string>
@@ -49,7 +49,7 @@
   <string name="edit_blacklist">Modifier la note</string>
   <string name="edit_whitelist">Modifier la note</string>
   <string name="emptylist_fwlog_call">Tous les appels bloqués seront enregistrés ici.</string>
-  <string name="emptylist_fwlog_ms">Tous les messages bloqués, SMS et MMS, seront enregistrés ici.</string>
+  <string name="emptylist_fwlog_ms">Tous les SMS et MMS bloqués seront enregistrés ici.</string>
   <string name="enable_firewall">Activer le pare-feu</string>
   <string name="firewall_action">Opération de blocage</string>
   <string name="firewall_log">Paramètres du mode \"Ne pas déranger\"</string>

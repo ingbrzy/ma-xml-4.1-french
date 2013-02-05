@@ -105,8 +105,8 @@ Vous pouvez aussi annuler cette alarme."</string>
     <string name="timer_hour">h.</string>
     <string name="timer_message_with_hour">Délai de %1$d h. et %2$d min. écoulé</string>
     <string name="timer_message">Délai de %1$d min. écoulé</string>
-    <string name="timer_tutorial">Ensemble coulissant</string>
-    <string name="alarm_duration">Temps entre chaque rappel (Min)</string>
+    <string name="timer_tutorial">Faire coulisser</string>
+    <string name="alarm_duration">Temps entre chaque rappel (min)</string>
     <string name="alarm_duration_title">"Réglages de la durée de l'alarme"</string>
     <string name="alarm_count">Nombre de rappels avant arrêt automatique</string>
     <string name="alarm_duration_summary">"Rappels d'alarme espacés de %d minutes"</string>

@@ -39,7 +39,7 @@
   <string name="answer_widget_sliding_horizontal_miui">Coulissement horizontal</string>
   <string name="answer_widget_sliding_vertical_miui">Coulissement vertical</string>
   <string name="answer_widget_title_miui">Geste de réponse</string>
-  <string name="apn_settings">Noms de Point d\'accès</string>
+  <string name="apn_settings">APN</string>
   <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Code de zone de paramètres régionaux requis pour les appels d\'urgence</string>
   <string name="areacode_required_miui">L\'indicatif régional est requis</string>
@@ -828,8 +828,8 @@ Appuyez sur OK pour continuer.</string>
   <string name="rnw1_unlock_failed">La demande de déverrouillage du réseau 1 de l\'UIM hrpd a échoué.</string>
   <string name="rnw2_unlock_failed">La demande de déverrouillage du réseau 2 de l\'UIM hrpd a échoué.</string>
   <string name="roaming">Itinérance</string>
-  <string name="roaming_disable">Connecter aux services de données en itinérance</string>
-  <string name="roaming_enable">Connecter aux services de données en itinérance</string>
+  <string name="roaming_disable">Activer l\itinérance des données</string>
+  <string name="roaming_enable">Activer l\itinérance des données</string>
   <string name="roaming_reenable_message">"Vous avez perdu la connectivité des données car vous avez laissé l\'itinérance désactivée sur votre réseau domestique"</string>
   <string name="roaming_warning">L\'itinérance implique des frais supplémentaires. Continuer ?</string>
   <string name="rsp_unlock_failed">La demande de déverrouillage du prestataire de services de l\'UIM hrpd a échoué.</string>
