@@ -125,7 +125,7 @@
   <string name="upside_edit_bar_select_app">Sélectionner une application</string>
   <string name="upside_edit_bottom_empty_tip">Appuyez sur le rectangle pour modifier</string>
   <string name="upside_enter_tip">Glissez vos deux doigts vers le bas pour basculer sur votre bureau Mi</string>
-  <string name="upside_exit_tip">Glissez vos deux doigts vers le haut pour revenir sur le laucnher</string>
+  <string name="upside_exit_tip">Glissez vos deux doigts vers le haut pour revenir sur le launcher</string>
   <string name="upside_londing_text">Amusez-vous !</string>
   <string name="wallpaper_scrolling">Mode fond d\'écran</string>
   <string name="widget_favorite_contacts_edit">Editeur</string>
