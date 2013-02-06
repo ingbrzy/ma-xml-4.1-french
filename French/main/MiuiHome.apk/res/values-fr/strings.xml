@@ -56,7 +56,7 @@
   <string name="invalid_contact_shortcut">Raccourci du contact invalide</string>
   <string name="menu_add">Ajouter</string>
   <string name="menu_back_desktop">Retour à l\'acceuil</string>
-  <string name="menu_edit">Modifier</string>
+  <string name="menu_edit">Éditer</string>
   <string name="menu_exit_scene">Quitter le bureau Mi</string>
   <string name="menu_item_add_item">Ajouter à l\'écran d\'accueil</string>
   <string name="menu_launcher_setting">Paramètres du launcher</string>
@@ -65,7 +65,7 @@
   <string name="menu_settings">Paramètres</string>
   <string name="menu_sort">Trier les icônes de l\'écran d\'accueil</string>
   <string name="menu_wallpaper">Fond d\'écran</string>
-  <string name="menu_workspace_preview">Aperçu</string>
+  <string name="menu_workspace_preview">Vue d\'ensemble</string>
   <string name="out_of_space">Espace saturé sur cette page</string>
   <string name="permdesc_install_shortcut">Autorise une application à ajouter des raccourcis sans intervention de l\'utilisateur</string>
   <string name="permdesc_install_widget">Permet à une application d\'ajouter des widgets sans votre intervention.</string>
