@@ -233,7 +233,7 @@
   <string name="status_bar_time_format_24">HH:mm</string>
   <string name="status_bar_use_physical_keyboard">Clavier physique</string>
   <string name="tab_notifications_lable">Notifications</string>
-  <string name="tab_toggles_lable">Activer/désactiver</string>
+  <string name="tab_toggles_lable">Raccourcis</string>
   <string name="title_usb_accessory">Accessoire USB</string>
   <string name="to_vibrate_settings">Paramètres de vibration</string>
   <string name="torch_activity_hint">Allumer la torche en maintenant l\'icône de vérouillage</string>

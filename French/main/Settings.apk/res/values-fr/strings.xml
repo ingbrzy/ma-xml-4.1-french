@@ -154,7 +154,7 @@
   <string name="assisted_gps_disabled">Utiliser le serveur pour assister le GPS (décocher pour améliorer les performances du GPS)</string>
   <string name="assisted_gps_enabled">Utiliser le serveur pour assister le GPS (décocher pour réduire l\'utilisation du réseau)</string>
   <string name="audio_record_proc_title">Réduction du bruit</string>
-  <string name="auto_caps">Majuscules auto.</string>
+  <string name="auto_caps">Majuscules auto</string>
   <string name="auto_caps_summary">Mettre en majuscule la première lettre des phrases</string>
   <string name="auto_launch_disable_text">Aucune valeur par défaut définie</string>
   <string name="auto_launch_enable_text">Cette application est définie sur ouvrir par défaut pour certaines actions</string>
@@ -165,7 +165,7 @@
   <string name="auto_replace">Remplacement automatique</string>
   <string name="auto_replace_summary">Corriger les termes saisis incorrectement</string>
   <string name="auto_restore_summary">Lors de l\'installation d\'une application, les données et paramètres sauvegardés seront restaurés</string>
-  <string name="auto_restore_title">Restauration auto.</string>
+  <string name="auto_restore_title">Restauration automatique</string>
   <string name="automatic_brightness">Luminosité automatique</string>
   <string name="available_size">%s disponible</string>
   <string name="awake">Heure d\'éveil du périphérique</string>
@@ -618,8 +618,8 @@ L\'utilisation des données est mesurée par votre téléphone mais votre opéra
   <string name="device_admin_title">Administration du périphérique</string>
   <string name="device_admin_warning">Si vous activez cet administrateur, %1$s pourra effectuer les opérations suivantes : </string>
   <string name="device_cpu">CPU:</string>
-  <string name="device_cpu2_info">Double Cœur</string>
-  <string name="device_cpu4_info">Quadruple Cœur</string>
+  <string name="device_cpu2_info">Double cœur</string>
+  <string name="device_cpu4_info">Quadruple cœur</string>
   <string name="device_info_default">Inconnu</string>
   <string name="device_info_label">Informations sur le périphérique</string>
   <string name="device_info_not_available">Indisponible</string>
@@ -895,7 +895,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="led_colors_summary">Couleur de la LED de notification</string>
   <string name="led_frequence_summary">Définir l\'intervalle entre les clignotements de la LED</string>
   <string name="led_pulse_summary">Faire clignoter la LED pour les nouvelles notifications</string>
-  <string name="led_settings">Paramètres LED</string>
+  <string name="led_settings">LED</string>
   <string name="legal_information">Mentions légales</string>
   <string name="license_title">Licence</string>
   <string name="link_speed_label">Vitesse de liaison:</string>
@@ -1269,7 +1269,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="restore_default_apn_completed">Rétablissement des paramètres APN par défaut</string>
   <string name="ring_volume_title">Volume de sonnerie</string>
   <string name="ringtone_summary">Confirmer</string>
-  <string name="ringtone_title">Sonnerie de l\'appareil</string>
+  <string name="ringtone_title">Sonnerie</string>
   <string name="roaming">Itinérance</string>
   <string name="roaming_disable">Activer l\itinérance des données</string>
   <string name="roaming_enable">Activer l\itinérance des données</string>

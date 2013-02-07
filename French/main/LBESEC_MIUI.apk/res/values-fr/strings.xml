@@ -58,12 +58,12 @@ Note: Des applications ayant des permissions pourraient causer l\'instabilité d
   <string name="Generic_UserApp">Applications téléchargées (%d)</string>
   <string name="Generic_Version">Version: %1$s</string>
   <string name="HIPS_Action_Accept">Autoriser</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Allow&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Autoriser&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Count">Autorisé: %1$d</string>
   <string name="HIPS_Action_Prompt">Demander</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Ask&lt;/font&gt;</string>
+  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Demander&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Refuser</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
+  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Refuser&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Count">Refusé: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Confidentialité</string>
   <string name="HIPS_Group_Expense">Securité</string>
@@ -97,11 +97,11 @@ Note: Des applications ayant des permissions pourraient causer l\'instabilité d
   <string name="HIPS_Perm_Contact_Hint">%1$s applications ont la permission d\'accéder à votre liste de contacts</string>
   <string name="HIPS_Perm_EndCall">Raccrocher</string>
   <string name="HIPS_Perm_GetCallState">Obtenir le statut de l\'appel actuel</string>
-  <string name="HIPS_Perm_ListenCallState">surveiller le statut de l\'appel</string>
+  <string name="HIPS_Perm_ListenCallState">Surveiller le statut de l\'appel</string>
   <string name="HIPS_Perm_Location">Positionnement</string>
   <string name="HIPS_Perm_Location_Access">Obtenir votre position actuelle</string>
-  <string name="HIPS_Perm_Location_CellInfo">obtenir la localisation cellulaire</string>
-  <string name="HIPS_Perm_Location_CellLocation">obtenir la localisation cellulaire</string>
+  <string name="HIPS_Perm_Location_CellInfo">Obtenir la localisation cellulaire</string>
+  <string name="HIPS_Perm_Location_CellLocation">Obtenir la localisation cellulaire</string>
   <string name="HIPS_Perm_Location_Desc">Localiser votre téléphone par le biais du réseau ou du GPS</string>
   <string name="HIPS_Perm_Location_Hint">%1$s applications ont la permission de localiser votre téléphone</string>
   <string name="HIPS_Perm_Location_Monitor">Suivre votre position</string>

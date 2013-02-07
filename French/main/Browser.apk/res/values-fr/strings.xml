@@ -249,7 +249,7 @@
   <string name="pref_confirm_for_exit">Confirmer la sortie</string>
   <string name="pref_content_autofit">Ajuster automatiquement les pages</string>
   <string name="pref_content_autofit_summary">Formater les pages web pour les adapter à l\'écran</string>
-  <string name="pref_content_block_popups">Bloquer les fenêtres pop-ups</string>
+  <string name="pref_content_block_popups">Bloquer les fenêtres pop-up</string>
   <string name="pref_content_homepage">Définir la page d\'accueil</string>
   <string name="pref_content_javascript">Activer JavaScript</string>
   <string name="pref_content_load_images">Charger les images</string>
@@ -359,7 +359,7 @@
   <string name="pref_set_homepage_to">Mettre sur</string>
   <string name="pref_text_zoom">Mise à l\'échelle du texte</string>
   <string name="pref_ua_mione_entry">Mi-One</string>
-  <string name="pref_ua_string">Chaîne de l\'User agent</string>
+  <string name="pref_ua_string">Choisir l\'User agent</string>
   <string name="pref_ua_title">Gestion de l\'User agent</string>
   <string name="pref_use_instant_search">Recherche instantanée Google</string>
   <string name="pref_use_instant_search_summary">Utiliser la recherche instantanée de Google lorsque vous utilisez Google Search pour afficher les résultats que vous tapez (cela peut augmenter l\'utilisation des données).</string>

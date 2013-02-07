@@ -909,7 +909,7 @@ Appuyez sur OK pour continuer.</string>
   <string name="reverting_settings">Rétablissement des paramètres...</string>
   <string name="rhrpd_unlock_failed">La demande de déverrouillage de l\'UIM hrpd a échoué.</string>
   <string name="rhrpd_unlock_success">Le déverrouillage de la RUIM Hrpd a réussi.</string>
-  <string name="ringtone_title">Sonnerie de l\'appareil</string>
+  <string name="ringtone_title">Sonnerie</string>
   <string name="rnw1_unlock_failed">La demande de déverrouillage du réseau 1 de l\'UIM hrpd a échoué.</string>
   <string name="rnw1_unlock_success">Le déverrouillage du réseau 1 de l\'UIM hrpd a réussi.</string>
   <string name="rnw2_unlock_failed">La demande de déverrouillage du réseau 2 de l\'UIM hrpd a échoué.</string>
