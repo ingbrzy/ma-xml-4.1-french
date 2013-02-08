@@ -107,7 +107,7 @@
   <string name="discard_slideshow">Annuler diaporama</string>
   <string name="dl_failure_notification">Échec du téléchargement de %1$s depuis %2$s</string>
   <string name="done">OK</string>
-  <string name="download">Téléchargements</string>
+  <string name="download">Télécharger</string>
   <string name="download_later">Téléchargement impossible pour le moment. Réessayez plus tard</string>
   <string name="downloading">Téléchargement</string>
   <string name="draft_separator">", "</string>
@@ -251,7 +251,7 @@
   <string name="mx_reactivate">Réactiver la messagerie cloud</string>
   <string name="mx_warning_notice">Un SMS sera envoyé pour activer la messagerie cloud. Il est possible que certains opérateurs le facturent</string>
   <string name="need_download">En attente de synchronisation...</string>
-  <string name="new_message">Messages</string>
+  <string name="new_message">Nouveau message</string>
   <string name="new_message_arrived">Nouveau message</string>
   <string name="new_phrase">Nouveau message rapide</string>
   <string name="new_phrase_hint">Entrer les phrases couramment utilisées</string>

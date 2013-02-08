@@ -35,9 +35,9 @@
   <string name="gadget_photo_24_label">Cadre photo 2x4</string>
   <string name="gadget_photo_44_label">Cadre photo 4x4</string>
   <string name="gadget_weather_app_not_installed">MIUI Météo n\'est pas installé</string>
-  <string name="gadget_weather_download_message">Le téléchargement du thème %1$s est nécessaire. Il fait %2$s. Recommencez après la fin du téléchargement</string>
+  <string name="gadget_weather_download_message">Le téléchargement du thème %1$s de taille %2$s est nécessaire. Veuillez recommencer après la fin du téléchargement</string>
   <string name="gadget_weather_download_start">Démarrer</string>
-  <string name="gadget_weather_download_title">Téléchargements</string>
+  <string name="gadget_weather_download_title">Télécharger</string>
   <string name="gadget_weather_downloading">Le thème est en cours de téléchargement. Sélectionnez-le à nouveau une fois le téléchargement terminé</string>
   <string name="gadget_weather_loading">Pas de données météorologiques</string>
   <string name="gadget_weather_low_temp">Basse température</string>
@@ -83,7 +83,7 @@
   <string name="pref_cell_layout_size">Format de la grille</string>
   <string name="pref_enable_drawing_cache_summary">Désactiver pour libérer de la mémoire, cela va provoquer un léger ralentissement</string>
   <string name="pref_enable_drawing_cache_title">Cache graphique</string>
-  <string name="pref_icon_shadow_summary">Activer/désactiver les ombres sur les icônes de l\'écran d\'accueil.</string>
+  <string name="pref_icon_shadow_summary">Activer les ombres sur les icônes de l\'écran d\'accueil.</string>
   <string name="pref_icon_shadow_title">Ombre des icônes</string>
   <string name="pref_keep_in_memory_summary">Empêcher le launcher de se fermer lorsque la mémoire est faible.</string>
   <string name="pref_keep_in_memory_title">Garder en mémoire</string>

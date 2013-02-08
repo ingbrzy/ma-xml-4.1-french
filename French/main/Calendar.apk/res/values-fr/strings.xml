@@ -104,7 +104,7 @@
     <string name="preferences_title">Paramètres</string>
     <string name="preferences_general_title">"Paramètres d'affichage de l'agenda"</string>
     <string name="preferences_reminder_title">Paramètres des rappels</string>
-    <string name="preferences_hide_declined_title">Masquer évén. refusés</string>
+    <string name="preferences_hide_declined_title">Masquer événements refusés</string>
     <string name="preferences_week_start_day_title">La semaine commence le</string>
     <string name="preferences_week_start_day_dialog">La semaine commence le</string>
     <string name="preferences_week_start_day_default">-1</string>
@@ -119,7 +119,7 @@
     <string name="preferences_default_reminder_dialog">Heure de rappel par défaut</string>
     <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_use_home_tz_title">Utiliser le fuseau horaire système</string>
-    <string name="preferences_use_home_tz_descrip">Affiche agendas et événements dans votre fuseau horaire, même en voyage</string>
+    <string name="preferences_use_home_tz_descrip">Afficher agendas et événements dans votre fuseau horaire, même en voyage</string>
     <string name="preferences_home_tz_title">Mon fuseau horaire</string>
     <string name="preferences_home_tz_default">Europe/Paris</string>
     <string name="preferences_show_week_num_title">Afficher les numéros de semaine</string>

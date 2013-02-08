@@ -6,7 +6,7 @@
   <string name="apply_font_btn_exclude">Appliquer sans la police d\'écriture</string>
   <string name="apply_font_btn_reboot">Appliquer et redémarrer</string>
   <string name="apply_font_tip">Le thème contient des remplacements de police, un redémarrage est nécessaire pour l\'appliquer.</string>
-  <string name="apply_lockscreen_paper_tips">Le fond d\'écran du lockscreen en cours d\'utilisation et ne peut pas être changé, le nouveau fond d\'écran de verrouillage ne sera pas visible.</string>
+  <string name="apply_lockscreen_paper_tips">Le fond d\'écran de verrouillage est en cours d\'utilisation et ne peut pas être changé, le nouveau fond d\'écran de verrouillage ne sera pas visible.</string>
   <string name="apply_theme_no_select_message">Veuillez sélectionner des composants.</string>
   <string name="backup_preference_title">Sauvegarder le thème</string>
   <string name="backup_theme_dialog_message">Sauvegarder ce thème dans %1$s</string>
@@ -31,7 +31,7 @@
   <string name="download_success">Téléchargé avec succès</string>
   <string name="fail_to_add_account">Impossible d\'ajouter le compte</string>
   <string name="live_wallpaper">Fond d\'écran animé</string>
-  <string name="lockscreen_wallpaper">Fond d\'écran de verrouillage</string>
+  <string name="lockscreen_wallpaper">Écran de verrouillage</string>
   <string name="lockstyle_personal_settings">Personnalisation</string>
   <string name="long_ringtone_resource">Long (&gt;5sec)</string>
   <string name="menu_refresh">Raffraichir</string>
@@ -43,7 +43,7 @@
   <string name="resource_comment_edit_comment_waiting">Vérifier si vous avez déjà répondu</string>
   <string name="resource_comment_edit_text_default">Ecrire un commentaire</string>
   <string name="resource_comment_edit_title">Commentaire: %1$s</string>
-  <string name="resource_comment_entry_tips">%1$s commentaires, cliquez pour lire</string>
+  <string name="resource_comment_entry_tips">%1$s commentaires, cliquer pour lire</string>
   <string name="resource_comment_invalid">Veuillez toucher les étoiles pour donner une note</string>
   <string name="resource_comment_name_default">Utilisateur %1$s</string>
   <string name="resource_comment_no_comment">Aucun commentaire</string>
@@ -64,7 +64,7 @@
   <string name="theme_activity_lable">Thèmes</string>
   <string name="theme_another_import_running">L\'importation est déjà en cours, veuillez patienter et réessayer</string>
   <string name="theme_changed_failed_message">Echec de l\'application du thème %1$s.</string>
-  <string name="theme_changed_message">%1$s a été appliqué avec succès.</string>
+  <string name="theme_changed_message">%1$s appliqué avec succès</string>
   <string name="theme_changing_dialog_title">Application du nouveau thème, veuillez patienter...</string>
   <string name="theme_component_title_alarm">Alarme</string>
   <string name="theme_component_title_all">Thèmes</string>

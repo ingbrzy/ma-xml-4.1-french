@@ -281,7 +281,7 @@
   <string name="custom_location_number_hint_miui">Indicatif régional tel que 010, numéro de groupe tel que 68#####</string>
   <string name="cw_title_miui">Appel en attente</string>
   <string name="data_enable_summary">Autoriser l\'accès aux données sur le réseau mobile</string>
-  <string name="data_enabled">Connexions de données</string>
+  <string name="data_enabled">Connexion de données</string>
   <string name="default_contacts_countrycode_hint_miui">Par exemple: 86</string>
   <string name="default_contacts_countrycode_miui">Code pays des contacts par défaut</string>
   <string name="default_contacts_countrycode_sum_miui">Définir le code de pays par défaut de vos contacts: %s</string>
@@ -514,7 +514,7 @@
   <string name="labelCW">Appel en attente</string>
   <string name="labelCallerId">Affichage du numéro</string>
   <string name="labelGSMMore">Paramètres d\'appel GSM</string>
-  <string name="labelNwService">Réglages services réseau</string>
+  <string name="labelNwService">Réglages des services réseau</string>
   <string name="label_available">Réseaux disponibles</string>
   <string name="label_ndp">Code de déverrouillage réseau</string>
   <string name="label_puk2_code">Saisir le code PUK2</string>
@@ -828,8 +828,8 @@ Appuyez sur OK pour continuer.</string>
   <string name="rnw1_unlock_failed">La demande de déverrouillage du réseau 1 de l\'UIM hrpd a échoué.</string>
   <string name="rnw2_unlock_failed">La demande de déverrouillage du réseau 2 de l\'UIM hrpd a échoué.</string>
   <string name="roaming">Itinérance</string>
-  <string name="roaming_disable">Activer l\itinérance des données</string>
-  <string name="roaming_enable">Activer l\itinérance des données</string>
+  <string name="roaming_disable">Activer l\'itinérance des données</string>
+  <string name="roaming_enable">Activer l\'itinérance des données</string>
   <string name="roaming_reenable_message">"Vous avez perdu la connectivité des données car vous avez laissé l\'itinérance désactivée sur votre réseau domestique"</string>
   <string name="roaming_warning">L\'itinérance implique des frais supplémentaires. Continuer ?</string>
   <string name="rsp_unlock_failed">La demande de déverrouillage du prestataire de services de l\'UIM hrpd a échoué.</string>

@@ -9,12 +9,12 @@
   <string name="album_download">Télécharger la pochette de l\'album</string>
   <string name="album_edit">Album</string>
   <string name="album_picker_not_found">L\'application \"Galerie\" n\'a pas été trouvée sur le périphérique</string>
-  <string name="album_search_failed">Pochettes introuvable !</string>
+  <string name="album_search_failed">Pochette introuvable !</string>
   <string name="albums_title">Albums </string>
   <string name="albumsongseparator">""</string>
   <string name="all_tracks">Chansons</string>
-  <string name="android_album_settings">Utiliser la pochette de l\'albums intégrée</string>
-  <string name="android_album_summary">Afficher automatiquement la pochette de l\'album pourrait entraîner des erreurs.</string>
+  <string name="android_album_settings">Utiliser la pochette intégrée</string>
+  <string name="android_album_summary">Afficher automatiquement la pochette de l\'album pourrait entraîner des erreurs</string>
   <string formatted="false" name="artist_details_format">%1$s, %2$s</string>
   <string name="artist_edit">Artiste</string>
   <string name="artists_title">Artistes </string>
@@ -59,13 +59,13 @@
   <string name="detail_size">Taille: </string>
   <string name="discovery_music">Rechercher de la musique</string>
   <string name="donot_ask_me_again">Ne plus demander</string>
-  <string name="download">Téléchargements</string>
-  <string name="download_album_settings">Télécharger la pochette automatiquement</string>
+  <string name="download">Télécharger</string>
+  <string name="download_album_settings">Téléchargement de pochette auto</string>
   <string name="download_album_summary">Peut coûter plus cher par le réseau mobile, veuillez utiliser une connexion Wi-Fi</string>
   <string name="download_all_album">Télécharger des pochettes d\'album</string>
   <string name="download_batch_start">Commencer tous les téléchargements</string>
   <string name="download_finished">Téléchargé</string>
-  <string name="download_lyric_settings">Télécharger les paroles automatiquement</string>
+  <string name="download_lyric_settings">Téléchargement de paroles auto</string>
   <string name="download_lyric_summary">Le téléchargement des paroles n\'utilise pas beaucoup de données, vous pouvez le désactiver afin de réduire la consommation de données</string>
   <string name="download_processing">Téléchargement</string>
   <string name="edit_id3">Modifier le Tag ID3</string>
@@ -85,11 +85,11 @@
   <string name="filter_by_duration_format">%2$dmin%5$2dsec</string>
   <string name="filter_by_duration_max">5 min</string>
   <string name="filter_by_duration_min">0 seconde</string>
-  <string name="filter_by_duration_prefix">Longueur maximale (en heures) : </string>
+  <string name="filter_by_duration_prefix">Longueur maximale (en minutes) : </string>
   <string name="filter_by_duration_summary">Filtrer les fichiers en fonction de leur durée</string>
   <string name="filter_by_folder">Filtrer par dossier</string>
-  <string name="filter_by_folder_summary_off">Non ouvert, cliquez sur le dossier, ensuite filtrer le dossier</string>
-  <string name="filter_by_folder_summary_on">Déjà ouvert, cliquez sur modifier le dossier filtre</string>
+  <string name="filter_by_folder_summary_off">Désactivé, cliquer pour activer le filtrage par dossier</string>
+  <string name="filter_by_folder_summary_on">Activé, cliquer pour modifier les dossiers filtrés</string>
   <string name="filter_by_size">Filtrer par taille</string>
   <string name="filter_by_size_max">2 Mo</string>
   <string name="filter_by_size_min">0 Ko</string>
@@ -235,7 +235,7 @@
   <string name="shake_degree_low">Faible</string>
   <string name="shake_settings">Secouer pour passer</string>
   <string name="shake_summary">Secouer l\'appareil pour passer au morceau suivant</string>
-  <string name="shake_while_screen_on_title">Passer uniquement lorsque l\'écran est actif</string>
+  <string name="shake_while_screen_on_title">Écran actif uniquement</string>
   <string name="shake_while_screen_on_title_summary">Secouer pour passer seulement lorsque l\'écran est actif. Évite de passer lorsque vous marchez, etc.</string>
   <string name="shuffle_all">Lecture aléatoire</string>
   <string name="sleep_mode">Minuteur de mise en veille</string>

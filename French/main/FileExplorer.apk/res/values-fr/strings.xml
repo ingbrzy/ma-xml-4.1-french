@@ -18,7 +18,7 @@
   <string name="category_document">Docs</string>
   <string name="category_favorite">Favoris</string>
   <string name="category_log">Journaux</string>
-  <string name="category_music">Musiques</string>
+  <string name="category_music">Musique</string>
   <string name="category_other">Divers</string>
   <string name="category_picture">Photos</string>
   <string name="category_theme">Recherche Google</string>
@@ -209,7 +209,7 @@
   <string name="start_server">Démarrage du Service</string>
   <string name="start_use_xiaomi_account">Se connecter</string>
   <string name="stay_awake_summary">Garder l\'écran allumé lors de l\'utilisation de FTP</string>
-  <string name="stay_awake_title">Actif en chargement</string>
+  <string name="stay_awake_title">Écran actif en charge</string>
   <string name="stop_server">Arrêter le Service</string>
   <string name="storage_internal">Mémoire de l\'appareil</string>
   <string name="storage_sd_card">Carte SD</string>

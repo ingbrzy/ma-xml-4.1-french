@@ -9,7 +9,7 @@
     <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
   </string-array>
   <string-array name="pref_content_plugins_choices">
-    <item>Toujours activé</item>
+    <item>Toujours activés</item>
     <item>À la demande</item>
     <item>Désactivés</item>
   </string-array>
@@ -29,9 +29,9 @@
     <item>Énorme</item>
   </string-array>
   <string-array name="pref_default_zoom_choices">
-    <item>Loin</item>
-    <item>Moyenne</item>
-    <item>Fermer</item>
+    <item>Lointain</item>
+    <item>Moyen</item>
+    <item>Rapproché</item>
   </string-array>
   <string-array name="pref_data_preload_choices">
     <item>Jamais</item>

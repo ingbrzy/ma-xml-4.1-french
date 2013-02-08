@@ -4,7 +4,7 @@
   <string name="about_settings">À propos de l\'appareil</string>
   <string name="about_settings_summary">Afficher les mentions légales, le statut du périphérique et la version du logiciel</string>
   <string name="ac_enable_title">Activer le contrôle d\'accès</string>
-  <string name="ac_privacy_mode_sum">Entrez le mot de passe du contrôle d\'accès pour désactiver le mode ninja</string>
+  <string name="ac_privacy_mode_sum">Entrez le mot de passe du contrôle d\'accès pour désactiver le mode privé</string>
   <string name="ac_privacy_mode_title">Protéger le mode privé</string>
   <string name="ac_set_apps_title">Protéger les applications</string>
   <string name="accelerometer_summary_off">Changer l\'orientation de l\écran si rotation du périphérique</string>
@@ -85,7 +85,7 @@
   <string name="additional_system_update_settings_list_item_title">Mises à jour système supplémentaires</string>
   <string name="advanced_settings">Paramètres avancés</string>
   <string name="advanced_settings_summary">Activer plus d\'options de paramètres</string>
-  <string name="airplane_mode">Mode Hors-ligne</string>
+  <string name="airplane_mode">Mode avion</string>
   <string name="alarm_volume_title">Alarme</string>
   <string name="all_volume_title">Niveaux de volume</string>
   <string name="allow_bind_app_widget_activity_allow_bind">La création du widget autorise %1$s à accéder à l\'ensemble des données qu\'il affiche</string>
@@ -164,7 +164,7 @@
   <string name="auto_punctuate_summary">Appuyez sur deux fois la barre d\'espace pour insérer un point</string>
   <string name="auto_replace">Remplacement automatique</string>
   <string name="auto_replace_summary">Corriger les termes saisis incorrectement</string>
-  <string name="auto_restore_summary">Lors de l\'installation d\'une application, les données et paramètres sauvegardés seront restaurés</string>
+  <string name="auto_restore_summary">Restaurer les données et paramètres lors de la réinstallation d\'une application</string>
   <string name="auto_restore_title">Restauration automatique</string>
   <string name="automatic_brightness">Luminosité automatique</string>
   <string name="available_size">%s disponible</string>
@@ -178,7 +178,7 @@
   <string name="background_process_stop_description">L\'ancien processus d\'application a été conservé pour optimiser la vitesse en cas de réutilisation. Généralement, il n\'y a pas de raison de l\'arrêter</string>
   <string name="backup_configure_account_default_summary">Aucun compte ne stocke actuellement les données de sauvegarde</string>
   <string name="backup_configure_account_title">Compte de sauvegarde</string>
-  <string name="backup_data_summary">Enregistrez les données d\'application, les mots de passe Wi-Fi et les autres paramètres sur les serveurs Google</string>
+  <string name="backup_data_summary">Enregistrer les données des applications, les mots de passe Wi-Fi et les autres paramètres sur les serveurs Google</string>
   <string name="backup_data_title">Sauvegarder mes données</string>
   <string name="backup_erase_dialog_message">Arrêter de sauvegarder les mots de passe Wi-Fi, les favoris et les autres paramètres et données d\'application et supprimer toutes les copies des serveurs Google ?</string>
   <string name="backup_erase_dialog_title">Confirmer</string>
@@ -231,7 +231,7 @@
   <string name="battery_info_scale_label">Batterie:</string>
   <string name="battery_info_screen_on">Écran activé:</string>
   <string name="battery_info_status_charging">Chargement</string>
-  <string name="battery_info_status_charging_ac">(CA)</string>
+  <string name="battery_info_status_charging_ac">(Secteur)</string>
   <string name="battery_info_status_charging_usb">(USB)</string>
   <string name="battery_info_status_discharging">Déchargement</string>
   <string name="battery_info_status_full">Liste saturée</string>
@@ -326,7 +326,7 @@
   <string name="bluetooth_dock_settings_headset">En tant que haut-parleur</string>
   <string name="bluetooth_dock_settings_remember">Mémoriser les paramètres</string>
   <string name="bluetooth_dock_settings_title">Utiliser le dock pour l\'audio</string>
-  <string name="bluetooth_empty_list_bluetooth_off">Pour voir les autres périphériques, activez le Bluetooth</string>
+  <string name="bluetooth_empty_list_bluetooth_off">Activez le Bluetooth pour voir les autres périphériques</string>
   <string name="bluetooth_enable_alphanumeric_pin">Code PIN contenant des lettres ou des symboles</string>
   <string name="bluetooth_enter_passkey_msg">"Pour l\'association à :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Saisir la clé d\'accès requise de l\'appareil :"</string>
   <string name="bluetooth_enter_passkey_other_device">Vous aurez peut-être besoin d\'entrer ce mot de passe sur un autre périphérique</string>
@@ -471,14 +471,14 @@
   <string name="credentials_configure_lock_screen_hint">Définissez le modèle, le code PIN ou le mot de passe de déverrouillage de l\'écran avant d\'utiliser le stockage des informations d\'identification</string>
   <string name="credentials_enabled">Stockage des informations d\'identification activé</string>
   <string name="credentials_erased">Stockage infos identif. effacé</string>
-  <string name="credentials_install">Installer depuis stock. périph.</string>
+  <string name="credentials_install">Installer depuis la carte SD</string>
   <string name="credentials_install_gesture_explanation">Vous devez dessiner votre modèle de déverrouillage pour confirmer l\'installation de vos informations d\'identification</string>
   <string name="credentials_install_gesture_prompt">Dessiner votre modèle de déverrouillage</string>
-  <string name="credentials_install_summary">Installer les certificats depuis le stockage</string>
+  <string name="credentials_install_summary">Installer les certificats depuis la carte SD</string>
   <string name="credentials_not_erased">Impossible d\'effacer les informations d\'identification</string>
   <string name="credentials_old_password">Mot de passe actuel</string>
   <string name="credentials_password_too_short">Entrez un mot de passe contenant au moins 8 caractères</string>
-  <string name="credentials_reset">Effacer infos d\'identification</string>
+  <string name="credentials_reset">Effacer les informations d\'identification</string>
   <string name="credentials_reset_hint">Supprimer l\'intégralité du contenu ?</string>
   <string name="credentials_reset_summary">Supprimer tous les certificats</string>
   <string name="credentials_reset_warning">Mot de passe incorrect. Il vous reste une tentative avant que le stockage des informations d\'identification ne soit effacé</string>
@@ -583,8 +583,8 @@ L\'utilisation des données est mesurée par votre téléphone mais votre opéra
   <string name="date_time_24_hour_sample">13:00</string>
   <string name="date_time_24hour">Format 24 heures</string>
   <string name="date_time_auto">Date et heure automatiques</string>
-  <string name="date_time_auto_summaryOff">Utiliser l\'heure fournie par le réseau</string>
-  <string name="date_time_auto_summaryOn">Utiliser l\'heure fournie par le réseau</string>
+  <string name="date_time_auto_summaryOff">Utiliser l\'heure et la date fournies par le réseau</string>
+  <string name="date_time_auto_summaryOn">Utiliser l\'heure et la date fournies par le réseau</string>
   <string name="date_time_date_format">Format de date</string>
   <string name="date_time_set_date">Définir la date</string>
   <string name="date_time_set_time">Définir l\'heure</string>
@@ -826,7 +826,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="hidden_ssid_label">SSID caché : </string>
   <string name="history_details_title">Détails de l\'historique</string>
   <string name="ime_security_warning">Cette méthode permet de collecter tous les textes saisis, notamment les données personnelles et les numéros de carte bancaire, à l\'exception des mots de passe. Cela vient de l\'application %1$s. Utiliser quand même ?</string>
-  <string name="immediately_destroy_activities">Ne pas garder d\'activités</string>
+  <string name="immediately_destroy_activities">Ne pas garder d\'activité</string>
   <string name="immediately_destroy_activities_summary">Arrêter chaque activité dès que l\'utilisateur la quitte</string>
   <string name="ims_reg_required_off">Désactivation de l\'enregistrement IMS requise</string>
   <string name="ims_reg_required_on">Activation de l\'enregistrement IMS requise</string>
@@ -921,13 +921,13 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lock_settings_picker_title">"Sélectionner le verrouillage de l\'écran"</string>
   <string name="lock_settings_title">Sécurité de l\'écran de verouillage</string>
   <string name="lock_setup">La configuration est terminée.</string>
-  <string name="lock_sounds_enable_title">Son verrouillage de l\'écran</string>
+  <string name="lock_sounds_enable_title">Son du verrouillage de l\'écran</string>
   <string name="lock_title">Sécurisation de votre périphérique</string>
   <string name="lockpassword_cancel_label">Annuler</string>
   <string name="lockpassword_choose_lock_generic_header">Paramètres de déverrouillage de l\'écran</string>
-  <string name="lockpassword_choose_your_password_header">Sélectionner le mot de passe</string>
+  <string name="lockpassword_choose_your_password_header">Choisir votre mot de passe</string>
   <string name="lockpassword_choose_your_pattern_header">Dessiner le modèle pour déverrouiller l\'écran</string>
-  <string name="lockpassword_choose_your_pin_header">Sélectionner le code PIN</string>
+  <string name="lockpassword_choose_your_pin_header">Choisir votre code PIN</string>
   <string name="lockpassword_confirm_passwords_dont_match">MDP non identiques</string>
   <string name="lockpassword_confirm_pins_dont_match">Les codes PIN ne correspondent pas</string>
   <string name="lockpassword_confirm_your_password_header">Confirmer le mot de passe</string>
@@ -1102,8 +1102,8 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="nsd_quick_toggle_title">Identification du service réseau</string>
   <string name="oem_radio_info_label">Infos/paramètres OEM</string>
   <string name="onscreen_keyboard_settings_summary">Paramètres du clavier à l\'écran</string>
-  <string name="owner_info_settings_edit_text_hint">Entrer le texte à afficher sur l\'écran de vérouillage</string>
-  <string name="owner_info_settings_summary">Afficher un texte sur l\'écran de vérouillage</string>
+  <string name="owner_info_settings_edit_text_hint">Entrer le texte à afficher sur l\'écran de verrouillage</string>
+  <string name="owner_info_settings_summary">Afficher un texte sur l\'écran de verrouillage</string>
   <string name="owner_info_settings_title">Informations du propriétaire</string>
   <string name="packages_subtitle">Ensembles inclus</string>
   <string name="password_guard">Securité</string>
@@ -1121,8 +1121,8 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="ping_test_label">Effectuer un test de ping</string>
   <string name="please_select_phase2">Authentification Phase 2</string>
   <string name="please_type_passphrase">Entrez le mot de passe Wi-Fi</string>
-  <string name="pointer_location">Afficher l\'emplacement du pointeur</string>
-  <string name="pointer_location_summary">Superp. écrans affichant données tact. actuelles</string>
+  <string name="pointer_location">Emplacement du pointeur</string>
+  <string name="pointer_location_summary">Afficher les interactions tactiles à l\'écran</string>
   <string name="pointer_settings_category">Souris/pavé tactile</string>
   <string name="pointer_speed">Vitesse du curseur</string>
   <string name="power_bluetooth">Bluetooth</string>
@@ -1271,8 +1271,8 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="ringtone_summary">Confirmer</string>
   <string name="ringtone_title">Sonnerie</string>
   <string name="roaming">Itinérance</string>
-  <string name="roaming_disable">Activer l\itinérance des données</string>
-  <string name="roaming_enable">Activer l\itinérance des données</string>
+  <string name="roaming_disable">Activer l\'itinérance des données</string>
+  <string name="roaming_enable">Activer l\'itinérance des données</string>
   <string name="roaming_reenable_message">"Vous avez perdu la connectivité des données, car vous avez laissé l\'itinérance désactivée sur votre réseau domestique"</string>
   <string name="roaming_reenable_title">Attention</string>
   <string name="roaming_turn_it_on_button">Activer</string>
@@ -1413,9 +1413,9 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="show_hw_screen_updates">Mises à jour du rendu GPU</string>
   <string name="show_hw_screen_updates_summary">Affichage Flash dans les fenêtres lorsque généré par le GPU</string>
   <string name="show_magnifier_when_input">Afficher la loupe</string>
-  <string name="show_owner_info_on_lockscreen_label">Afficher des informations sur le propriétaire sur l\'écran de vérouillage</string>
+  <string name="show_owner_info_on_lockscreen_label">Afficher des informations sur le propriétaire sur l\'écran de verrouillage</string>
   <string name="show_password">Afficher les mots de passe</string>
-  <string name="show_password_summary">Affiche les mots de passe lors de leur saisie</string>
+  <string name="show_password_summary">Afficher les mots de passe lors de leur saisie</string>
   <string name="show_rounded_corners">Afficher les coins arrondis</string>
   <string name="show_rounded_corners_summary">Nécessite un redémarrage pour prendre effet</string>
   <string name="show_running_services">Afficher les services utilisés</string>
@@ -1440,7 +1440,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="sim_lock_failed">"Modification de l\'état verrouillé de la carte SIM impossible. Le code PIN est peut-être incorrect"</string>
   <string name="sim_lock_off">Requiert le code PIN pour utiliser le téléphone</string>
   <string name="sim_lock_on">Requiert le code PIN pour utiliser le téléphone</string>
-  <string name="sim_lock_settings">Paramètres de verrouillage de la carte SIM</string>
+  <string name="sim_lock_settings">Verrouillage de la carte SIM</string>
   <string name="sim_lock_settings_category">Configurer le blocage SIM</string>
   <string name="sim_lock_settings_title">Verrouillage de la carte SIM</string>
   <string name="sim_pin_change">Changer le code PIN de la SIM</string>
@@ -1518,7 +1518,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="sync_error">Erreur de synchronisation</string>
   <string name="sync_failed">Échec de la synchronisation</string>
   <string name="sync_gmail">Gmail</string>
-  <string name="sync_in_progress">Sync...</string>
+  <string name="sync_in_progress">Syncronisation...</string>
   <string name="sync_is_failing">Problèmes de synchronisation. Elle sera de nouveau opérationnelle bientôt</string>
   <string name="sync_item_title">Synchroniser %s</string>
   <string name="sync_menu_sync_cancel">Annuler sync</string>
@@ -1556,7 +1556,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="track_frame_time_summary">Calculer le temps de création du rendu dans adb shell dumpsys gfxinfo</string>
   <string name="trackball_settings">Boule de commande</string>
   <string name="trackball_wake_title">Boule de commande éveillée</string>
-  <string name="transition_animation_scale_title">Échelle d\'animation des transitions</string>
+  <string name="transition_animation_scale_title">Vitesse d\'animation des transitions</string>
   <string name="trusted_credentials">Identifications sécurisées</string>
   <string name="trusted_credentials_disable_confirmation">Désactiver le certificat AC du système ?</string>
   <string name="trusted_credentials_disable_label">Désactiver</string>
@@ -1753,7 +1753,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="virus_scanner_select_lib">Base de données de virus</string>
   <string name="virus_scanner_select_multi">Sélectionner plus d\'une base de données de signature des virus requerra une réinstallation</string>
   <string name="virus_scanner_select_single">Sélectionner la base de signatures de virus la plus fiable</string>
-  <string name="virus_scanner_select_trust_lib">Choisir au moins une base de données</string>
+  <string name="virus_scanner_select_trust_lib">Choisir une base de données antivirus</string>
   <string name="virus_scanner_title">Antivirus</string>
   <string name="virus_scanner_update_lib">Mettre à jour la base de données</string>
   <string name="voice_category">Voix</string>
@@ -1771,7 +1771,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="volume_restore">Réinitialiser le volume</string>
   <string name="volume_restore_alert">Tous les réglages de volume seront réinitialisés, voulez-vous continuer ?</string>
   <string name="volume_ring_description">Sonnerie et notifications</string>
-  <string name="volume_system_description">Volume système, pour l\'obturateur photo, l\'écran de vérouillage et les autres notifications système</string>
+  <string name="volume_system_description">Volume système, pour l\'obturateur photo, l\'écran de verrouillage et les autres notifications système</string>
   <string name="volume_voice_description">Volume de la voix</string>
   <string name="vpn_cancel">Annuler</string>
   <string name="vpn_configure">Configurer le VPN</string>
@@ -2048,7 +2048,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="wifi_wps_setup_title">Configuration WPS</string>
   <string name="wimax_settings">Paramètres 4G</string>
   <string name="wimax_settings_summary">Configurer et gérer le réseau et le modem 4G</string>
-  <string name="window_animation_scale_title">Échelle d\'animation des fenêtres</string>
+  <string name="window_animation_scale_title">Vitesse d\'animation des fenêtres</string>
   <string name="wireless_networks_settings_title">Sans fil et réseaux</string>
   <string name="xiaomi_account">Compte Xiaomi</string>
   <string name="yes">Oui</string>

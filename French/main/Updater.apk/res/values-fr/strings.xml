@@ -104,7 +104,7 @@
   <string name="share_update">Partager les informations de mise à jour système</string>
   <string name="share_update_content_sign">J\'ai mis à jour MIUI vers %1$s ! Mon rang d\'utilisateur de mise à jour est %2$s. Pour le changelog détaillé, veuillez visiter %3$s</string>
   <string name="share_update_content_unsign">J\'ai mis à jour MIUI vers %1$s ! Pour le changelog détaillé, consultez %2$s</string>
-  <string name="sign_in_add_account_helper">Votre téléphone n\'a pas de compte actif MIUI, ajoutez un utilisateur pour recevoir des points utilisateur</string>
+  <string name="sign_in_add_account_helper">Votre téléphone n\'a pas de compte MIUI actif, ajoutez-en un pour recevoir des points utilisateur</string>
   <string name="sign_in_info">"Votre classement de mise à jour est %1$s, %2$s membres ont signé pour MIUI %3$s"</string>
   <string name="sign_in_info_rank_more">"Votre classement de mise à jour est après %1$s sur %2$s membres qui ont signé pour MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Votre classement de mise à jour est de %1$s sur %2$s membres qui ont signé pour MIUI %3$s"</string>

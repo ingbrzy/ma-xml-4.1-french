@@ -281,11 +281,11 @@
   <string name="fools_day">Poisson d\'avril</string>
   <string name="force_exit_message">Fermé avec succès \"%1$s\"</string>
   <string name="format_time_in_12_hours">%1$s %2$s</string>
-  <string name="global_action_privacy_mode_dialog_message">En mode ninja, les appels, les notes, les photos et les SMS sont cachés et le lanceur ne sera pas en mesure de passer en mode édition. Vous pouvez définir le mot de passe pour protéger le mode ninja dans les paramètres de contrôle d’accès</string>
-  <string name="global_action_privacy_mode_off_status">Le mode ninja est désactivé</string>
-  <string name="global_action_privacy_mode_on_status">Le mode ninja est activé</string>
-  <string name="global_action_privacy_mode_on_toast">Le mode ninja est activé. Les appels, les notes, la galerie, et les messages sont cachés, le lanceur ne peut plus entrer en mode d\'édition.</string>
-  <string name="global_action_toggle_privacy_mode">Protection</string>
+  <string name="global_action_privacy_mode_dialog_message">En mode privé, les appels, les notes, les photos et les SMS sont cachés et le lanceur ne sera pas en mesure de passer en mode édition. Vous pouvez définir le mot de passe pour protéger le mode privé dans les paramètres de contrôle d’accès</string>
+  <string name="global_action_privacy_mode_off_status">Le mode privé est désactivé</string>
+  <string name="global_action_privacy_mode_on_status">Le mode privé est activé</string>
+  <string name="global_action_privacy_mode_on_toast">Le mode privé est activé. Les appels, les notes, la galerie, et les messages sont cachés, le lanceur ne peut plus entrer en mode d\'édition.</string>
+  <string name="global_action_toggle_privacy_mode">Mode privé</string>
   <string name="grain_buds">Confirmer</string>
   <string name="grain_in_ear">Confirmer</string>
   <string name="grain_rain">Confirmer</string>
@@ -450,7 +450,7 @@
   <string name="status_bar_toggle_power_low">Economie d\'énergie</string>
   <string name="status_bar_toggle_power_mid">Standard</string>
   <string name="status_bar_toggle_power_mode">Mode d\'alimentation</string>
-  <string name="status_bar_toggle_privacy_mode">Protection</string>
+  <string name="status_bar_toggle_privacy_mode">Mode privé</string>
   <string name="status_bar_toggle_reboot">Redémarrer</string>
   <string name="status_bar_toggle_ring">Sonnerie</string>
   <string name="status_bar_toggle_ringtone">Sonnerie</string>
