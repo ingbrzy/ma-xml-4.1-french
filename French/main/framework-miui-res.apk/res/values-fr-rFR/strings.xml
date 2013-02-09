@@ -259,6 +259,7 @@
   <string name="description_missed">N/A</string>
   <string name="description_modifiedtime">Mis à jour : </string>
   <string name="description_size">Taille : </string>
+  <string name="description_summary">Summary:</string>
   <string name="description_unknown">Inconnu</string>
   <string name="description_uploadtime">Date upload :</string>
   <string name="description_version">Version :</string>
