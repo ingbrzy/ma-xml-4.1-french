@@ -142,7 +142,6 @@
   <string name="call_forwarding_settings">Paramètres de renvoi d\'appel</string>
   <string name="call_forwarding_settings_miui">Paramètres de renvoi d\'appel</string>
   <string name="call_log_number_limit_key_title">Entrées maximales du journal</string>
-  <string name="call_log_number_limit_miui">Limiter les éléments du journal d\'appel</string>
   <string name="call_log_number_limit_miui">Restriction de la taille du journal d\'appels</string>
   <string name="call_log_number_limit_setting_switcher">Restrictions</string>
   <string name="call_log_number_limit_setting_switcher_summary">Limiter la capacité de stockage du journal d\'appel pour en assurer l\'efficacité</string>
@@ -625,7 +624,6 @@
   <string name="mmiCancelled">Code MMI annulé</string>
   <string name="mmiStarted">Code MMI démarré</string>
   <string name="mobile_networks">Paramètres de réseau mobile</string>
-  <string name="mobile_networks_miui">Paramètres de réseau mobile</string>
   <string name="mobile_networks_miui">Réseaux mobiles</string>
   <string name="multi_category_disable">Messages Catégorie multiple désactivés</string>
   <string name="multi_category_enable">Messages Catégorie multiple activés</string>
