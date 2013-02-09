@@ -5,7 +5,7 @@
   <string name="access_sd_fail">Impossible d\'accéder à la mémoire de stockage USB.</string>
   <string name="alert_dialog_cancel">Annuler</string>
   <string name="alert_dialog_ok">OK</string>
-  <string name="alert_message_delete_station">Êtes-vous sûr de que vouloir supprimer la station sélectionnée ?</string>
+  <string name="alert_message_delete_station">Êtes-vous sûr de vouloir supprimer la station sélectionnée ?</string>
   <string name="alert_title_delete">Supprimer</string>
   <string name="alert_title_new_station">Nouvelle station</string>
   <string name="alert_title_save_station">Mémoriser Station - %s</string>
@@ -35,11 +35,11 @@
   <string name="factory_reset_dialog_title">Confirmer la réinitialisation</string>
   <string name="find_af_station">Rechercher</string>
   <string name="fm_cmd_failed_call_on">Echec FM. La FM n\'est pas autorisée pendant l\'appel</string>
-  <string name="fm_cmd_failed_msg">Echec FM. Si le problème persiste, veuillez éteindre FM et rallumez-le</string>
+  <string name="fm_cmd_failed_msg">Echec FM. Si le problème persiste, veuillez éteindre FM et le rallumer</string>
   <string name="fm_cmd_failed_msg_hdmi">Echec FM. FM et HDMI en même temps non supporté</string>
   <string name="fm_command_failed_title">Echec FM</string>
   <string name="fm_command_timeout_title">Délai d\'attente expiré</string>
-  <string name="fm_tune_timeout_msg">Pas de réponse pour accrocher la Station FM, si le problème persiste, veuillez éteindre FM et rallumez-le</string>
+  <string name="fm_tune_timeout_msg">Pas de réponse pour accrocher la Station FM, si le problème persiste, veuillez éteindre FM et le rallumer</string>
   <string name="fmradio_clear_confirm_msg">Les stations enregistrées seront supprimées, poursuivre la recherche ?</string>
   <string name="fmtx_autoselect_name">La sélection automatique supprimera toutes les pré-sélections, continuer ?</string>
   <string name="frequency_already_exist">Cette fréquence radio existe déjà</string>
@@ -51,7 +51,7 @@
   <string name="menu_add_list">Ajouter liste</string>
   <string name="menu_delete">Supprimer</string>
   <string name="menu_edit">Modifier</string>
-  <string name="menu_new_station">Ajouter nouvelle Station</string>
+  <string name="menu_new_station">Ajouter une nouvelle Station</string>
   <string name="menu_play">Lire</string>
   <string name="menu_record_list">Liste des enregistrements</string>
   <string name="menu_record_start">Commencer l\'enregistrement</string>
@@ -83,10 +83,10 @@
   <string name="preset_delete">Supprimer</string>
   <string name="preset_replace">Remplacer</string>
   <string name="preset_tune">Ajustement</string>
-  <string name="presetlist_autoselect_title">Confirmer sélection auto</string>
+  <string name="presetlist_autoselect_title">Confirmer la sélection auto</string>
   <string name="radio_text_string">Ceci est un message radio dont le texte demande un défilement</string>
-  <string name="record_error_unknown">Enregistrement stoppé. Erreur inconnue pendant l\'enregistrement ;-)</string>
-  <string name="record_fail">Echec enregistrement</string>
+  <string name="record_error_unknown">Enregistrement stoppé. Erreur inconnue pendant l\'enregistrement</string>
+  <string name="record_fail">Echec d\'enregistrement</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Cliquez sur pour afficher le fichier %s</string>
   <string name="record_sucess">Enregistrement réussi</string>
@@ -113,7 +113,7 @@
   <string name="stations_list_empty">La liste des stations est vide</string>
   <string name="status_recording">%s</string>
   <string name="status_recording_time">(Enregistrement: %s)</string>
-  <string name="test_menu">Sélectionnez Test</string>
+  <string name="test_menu">Sélectionnez un Test</string>
   <string name="test_prompt">Choisir un Test</string>
   <string name="test_run">Exécutez le Test</string>
   <string name="title_select_station">Sélectionnez la Station - %s</string>

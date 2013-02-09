@@ -126,7 +126,7 @@
   <string name="lockscreen_carrier_default">Aucun service</string>
   <string name="mms_vibrate_hint">Message</string>
   <string name="mount_storage">Oui</string>
-  <string name="move_data_to_sdcard_message">"Cela déplacera les données telles que les captures d\'écran, les photos et autres de la mémoire interne à la carte SD. Afin de conserver une expérience utilisateur stable et harmonieuse, il est préférable de conserver la carte SD dans le téléphone pour l\'usage quotidien."</string>
+  <string name="move_data_to_sdcard_message">"Cela déplacera les données telles que les captures d\'écran, les photos et autre de la mémoire interne à la carte SD. Afin de conserver une expérience utilisateur stable et harmonieuse, il est préférable de conserver la carte SD dans le téléphone pour l\'usage quotidien."</string>
   <string name="move_data_to_sdcard_title">Export des données internes sur la carte SD</string>
   <string name="no_vibrate_hint">Selon vos paramètres, les notifications d\'appels entrants et les sms ne vibreront pas, activer les vibrations n\'aura aucun effet</string>
   <string name="not_all_vibrate_hint">Selon vos paramètres, %1$s vibre, %2$s ne vibre pas, vous pouvez le modifier via les paramètres &gt; Sons &gt; Vibreur</string>
