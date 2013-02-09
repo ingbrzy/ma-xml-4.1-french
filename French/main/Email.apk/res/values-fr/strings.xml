@@ -321,7 +321,7 @@ Cc : %4$s
   <string name="account_settings_default_label">Compte par défaut</string>
   <string name="account_settings_default_summary">Par défaut, envoyer les e-mails avec ce compte</string>
   <string name="account_settings_background_attachments_label">Télécharger les pièces jointes</string>
-  <string name="account_settings_background_attachments_summary">Téléch. auto des pièces jointes des messages récents via Wi-Fi</string>
+  <string name="account_settings_background_attachments_summary">Téléchargement auto des pièces jointes des messages récents via Wi-Fi</string>
   <string name="account_settings_notify_label">Notifications</string>
   <string name="account_settings_summary">Fréquence de synchronisation, notifications, etc.</string>
   <string name="account_settings_notify_summary">"Afficher une notification dans la barre système à la réception d\'e-mails"</string>

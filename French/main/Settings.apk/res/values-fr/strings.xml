@@ -338,7 +338,7 @@
   <string name="bluetooth_hid_profile_summary_connected">Connecté au périphérique d\'entrée</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utiliser en entrée</string>
   <string name="bluetooth_incoming_pairing_msg">De &lt;br&gt;<b>%1$s</b>&lt;br&gt;&lt;br&gt;Associer avec cet appareil ?</string>
-  <string name="bluetooth_is_discoverable">Visible sur tous périph.Bluetooth à prox. (%1$s)</string>
+  <string name="bluetooth_is_discoverable">Visible sur tous périphériques Bluetooth à proximité (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Visible sur tous les périphériques Bluetooth à proximité</string>
   <string name="bluetooth_lock_voice_dialing">Verrouiller la numérotation vocale</string>
   <string name="bluetooth_lock_voice_dialing_summary">Désact. numérot. vocale Bluetooth si écran véerrouillé</string>
@@ -556,7 +556,7 @@ L\'utilisation des données est mesurée par votre téléphone mais votre opéra
   <string name="data_usage_menu_roaming">Itinérance</string>
   <string name="data_usage_menu_show_ethernet">Aff. utilisation Ethernet</string>
   <string name="data_usage_menu_show_wifi">Afficher utilisation Wi-Fi</string>
-  <string name="data_usage_menu_split_4g">Affich. données 4G séparément</string>
+  <string name="data_usage_menu_split_4g">Afficher les données 4G séparément</string>
   <string name="data_usage_pick_cycle_day">Modifier jour du mois pour redéfinir cycle utilisation données</string>
   <string name="data_usage_received_sent">%1$s reçu, %2$s envoyé</string>
   <string name="data_usage_restrict_background">"La restriction des données d\'arrière-plan interrompt le fonctionnement de plusieurs applications et services sauf si l\'appareil est connecté à un réseau Wi-Fi"</string>
@@ -1738,9 +1738,9 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="virus_scan_app_uninstall">Désinstallation du lot (%d)</string>
   <string name="virus_scan_app_waiting">En attente de</string>
   <string name="virus_scanner_auto_update">Mise à jour automatique</string>
-  <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
+  <string name="virus_scanner_date_formater">dd MMM yyyy</string>
   <string name="virus_scanner_kinsoft_provider">La prise en charge de la sécurité est fournie par Kingsoft Phone Guardian</string>
-  <string name="virus_scanner_lib_already_latest">Base de données antivirus est à jour</string>
+  <string name="virus_scanner_lib_already_latest">La base de données antivirus est à jour</string>
   <string name="virus_scanner_lib_update">Mise à jour de base de données antivirus disponible</string>
   <string name="virus_scanner_lib_update_failed">Échec de la mise à jour de base de données Antivirus !</string>
   <string name="virus_scanner_lib_updating">Mise à jour de la base de données en cours...</string>
@@ -1759,7 +1759,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="voice_category">Voix</string>
   <string name="voice_input_output_settings">Entrée et sortie voix</string>
   <string name="voice_input_output_settings_title">Param. entrée et sortie voix</string>
-  <string name="voice_search_settings_title">Rech. vocale</string>
+  <string name="voice_search_settings_title">Recherche vocale</string>
   <string name="volume_alarm_description">Alarmes</string>
   <string name="volume_alarm_mute">Désactiver le son pour les alarmes</string>
   <string name="volume_bluetooth_description">Volume du Bluetooth</string>

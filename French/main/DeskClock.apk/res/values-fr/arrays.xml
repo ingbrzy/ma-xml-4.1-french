@@ -11,9 +11,9 @@
         <item>Prochaine alarme dans %1$s, %2$s et %3$s</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Aucun</item>
-        <item>Pause</item>
-        <item>Arrêt</item>
+        <item>Ne rien faire</item>
+        <item>Reporter l\'alarme</item>
+        <item>Arrêter l\'alarme</item>
     </string-array>
     <string-array name="volume_button_setting_values">
         <item>0</item>

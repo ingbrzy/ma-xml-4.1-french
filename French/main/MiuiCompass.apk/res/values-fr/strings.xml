@@ -23,6 +23,6 @@
   <string name="menu_calibrate_altitude">Calibrer l\'altitude</string>
   <string name="meter">Mètre</string>
   <string name="pressure">Pression %.1fhPa</string>
-  <string name="toast_accuracy_low">«La précision est faible, appuyez sur Menu pour étalonner la boussole.\"</string>
+  <string name="toast_accuracy_low">"La précision est faible, appuyez sur Menu pour étalonner la boussole."</string>
   <string name="user_guide_calibrate">Appuyez sur la touche Menu pour calibrer la boussole</string>
 </resources>

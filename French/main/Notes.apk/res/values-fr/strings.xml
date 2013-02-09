@@ -42,7 +42,7 @@
   <string name="image_edit_action_replace_menu_camera">Prendre une photo</string>
   <string name="image_edit_action_replace_menu_gallery">Ajouter une photo de la gallerie</string>
   <string name="image_edit_action_replace_menu_title">Remplacer l\'élément</string>
-  <string name="image_edit_action_view">Affich.</string>
+  <string name="image_edit_action_view">Afficher</string>
   <string name="info_note_enter_desktop">Note ajoutée à l\'écran d\'accueil</string>
   <string name="menu_create_folder">Nouveau dossier</string>
   <string name="menu_delete">Supprimer</string>
@@ -89,7 +89,7 @@
   <string name="preferences_dialog_select_account_tips">Veuillez sélectionner un compte google. Les notes seront synchronisées avec google task.</string>
   <string name="preferences_dialog_select_account_title">Synchroniser les notes</string>
   <string name="preferences_last_sync_time">Dernière synchronisation %1$s</string>
-  <string name="preferences_last_sync_time_format">dd-MM-yyyy hh:mm:ss</string>
+  <string name="preferences_last_sync_time_format">dd/MM/yyyy hh:mm:ss</string>
   <string name="preferences_menu_cancel">Annuler</string>
   <string name="preferences_menu_change_account">Modifier les paramètres du compte de synchronisation</string>
   <string name="preferences_menu_remove_account">Supprimer le compte de synchronisation</string>

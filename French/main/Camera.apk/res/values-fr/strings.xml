@@ -12,7 +12,7 @@
   <string name="accessibility_shutter_button">"Bouton de l\'obturateur"</string>
   <string name="accessibility_switch">Interrupteur %1$s</string>
   <string name="accessibility_zoom_control">Contrôle du zoom</string>
-  <string name="bg_replacement_message">« Placez votre appareil sur une surface stable et veillez à ce qu\'il n\'y ai aucun mouvement derrière vous. Puis sortez de la vision de la caméra.\"</string>
+  <string name="bg_replacement_message">"Placez votre appareil sur une surface stable et veillez à ce qu\'il n\'y ai aucun mouvement derrière vous. Puis sortez de la vision de la caméra.\"</string>
   <string name="camera_disabled">"L\'appareil photo a été désactivé en raison des règles de sécurité."</string>
   <string name="camera_error_title">"Erreur de l\'appareil photo."</string>
   <string name="camera_gallery_photos_text">Galerie</string>

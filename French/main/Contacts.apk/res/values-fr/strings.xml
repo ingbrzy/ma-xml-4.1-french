@@ -477,7 +477,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="option_not_star">Enlever des favoris</string>
   <string name="option_send_to_desktop">Envoyer vers le bureau</string>
   <string name="option_send_to_others">Envoyer à d\'autres</string>
-  <string name="option_view_contact">Affich.</string>
+  <string name="option_view_contact">Afficher</string>
   <string name="organizationLabelsGroup">Organisation</string>
   <string formatted="false" name="organization_company_and_title">%2$s, %1$s</string>
   <string name="payphone">Téléphone public</string>

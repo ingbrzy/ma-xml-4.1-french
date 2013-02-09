@@ -79,7 +79,7 @@
   <string name="crop_action">Rogner</string>
   <string name="crop_fail_to_load_image">Impossible de charger l\'image pour la rogner.</string>
   <string name="crop_label">"Rogner l\'image"</string>
-  <string name="crop_not_saved">«L\'image recadrée n\'a pas été enregistrée.»</string>
+  <string name="crop_not_saved">"L\'image recadrée n\'a pas été enregistrée."</string>
   <string name="crop_polymorphism">Rogner</string>
   <string name="crop_save_text">Rogner</string>
   <string name="crop_saved">Image recadrée enregistrée dans le dossier de téléchargements.</string>

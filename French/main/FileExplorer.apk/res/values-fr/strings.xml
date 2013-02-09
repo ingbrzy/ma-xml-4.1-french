@@ -85,11 +85,11 @@
   <string name="file_info_location">Chemin d\'accès : </string>
   <string name="file_info_modified">Mis à jour : </string>
   <string name="file_info_size">Taille : </string>
-  <string name="file_large_error">« Les fichiers contenant au-delà de 300 Mo ne peuvent être partagés »</string>
+  <string name="file_large_error">"Les fichiers contenant au-delà de 300 Mo ne peuvent être partagés"</string>
   <string name="file_loading">Chargement...</string>
   <string name="file_size">%d octets</string>
   <string name="finished">Terminé</string>
-  <string name="forward_to_web_recycle_prompt">&lt;a href=«%1$s»&gt;Cliquez ici &lt;/a&gt; pour ouvrir la corbeille du nuage</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href="%1$s"&gt;Cliquez ici &lt;/a&gt; pour ouvrir la corbeille du nuage</string>
   <string name="ftp_account_req_notice">Le nom de l\'utilisateur et le mot de passe doivent contenir de 4 à 16 caractères, peuvent contenir des chiffres, des lettres de l\'alphabet. Les majuscules et les minuscules sont différenciées.</string>
   <string name="ftp_anonymous_login">FTP anonyme</string>
   <string name="ftp_invalid_username_or_password">Erreur d\'authentification</string>
@@ -101,24 +101,24 @@
   <string name="ftp_username_hint">Nom d\'utilisateur</string>
   <string name="gbk_summary">Si vous utilisez l\'encodage GBK, par exemple l\'Explorateur Windows, choisissez ce type de codage pour éviter la présence de caractères chinois</string>
   <string name="gbk_title">GBK</string>
-  <string name="guide_access_files_through_phone">« Vous pouvez également partager des fichiers par l\'intermédiaire de pages Web, ils seront alors affichés sur MiDrive dans votre téléphone »</string>
+  <string name="guide_access_files_through_phone">"Vous pouvez également partager des fichiers par l\'intermédiaire de pages Web, ils seront alors affichés sur MiDrive dans votre téléphone"</string>
   <string name="guide_access_files_through_web">Votre fichier peut être consulté sur n\'importe quel ordinateur connecté à Internet</string>
   <string name="guide_advance_tech">Techniques avancées</string>
   <string name="guide_begin_to_use">Commencer à utiliser MiDrive</string>
-  <string name="guide_changes_sync">« Synchroniser les modifications sur tous vos appareils. C\'est trop fastoche !\"</string>
+  <string name="guide_changes_sync">"Synchroniser les modifications sur tous vos appareils. C\'est si facile !\"</string>
   <string name="guide_congratulation_know_all">"Félicitations ! Vous avez appris toutes les techniques ! Commencez dès maintenant à l\'aide de MiDrive !"</string>
   <string name="guide_copy_to_sdcard">Copier les fichiers depuis la carte SD vers MiDrive</string>
   <string name="guide_download_install_apk">Télécharger et installer le client MiDrive</string>
   <string name="guide_install_app_on_several_computers">Installer le client MiDrive sur plusieurs ordinateurs</string>
-  <string name="guide_login_url">« Veuillez visiter pan.xiaomi.com sur votre ordinateur »</string>
-  <string name="guide_manage_files_through_computer">« Vous pouvez facilement gérer les fichiers dans MiDrive sur votre ordinateur »</string>
+  <string name="guide_login_url">"Veuillez visiter pan.xiaomi.com sur votre ordinateur"</string>
+  <string name="guide_manage_files_through_computer">"Vous pouvez facilement gérer les fichiers dans MiDrive sur votre ordinateur"</string>
   <string name="guide_senior_tech">Techniques supérieures</string>
   <string name="instruction">Entrer l\'adresse suivante dans votre client FTP:</string>
   <string name="instruction_pre">Démarrer le service pour activer le serveur FTP</string>
   <string name="kingsoft_account">Compte Kingsoft KuaiPan</string>
   <string name="kuaipan_over_space">Votre MiDrive n\'a perdu aucun espace.</string>
   <string name="kuaipan_prompt">Aide MiDrive</string>
-  <string name="kuaipan_prompt_message">« Le serveur est actuellement indisponible, veuillez réessayer plus tard »</string>
+  <string name="kuaipan_prompt_message">"Le serveur est actuellement indisponible, veuillez réessayer plus tard"</string>
   <string name="kuaipan_tech_support">Support technique apporté par Kingsoft Kuaipan</string>
   <string name="load_data_from_local">Patientez, chargement des données...</string>
   <string name="load_err">Échec du chargement</string>
@@ -162,7 +162,7 @@
   <string name="operation_decompressing">Décompression...</string>
   <string name="operation_delete">Supprimer</string>
   <string name="operation_delete_confirm_message">Confirmer la suppression ?</string>
-  <string name="operation_delete_confirm_message_folder">« Supprimer le dossier supprimera tous les fichiers qu\'il contient.»</string>
+  <string name="operation_delete_confirm_message_folder">"Supprimer le dossier supprimera tous les fichiers qu\'il contient."</string>
   <string name="operation_deleting">Suppression en cours...</string>
   <string name="operation_download_link">Générer le lien de téléchargement</string>
   <string name="operation_favorite">Ajouter aux favoris</string>
@@ -224,8 +224,8 @@
   <string name="transing">En cours de transfert...</string>
   <string name="trash_box_capacity">Espace libre de la corbeille: %1$s</string>
   <string name="trash_box_link">Visitez pan.xiaomi.com pour vider la corbeille</string>
-  <string name="trash_box_message1">« Vous pouvez supprimer des fichiers non importants pour libérer de l\'espace »</string>
-  <string name="trash_box_message2">« Vous pouvez supprimer des fichiers ou vider la corbeille pour libérer de l\'espace »</string>
+  <string name="trash_box_message1">"Vous pouvez supprimer des fichiers non importants pour libérer de l\'espace"</string>
+  <string name="trash_box_message2">"Vous pouvez supprimer des fichiers ou vider la corbeille pour libérer de l\'espace"</string>
   <string name="ui_bar_title_download">MiDrive : Téléchargement</string>
   <string name="ui_bar_title_upload">MiDrive : Partage</string>
   <string name="ui_bar_txt_download_failed">MiDrive : Téléchargement échoué</string>
@@ -239,7 +239,7 @@
   <string name="ui_bar_txt_upload_success">MiDrive : Partage réussi</string>
   <string name="ui_filechange_btn_download">Télécharger les fichiers</string>
   <string name="ui_main_choose_title">Sélectionnez la méthode d\'envoi</string>
-  <string name="ui_main_download_file_failed">Le téléchargement de « %1$s » a échoué</string>
+  <string name="ui_main_download_file_failed">Le téléchargement de "%1$s" a échoué</string>
   <string name="ui_main_menu_option_setting">Paramètres</string>
   <string name="ui_main_menu_option_task_manage">Gestion de transfert</string>
   <string name="ui_main_progress_txt_open_file">Téléchargement...</string>

@@ -412,7 +412,7 @@
   <string name="ssl_expired">Ce certificat a expiré.</string>
   <string name="ssl_go_back">Retour</string>
   <string name="ssl_invalid">Ce certificat n\'est pas valide.</string>
-  <string name="ssl_mismatch">« Le nom du site ne correspond pas au nom sur le certificat. »</string>
+  <string name="ssl_mismatch">"Le nom du site ne correspond pas au nom sur le certificat."</string>
   <string name="ssl_not_yet_valid">"Ce certificat n\'est pas encore valide."</string>
   <string name="ssl_unknown">Erreur de certificat inconnu.</string>
   <string name="ssl_untrusted">"Ce certificat provient d\'une autorité non approuvée."</string>

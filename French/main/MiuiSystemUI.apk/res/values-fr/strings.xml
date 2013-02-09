@@ -122,7 +122,7 @@
   <string name="installer_cd_button_title">Installer l\'application de transfert de fichiers Android pour Mac</string>
   <string name="invalid_charger">Chargement USB non pris en charge. Utilisez le chargeur fourni</string>
   <string name="key_position_custom">Personnaliser la position de touche</string>
-  <string name="label_view">Affich.</string>
+  <string name="label_view">Afficher</string>
   <string name="lockscreen_carrier_default">Aucun service</string>
   <string name="mms_vibrate_hint">Message</string>
   <string name="mount_storage">Oui</string>

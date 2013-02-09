@@ -416,7 +416,7 @@
   <string name="sim_full_body">Carte SIM saturée. Veuillez supprimer certains éléments</string>
   <string name="sim_full_title">Carte SIM saturée</string>
   <string name="sim_manage_messages_title">SMS sur la carte SIM</string>
-  <string name="sim_view">Affich.</string>
+  <string name="sim_view">Afficher</string>
   <string name="slide_number">Diapositive %s</string>
   <string name="slide_show_part">Part %1$s/%2$s</string>
   <string name="slideshow_activity">Diaporama</string>
@@ -470,7 +470,7 @@
   <string name="unknown_num">Numéro inconnu</string>
   <string name="unknown_sender">Expéditeur inconnu</string>
   <string name="unsupported_media_format">Format non supporté %1$s</string>
-  <string name="view">Affich.</string>
+  <string name="view">Afficher</string>
   <string name="view_bookmark">Voir le message original</string>
   <string name="view_delivery_report">Accusé de réception</string>
   <string name="view_message_details">Voir les détails</string>
