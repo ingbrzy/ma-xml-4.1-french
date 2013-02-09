@@ -1083,7 +1083,6 @@ Appuyez sur OK pour continuer.</string>
   <string name="throttle_help_subtext">Plus d\'informations sur la politique d\'utilisation des données sur le réseau mobile de votre opérateur</string>
   <string name="throttle_rate">Politique relative aux tarifs de gestion des données</string>
   <string name="throttle_rate_subtext">Si vous dépassez la limite d\'utilisation des données, le tarif de gestion des données est réduit à %1$d Ko/s</string>
-  <string name="throttle_settings_title">"Politique relative à la gestion des données de l\'opérateur"</string>
   <string name="throttle_status_subtext">\"%1$s sur %3$s - (%2$d ٪) du maximum par période
 La prochaine période démarre dans %4$d jours (%5$s).\"</string>
   <string name="throttle_time_frame">Période d\'utilisation des données</string>
