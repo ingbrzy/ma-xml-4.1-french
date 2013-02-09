@@ -385,6 +385,7 @@
   <string name="reboot_progress">Redémarrage...</string>
   <string name="resource_alarm_default">Alarme</string>
   <string name="resource_apply">Appliquer</string>
+  <string name="resource_buy">Buy</string>
   <string name="resource_can_not_selected">%1$ s ne peut pas être sélectionné !</string>
   <string name="resource_default">Sonnerie par défaut</string>
   <string name="resource_default_name">Ressource</string>
@@ -402,6 +403,7 @@
   <string name="resource_no_result">Aucun résultat trouvé</string>
   <string name="resource_notification_default">Notifications</string>
   <string name="resource_online">En ligne %1$s</string>
+  <string name="resource_price_unit">MI Dollar</string>
   <string name="resource_ringtone_default">Sonneries</string>
   <string name="resource_see_more">En savoir plus</string>
   <string name="resource_select">Sélectionner</string>
