@@ -69,8 +69,8 @@
   <string formatted="false" name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string formatted="false" name="callrecordview_item_op_time_only_seconds">%d sec</string>
   <string name="callrecordview_item_op_time_rejected">Appel rejeté</string>
-  <string name="callrecordview_item_op_time_short_incoming">"Entrant:"</string>
-  <string name="callrecordview_item_op_time_short_outgoing">"Sortant:"</string>
+  <string name="callrecordview_item_op_time_short_incoming">"Entrant :"</string>
+  <string name="callrecordview_item_op_time_short_outgoing">"Sortant :"</string>
   <string name="callrecordview_menu_delete">Effacer le journal d\'appel</string>
   <string name="callrecordview_menu_delete_accepted">Effacer les appels reçus du journal d\'appel</string>
   <string name="callrecordview_menu_delete_all">Effacer tous les appels</string>
@@ -201,7 +201,7 @@
   <string name="deselect_all">Tout désélectionner</string>
   <string name="dialerDialpadHintText">Composez pour ajouter un appel</string>
   <string name="dialer_empty_text_loading">Chargement...</string>
-  <string name="dialer_empty_text_no_call_log">Pas d\'appels</string>
+  <string name="dialer_empty_text_no_call_log">Aucun appel</string>
   <string name="dialer_empty_text_no_search_result">Aucun contact trouvé</string>
   <string name="dialog_import_export">Importer/Exporter des contacts</string>
   <string name="dialog_new_contact_account">Créer un contact sur le compte</string>

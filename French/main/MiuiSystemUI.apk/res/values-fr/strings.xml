@@ -169,8 +169,8 @@
   <string name="screenshot_saving_title">Enregistrement capture d\'écran...</string>
   <string name="settings_expandable_under_fullscreen">Extensible en plein écran</string>
   <string name="settings_expandable_under_fullscreen_summary">En glissant vers le bas à partir du haut de l\'écran</string>
-  <string name="settings_expandable_under_keyguard">Extensible sur l\'écran de verrouillage</string>
-  <string name="settings_expandable_under_keyguard_summary">Ne fonctionne que sur écran de verrouillage non sécurisé</string>
+  <string name="settings_expandable_under_keyguard">Extensible sous écran de verrouillage</string>
+  <string name="settings_expandable_under_keyguard_summary">Ne fonctionne que sur un écran de verrouillage non sécurisé</string>
   <string name="settings_expanded_view">Notification en mode étendu</string>
   <string name="settings_notification_icon">Notifications de la barre d\'état</string>
   <string name="settings_screenshot_notification_disabled">Afficher infos. de capture d\'écran</string>

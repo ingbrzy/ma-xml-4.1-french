@@ -39,7 +39,7 @@
   <string name="close_txt">Fermer</string>
   <string name="control_app_internet">Contrôle réseau des applications</string>
   <string name="current_warning_value">Seuil d\'alerte: %s</string>
-  <string name="daily_limit_dialog_disconnect_hint">Déconnecter Internet lorsque le traffic dépasse la limite définie</string>
+  <string name="daily_limit_dialog_disconnect_hint">Déconnecter Internet lorsque le trafic dépasse la limite définie</string>
   <string name="daily_limit_dialog_hint">Limite journalière de trafic (vide ou 0 signifie aucune limite)</string>
   <string name="daily_limit_result">Être informé et déconnecter Internet lorsque le trafic journalier dépasse %dMo</string>
   <string name="daily_limit_result_no_disconnect">Être informé lorsque le trafic journalier dépasse %dMo</string>
@@ -47,14 +47,14 @@
   <string name="detail_app_button">Informations application</string>
   <string name="dialog_button_adjust">Ajuster</string>
   <string name="disable_background_connect_warning">Lorsque la connexion de données en arrière-plan est limitée, certaines applications ou services peuvent ne pas s\'exécuter via 2G/3G. Êtes-vous sûr de vouloir fermer ?</string>
-  <string name="disable_background_mobile_connect">Désactiver la data en arrière-plan</string>
+  <string name="disable_background_mobile_connect">Désactiver les données en arrière-plan</string>
   <string name="edit_frame_free_traffic_title">Modifier l\'allocation du trafic</string>
   <string name="edit_frame_month_start_title">Date de début de facturation</string>
   <string name="edit_frame_warning_title">Seuil d\'avertissement</string>
   <string name="empty">Confirmer</string>
   <string name="finish_traffic_settings_hint">Paramètres sauvegardés !</string>
   <string name="finish_traffic_settings_message">Le trafic utilisé est de %s. Est-ce correct ?
-Si ce n\'est pas le cas vous pouvez réajuster.</string>
+Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="finish_traffic_settings_title">Ajuster les données relatives au trafic</string>
   <string name="fire_rule_program_list">Liste des applications</string>
   <string name="fire_rule_title_bar">Pare-feu</string>
@@ -62,9 +62,9 @@ Si ce n\'est pas le cas vous pouvez réajuster.</string>
   <string name="force_stop_dlg_text">Le fait de forcer l\'arrêt d\'une application peut entraîner des erreurs</string>
   <string name="force_stop_dlg_title">Forcer l\'arrêt</string>
   <string name="i_known_button">OK</string>
-  <string name="input_hint">Saisir</string>
+  <string name="input_hint">Saisir votre allocation</string>
   <string name="loading_app">Chargement...</string>
-  <string name="manual_input_used_traffic_hint">Saisir le traffic utilisé</string>
+  <string name="manual_input_used_traffic_hint">Saisir le trafic utilisé</string>
   <string name="manual_input_used_traffic_title">Saisir manuellement le trafic utilisé</string>
   <string name="menu_display_system_app">Voir les applications système</string>
   <string name="menu_display_wifi">Afficher le trafic Wi-Fi</string>

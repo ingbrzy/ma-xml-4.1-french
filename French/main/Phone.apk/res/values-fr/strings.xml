@@ -64,8 +64,8 @@
   <string name="auto_answer_scenario_enteries_headset_only_miui">Casque seulement</string>
   <string name="auto_answer_scenario_title_miui">Scénario pour le décrochage automatique</string>
   <string name="auto_answer_setting_title_miui">Réglages de réponse automatique</string>
-  <string name="auto_answer_summary_delay">(delay:%ss)</string>
-  <string name="auto_answer_summary_not_enabled">Innactif</string>
+  <string name="auto_answer_summary_delay">(délai:%ss)</string>
+  <string name="auto_answer_summary_not_enabled">Inactif</string>
   <string name="auto_country_code_miui">Ajout automatique du code pays</string>
   <string name="auto_country_code_sum_miui">Ajouter automatiquement le code du pays avant de composer les contacts connus</string>
   <string name="auto_ip_add_exception_numbers_miui">Ajouter des numéros</string>
@@ -75,7 +75,7 @@
   <string name="auto_ip_no_exceptions_miui">"Ajouter des numéros qui ne nécessitent pas de préfixe IP"</string>
   <string name="auto_ip_remove_exception_numbers_confirm_miui">Êtes-vous sûr de vouloir supprimer les %d numéros suivants ?</string>
   <string name="auto_ip_setting_miui">Paramètres IP automatiques</string>
-  <string name="auto_ip_summary_not_enabled">Innactif</string>
+  <string name="auto_ip_summary_not_enabled">Inactif</string>
   <string name="auto_ip_support_local_numbers">Support des numéros locaux</string>
   <string name="auto_record_call_summary_miui">Les Appels automatiques enregistrées sont stockées dans  MIUI\\sound_recorder\\call_rec sur la Carte SD</string>
   <string name="auto_record_call_title_miui">Enregistrer automatiquement</string>
@@ -187,7 +187,7 @@
   <string name="card_title_cdma_call_waiting">Signal d\'appel CDMA</string>
   <string name="card_title_conf_call">Conférence téléphonique</string>
   <string name="card_title_dialing">Numérotation</string>
-  <string name="card_title_forwarded_incoming_call_miui">Renvoyer appel(s) entrant(s)</string>
+  <string name="card_title_forwarded_incoming_call_miui">Transferer les appel(s) entrant(s)</string>
   <string name="card_title_hanging_up">"Fin d\'appel"</string>
   <string name="card_title_in_call">Appel</string>
   <string name="card_title_incoming_call">Appel entrant</string>
@@ -265,7 +265,7 @@
   <string name="connect_disconnect_vibrate_title_miui">Vibreur</string>
   <string name="connect_disconnect_vibrate_weak_miui">Vibration faible</string>
   <string name="connect_later">Impossible de se connecter à ce réseau actuellement, veuillez réessayer plus tard.</string>
-  <string name="contactPhoto">photo du contact</string>
+  <string name="contactPhoto">Photo du contact</string>
   <string name="contacts_icon_label_miui">Contacts</string>
   <string name="count_of_persons_in_conference_miui">Total de %d personnes</string>
   <string name="countrycode_alert_message_warning_miui">L\'indicatif du pays que vous avez saisi peut être faux, êtes-vous sûr de vouloir l\'utiliser ?</string>

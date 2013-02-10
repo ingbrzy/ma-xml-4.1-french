@@ -438,9 +438,9 @@
   <string name="solar_calendar">Confirmer</string>
   <string name="spring_begins">Confirmer</string>
   <string name="status_bar_toggle_ac">Confidentialité</string>
-  <string name="status_bar_toggle_auto_brightness">Rétro-éclairage automatique</string>
+  <string name="status_bar_toggle_auto_brightness">Luminosité automatique</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-  <string name="status_bar_toggle_brightness">Rétro-éclairage</string>
+  <string name="status_bar_toggle_brightness">Luminosité</string>
   <string name="status_bar_toggle_data">Données</string>
   <string name="status_bar_toggle_divider">Plus</string>
   <string name="status_bar_toggle_drive_mode">Mode Voiture</string>

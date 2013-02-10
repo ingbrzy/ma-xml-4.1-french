@@ -296,8 +296,8 @@
   <string name="pref_extras_title">Avancé</string>
   <string name="pref_extras_website_settings">Paramètres du site Web</string>
   <string name="pref_extras_website_settings_summary">Paramètres avancés individuels pour chaque site Web</string>
-  <string name="pref_fling_on_border_enabled">Lancer sur le bord</string>
-  <string name="pref_fling_on_border_operation">Opération pour lancer sur le bord</string>
+  <string name="pref_fling_on_border_enabled">Glisser sur le bord</string>
+  <string name="pref_fling_on_border_operation">Action du glissement</string>
   <string name="pref_font_size_category">Taille du texte</string>
   <string name="pref_force_userscalable">Forcer l\'activation du zoom</string>
   <string name="pref_force_userscalable_summary">"Ignorer la demande du site Web pour contrôler le comportement du zoom"</string>
