@@ -259,7 +259,7 @@
   <string name="description_missed">N/A</string>
   <string name="description_modifiedtime">Mis à jour : </string>
   <string name="description_size">Taille : </string>
-  <string name="description_summary">Summary:</string>
+  <string name="description_summary">Résumé :</string>
   <string name="description_unknown">Inconnu</string>
   <string name="description_uploadtime">Date upload :</string>
   <string name="description_version">Version :</string>
@@ -386,7 +386,7 @@
   <string name="reboot_progress">Redémarrage...</string>
   <string name="resource_alarm_default">Alarme</string>
   <string name="resource_apply">Appliquer</string>
-  <string name="resource_buy">Buy</string>
+  <string name="resource_buy">Acheter</string>
   <string name="resource_can_not_selected">%1$ s ne peut pas être sélectionné !</string>
   <string name="resource_default">Sonnerie par défaut</string>
   <string name="resource_default_name">Ressource</string>
@@ -404,7 +404,7 @@
   <string name="resource_no_result">Aucun résultat trouvé</string>
   <string name="resource_notification_default">Notifications</string>
   <string name="resource_online">En ligne %1$s</string>
-  <string name="resource_price_unit">MI Dollar</string>
+  <string name="resource_price_unit">MI Credit</string>
   <string name="resource_ringtone_default">Sonneries</string>
   <string name="resource_see_more">En savoir plus</string>
   <string name="resource_select">Sélectionner</string>
