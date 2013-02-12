@@ -44,7 +44,7 @@
   <string name="create_new_folder_succeeded">Le dossier %1$s a été créé avec succès</string>
   <string name="create_share_link_description">Création d\'un lien de partage...</string>
   <string name="cution">Conseils</string>
-  <string name="data_capacity">Espace : %1$ s</string>
+  <string name="data_capacity">Espace : %1$s</string>
   <string name="decompress_cancel">Annuler</string>
   <string name="decompress_confirm">Décompresser ?</string>
   <string name="decompress_fail">Échec de la décompression !</string>
@@ -54,8 +54,8 @@
   <string name="delete_failed">Surpession échouée</string>
   <string name="delete_file">Supprimer ?</string>
   <string name="delete_file_description">Suppression de fichiers...</string>
-  <string name="delete_files">Êtes-vous sûr de vouloir supprimer les %1$s fichiers sélectionnés ?</string>
-  <string name="delete_files_and_folders">Êtes-vous sûr de vouloir supprimer les dossiers %1$d$ et %2$d sélectionnés ?</string>
+  <string name="delete_files">Êtes-vous sûr de vouloir supprimer les %1$d fichiers sélectionnés ?</string>
+  <string name="delete_files_and_folders">Êtes-vous sûr de vouloir supprimer les dossiers %1$d et %2$d sélectionnés ?</string>
   <string name="delete_folder">Êtes-vous sûr de vouloir le supprimer ?</string>
   <string name="delete_folders">Êtes-vous sûr de vouloir supprimer les dossiers %1$d sélectionnés ?</string>
   <string name="delete_operation_result_all_success">Les fichiers %1$d ont été supprimés avec succès</string>
@@ -89,7 +89,7 @@
   <string name="file_loading">Chargement...</string>
   <string name="file_size">%d octets</string>
   <string name="finished">Terminé</string>
-  <string name="forward_to_web_recycle_prompt">&lt;a href="%1$s"&gt;Cliquez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Cliquez ici &lt;/a&gt; pour ouvrir la corbeille du cloud</string>
   <string name="ftp_account_req_notice">Le nom de l\'utilisateur et le mot de passe doivent contenir de 4 à 16 caractères, peuvent contenir des chiffres, des lettres de l\'alphabet. Les majuscules et les minuscules sont différenciées.</string>
   <string name="ftp_anonymous_login">FTP anonyme</string>
   <string name="ftp_invalid_username_or_password">Erreur d\'authentification</string>
@@ -188,8 +188,8 @@
   <string name="remote_management">FTP</string>
   <string name="rename">Renommer</string>
   <string name="rename_description">Changement de nom, veuillez patienter...</string>
-  <string name="rename_failed">Le changement de nom de 《%1$s》 a échoué</string>
-  <string name="rename_success">Le nom de \"%1$s\" a été modifié avec succès</string>
+  <string name="rename_failed">Le changement de nom de %1$s a échoué</string>
+  <string name="rename_success">Le nom de %1$s a été modifié avec succès</string>
   <string name="sd_card_available">Espace disponible: %1$s</string>
   <string name="sd_card_size">Carte SD: %1$s</string>
   <string name="sd_folder">Carte SD</string>
@@ -233,7 +233,7 @@
   <string name="ui_bar_txt_download_success">MiDrive : Téléchargement terminé</string>
   <string name="ui_bar_txt_file_not_found">MiDrive : Fichier introuvable</string>
   <string name="ui_bar_txt_remain_task">%1$d a été perdu</string>
-  <string name="ui_bar_txt_text">Transfert du fichier MiDrive \"%1$d\"... (%2$d%%) restant(s)</string>
+  <string name="ui_bar_txt_text">Transfert du fichier MiDrive... %1$d (%2$d%%) restant(s)</string>
   <string name="ui_bar_txt_upload_failed">MiDrive : Échec du partage</string>
   <string name="ui_bar_txt_upload_progress">Téléchargement...</string>
   <string name="ui_bar_txt_upload_success">MiDrive : Partage réussi</string>
