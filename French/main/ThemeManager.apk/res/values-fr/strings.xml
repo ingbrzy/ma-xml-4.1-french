@@ -64,7 +64,7 @@
   <string name="theme_activity_lable">Thèmes</string>
   <string name="theme_another_import_running">L\'importation est déjà en cours, veuillez patienter et réessayer</string>
   <string name="theme_changed_failed_message">Echec de l\'application du thème %1$s.</string>
-  <string name="theme_changed_message">%1$s appliqué avec succès</string>
+  <string name="theme_changed_message">%1$s Appliqué avec succès</string>
   <string name="theme_changing_dialog_title">Application du nouveau thème, veuillez patienter...</string>
   <string name="theme_component_title_alarm">Alarme</string>
   <string name="theme_component_title_all">Thèmes</string>

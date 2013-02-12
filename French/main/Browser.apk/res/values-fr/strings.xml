@@ -238,7 +238,7 @@
   <string name="popup_window_attempt">Autoriser ce site à ouvrir une fenêtre popup ?</string>
   <string name="pref_accessibility_title">Accessibilité</string>
   <string name="pref_allow_apptabs">Autoriser plusieurs onglets par application</string>
-  <string name="pref_autofill_enabled">Formulaire de remplissage automatique</string>
+  <string name="pref_autofill_enabled">Formulaire de remplissage auto</string>
   <string name="pref_autofill_enabled_summary">Remplir les formulaires Web avec une seule touche</string>
   <string name="pref_autofill_profile_editor">Auto-remplissage de texte</string>
   <string name="pref_autofill_profile_editor_summary">Mise en place de textes pour le remplissage automatique des formulaires web</string>
@@ -285,7 +285,7 @@
   <string name="pref_development_title">Débogage</string>
   <string name="pref_development_trace">Activer le suivi</string>
   <string name="pref_development_uastring">UAString</string>
-  <string name="pref_development_viewport">Utiliser une large fenêtre</string>
+  <string name="pref_development_viewport">Utiliser une fenêtre large</string>
   <string name="pref_development_visual_indicator">Activez l\'indicateur visuel</string>
   <string name="pref_exit_on_closing_last_tab_enabled_summary">Cochez cette case pour quitter le navigateur en fermant le dernier onglet. Décochez la case pour afficher la page d\'accueil</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Quitter en fermant le dernier onglet</string>
@@ -315,7 +315,7 @@
   <string name="pref_lab_fullscreen">Plein écran</string>
   <string name="pref_lab_fullscreen_summary">Utiliser le mode plein écran en masquant la barre d\'état</string>
   <string name="pref_lab_quick_controls">Contrôles rapides</string>
-  <string name="pref_lab_quick_controls_summary">Faire glisser le pouce sur le bord gauche ou droit pour ouvrir les contrôles rapides et cacher les apps et la barre URL</string>
+  <string name="pref_lab_quick_controls_summary">Faire glisser le pouce sur le bord gauche ou droit pour ouvrir les contrôles rapides et cacher les applications et la barre URL</string>
   <string name="pref_lab_title">Labs</string>
   <string name="pref_link_prefetch_dialogtitle">Préchargement de la page web</string>
   <string name="pref_link_prefetch_summary">Autoriser le navigateur de précharger les pages Web en arrière-plan</string>
@@ -428,7 +428,7 @@
   <string name="tab_snapshots">Pages enregistrées</string>
   <string name="tab_yellowpage">Pages jaunes</string>
   <string name="title_bar_loading">Chargement en cours...</string>
-  <string name="too_many_subwindows_dialog_message">Seul un pop-up peut être ouvert à la fois.</string>
+  <string name="too_many_subwindows_dialog_message">Un seul pop-up peut être ouvert à la fois.</string>
   <string name="too_many_subwindows_dialog_title">Pop-up déjà ouvert</string>
   <string name="too_many_windows_dialog_message">"Impossible d\'ouvrir un nouvel onglet jusqu\'à ce que vous en fermiez un."</string>
   <string name="too_many_windows_dialog_title">Limite d\'onglet atteinte</string>
