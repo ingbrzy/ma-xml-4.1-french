@@ -2,7 +2,7 @@
 <resources>
   <string name="access_denied">Accès refusé</string>
   <string name="account">Compte</string>
-  <string name="account_dspt">"Les comptes Xiaomi permettent de synchroniser et sauvegarder vos messages, vos contacts, vos photos, etc."</string>
+  <string name="account_dspt">"Les comptes Xiaomi permettent de synchroniser et sauvegarder vos messages, contacts, photos, etc."</string>
   <string name="account_hint_text">E-mail/Numéro de téléphone</string>
   <string name="account_name">Compte: %1$s</string>
   <string name="activate_fail_notification_title">Réactiver le service de synchronisation Xiaomi</string>

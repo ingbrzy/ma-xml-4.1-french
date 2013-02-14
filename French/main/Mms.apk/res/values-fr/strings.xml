@@ -153,7 +153,7 @@
   <string name="group_message_failed_title">Impossible d\'envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
   <string name="group_resend_message">Renvoyer (%d)</string>
   <string name="guild_add_attachments">Cliquez ici pour ajouter des pièces jointes ou des émoticônes au message</string>
-  <string name="guild_add_recipients">Cliquez ici pour ajouter les destinataires au carnet d\'adresse</string>
+  <string name="guild_add_recipients">Cliquez ici pour ajouter des destinataires du carnet d\'adresse</string>
   <string name="has_draft">Brouillon</string>
   <string name="has_invalid_recipient">Destinataire(s) invalide(s): &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Adresse de l\'expéditeur masquée</string>
@@ -257,7 +257,7 @@
   <string name="new_phrase_hint">Entrer les phrases couramment utilisées</string>
   <string name="nickname_placeholder">Surnom</string>
   <string name="no">Annuler</string>
-  <string name="no_conversations">Aucun fil</string>
+  <string name="no_conversations">Aucune conversation</string>
   <string name="no_sim">La carte SIM est absente, la messagerie cloud n\'est plus disponible</string>
   <string name="no_subject">(Aucun objet)</string>
   <string name="no_subject_view">(Aucun objet)</string>

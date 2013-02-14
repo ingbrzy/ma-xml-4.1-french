@@ -1729,7 +1729,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="virus_scan_app_is_stop_scan">Souhaitez-vous arrêter l\'analyse antivirus ?</string>
   <string name="virus_scan_app_multi_engines">Choisissez un moteur, le temps de balayage peut prendre plus de temps</string>
   <string name="virus_scan_app_no_risk">Aucun risque détecté.</string>
-  <string name="virus_scan_app_passed">Le scan a été terminé avec succès</string>
+  <string name="virus_scan_app_passed">Le scan s\'est terminé avec succès</string>
   <string name="virus_scan_app_risk">Menace trouvée !</string>
   <string name="virus_scan_app_safe_scanning">L\'analyse est en cours d\'exécution...</string>
   <string name="virus_scan_app_scan_finish">Analyse terminée !</string>
@@ -1747,7 +1747,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="virus_scanner_manual_update">Mettre à jour manuellement</string>
   <string name="virus_scanner_provider">Sécurité assurée par %s</string>
   <string name="virus_scanner_scan">Analyser maintenant</string>
-  <string name="virus_scanner_scanning">Vérifier les applications antivirus</string>
+  <string name="virus_scanner_scanning">Vérifie vos applications</string>
   <string name="virus_scanner_select_Cancel">Annuler</string>
   <string name="virus_scanner_select_OK">OK</string>
   <string name="virus_scanner_select_lib">Base de données de virus</string>

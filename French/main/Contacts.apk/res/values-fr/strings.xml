@@ -504,8 +504,8 @@ Pour ajouter un contact à la liste de favoris :
   <string name="pref_key_photo">Photo</string>
   <string name="pref_key_photo_word_summary">Sélectionner automatiquement une photo pour les contacts sans photo.</string>
   <string name="pref_key_photo_word_title">Sélection de photo</string>
-  <string name="pref_key_rebuild_t9_index_message">Reconstruit l\'index des contacts en cas de problème d\'affichage</string>
-  <string name="pref_key_rebuild_t9_index_title">Reconstruit les données d\'index T9</string>
+  <string name="pref_key_rebuild_t9_index_message">Reconstruire l\'index des contacts en cas de problème d\'affichage</string>
+  <string name="pref_key_rebuild_t9_index_title">Reconstruire les données d\'index T9</string>
   <string name="pref_summary_import_from_account">Importer les contacts depuis les comptes Google et Exchange sur mon compte Xiaomi</string>
   <string name="pref_title_account_import">Importer depuis le compte</string>
   <string name="pref_title_import_from_account">Importer vers le compte Xiaomi</string>
@@ -637,7 +637,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="strequentList">Favoris</string>
   <string name="success_message_import_from_account">Importé avec succès</string>
   <string name="summary_kind_title">Résumé</string>
-  <string name="t9_search_guide">Entrez le numéro de l\'utilisateur ou rechercher des contacts avec le T9.</string>
+  <string name="t9_search_guide">Entrez le numéro ou recherchez des contacts avec l\'index T9.</string>
   <string name="t9_search_guide_zhuyin">Composez le numéro ou recherchez un contact en utilisant le T9</string>
   <string name="take_new_photo">Prendre une nouvelle photo</string>
   <string name="take_photo">Prendre une photo</string>

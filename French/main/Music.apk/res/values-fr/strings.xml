@@ -148,7 +148,7 @@
   <string name="modify_tracks_id3_background">Modifier les informations ID3 des morceaux sélectionnées en arrière-plan</string>
   <string name="music_browser_label">Musique</string>
   <string name="music_filter">Filtrer les fichiers</string>
-  <string name="music_filter_helper">Afin de cacher des fichiers qui ne sont pas liés à la musique, un filtre a été appliqué pour cacher les fichiers de moins de 800K. Le seuil est réglable, pour ceci allez dans paramètres &gt; filtre de fichiers.</string>
+  <string name="music_filter_helper">Afin de cacher les fichiers non liés à la musique, un filtre a été appliqué pour ignorer les fichiers de moins de 800K. Pour régler ce seuil allez dans paramètres &gt; filtrer les fichiers</string>
   <string name="music_picker_title">Sélectionnez la piste</string>
   <string name="music_settings">Paramètres</string>
   <string name="network_error">Aucune connexion réseau, veuillez vérifier vos paramètres réseau</string>

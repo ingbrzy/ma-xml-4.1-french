@@ -45,9 +45,8 @@
     <string name="silent_alarm_summary">Silencieuse</string>
     <string name="alarm_notify_text">Choisissez si vous souhaitez répéter ou désactiver cette alarme.</string>
     <string name="alarm_notify_snooze_label">%s (répétition)</string>
-    <string name="alarm_notify_snooze_text">"Prochaine alarme dans %s. Sélectionnez l'option appropriée pour annuler."</string>
-    <string name="snooze_confirm_message">"Le rappel a été repoussé，%s sonnera à nouveau.
-Vous pouvez aussi annuler cette alarme."</string>
+    <string name="alarm_notify_snooze_text">"%s, sélectionnez l\'option appropriée pour annuler."</string>
+    <string name="snooze_confirm_message">"Le rappel a été repoussé à %s. Vous pouvez annuler le rappel."</string>
     <string name="snooze_confirm_ok">OK</string>
     <string name="snooze_confirm_cancel">Annuler le rappel</string>
     <string name="volume_button_setting_title">Boutons physiques</string>
