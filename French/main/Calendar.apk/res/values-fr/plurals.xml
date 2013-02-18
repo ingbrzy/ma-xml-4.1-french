@@ -5,7 +5,7 @@
         <item quantity="one">1 minute</item>
     </plurals>
     <plurals name="Nmins">
-        <item quantity="other">%d mins</item>
+        <item quantity="other">%d min</item>
         <item quantity="one">1 min</item>
     </plurals>
     <plurals name="Nhours">
