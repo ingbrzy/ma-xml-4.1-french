@@ -10,4 +10,4 @@ FRENCH strings are licensed under a Creative Commons Attribution-NonCommercial-S
 
 Based on a work at http://miui.com and http://miuiandroid.com
 
-MIUI Translation: Abdess and other French users on crowdin
+MIUI Translation: Abdess, Matzounet and other French users on crowdin
