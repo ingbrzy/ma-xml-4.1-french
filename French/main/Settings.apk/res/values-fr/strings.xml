@@ -1149,8 +1149,8 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="privacy_mode_enable_sum">Cacher l\'historique d\'appels, les messages et autres données lors de l\'utilisation du mode privé</string>
   <string name="privacy_mode_enable_title">Activer le mode privé</string>
   <string name="privacy_protect_title">Protection des données personnelles</string>
-  <string name="privacy_settings">Sauvegarder et réinitialiser</string>
-  <string name="privacy_settings_title">Sauvegarder et réinitialiser</string>
+  <string name="privacy_settings">Sauvegarde et réinitialisation</string>
+  <string name="privacy_settings_title">Sauvegarde et réinitialisation</string>
   <string name="process_kernel_label">Système d\'exploitation Android</string>
   <string name="process_mediaserver_label">Serveur média</string>
   <string name="process_provider_in_use_description">Fournisseur %1$s en cours d\'utilisation</string>
