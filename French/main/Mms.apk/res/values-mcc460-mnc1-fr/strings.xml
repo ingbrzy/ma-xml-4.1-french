@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_summary_manage_sim_messages">Gestion des messages stockés sur votre carte USIM</string>
+    <string name="pref_title_manage_sim_messages">Gérer les messages de la carte USIM</string>
+    <string name="confirm_delete_all_SIM_messages">Tous les messages sur la carte USIM seront supprimés.</string>
+    <string name="confirm_delete_SIM_message">Ce message sur la carte USIM sera supprimé.</string>
+    <string name="sim_manage_messages_title">Messages texte sur la carte USIM</string>
+    <string name="sim_empty">Pas de messages sur la carte USIM.</string>
+    <string name="sim_full_title">USIM pleine</string>
+    <string name="save_to_sim">Enregistrer sur la carte USIM</string>
+</resources>
