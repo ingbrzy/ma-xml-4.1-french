@@ -9,7 +9,7 @@
   <string name="add_to_cloud_album">Ajouter au cloud</string>
   <string name="add_to_cloud_folder">Ajouter au dossier cloud</string>
   <string name="albums">Albums</string>
-  <string name="alert">"Avis d\'information"</string>
+  <string name="alert">Avis d\'information</string>
   <string name="alert_message_initial_cloud">Le système va automatiquement télécharger les anciennes et nouvelles photos et captures d\'écran seulement lorsqu\'il y a une connexion WiFi.</string>
   <string name="alert_message_open_sync">Sync est requis, souhaitez-vous l\'ouvrir sync maintenant?</string>
   <string name="alert_message_sync_histoy_power_on">Par défaut, l\'historique d\'images est synchronisé uniquement lors de la charge. Vous pouvez utiliser le menu Paramètre pour modifier l\'option.</string>
@@ -78,8 +78,8 @@
   <string name="crop">Rogner</string>
   <string name="crop_action">Rogner</string>
   <string name="crop_fail_to_load_image">Impossible de charger l\'image pour la rogner.</string>
-  <string name="crop_label">"Rogner l\'image"</string>
-  <string name="crop_not_saved">"L\'image recadrée n\'a pas été enregistrée."</string>
+  <string name="crop_label">Rogner l\'image</string>
+  <string name="crop_not_saved">L\'image recadrée n\'a pas été enregistrée.</string>
   <string name="crop_polymorphism">Rogner</string>
   <string name="crop_save_text">Rogner</string>
   <string name="crop_saved">Image recadrée enregistrée dans le dossier de téléchargements.</string>
@@ -110,7 +110,7 @@
   <string name="error_should_not_select_image">Attention: veuillez ne pas sélectionner un fichier image.</string>
   <string name="error_should_not_select_video">Attention: veuillez ne pas sélectionner un fichier vidéo.</string>
   <string name="expand_album_in_home_page">Développez l\'album en page d\'accueil</string>
-  <string name="exposure_time">"Durée d\'expo"</string>
+  <string name="exposure_time">Durée d\'expo</string>
   <string name="external_sd_card">Carte SD</string>
   <string name="external_usb_device">Périphérique USB</string>
   <string name="facelift">Halo visage</string>
@@ -126,7 +126,7 @@
   <string name="file_info_size">Taille : </string>
   <string name="file_info_title">Titre : </string>
   <string name="file_size">Taille fichier</string>
-  <string name="filllight">"Éclairage d\'appoint"</string>
+  <string name="filllight">Éclairage d\'appoint</string>
   <string name="filllight_polymorphism">Eclairage d\'appoint</string>
   <string name="fisheye">Objectif fisheye</string>
   <string name="fisheye_polymorphism">Effet fisheye</string>
@@ -149,7 +149,7 @@
   <string name="frame_white">Blanc</string>
   <string name="frame_white_tooltip">Cadre blanc</string>
   <string name="free_space_format">%s disponible(s)</string>
-  <string name="gadget_title">"Cadre d\'image"</string>
+  <string name="gadget_title">Cadre d\'image</string>
   <string name="gallery_cloud_provider_name">Galerie</string>
   <string name="global_setting">Paramètres</string>
   <string name="grain">Grain</string>
@@ -172,7 +172,7 @@
   <string name="hue_polymorphism">Teinte</string>
   <string name="image_property">Propriétés de la photo</string>
   <string name="import_complete">Importation terminée</string>
-  <string name="import_fail">"Échec de l\'importation."</string>
+  <string name="import_fail">Échec de l\'importation.</string>
   <string name="input_cloudfolder_name">Nom du dossier cloud</string>
   <string name="internal_camera_folder_display_name">Photos internes de la caméra</string>
   <string name="internal_miui_capture_screen_folder_display_name">Captures d\'écran internes</string>
@@ -220,7 +220,7 @@
   <string name="negative">Négatif</string>
   <string name="no">Non</string>
   <string name="no_albums_alert">Aucun album disponible.</string>
-  <string name="no_connectivity">"Certains lieux n\'ont pas pu être identifiés en raison de problèmes réseau."</string>
+  <string name="no_connectivity">Certains lieux n\'ont pas pu être identifiés en raison de problèmes réseau.</string>
   <string name="no_file">Aucun fichier trouvé</string>
   <string name="no_files">Le dossier est vide</string>
   <string name="no_location">Aucun lieu</string>
@@ -230,7 +230,7 @@
   <string name="no_storage_disable_cloud_albums">Les albums du cloud ​​sont désactivés, veuillez réessayer lorsque le stockage externe sera disponible.</string>
   <string name="no_storage_message">Aucun stockage externe n\'est disponible.</string>
   <string name="no_storage_title">Aucune mémoire</string>
-  <string name="no_such_item">"Impossible de trouver l\'élément."</string>
+  <string name="no_such_item">Impossible de trouver l\'élément.</string>
   <string name="no_thumbnail">Aucune vignette</string>
   <string name="none_picture">Aucune photo trouvée dans la galerie</string>
   <string name="not_auto_create_recent_album">Ne pas créer automatiquement d\'album(s) récents</string>
@@ -250,7 +250,7 @@
   <string name="orientation">Orientation</string>
   <string name="other_category">Autres paramètres</string>
   <string name="page_category">Catégories</string>
-  <string name="path">"Chemin d\'accès"</string>
+  <string name="path">Chemin d\'accès</string>
   <string name="people">Contacts</string>
   <string name="photo_saved">Photo retouchée enregistrée dans %s.</string>
   <string name="photoeditor_name">Photo Studio</string>
@@ -279,7 +279,7 @@
   <string name="saturation">Saturation</string>
   <string name="saturation_polymorphism">Saturation</string>
   <string name="save">Enregistrer</string>
-  <string name="save_error">"Impossible d\'enregistrer l\'image rognée."</string>
+  <string name="save_error">Impossible d\'enregistrer l\'image rognée.</string>
   <string name="save_photo">Enregistrer la photo retouchée ?</string>
   <string name="save_pic_error">Impossible d\'enregistrer la photo !</string>
   <string name="save_pic_to_success">Photo enregistrée dans %s</string>
@@ -305,12 +305,12 @@
   <string name="sequence_in_set">%1$d élément(s) sur %2$d :</string>
   <string name="set_as">Définir comme</string>
   <string name="set_hidden_album">Album masqué</string>
-  <string name="set_image">"Utiliser l\'image comme"</string>
+  <string name="set_image">Utiliser l\'image comme</string>
   <string name="set_label_all_albums">Tous les albums</string>
   <string name="set_label_local_albums">Albums en local</string>
   <string name="set_label_mtp_devices">Appareils MTP</string>
   <string name="set_label_picasa_albums">Albums Picasa</string>
-  <string name="set_lock_or_wallpaper">"Définir fond d\'écran"</string>
+  <string name="set_lock_or_wallpaper">Définir fond d\'écran</string>
   <string name="set_lockscreen">Fond d\'écran de verrouillage</string>
   <string name="set_recent_album">Définir en tant qu\'album récent</string>
   <string name="set_wallpaper">Définir fond d\'écran</string>
@@ -327,7 +327,7 @@
   <string name="show_on_map">Afficher sur la carte</string>
   <string name="show_videos_only">Vidéos uniquement</string>
   <string name="size_above">au-delà de %1$s</string>
-  <string name="size_below">"jusqu\'à %1$s"</string>
+  <string name="size_below">jusqu\'à %1$s</string>
   <string name="size_between">%1$s vers %2$s</string>
   <string name="slideshow">Diaporama</string>
   <string name="slideshow_category">Diaporama</string>

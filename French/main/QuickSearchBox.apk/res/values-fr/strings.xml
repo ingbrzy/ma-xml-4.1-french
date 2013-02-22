@@ -8,7 +8,7 @@
   <string name="clear_shortcuts_disagree">Annuler</string>
   <string name="clear_shortcuts_prompt">\"Voulez-vous effacer l\'historique des suggestions récemment choisies pour le contenu et les applications ?
 
-Pour supprimer l\'historique du navigateur, utilisez les paramètres du navigateur.\"</string>
+Pour supprimer l\'historique du navigateur, utilisez les paramètres du navigateur.\</string>
   <string name="clear_shortcuts_summary">Supprimer les Raccourcis des suggestions de recherche récemment choisis</string>
   <string name="corpus_description_apps">Noms des applications installées</string>
   <string name="corpus_description_web">Recherche web, signets et marque-pages</string>
@@ -29,11 +29,11 @@ Pour supprimer l\'historique du navigateur, utilisez les paramètres du navigate
   <string name="google_suggest_base">http://www.google.fr/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="menu_help">Aide</string>
   <string name="menu_settings">Paramètres</string>
-  <string name="remove_from_history">"Supprimer de l\'historique des recherches"</string>
-  <string name="remove_from_history_failed">"Impossible de supprimer l\'élément de l\'historique."</string>
+  <string name="remove_from_history">Supprimer de l\'historique des recherches</string>
+  <string name="remove_from_history_failed">Impossible de supprimer l\'élément de l\'historique.</string>
   <string name="search_settings">Paramètres</string>
   <string name="search_sources">Recherche sur le téléphone</string>
-  <string name="search_sources_summary">"Sélectionner les sources à explorer sur le téléphone lors d\'une recherche"</string>
+  <string name="search_sources_summary">Sélectionner les sources à explorer sur le téléphone lors d\'une recherche</string>
   <string name="search_widget">Rechercher</string>
   <string name="system_search_category_title">Téléphone</string>
   <string name="voice_search_hint_quotation_end">”</string>

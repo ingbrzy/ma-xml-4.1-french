@@ -45,7 +45,7 @@
   <string name="keep_queued_download">Garder</string>
   <string name="menu_enter_edit_mode">Editeur</string>
   <string name="menu_preferences">Paramètres</string>
-  <string name="might_lead_to_mobile_charge">"Après avoir annulé, il n\'y aura pas de message de téléchargement sur votre appareil. Cela peut mener à une augmentation du trafic mobile"</string>
+  <string name="might_lead_to_mobile_charge">Après avoir annulé, il n\'y aura pas de message de téléchargement sur votre appareil. Cela peut mener à une augmentation du trafic mobile</string>
   <string name="missing_title">Inconnu</string>
   <string name="no_downloads">Aucun téléchargement.</string>
   <string name="open_download">Ouvrir</string>
@@ -59,7 +59,7 @@
   <string name="prefDefault_max_bytes_limit">1048576</string>
   <string name="pref_dialog_title_max_bytes_limit">Limite de taille de fichier</string>
   <string name="pref_download_settings_title">Affichage de l\'utilisation des données</string>
-  <string name="pref_summary_enable_max_bytes_popup">"En utilisant le réseau de l\'opérateur, une demande de confirmation apparaît si la taille du fichier dépasse la limite"</string>
+  <string name="pref_summary_enable_max_bytes_popup">En utilisant le réseau de l\'opérateur, une demande de confirmation apparaît si la taille du fichier dépasse la limite</string>
   <string name="pref_summary_max_bytes_limit_format">Message d\'alerte si la taille du fichier dépasse %s</string>
   <string name="pref_title_enable_max_bytes_popup">Pop-up de téléchargement de données</string>
   <string name="pref_title_max_bytes_limit">Limite de taille de fichier</string>

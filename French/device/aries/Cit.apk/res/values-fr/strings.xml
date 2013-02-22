@@ -71,7 +71,7 @@
   <string name="cit_front_camera_check_title">Tester l\'appareil photo (face avant)</string>
   <string name="cit_gps_check_summary">Ce test affichera les informations GPS</string>
   <string name="cit_gps_check_title">Test du GPS</string>
-  <string name="cit_gps_disabled">"Le GPS est désactivé, activez le depuis le menu d\'activations rapides"</string>
+  <string name="cit_gps_disabled">Le GPS est désactivé, activez le depuis le menu d\'activations rapides</string>
   <string name="cit_gps_satellite_count">GPS Satellites : %d</string>
   <string name="cit_gps_satellite_prn">PRN : %s</string>
   <string name="cit_gps_satellite_snr">SNR : %s</string>
@@ -148,9 +148,9 @@
   <string name="cit_sd_mp3_not_existed">« Le fichier musique.mp3 ne doit pas se trouver à la racine de votre carte SD, ajoutez le fichier et recommencez le test de lecture. »</string>
   <string name="cit_sd_plugged_in">Carte SD chargée, retirez la carte SD</string>
   <string name="cit_sd_plugged_out">Carte SD non montée, monter la carte SD</string>
-  <string name="cit_sd_plugin_check_summary">Ce test va détecter si la carte SD est montée, l\'écran affiche alors \"La carte SD a été montée\"</string>
+  <string name="cit_sd_plugin_check_summary">Ce test va détecter si la carte SD est montée, l\'écran affiche alors \La carte SD a été montée\</string>
   <string name="cit_sd_plugin_check_title">test du montage de la carte SD</string>
-  <string name="cit_sd_plugout_check_summary">Ce test va détecter si la carte SD est désintallée, l\'écran affiche alors \"La carte SD a été désintallée\"</string>
+  <string name="cit_sd_plugout_check_summary">Ce test va détecter si la carte SD est désintallée, l\'écran affiche alors \La carte SD a été désintallée\</string>
   <string name="cit_sd_plugout_check_title">test du montage de la carte SD</string>
   <string name="cit_sd_unmount">Démonter la carte SD</string>
   <string name="cit_sd_unmount_sucess">La carte SD a été montée avec succès</string>

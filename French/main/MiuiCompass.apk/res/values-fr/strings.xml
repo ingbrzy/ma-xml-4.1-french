@@ -8,7 +8,7 @@
   <string name="calibrate_success">Étalonnage complet</string>
   <string name="cannot_get_location">Impossible d\'obtenir votre position</string>
   <string name="dialog_calibrat_altitude">Calibrage de l\'altitude via la connexion internet</string>
-  <string name="dialog_content">"La calibration de la boussole n\'est pas finie, ce qui peut entraîner des inexactitudes. Voulez vous annuler ?"</string>
+  <string name="dialog_content">La calibration de la boussole n\'est pas finie, ce qui peut entraîner des inexactitudes. Voulez vous annuler ?</string>
   <string name="dialog_title">Annuler calibration</string>
   <string name="dialog_title_no_network">Aucun réseau trouvé, connectez-vous au Wi-Fi ou activez la connexion de données</string>
   <string name="getting_location">Localisation en cours...</string>
@@ -23,6 +23,6 @@
   <string name="menu_calibrate_altitude">Calibrer l\'altitude</string>
   <string name="meter">Mètre</string>
   <string name="pressure">Pression %.1fhPa</string>
-  <string name="toast_accuracy_low">"La précision est faible, appuyez sur Menu pour étalonner la boussole."</string>
+  <string name="toast_accuracy_low">La précision est faible, appuyez sur Menu pour étalonner la boussole.</string>
   <string name="user_guide_calibrate">Appuyez sur la touche Menu pour calibrer la boussole</string>
 </resources>

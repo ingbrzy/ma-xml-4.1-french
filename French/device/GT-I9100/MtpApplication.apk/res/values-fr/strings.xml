@@ -16,8 +16,8 @@
     <string name="notification_mtp_initialization">Initialisation MTP</string>
     <string name="alert_dialog_ok">OK</string>
     <string name="alert_dialog_cancel">Annuler</string>
-    <string name="non_idle_toast">"La connexion PC est disponible uniquement en mode inactif.
-      Fermez les applications en cours"</string>
+    <string name="non_idle_toast">La connexion PC est disponible uniquement en mode inactif.
+      Fermez les applications en cours</string>
     <string name="media_scanner_running">Scan de médias en cours...</string>
     <string name="media_scanner_finished">Scan de médias terminé</string>
     <string name="kies_software_check">Vérification de la connexion PC (KIES)</string>

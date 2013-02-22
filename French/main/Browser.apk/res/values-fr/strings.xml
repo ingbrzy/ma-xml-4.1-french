@@ -17,7 +17,7 @@
   <string name="accessibility_button_refresh">Rafraîchir</string>
   <string name="accessibility_button_search">Rechercher</string>
   <string name="accessibility_button_stop">Arrêter le chargement</string>
-  <string name="accessibility_button_uaswitch">Modifier \"User Agent\"</string>
+  <string name="accessibility_button_uaswitch">Modifier \"User Agent\</string>
   <string name="accessibility_button_voice">Débuter la recherche vocale</string>
   <string name="accessibility_state_frozen">Sauvegarder la page</string>
   <string name="accessibility_state_incognito">Page privée</string>
@@ -57,35 +57,35 @@
   <string name="autofill_profile_successful_save">Remplissage de texte automatique sauvegardé.</string>
   <string name="autofill_setup_dialog_message">Le navigateur peut compléter automatiquement les formulaires Web. Voulez-vous configurer le remplissage de texte automatique ?</string>
   <string name="autofill_setup_dialog_negative_toast">Vous pouvez toujours configurer le remplissage de texte automatique via le Navigateur &gt; Paramètres &gt; Écran général.</string>
-  <string name="autologin_bar_error">"Connexion impossible"</string>
+  <string name="autologin_bar_error">Connexion impossible</string>
   <string name="autologin_bar_hide_text">Cacher</string>
   <string name="autologin_bar_login_text">Se connecter</string>
   <string name="autologin_bar_text">Se connecter en tant que</string>
   <string name="back">Arrière</string>
   <string name="block">Bloquer</string>
   <string name="bookmark_add_to">Ajouter à</string>
-  <string name="bookmark_cannot_save_url">"Cette adresse ne peut être ajoutée aux signets."</string>
+  <string name="bookmark_cannot_save_url">Cette adresse ne peut être ajoutée aux signets.</string>
   <string name="bookmark_list_view">Liste</string>
   <string name="bookmark_needs_title">Ce signet doit avoir un nom.</string>
   <string name="bookmark_needs_url">Ce signet doit avoir une adresse URL.</string>
-  <string name="bookmark_not_saved">"Impossible de sauvegarder ce signet"</string>
+  <string name="bookmark_not_saved">Impossible de sauvegarder ce signet</string>
   <string name="bookmark_page">Signet dernièrement consulté.</string>
   <string name="bookmark_saved">Sauvegardé dans les signets.</string>
   <string name="bookmark_this_page">Ajouter cette page aux signets</string>
   <string name="bookmark_this_page_to_readmodelist">Ajoutez cette page au signet des listes de lectures</string>
   <string name="bookmark_thumbnail_view">Miniatures</string>
   <string name="bookmark_title">Légende</string>
-  <string name="bookmark_to_readmodelist_not_saved">"Impossible d\'enregistrer le signet de la liste de lecture."</string>
+  <string name="bookmark_to_readmodelist_not_saved">Impossible d\'enregistrer le signet de la liste de lecture.</string>
   <string name="bookmark_to_readmodelist_saved">Enregistré dans les signets de la liste de lecture.</string>
   <string name="bookmark_url">URL</string>
-  <string name="bookmark_url_not_valid">"Cette URL n\'est pas valide."</string>
+  <string name="bookmark_url_not_valid">Cette URL n\'est pas valide.</string>
   <string name="bookmarks">Signets</string>
   <string name="bookmarks_management">Signets</string>
   <string name="bookmarks_root_folder">Dossier racine</string>
   <string name="bookmarks_search">Navigateur</string>
   <string name="browserFrameFileErrorLabel">Problème de fichier</string>
   <string name="browserFrameFormResubmitLabel">Confirmer</string>
-  <string name="browserFrameFormResubmitMessage">"La page que vous tentez d\'afficher contient des données qui ont déjà été envoyées (\"POSTDATA\"). Si vous renvoyez les données, toute action effectuée par le formulaire sur la page exécutée (notamment les lancements de recherche ou les achats en ligne) sera répétée."</string>
+  <string name="browserFrameFormResubmitMessage">La page que vous tentez d\'afficher contient des données qui ont déjà été envoyées (\"POSTDATA\"). Si vous renvoyez les données, toute action effectuée par le formulaire sur la page exécutée (notamment les lancements de recherche ou les achats en ligne) sera répétée.</string>
   <string name="browserFrameNetworkErrorLabel">Problème de connexion</string>
   <string name="browser_bookmarks_page_bookmarks_text">Signets</string>
   <string name="browser_history">Pages récemment visitées</string>
@@ -109,14 +109,14 @@
   <string name="contextmenu_openlink_newwindow">Ouvrir dans un nouvel onglet</string>
   <string name="contextmenu_openlink_newwindow_background">Ouvrir dans un nouvel onglet en arrière plan</string>
   <string name="contextmenu_savelink">Sauvegarde le lien</string>
-  <string name="contextmenu_send_mail">"Envoyer l\'e-mail"</string>
+  <string name="contextmenu_send_mail">Envoyer l\'e-mail</string>
   <string name="contextmenu_set_wallpaper">Choisir comme fond d\'écran</string>
   <string name="contextmenu_sharelink">Partager le lien</string>
   <string name="contextmenu_view_image">Voir l\'image</string>
   <string name="copy_page_url">Copier l\'adresse URL</string>
   <string name="crash_recovcery_message">Le navigateur s\'est arrêté anormalement. Voulez-vous récupérer la dernière session de navigation ?</string>
   <string name="create_shortcut_bookmark">Ajouter un raccourci à l\'accueil</string>
-  <string name="current_page">"À partir de"</string>
+  <string name="current_page">À partir de</string>
   <string name="defaultBookmarksUpButton">Signets</string>
   <string name="delete">Supprimer</string>
   <string formatted="false" name="delete_bookmark_warning">Supprimer le signet \"%s\" ?</string>
@@ -164,7 +164,7 @@
   <string name="geolocation_settings_page_dialog_message">Supprimer l\'accès à la localisation de ce site ?</string>
   <string name="geolocation_settings_page_dialog_ok_button">OK</string>
   <string name="geolocation_settings_page_summary_allowed">Ce site peut actuellement accéder à votre localisation</string>
-  <string name="geolocation_settings_page_summary_not_allowed">"Ce site ne peut actuellement pas accéder à votre localisation"</string>
+  <string name="geolocation_settings_page_summary_not_allowed">Ce site ne peut actuellement pas accéder à votre localisation</string>
   <string name="geolocation_settings_page_title">Supprimer l\'accès à la localisation</string>
   <string name="go_home">Page d\'accueil</string>
   <string name="google_bookmarks">Google:</string>
@@ -180,7 +180,7 @@
   <string formatted="false" name="import_bookmarks_dialog_confirm_add">Ajouter les signets actuellement sur cet appareil et commencer la synchronisation des signets avec %s ?</string>
   <string formatted="false" name="import_bookmarks_dialog_confirm_delete">Supprimer les signets actuellement sur ​​cet appareil et commencer la synchronisation des signets avec %s ?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Supprimer les signets actuellement sur ​​cet appareil et commencer la synchronisation avec un compte Google</string>
-  <string name="import_bookmarks_dialog_description">"Les signets de cet appareil ne sont pas encore associés à un compte Google. Conservez ces signets en les ajoutant à un compte. Supprimer ces signets si vous ne voulez pas les synchroniser."</string>
+  <string name="import_bookmarks_dialog_description">Les signets de cet appareil ne sont pas encore associés à un compte Google. Conservez ces signets en les ajoutant à un compte. Supprimer ces signets si vous ne voulez pas les synchroniser.</string>
   <string formatted="false" name="import_bookmarks_dialog_import">Ajoutez vos signets Android aux signets pour %s</string>
   <string name="import_bookmarks_dialog_remove">Supprimer les signets</string>
   <string name="import_bookmarks_dialog_select_add_account">Ajouter les signets actuellement sur cet appareil et commencer la synchronisation avec un compte Google</string>
@@ -199,7 +199,7 @@
   <string name="is_page_bottom">Au bas de la page</string>
   <string name="is_page_top">Déjà en haut de la page</string>
   <string name="js_engine_flags">Définir des indicateurs de JS</string>
-  <string name="loadSuspended">"Le navigateur ne peut charger cette page car il n\'y a aucune connexion Internet"</string>
+  <string name="loadSuspended">Le navigateur ne peut charger cette page car il n\'y a aucune connexion Internet</string>
   <string name="loadSuspendedTitle">Aucune connexion</string>
   <string name="loading_video">Chargement de la vidéo...</string>
   <string name="local_bookmarks">Local</string>
@@ -300,7 +300,7 @@
   <string name="pref_fling_on_border_operation">Action du glissement</string>
   <string name="pref_font_size_category">Taille du texte</string>
   <string name="pref_force_userscalable">Forcer l\'activation du zoom</string>
-  <string name="pref_force_userscalable_summary">"Ignorer la demande du site Web pour contrôler le comportement du zoom"</string>
+  <string name="pref_force_userscalable_summary">Ignorer la demande du site Web pour contrôler le comportement du zoom</string>
   <string name="pref_general_autofill_title">Auto-remplissage</string>
   <string name="pref_general_exit_setting_title">Options de fermeture</string>
   <string name="pref_general_sync_title">Synchroniser</string>
@@ -355,7 +355,7 @@
   <string name="pref_security_save_form_data">Se souvenir des formulaire</string>
   <string name="pref_security_save_form_data_summary">Se souvenir des données que j\'ai écrit dans les formulaires pour une utilisation ultérieure</string>
   <string name="pref_security_show_security_warning">Avertissements de sécurité</string>
-  <string name="pref_security_show_security_warning_summary">"Afficher un avertissement s\'il y a un problème avec la sécurité d\'un site"</string>
+  <string name="pref_security_show_security_warning_summary">Afficher un avertissement s\'il y a un problème avec la sécurité d\'un site</string>
   <string name="pref_set_homepage_to">Mettre sur</string>
   <string name="pref_text_zoom">Mise à l\'échelle du texte</string>
   <string name="pref_ua_mione_entry">Mi-One</string>
@@ -367,7 +367,7 @@
   <string name="pref_volume_key_operation">Fonctionnement des touches de volume</string>
   <string name="pref_zoom_on_double_tap">Zoom du double-clic</string>
   <string name="preview">Aperçu</string>
-  <string name="progress_dialog_setting_wallpaper">"Définition du fond d\'écran..."</string>
+  <string name="progress_dialog_setting_wallpaper">Définition du fond d\'écran...</string>
   <string name="readmode_reach_last_page">La dernière page a été atteinte</string>
   <string name="readmodelist_bookmarks">Listes de lecture dans la base de données</string>
   <string name="readmodelist_bookmarks_to_show">Listes de lecture</string>
@@ -404,18 +404,18 @@
   <string name="share_page">Partager la page</string>
   <string name="shortcut_bookmark">Signet</string>
   <string name="shortcut_bookmark_title">Choisir un signet</string>
-  <string formatted="false" name="sign_in_to">Connectez-vous sur %s1 \"%s2\"</string>
-  <string name="snapshot_failed">"Impossible d\'enregistrer pour une lecture hors ligne."</string>
+  <string formatted="false" name="sign_in_to">Connectez-vous sur %s1 \"%s2\</string>
+  <string name="snapshot_failed">Impossible d\'enregistrer pour une lecture hors ligne.</string>
   <string name="snapshot_go_live">Go live</string>
   <string name="ssl_continue">Continuer</string>
   <string name="ssl_date_invalid">Ce certificat a une date invalide.</string>
   <string name="ssl_expired">Ce certificat a expiré.</string>
   <string name="ssl_go_back">Retour</string>
   <string name="ssl_invalid">Ce certificat n\'est pas valide.</string>
-  <string name="ssl_mismatch">"Le nom du site ne correspond pas au nom sur le certificat."</string>
-  <string name="ssl_not_yet_valid">"Ce certificat n\'est pas encore valide."</string>
+  <string name="ssl_mismatch">Le nom du site ne correspond pas au nom sur le certificat.</string>
+  <string name="ssl_not_yet_valid">Ce certificat n\'est pas encore valide.</string>
   <string name="ssl_unknown">Erreur de certificat inconnu.</string>
-  <string name="ssl_untrusted">"Ce certificat provient d\'une autorité non approuvée."</string>
+  <string name="ssl_untrusted">Ce certificat provient d\'une autorité non approuvée.</string>
   <string name="ssl_warnings_header">Il y a des problèmes avec le certificat de sécurité de ce site.</string>
   <string name="stop">Arrêter</string>
   <string name="stopping">Arrêt...</string>
@@ -430,7 +430,7 @@
   <string name="title_bar_loading">Chargement en cours...</string>
   <string name="too_many_subwindows_dialog_message">Un seul pop-up peut être ouvert à la fois.</string>
   <string name="too_many_subwindows_dialog_title">Pop-up déjà ouvert</string>
-  <string name="too_many_windows_dialog_message">"Impossible d\'ouvrir un nouvel onglet jusqu\'à ce que vous en fermiez un."</string>
+  <string name="too_many_windows_dialog_message">Impossible d\'ouvrir un nouvel onglet jusqu\'à ce que vous en fermiez un.</string>
   <string name="too_many_windows_dialog_title">Limite d\'onglet atteinte</string>
   <string name="ua_switcher_desktop">Voir la version ordinateur</string>
   <string name="uploads_disabled">Les téléchargements de fichiers sont désactivés.</string>

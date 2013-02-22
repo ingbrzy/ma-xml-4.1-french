@@ -126,7 +126,7 @@
   <string name="lockscreen_carrier_default">Aucun service</string>
   <string name="mms_vibrate_hint">Message</string>
   <string name="mount_storage">Oui</string>
-  <string name="move_data_to_sdcard_message">"Cela déplacera les données telles que les captures d\'écran, les photos et autre de la mémoire interne à la carte SD. Afin de conserver une expérience utilisateur stable et harmonieuse, il est préférable de conserver la carte SD dans le téléphone pour l\'usage quotidien."</string>
+  <string name="move_data_to_sdcard_message">Cela déplacera les données telles que les captures d\'écran, les photos et autre de la mémoire interne à la carte SD. Afin de conserver une expérience utilisateur stable et harmonieuse, il est préférable de conserver la carte SD dans le téléphone pour l\'usage quotidien.</string>
   <string name="move_data_to_sdcard_title">Export des données internes sur la carte SD</string>
   <string name="no_vibrate_hint">Selon vos paramètres, les notifications d\'appels entrants et les sms ne vibreront pas, activer les vibrations n\'aura aucun effet</string>
   <string name="not_all_vibrate_hint">Selon vos paramètres, %1$s vibre, %2$s ne vibre pas, vous pouvez le modifier via les paramètres &gt; Sons &gt; Vibreur</string>
@@ -151,9 +151,9 @@
   <string name="recent_apps_key_show">Afficher la touche des applications récentes</string>
   <string name="return_to_incall_screen">Cliquez pour revenir à l\'appel</string>
   <string name="screen_button_custom">Personnaliser la position des touches tactiles</string>
-  <string name="screen_button_disabled_message">Les touches du bas de l\'écran sont désactivés. Vous pouvez les activer en appuyant sur \"Home\" et \"Power\"</string>
+  <string name="screen_button_disabled_message">Les touches du bas de l\'écran sont désactivés. Vous pouvez les activer en appuyant sur \"Home\" et \"Power\</string>
   <string name="screen_button_enabled_message">Les touches du bas de l\'écran sont activées</string>
-  <string name="screen_button_notification_text">"Activer en appuyant sur \"Menu\"+\"Éteindre/Allumer"</string>
+  <string name="screen_button_notification_text">Activer en appuyant sur \"Menu\"+\"Éteindre/Allumer</string>
   <string name="screen_button_notification_title">Les touches du bas de l\'écran sont désactivées</string>
   <string name="screen_key_back">Touche retour</string>
   <string name="screen_key_home">Bouton d\'acceuil</string>
@@ -199,8 +199,8 @@
   <string name="status_bar_do_not_disturb_button">Ne pas déranger</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configurer les modes de saisie</string>
   <string name="status_bar_latest_events_title">Notifications</string>
-  <string name="status_bar_network_flow">"Aujourd\'hui: %1$s Reste: %2$s Paquet: %3$s"</string>
-  <string name="status_bar_network_flow_exceed">"Aujourd\'hui: %1$s Dépassement: %2$s Paquet: %3$s"</string>
+  <string name="status_bar_network_flow">Aujourd\'hui: %1$s Reste: %2$s Paquet: %3$s</string>
+  <string name="status_bar_network_flow_exceed">Aujourd\'hui: %1$s Dépassement: %2$s Paquet: %3$s</string>
   <string name="status_bar_network_flow_today">Aujourd\'hui: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_notifications_title">Aucune notification</string>
@@ -209,7 +209,7 @@
   <string name="status_bar_ongoing_events_title">En cours</string>
   <string name="status_bar_please_disturb_button">Afficher notifications</string>
   <string name="status_bar_recent_clear_nothing_result">Pas de mémoire à effacer</string>
-  <string name="status_bar_recent_clear_result">"Effacé: %1$s | Épargné: %2$s."</string>
+  <string name="status_bar_recent_clear_result">Effacé: %1$s | Épargné: %2$s.</string>
   <string name="status_bar_recent_guide_all">Glisser vers le haut pour fermer, glisser vers le bas pour verrouiller</string>
   <string name="status_bar_recent_guide_bottom">Glisser vers le bas pour déverrouiller</string>
   <string name="status_bar_recent_guide_top">Glisser vers le haut pour fermer</string>
@@ -243,7 +243,7 @@
   <string name="usb_accessory_uri_prompt">Aucune application installée ne fonctionne avec cet accessoire USB. En savoir plus sur cet accessoire à l\'adresse %1$s</string>
   <string name="usb_device_confirm_prompt">Ouvrir %1$s lorsque le périphérique USB est connecté ?</string>
   <string name="usb_device_permission_prompt">Autoriser l\'application %1$s à accéder au périphérique USB ?</string>
-  <string name="usb_mode_dont_ask">"Ne plus me le demander la prochaine fois"</string>
+  <string name="usb_mode_dont_ask">Ne plus me le demander la prochaine fois</string>
   <string name="usb_mode_mount_storage_title">Ouvrir le périphérique de stockage USB ?</string>
   <string name="usb_mode_notification">Périphérique de stockage USB</string>
   <string name="usb_mtp_text">Fichiers</string>

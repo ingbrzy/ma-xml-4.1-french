@@ -3,7 +3,7 @@
 <resources>
   <string name="about_device">À propos de l\'appareil</string>
   <string name="active_xiaomi_account">Actif</string>
-  <string name="active_xiaomi_account_msg">"Veuillez aller sur le forum MIUI pour activer le compte Xiaomi:"</string>
+  <string name="active_xiaomi_account_msg">Veuillez aller sur le forum MIUI pour activer le compte Xiaomi:</string>
   <string name="active_xiaomi_account_title">Activer le compte Xiaomi</string>
   <string name="app_name">Mise à jour</string>
   <string name="apply_buddy_update_info_message">Cliquez sur mettre à jour maintenant, le téléphone commencera le processus de mise à jour</string>
@@ -65,7 +65,7 @@
   <string name="monthly_build">Compilation mensuelle</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Pas assez d\'espace sur la carte SD pour déplacer les %dMB de données séléctionnés</string>
   <string name="move_data_to_sdcard_title">Déplacer les données vers la carte SD</string>
-  <string name="moving_data_to_sdcard_message">"Les données sont transférées vers la carte SD, veuillez ne pas activer le mode USB ni retirer la carte SD."</string>
+  <string name="moving_data_to_sdcard_message">Les données sont transférées vers la carte SD, veuillez ne pas activer le mode USB ni retirer la carte SD.</string>
   <string name="moving_data_to_sdcard_progress_format">Transféré %1$ddKb de %2$dKb</string>
   <string name="my_best_update">La meilleure mise à jour que j\'ai choisie</string>
   <string name="my_expect_update">Les attentes que j\'ai choisies</string>
@@ -84,7 +84,7 @@
   <string name="no_updates_found">Vous utilisez déjà la dernière version</string>
   <string name="no_updates_warning">Aucune mise à jour n\'a été trouvée pour votre téléphone</string>
   <string name="no_updates_warning2">L\'application vous préviendra pour toute mise à jour</string>
-  <string name="not_recommend">"Déconseillée"</string>
+  <string name="not_recommend">Déconseillée</string>
   <string name="paused_queued_for_network">En attente d\'une connexion réseau</string>
   <string name="paused_queued_for_wifi">En attente d\'une connexion Wi-Fi</string>
   <string name="previous">Précédent</string>
@@ -105,9 +105,9 @@
   <string name="share_update_content_sign">J\'ai mis à jour MIUI vers %1$s ! Mon rang d\'utilisateur de mise à jour est %2$s. Pour le changelog détaillé, veuillez visiter %3$s</string>
   <string name="share_update_content_unsign">J\'ai mis à jour MIUI vers %1$s ! Pour le changelog détaillé, consultez %2$s</string>
   <string name="sign_in_add_account_helper">Votre téléphone n\'a pas de compte MIUI actif, ajoutez-en un pour recevoir des points utilisateur</string>
-  <string name="sign_in_info">"Votre classement de mise à jour est %1$s, %2$s membres ont signé pour MIUI %3$s"</string>
-  <string name="sign_in_info_rank_more">"Votre classement de mise à jour est après %1$s sur %2$s membres qui ont signé pour MIUI %3$s"</string>
-  <string name="sign_in_info_total_more">"Votre classement de mise à jour est de %1$s sur %2$s membres qui ont signé pour MIUI %3$s"</string>
+  <string name="sign_in_info">Votre classement de mise à jour est %1$s, %2$s membres ont signé pour MIUI %3$s</string>
+  <string name="sign_in_info_rank_more">Votre classement de mise à jour est après %1$s sur %2$s membres qui ont signé pour MIUI %3$s</string>
+  <string name="sign_in_info_total_more">Votre classement de mise à jour est de %1$s sur %2$s membres qui ont signé pour MIUI %3$s</string>
   <string name="stable_build">Compilation stable</string>
   <string name="start_update">Commencer la mise à jour</string>
   <string name="submit">Envoyer</string>
@@ -122,7 +122,7 @@
   <string name="update_comment_hint">(optionnel)</string>
   <string name="update_comment_title">Vos commentaires</string>
   <string name="update_feedback">Mettre à jour les avis</string>
-  <string name="update_feedback_expired">"Quel dommage que vous ayez manqué de commenter la mise à jour ! S\'il vous plaît envoyez-nous votre sondage mardi prochain"</string>
+  <string name="update_feedback_expired">Quel dommage que vous ayez manqué de commenter la mise à jour ! S\'il vous plaît envoyez-nous votre sondage mardi prochain</string>
   <string name="update_feel">1. Comment vous sentez-vous ?</string>
   <string name="update_general">Pas mal</string>
   <string name="update_happy">Joyeux</string>
@@ -133,7 +133,7 @@
   <string name="update_success_title">Félicitations. Mise à jour terminée</string>
   <string name="upgrade_close">Fermer</string>
   <string name="upgrade_kernel">Le noyau actuel nécessite une mise à jour</string>
-  <string name="upgrade_kernel_msg">"La version du noyau actuel ne correspond pas à la ROM MIUI. Vous avez besoin de mettre à jour le noyau manuellement. Veuillez vous référer au tutoriel de mise à niveau:"</string>
+  <string name="upgrade_kernel_msg">La version du noyau actuel ne correspond pas à la ROM MIUI. Vous avez besoin de mettre à jour le noyau manuellement. Veuillez vous référer au tutoriel de mise à niveau:</string>
   <string name="verify_and_apply_dialog_message">Vérification du checksum MD5...</string>
   <string name="verify_and_apply_dialog_title">Vérifier l\'intégrité des fichiers</string>
   <string name="view_details">Voir les détails</string>

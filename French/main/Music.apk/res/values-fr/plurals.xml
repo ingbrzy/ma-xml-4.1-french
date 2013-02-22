@@ -26,8 +26,8 @@
     <item quantity="one">liste de lecture</item>
   </plurals>
   <plurals name="Nfolders">
-    <item quantity="other">"Dossiers"</item>
-    <item quantity="one">"Dossier"</item>
+    <item quantity="other">Dossiers"</item>
+    <item quantity="one">Dossier"</item>
   </plurals>
   <plurals name="Ntracks_batch_selection">
     <item quantity="other" formatted="false">%1$d chansons sont sélectionnées</item>
@@ -62,8 +62,8 @@
     <item quantity="one">1 morceau ajouté à la liste de lecture.</item>
   </plurals>
   <plurals name="Nonlinecategory">
-    <item quantity="other">"catégories"</item>
-    <item quantity="one">"catégorie"</item>
+    <item quantity="other">catégories"</item>
+    <item quantity="one">catégorie"</item>
   </plurals>
   <plurals name="album_details_format">
     <item quantity="other">%1$s, %2$d chansons</item>

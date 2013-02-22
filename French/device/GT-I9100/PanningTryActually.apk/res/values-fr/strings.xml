@@ -7,7 +7,7 @@
     <string name="ok">OK</string>
     <string name="back">Retour</string>
     <string name="panning">Panoramique</string>
-    <string name="panning_dialog_message">"Déplacez le téléphone à gauche ou à droite tout en maintenant l\'icône sélectionnée pour le repositionner à une autre page"</string>
+    <string name="panning_dialog_message">Déplacez le téléphone à gauche ou à droite tout en maintenant l\'icône sélectionnée pour le repositionner à une autre page</string>
     <string name="try_button">Essayez</string>
     <string name="try_again">Essayez encore</string>
     <string name="good_job">Bon travail!</string>

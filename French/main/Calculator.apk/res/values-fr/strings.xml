@@ -56,7 +56,7 @@
     <string name="tanDesc">tangente</string>
     <string name="sinDesc">sinus</string>
     <string name="cosDesc">cosinus</string>
-    <string name="eDesc">"nombre d\'Euler"</string>
+    <string name="eDesc">nombre d\'Euler</string>
     <string name="piDesc">pi</string>
     <string name="equalDesc">égal</string>
     <string name="equal_on_history">=</string>

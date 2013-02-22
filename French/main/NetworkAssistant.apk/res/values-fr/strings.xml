@@ -128,7 +128,7 @@ Si ce n\'est pas le cas vous pouvez le réajuster.</string>
   <string name="sync_traffic_no_cmd_title">Aucun modèle de SMS</string>
   <string name="sync_traffic_success">Les données de l\'opérateur on été synchronisées, le trafic a été ajusté avec succès</string>
   <string name="this_month">Mois</string>
-  <string name="today">"Aujourd\'hui"</string>
+  <string name="today">Aujourd\'hui</string>
   <string name="traffic_none">N/A</string>
   <string name="traffic_package_widget_name">Moniteur (1x4)</string>
   <string name="traffic_remain">Restant</string>

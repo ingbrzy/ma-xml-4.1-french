@@ -24,7 +24,7 @@
   <string name="Dashboard_Perm_SU_Desc">Surveillance de %1$d applications pour les permissions Root</string>
   <string name="Dashboard_Perm_SU_Disabled">Les permissions Root sont désactivées</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Le Root n\'est pas disponible dans les versions stables de MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Accorder la permission Root pour des applications tierces pourrait causer l\'instabilité du système, voire la perte de vos données personnelles, ou bien des dégâts matériels. Veuillez utiliser une version de MIUI de développement pour activer les permissions Root"</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Accorder la permission Root pour des applications tierces pourrait causer l\'instabilité du système, voire la perte de vos données personnelles, ou bien des dégâts matériels. Veuillez utiliser une version de MIUI de développement pour activer les permissions Root</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Télécharger MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
   <string name="Dashboard_Perm_SU_Switch">Permission Root</string>

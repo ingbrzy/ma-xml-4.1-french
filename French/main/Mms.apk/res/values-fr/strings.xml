@@ -110,7 +110,7 @@
   <string name="download">Télécharger</string>
   <string name="download_later">Téléchargement impossible pour le moment. Réessayez plus tard</string>
   <string name="downloading">Téléchargement</string>
-  <string name="draft_separator">", "</string>
+  <string name="draft_separator">, </string>
   <string name="drm_protected_text">* Texte protégé par DRM *</string>
   <string name="duration_not_a_number">La valeur de la durée doit être un nombre</string>
   <string name="duration_sec">Durée (%s sec)</string>
@@ -123,7 +123,7 @@
   <string name="edit_slide_activity">Modifier diaporama</string>
   <string name="edit_slideshow_activity">Modifier diaporama</string>
   <string name="enter_edit_mode">Supprimer</string>
-  <string name="error_code_label">"Code d\'erreur :"</string>
+  <string name="error_code_label">Code d\'erreur :</string>
   <string name="error_state">État incohérent</string>
   <string name="error_state_text">L\'état des fils de discussion et des destinataires n\'est pas cohérent. Générez un rapport sur les bugs et envoyez-le à android-sms-bugs@google.com</string>
   <string name="error_timed_msg">Impossible de planifier un moment avant maintenant</string>
@@ -193,7 +193,7 @@
   <string name="menu_view">Afficher le fil</string>
   <string name="menu_view_contact">Voir le contact</string>
   <string name="menu_view_original_message">Voir le message original</string>
-  <string name="message_class_label">"Classe de message :  "</string>
+  <string name="message_class_label">Classe de message :  </string>
   <string name="message_count_format"> %1$s</string>
   <string name="message_details_title">Détails des messages</string>
   <string name="message_download_failed_title">Message non téléchargé</string>
@@ -201,7 +201,7 @@
   <string name="message_failed_body">Vérifiez le message et réessayez</string>
   <string name="message_options">Options de message</string>
   <string name="message_pending">En attente</string>
-  <string name="message_queued">"Impossible d\'envoyer votre message pour le moment. Il sera envoyé dès que le service est disponible"</string>
+  <string name="message_queued">Impossible d\'envoyer votre message pour le moment. Il sera envoyé dès que le service est disponible</string>
   <string name="message_readed">Lu</string>
   <string name="message_received">Reçu</string>
   <string name="message_rejected">Rejeté</string>
@@ -453,18 +453,18 @@
   <string name="to_address_label">À : </string>
   <string name="to_count">%d au total</string>
   <string name="to_hint">À</string>
-  <string name="to_label">"À "</string>
+  <string name="to_label">À </string>
   <string name="to_send_wrapper">Sera envoyé à %s</string>
   <string name="too_many_attachments">Nombre maximum de pièces jointes (%1$s) dépassé. Seuls les premiers %2$s seront ajoutés</string>
   <string name="too_many_recipients">Ce message a trop de destinataires (%1$s). Il y a une limite de %2$s destinataires.</string>
-  <string name="too_many_unsent_mms">"Envoi du message impossible. Trop de MMS n\'ont pas été envoyés"</string>
+  <string name="too_many_unsent_mms">Envoi du message impossible. Trop de MMS n\'ont pas été envoyés</string>
   <string name="try_to_send">Essayer d\'envoyer</string>
   <string name="type_audio">Audio</string>
   <string name="type_picture">Photo</string>
   <string name="type_to_compose_text_enter_to_send">Saisissez un message</string>
   <string name="type_to_compose_text_or_leave_blank">Entrer du texte ou laisser le champ vide</string>
   <string name="type_video">Vidéo</string>
-  <string name="undelivered_msg_dialog_body">"Impossible d\'envoyer ce message. Dernière tentative d\'envoi : %s"</string>
+  <string name="undelivered_msg_dialog_body">Impossible d\'envoyer ce message. Dernière tentative d\'envoi : %s</string>
   <string name="undelivered_msg_dialog_title">Message non livré</string>
   <string name="undelivered_sms_dialog_body">Impossible d\'envoyer ce message</string>
   <string name="unknown_num">Numéro inconnu</string>
@@ -475,7 +475,7 @@
   <string name="view_delivery_report">Accusé de réception</string>
   <string name="view_message_details">Voir les détails</string>
   <string name="view_slideshow">Afficher diaporama</string>
-  <string name="wap_push_title">"[WAP Push]"</string>
+  <string name="wap_push_title">[WAP Push]</string>
   <string name="will_send_at">Sera envoyé à: %s</string>
   <string name="yes">OK</string>
 </resources>

@@ -11,7 +11,7 @@
   <string name="album_picker_not_found">L\'application \"Galerie\" n\'a pas été trouvée sur le périphérique</string>
   <string name="album_search_failed">Pochette introuvable !</string>
   <string name="albums_title">Albums </string>
-  <string name="albumsongseparator">""</string>
+  <string name="albumsongseparator"></string>
   <string name="all_tracks">Chansons</string>
   <string name="android_album_settings">Utiliser la pochette intégrée</string>
   <string name="android_album_summary">Afficher automatiquement la pochette de l\'album pourrait entraîner des erreurs</string>
@@ -27,7 +27,7 @@
   <string name="cancel_sleep_mode">Mode veille désactivé</string>
   <string name="category_num_format">(%s)</string>
   <string name="channel">FM</string>
-  <string formatted="false" name="channel_format">"%s  %s MHZ"</string>
+  <string formatted="false" name="channel_format">%s  %s MHZ</string>
   <string name="channel_postfix">MHZ</string>
   <string name="clear_search_history">Effacer l\'historique de recherche</string>
   <string name="click_to_shuffle">Lecture aléatoire</string>
@@ -79,7 +79,7 @@
   <string name="equalizer_save_success">Le profil de l\'égalisateur a été sauvegardé</string>
   <string name="fade_effect_settings">Fondu entre les morceaux</string>
   <string name="fade_effect_summary">Active le fondu entre chaque morceau joué</string>
-  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="fast_scroll_alphabet"> ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
   <string name="file_not_found">Le fichier n\'existe pas</string>
   <string name="filter_by_duration">Filtrer par durée</string>
   <string name="filter_by_duration_format">%2$dmin%5$2dsec</string>
@@ -156,7 +156,7 @@
   <string name="new_equalizer_name_template">Nouveau profil EQ %d</string>
   <string name="new_playlist">Nouveau</string>
   <string name="new_playlist_name_template">Playlist %d</string>
-  <string name="no_effect">"Pas d\'effet"</string>
+  <string name="no_effect">Pas d\'effet</string>
   <string name="no_tracks_title">Aucun titre</string>
   <string name="not_selected">Veuillez sélectionner une chanson</string>
   <string name="notification_artist_album">%2$s %1$s</string>

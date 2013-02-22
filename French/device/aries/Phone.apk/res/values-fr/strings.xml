@@ -25,7 +25,7 @@
   <string name="advertisements_enable">Publicités activées</string>
   <string name="alert_dialog_close">Fermer le profil</string>
   <string name="alert_dialog_dismiss">Ignorer</string>
-  <string name="alert_dialog_in_ecm_call">"L\'action sélectionnée n\'est pas disponible pendant un appel d\'urgence."</string>
+  <string name="alert_dialog_in_ecm_call">L\'action sélectionnée n\'est pas disponible pendant un appel d\'urgence.</string>
   <string name="alert_dialog_no">Non</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Oui</string>
@@ -77,7 +77,7 @@
   <string name="auto_ip_exception_miui">Numéros ne nécessitant pas de préfixe IP</string>
   <string name="auto_ip_exception_summary_miui">%d au total</string>
   <string name="auto_ip_exception_summary_more_miui">,... %d au total</string>
-  <string name="auto_ip_no_exceptions_miui">"Ajouter des numéros qui ne nécessitent pas de préfixe IP"</string>
+  <string name="auto_ip_no_exceptions_miui">Ajouter des numéros qui ne nécessitent pas de préfixe IP</string>
   <string name="auto_ip_remove_exception_numbers_confirm_miui">Êtes-vous sûr de vouloir supprimer les %d numéros suivants ?</string>
   <string name="auto_ip_setting_miui">Paramètres IP automatiques</string>
   <string name="auto_ip_summary_not_enabled">Innactif</string>
@@ -114,7 +114,7 @@
   <string name="bad_puk_miui">Le code PUK que vous avez tapé n\'est pas correct, veuillez réessayer</string>
   <string name="bf_news_settings">Actualités commerciales et financières</string>
   <string name="buttonTxtContinue">Continuer</string>
-  <string name="callFailed_cb_enabled">"Vous ne pouvez pas passer d\'appel sortant si la restriction d\'appel est activée</string>
+  <string name="callFailed_cb_enabled">Vous ne pouvez pas passer d\'appel sortant si la restriction d\'appel est activée</string>
   <string name="callFailed_congestion">Réseau occupé</string>
   <string name="callFailed_dialToDial">Requête d\'appel modifiée pour appeler avec un numéro différent.</string>
   <string name="callFailed_dialToSs">Requête d\'appel modifiée pour SS.</string>
@@ -179,8 +179,8 @@
   <string name="caller_id_sum_miui">Afficher/Masquer le numéro lors d\'un appel (si pris en charge par le réseau)</string>
   <string name="caller_id_title_miui">Affichage du numéro</string>
   <string name="caller_manage_header">Conférence téléphonique à %s</string>
-  <string name="caller_manage_manage_done_text">"Retour à l\'appel"</string>
-  <string name="caller_manage_manage_done_text_miui">"Retour à l\'appel"</string>
+  <string name="caller_manage_manage_done_text">Retour à l\'appel</string>
+  <string name="caller_manage_manage_done_text_miui">Retour à l\'appel</string>
   <string name="callind">Paramètres des fonctions d\'appel</string>
   <string name="callind_multi_sim">Sélectionner l\'abonnement</string>
   <string name="calling_via_template">Appel via ^1...^2</string>
@@ -192,7 +192,7 @@
   <string name="card_title_MOcall_forwarding">Appel transféré</string>
   <string name="card_title_MTcall_forwarding">L\'appel entrant est transféré</string>
   <string name="card_title_call_deflected">Appel dévié</string>
-  <string name="card_title_call_ended">"Fin d\'appel"</string>
+  <string name="card_title_call_ended">Fin d\'appel</string>
   <string name="card_title_callconnectedect">Appeler ECT connecté</string>
   <string name="card_title_callconnectingect">Appel en cours de connexion ECT</string>
   <string name="card_title_calliswaiting">Appel en attente</string>
@@ -209,7 +209,7 @@
   <string name="card_title_forwardcheckreceived">Vérification de renvoi reçu</string>
   <string name="card_title_forwarded_MTcall">Appel entrant transféré</string>
   <string name="card_title_forwarded_incoming_call_miui">Renvoyer appel(s) entrant(s)</string>
-  <string name="card_title_hanging_up">"Fin d\'appel"</string>
+  <string name="card_title_hanging_up">Fin d\'appel</string>
   <string name="card_title_in_call">Appel</string>
   <string name="card_title_in_progress">Appel en cours</string>
   <string name="card_title_incoming_barred">Appels entrants barré</string>
@@ -386,7 +386,7 @@
   <string name="disable_sim_pin">Désactiver le code PIN de la carte SIM</string>
   <string name="disable_sim_pin_miui">Désactiver le code PIN de la carte SIM</string>
   <string name="display_name">Afficher le nom</string>
-  <string name="display_name_summary">"&lt;Identique au nom d\'utilisateur&gt;"</string>
+  <string name="display_name_summary">&lt;Identique au nom d\'utilisateur&gt;</string>
   <string name="display_name_title">Pseudo</string>
   <string name="domain_address">Adresse Sip</string>
   <string name="domain_address_title">Serveur</string>
@@ -409,7 +409,7 @@
   <string name="emergency_call_area_code_edit_dialog_hint_miui">par ex: 112</string>
   <string name="emergency_enable_radio_dialog_message">Activation de la radio...</string>
   <string name="emergency_enable_radio_dialog_retry">En dehors de la zone de service. Nouvelle tentative...</string>
-  <string name="emergency_enable_radio_dialog_title">"Appel d\'urgence"</string>
+  <string name="emergency_enable_radio_dialog_title">Appel d\'urgence</string>
   <string name="empty_alert">%s ne peut pas être vide</string>
   <string name="empty_networks_list">Réseau introuvable</string>
   <string name="enable">Activer</string>
@@ -576,8 +576,8 @@
   <string name="label_sdp">Débloquer le PIN SIM SIM</string>
   <string name="label_spdp">Débloquer le PIN SIM du prestataire de services</string>
   <string name="label_subscription">pour l\'abonnement</string>
-  <string name="lafs_disable">"Horaires des vols de l\'aéroport local désactivés"</string>
-  <string name="lafs_enable">"Horaires des vols de l\'aéroport local activés"</string>
+  <string name="lafs_disable">Horaires des vols de l\'aéroport local désactivés</string>
+  <string name="lafs_enable">Horaires des vols de l\'aéroport local activés</string>
   <string name="list_language_dtitle">Langues</string>
   <string name="list_language_summary">Sélectionner la langue</string>
   <string name="list_language_title">Langue</string>
@@ -764,14 +764,14 @@
   <string name="phone_numbers">Entrer les numéros de téléphone</string>
   <string name="pick_outgoing_call_phone_type">Passer un appel</string>
   <string name="pick_outgoing_sip_phone">Utiliser le compte d\'appels Internet</string>
-  <string name="pin2_attempts">"Tentatives restantes:"</string>
+  <string name="pin2_attempts">Tentatives restantes:</string>
   <string name="pin2_changed">Code PIN2 modifié</string>
   <string name="pin2_changed_miui">Code PIN2 modifié</string>
   <string name="pin2_invalid">Code PIN2 invalide !</string>
   <string name="pin2_invalid_or_name_is_too_long">Le FDN n\'a pas été mis à jour: vous avez entré un code PIN2 incorrect ou le nom est trop long.</string>
   <string name="pin2_lock_warning_miui">Veuillez noter que les fonctionnalités associées au PIN2 seront verrouillées en cas de nouvel échec !</string>
   <string name="pin2_locked_message_miui">PIN2 incorrect, les fonctionnalités associées au PIN2 sont verrouillées. Veuillez réinitialiser le code PIN2 avec le code PUK2.</string>
-  <string name="pin2_or_fdn_invalid">"FDN n\'a pas été mis à jour. Le code PIN2 est incorrect, ou le numéro de téléphone a été rejeté."</string>
+  <string name="pin2_or_fdn_invalid">FDN n\'a pas été mis à jour. Le code PIN2 est incorrect, ou le numéro de téléphone a été rejeté.</string>
   <string name="pin2_unblocked">Code PIN2 débloqué</string>
   <string name="pinUnlocked">Carte SIM déverrouillée</string>
   <string name="pin_attempts_miui">Il vous reste %d essais</string>
@@ -827,7 +827,7 @@ Appuyez sur OK pour continuer.</string>
   <string name="primary_account_title">Déf. comme cpte principal</string>
   <string name="private_num">Numéro privé</string>
   <string name="proceed">Procéder</string>
-  <string name="progress_dialog_exiting_ecm">"Désactivation du mode Rappel d\'urgence..."</string>
+  <string name="progress_dialog_exiting_ecm">Désactivation du mode Rappel d\'urgence...</string>
   <string name="prompt">Demander</string>
   <string name="prompt_user">Demander à l\'utilisateur</string>
   <string name="proxy_address">Adresse du proxy</string>
@@ -851,7 +851,7 @@ Appuyez sur OK pour continuer.</string>
   <string name="register_network_failed_title_miui">Service non disponible</string>
   <string name="register_on_network">Enregistrement sur %s...</string>
   <string name="registration_done">Enregistré sur le réseau</string>
-  <string name="registration_status_checking_status">"Vérification de l\'état..."</string>
+  <string name="registration_status_checking_status">Vérification de l\'état...</string>
   <string name="registration_status_done">Réception des appels</string>
   <string name="registration_status_failed_try_later">Impossible d\'enregistrer le compte. %s. Veuillez essayer plus tard</string>
   <string name="registration_status_invalid_credentials">Impossible d\'enregistrer le compte. Nom d\'utilisateur ou mot de passe incorrect</string>
@@ -914,7 +914,7 @@ Appuyez sur OK pour continuer.</string>
   <string name="roaming">Itinérance</string>
   <string name="roaming_disable">Activer l\'itinérance des données</string>
   <string name="roaming_enable">Activer l\'itinérance des données</string>
-  <string name="roaming_reenable_message">"Vous avez perdu la connectivité des données car vous avez laissé l\'itinérance désactivée sur votre réseau domestique"</string>
+  <string name="roaming_reenable_message">Vous avez perdu la connectivité des données car vous avez laissé l\'itinérance désactivée sur votre réseau domestique</string>
   <string name="roaming_warning">L\'itinérance implique des frais supplémentaires. Continuer ?</string>
   <string name="rsp_unlock_failed">La demande de déverrouillage du prestataire de services de l\'UIM hrpd a échoué.</string>
   <string name="rsp_unlock_success">Le déverrouillage du prestataire de services de l\'UIM a réussi.</string>
@@ -977,7 +977,7 @@ Appuyez sur OK pour continuer.</string>
   <string name="sim_unlock_success">Le déverrouillage de la SIM SIM a réussi.</string>
   <string name="sim_unlock_unlock_text">Déverr.</string>
   <string name="sip_account_list">Comptes SIP</string>
-  <string name="sip_accounts">"Comptes d\'appels Internet"</string>
+  <string name="sip_accounts">Comptes d\'appels Internet</string>
   <string name="sip_accounts_summary">Gérer les comptes et les statuts des appels Internet</string>
   <string name="sip_accounts_title">Comptes</string>
   <string name="sip_add_account_tip_text">Veuillez ajouter un compte SIP pour utiliser les appels Internet</string>
@@ -1081,11 +1081,11 @@ Appuyez sur OK pour continuer.</string>
   <string name="throttle_help_subtext">Plus d\'informations sur la politique d\'utilisation des données sur le réseau mobile de votre opérateur</string>
   <string name="throttle_rate">Politique relative aux tarifs de gestion des données</string>
   <string name="throttle_rate_subtext">Si vous dépassez la limite d\'utilisation des données, le tarif de gestion des données est réduit à %1$d Ko/s</string>
-  <string name="throttle_status_subtext">\"%1$s sur %3$s - (%2$d ٪) du maximum par période
-La prochaine période démarre dans %4$d jours (%5$s).\"</string>
+  <string name="throttle_status_subtext">\%1$s sur %3$s - (%2$d ٪) du maximum par période
+La prochaine période démarre dans %4$d jours (%5$s).\</string>
   <string name="throttle_time_frame">Période d\'utilisation des données</string>
-  <string name="throttle_time_frame_subtext">\"%1$d ٪ du cycle écoulé
-La prochaine période démarre dans %2$d jours (%3$s).\"</string>
+  <string name="throttle_time_frame_subtext">\%1$d ٪ du cycle écoulé
+La prochaine période démarre dans %2$d jours (%3$s).\</string>
   <string name="title_data_settings">Paramètres des données</string>
   <string name="tone_miui">Tonalité</string>
   <string name="transport">Protocole</string>
@@ -1111,12 +1111,12 @@ La prochaine période démarre dans %2$d jours (%3$s).\"</string>
   <string name="unlock_success">Déblocage du réseau réussi</string>
   <string name="updating_fdn_contact">Mise à jour du contact à numérotation fixe...</string>
   <string name="updating_settings">Mise à jour des paramètres...</string>
-  <string name="updating_title">"Paramètres d\'appel"</string>
+  <string name="updating_title">Paramètres d\'appel</string>
   <string name="username">Nom d\'utilisateur</string>
   <string name="username_title">Nom d\'utilisateur</string>
   <string name="ussdRunning">Exécution du code USSD...</string>
   <string name="vibrate_on_ring_title">Vibreur et sonnerie</string>
-  <string name="vm_change_failed">"Impossible de changer le numéro de messagerie vocale. Contactez votre opérateur si ce problème persiste."</string>
+  <string name="vm_change_failed">Impossible de changer le numéro de messagerie vocale. Contactez votre opérateur si ce problème persiste.</string>
   <string name="vm_changed">N° de messagerie vocale modifié</string>
   <string name="voice_privacy">Confidentialité vocale</string>
   <string name="voice_privacy_miui">Confidentialité vocale</string>

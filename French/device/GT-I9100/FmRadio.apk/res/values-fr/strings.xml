@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="toast_fm_not_played">"Impossible d\'activer la radio FM"</string>
+    <string name="toast_fm_not_played">Impossible d\'activer la radio FM</string>
     <string name="headset_disconnect">Ecouteurs retirés. La radio va se fermer</string>
     <string name="toast_tap_to_rename">Appuyer sur la fréquence pour renommer</string>
     <string name="toast_channel_invalid">Fréquence invalide</string>
@@ -41,7 +41,7 @@
     <string name="setting_sationid">Montrer le nom de la station</string>
     <string name="setting_af">Fréquence alternative</string>
     <string name="setting_autooff">FM auto arrêté</string>
-    <string name="setting_bgplaying_summary">"La radio FM lira en arrière plan après fermeture de l\'application"</string>
+    <string name="setting_bgplaying_summary">La radio FM lira en arrière plan après fermeture de l\'application</string>
     <string name="setting_stationid_summary">Les iformations de la station seront montrées</string>
     <string name="setting_af_summary">Activer/Désactiver la fréquence alternative</string>
     <string name="setting_europe">Europe</string>
@@ -70,7 +70,7 @@
     <string name="scan_channels">Chaines scannées</string>
     <string name="selectall">Sélectionner tout</string>
     <string name="no_channel_selected">Sélectionner au moins un objet</string>
-    <string name="toast_airplane_mode">"Impossible d\'utiliser la radio lorsque le profil hors ligne est actif"</string>
+    <string name="toast_airplane_mode">Impossible d\'utiliser la radio lorsque le profil hors ligne est actif</string>
     <string name="dialog_tts_confirm">Installer les données de voix requiert la synthèse vocale</string>
     <string name="RSSI">Définir la recherche RSSI (int)</string>
     <string name="SNR">Définir la recherche SNR (int)</string>
@@ -81,7 +81,7 @@
     <string name="speaker">Haut-parleur</string>
     <string name="af_switching">Switch AF</string>
     <string name="af_switching_msg">Switch AF en cours. Appuyer sur retour pour annuler</string>
-    <string name="toast_battery_low">"Impossible de démarrer l\'application. Batterie faible"</string>
+    <string name="toast_battery_low">Impossible de démarrer l\'application. Batterie faible</string>
     <string name="toast_af_success">Switch AF et fréquence %1$d.%2$d MHz trouvée</string>
     <string name="toast_disabled">%1$s désactivé</string>
     <string name="toast_no_channel_found">Pas de chaine trouvée</string>
@@ -91,5 +91,5 @@
     <string name="via_speaker">Par haut parleurs</string>
     <string name="normal_frequency">Fréquence normale</string>
     <string name="notify">Seul la radio U1 FM Radio est supporte une version HW 0.7 ou plus</string>
-    <string name="audio_shock_warning">"La musique forte peut nuire à votre audition si vous l\'écouter pendant une longue période"</string>
+    <string name="audio_shock_warning">La musique forte peut nuire à votre audition si vous l\'écouter pendant une longue période</string>
 </resources>

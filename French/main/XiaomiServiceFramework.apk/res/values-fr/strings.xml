@@ -2,7 +2,7 @@
 <resources>
   <string name="access_denied">Accès refusé</string>
   <string name="account">Compte</string>
-  <string name="account_dspt">"Les comptes Xiaomi permettent de synchroniser et sauvegarder vos messages, contacts, photos, etc."</string>
+  <string name="account_dspt">Les comptes Xiaomi permettent de synchroniser et sauvegarder vos messages, contacts, photos, etc.</string>
   <string name="account_hint_text">E-mail/Numéro de téléphone</string>
   <string name="account_name">Compte: %1$s</string>
   <string name="activate_fail_notification_title">Réactiver le service de synchronisation Xiaomi</string>
@@ -104,7 +104,7 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="mibi_license_message">Service Mi Credit de Xiaomi. En cliquant sur OK, vous acceptez être en accord avec %1$s.</string>
   <string name="mibi_license_message_span">Contrat d\'utilisation de Mi Credit</string>
   <string name="mibi_license_title">Contrat d\'utilisation de Mi Credit</string>
-  <string name="micloud_about">" "</string>
+  <string name="micloud_about"> </string>
   <string name="micloud_account">Compte Xiaomi</string>
   <string name="micloud_account_label">Compte: %1$s</string>
   <string name="micloud_account_name">Compte Xiaomi</string>
@@ -181,7 +181,7 @@ my.xiaomi.com pour le trouver, le verrouiller, ou effacer les données</string>
   <string name="progress_connecting">Connexion...</string>
   <string name="progress_creating">Récupération des informations de la commande...</string>
   <string name="progress_error_common">Le rechargement a échoué, veuillez réessayer ultérieurement.</string>
-  <string name="progress_error_contact_server">"Toujours pas pris en compte. Veuillez communiquer avec le service clientèle de notre partenaire à Shenzhou au numéro suivant : 400-001-0195，Merci d\'indiquer le numéro de série : %1$s "</string>
+  <string name="progress_error_contact_server">Toujours pas pris en compte. Veuillez communiquer avec le service clientèle de notre partenaire à Shenzhou au numéro suivant : 400-001-0195，Merci d\'indiquer le numéro de série : %1$s </string>
   <string name="progress_error_invalid_number">Le numéro de carte et/ou le mot de passe sont incorrects, vérifiez votre saisie.</string>
   <string name="progress_error_network">Impossible de se connecter au réseau, veuillez vérifier l\'état du réseau.</string>
   <string name="progress_error_server">Erreur du serveur, veuillez réessayer plus tard.</string>

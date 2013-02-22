@@ -29,7 +29,7 @@
   <string name="report_miui">Rapporter à MIUI</string>
   <string name="section_description">Description</string>
   <string name="section_err_type">Type de retour</string>
-  <string name="section_screenshot">"Captures d\'écran"</string>
+  <string name="section_screenshot">Captures d\'écran</string>
   <string name="status_msg_collecting_log">Collecte des journaux...</string>
   <string name="status_msg_pending_upload">%d commentaires en cours de téléchargement...</string>
   <string name="toast_description_required">La description est nécessaire avant d\'envoyer</string>

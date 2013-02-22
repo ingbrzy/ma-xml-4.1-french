@@ -14,11 +14,11 @@
     <string name="day_view">Jour</string>
     <string name="week_view">Semaine</string>
     <string name="month_view">Mois</string>
-    <string name="event_view">"Afficher l\'événement"</string>
+    <string name="event_view">Afficher l\'événement</string>
     <string name="event_create">Nouvel événement</string>
-    <string name="event_edit">"Modifier l\'événement"</string>
-    <string name="event_delete">"Supprimer l\'événement"</string>
-    <string name="goto_today">"Aujourd\'hui"</string>
+    <string name="event_edit">Modifier l\'événement</string>
+    <string name="event_delete">Supprimer l\'événement</string>
+    <string name="goto_today">Aujourd\'hui</string>
     <string name="menu_preferences">Paramètres</string>
     <string name="menu_select_visible_calendars">Calendriers à afficher</string>
     <string name="search">Recherche</string>
@@ -27,11 +27,11 @@
     <string name="select_visible_calendars_title">Calendriers à afficher</string>
     <string name="synced">synchronisé</string>
     <string name="not_synced">non synchronisé</string>
-    <string name="acct_not_synced">"Ce compte n\'a pas été synchronisé et vos calendriers pourraient donc ne pas être à jour."</string>
+    <string name="acct_not_synced">Ce compte n\'a pas été synchronisé et vos calendriers pourraient donc ne pas être à jour.</string>
     <string name="accounts">Comptes &amp; synchronisation</string>
     <string name="select_synced_calendars_title">Calendriers à synchroniser</string>
     <string name="select_synced_calendars_button">Calendriers à synchroniser</string>
-    <string name="hint_what">"Nom de l\'événement"</string>
+    <string name="hint_what">Nom de l\'événement</string>
     <string name="hint_where">Lieu</string>
     <string name="hint_description">Description</string>
     <string name="hint_attendees">Invités</string>
@@ -41,7 +41,7 @@
     <string name="creating_event_with_guest">Invitations envoyées</string>
     <string name="saving_event_with_guest">Mises à jour envoyées</string>
     <string name="alert_title">Notifications du calendrier</string>
-    <string name="event_info_title">"Voir l\'événement"</string>
+    <string name="event_info_title">Voir l\'événement</string>
     <string name="event_info_title_invite">Invitation à une réunion</string>
     <string name="edit_event_to_label">A</string>
     <string name="edit_event_from_label">De</string>
@@ -53,11 +53,11 @@
     <string name="privacy_label">Confidentialité</string>
     <string name="reminders_label">Ajouter un rappel</string>
     <string name="no_syncable_calendars">Aucun calendrier</string>
-    <string name="no_calendars_found">"Pour ajouter un événement vous devez avoir au moins un calendrier visible. Choisissez \"Ajouter un compte\" pour ajouter un compte (si vous venez de le faire attendez la fin de la synchronisation avant de réessayer). Ou annulez mais assurez vous tout de même d\'avoir au moins un calendrier visible dans votre compte."</string>
-    <string name="create_an_account_desc">"L\'application fonctionne idéalement avec un compte Google.
+    <string name="no_calendars_found">Pour ajouter un événement vous devez avoir au moins un calendrier visible. Choisissez \"Ajouter un compte\" pour ajouter un compte (si vous venez de le faire attendez la fin de la synchronisation avant de réessayer). Ou annulez mais assurez vous tout de même d\'avoir au moins un calendrier visible dans votre compte.</string>
+    <string name="create_an_account_desc">L\'application fonctionne idéalement avec un compte Google.
 
 • Accédez y depuis n\'importe quel navigateur
-• Gérez et enregistrez vos événements de manière sûre"</string>
+• Gérez et enregistrez vos événements de manière sûre</string>
     <string name="add_account">Ajouter un compte</string>
     <string name="view_event_calendar_label">Calendrier:</string>
     <string name="view_event_organizer_label">Organisateur:</string>
@@ -69,7 +69,7 @@
     <string name="event_info_desc_more">Plus</string>
     <string name="event_info_desc_less">Moins</string>
     <string name="event_info_reminders_label">Rappels</string>
-    <string name="agenda_today">"AUJOURD\'HUI, %1$s"</string>
+    <string name="agenda_today">AUJOURD\'HUI, %1$s</string>
     <string name="agenda_yesterday">HIER, %1$s</string>
     <string name="agenda_tomorrow">DEMAIN, %1$s</string>
     <string name="loading">Chargement…</string>
@@ -101,15 +101,15 @@
     <string name="delete_this_event_title">Cet événement va être supprimé.</string>
     <string name="change_response_title">Modifier la réponse</string>
     <string name="menu_general_preferences">Préférences générales</string>
-    <string name="menu_about_preferences">"A propos de l\'application"</string>
+    <string name="menu_about_preferences">A propos de l\'application</string>
     <string name="preferences_title">Paramètres</string>
-    <string name="preferences_general_title">"Paramètres d\'affichage de l\'agenda"</string>
+    <string name="preferences_general_title">Paramètres d\'affichage de l\'agenda</string>
     <string name="preferences_reminder_title">Paramètres des rappels</string>
     <string name="preferences_hide_declined_title">Masquer évén. refusés</string>
     <string name="preferences_week_start_day_title">La semaine commence le</string>
     <string name="preferences_week_start_day_dialog">La semaine commence le</string>
     <string name="preferences_week_start_day_default">-1</string>
-    <string name="preferences_clear_search_history_title">"Vider l\'historique de recherche"</string>
+    <string name="preferences_clear_search_history_title">Vider l\'historique de recherche</string>
     <string name="preferences_clear_search_history_summary">Supprimer toutes les recherches que vous avez pu faire</string>
     <string name="search_history_cleared">Historique supprimé</string>
     <string name="preferences_alerts_title">Notifications</string>
@@ -150,26 +150,26 @@
     <string name="accessibility_repeats">Répétition</string>
     <string name="accessibility_reminder_time">Heure du rappel</string>
     <string name="accessibility_reminder_type">Type de rappel</string>
-    <string name="accessibility_reminder_showmeas">"M\'afficher en tant que"</string>
+    <string name="accessibility_reminder_showmeas">M\'afficher en tant que</string>
     <string name="accessibility_reminder_privacy">Confidentialité</string>
     <string name="day_view_new_event_hint">+ Nouvel événement</string>
     <string name="template_announce_item_index">Evénement %1$s de %2$s.</string>
     <string name="local_calendar_display_name">Calendrier local</string>
-    <string name="birthday_calendar_display_name">"Rappel d\'anniversaire"</string>
+    <string name="birthday_calendar_display_name">Rappel d\'anniversaire</string>
     <string name="local_owner_account_name">Compte local</string>
     <string name="birthday_notification_title_today">Anniversaire de %1$s</string>
-    <string name="birthday_notification_text_today">"C\'est son anniversaire!"</string>
-    <string name="birthday_notification_title_three_days_later">"L\'anniversaire de %1$s arrive bientôt."</string>
+    <string name="birthday_notification_text_today">C\'est son anniversaire!</string>
+    <string name="birthday_notification_title_three_days_later">L\'anniversaire de %1$s arrive bientôt.</string>
     <string name="birthday_notification_text_three_days_later">Il reste 3 jours avant son anniversaire!</string>
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_event_title">@string/birthday_notification_title_today</string>
-    <string name="birthday_event_description">"Aujourd\'hui c\'est l\'anniversaire de %1$s!"</string>
+    <string name="birthday_event_description">Aujourd\'hui c\'est l\'anniversaire de %1$s!</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
     <string name="jump_date">Aller</string>
     <string name="jump_date_full">Aller à la date</string>
     <string name="more_string">%1$s plus...</string>
     <string name="chips_waiting_for_directory_result">En attente de davantage de contacts</string>
-    <string name="copy">"Copier l\'adresse email"</string>
+    <string name="copy">Copier l\'adresse email</string>
 </resources>
