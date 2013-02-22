@@ -77,7 +77,7 @@
   <string name="fee">%1$s Mi Credits</string>
   <string name="filter_query">Filtre de requête</string>
   <string name="filter_to">À</string>
-  <string name="find_device">Traçer le périphérique</string>
+  <string name="find_device">Tracer le périphérique</string>
   <string name="find_device_check_phone_error_title">Impossible d\'activer la localisation de l\'appareil</string>
   <string name="find_device_disabled_notice">Vous pouvez la réouvrir via Paramètres - Synchronisation de comptes - Compte Xiaomi</string>
   <string name="find_device_disabled_title">Localisation de l\'appareil désactivée</string>
