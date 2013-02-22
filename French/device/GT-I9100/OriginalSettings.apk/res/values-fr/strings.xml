@@ -595,7 +595,7 @@ Vérifiez la validité de vos certificats"</string>
     <string name="wifi_p2p_auto_disabling_confirmation">"Il n\'y a pas eu d\'activité pendant %1$d minutes depuis que le Wi-Fi Directe a été activé. Désactiver le Wi-Fi Directe peut augmenter la durée de la batterie. Continuer?"</string>
     <string name="wifi_p2p_enabling_confirmation">Activer le WI-FI directe désactivera le hotspot WI-FI</string>
     <string name="wifi_p2p_connected_with_n_devices">Connecté avec %1$d périphériques via Wi-Fi Direct</string>
-    <string name="wifi_p2p_incoming_request_confirmation">Connecté avec %1$s en %2$d secs</string>
+    <string name="wifi_p2p_incoming_request_confirmation">Connecté avec %1$s en %2$d sec</string>
     <string name="wifi_p2p_connection_limit">Vous pouvez connecter %d périphériques en même temps</string>
     <string name="wifi_p2p_tap_to_change_settings">Toucher pour changer les paramètres</string>
     <string name="wifi_p2p_wifi_direct_is_on">Le Wi-Fi Direct est activé</string>
