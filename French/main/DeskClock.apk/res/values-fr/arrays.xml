@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_set">
-        <item>"Prochaine alarme dans moins d'une minute."</item>
+        <item>"Prochaine alarme dans moins d\'une minute."</item>
         <item>Prochaine alarme dans %1$s</item>
         <item>Prochaine alarme dans %2$s</item>
         <item>Prochaine alarme dans %1$s et %2$s</item>
@@ -21,7 +21,7 @@
         <item>2</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>"Alarme dans moins d'une minute"</item>
+        <item>"Alarme dans moins d\'une minute"</item>
         <item>Alarme dans %1$s</item>
         <item>Alarme dans %2$s</item>
         <item>Alarme dans %1$s %2$s</item>
@@ -32,7 +32,7 @@
     </string-array>
     <string-array name="days">
         <item>Hier</item>
-        <item>"Aujourd'hui"</item>
+        <item>"Aujourd\'hui"</item>
         <item>Demain</item>
     </string-array>
     <string-array name="alarm_duration_values">

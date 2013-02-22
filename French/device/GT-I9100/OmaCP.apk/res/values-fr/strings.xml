@@ -22,8 +22,8 @@
     <string name="NAME">Nom</string>
     <string name="ROAMING">Itinérance</string>
     <string name="XCAP">XCAP</string>
-    <string name="APPID">"ID d'application"</string>
-    <string name="USER_ID">"Nom d'utilisateur"</string>
+    <string name="APPID">"ID d\'application"</string>
+    <string name="USER_ID">"Nom d\'utilisateur"</string>
     <string name="SERVER_PORT">Port du serveur</string>
     <string name="SEND_AUTH">Autentification</string>
     <string name="PROFILE_NAME">Application</string>
@@ -69,5 +69,5 @@
     <string name="DELETE_MESSAGE_CONFIRM">Ce fil de discussion sera supprimé</string>
     <string name="DELETE_MULTIMESSAGE_CONFIRM">Les fils de discussion sélectionnés seront supprimés</string>
     <string name="PERMISSION_LIST_LAB">Apperçu de la liste des messages cp</string>
-    <string name="PERMISSION_LIST_DESC">"Cette autorisation permet d'appeler la liste des messages"</string>
+    <string name="PERMISSION_LIST_DESC">"Cette autorisation permet d\'appeler la liste des messages"</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="calendar_storage">"Stockage de l'agenda"</string>
+    <string name="calendar_storage">"Stockage de l\'agenda"</string>
     <string name="upgrade_msg">Mise à jour de la base de données.</string>
     <string name="calendar_default_name">Défaut</string>
     <string name="calendar_info">Infos Agenda</string>

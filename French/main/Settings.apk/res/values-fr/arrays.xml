@@ -367,7 +367,7 @@
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
-        <item>"(Veuillez ignorer la fenêtre de l'assistant de configuration). L\'appareil de stockage Xiaomi va apparaître sur votre ordinateur."
+        <item>"(Veuillez ignorer la fenêtre de l\'assistant de configuration). L\'appareil de stockage Xiaomi va apparaître sur votre ordinateur."
 		Ouvrez et sélectionnez Setup.exe pour l\installation.</item>
         <item></item>
         <item>"L\'appareil de stockage Xiaomi va apparaître sur votre ordinateur.

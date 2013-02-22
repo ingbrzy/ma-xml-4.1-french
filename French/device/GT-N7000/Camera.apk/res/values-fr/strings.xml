@@ -205,7 +205,7 @@
   <string name="activate_agree">Accepter</string>
   <string name="activate_reject">Refuser</string>
   <string name="add_photo_title">Ajouter photo</string>
-  <string name="app_name">Appareil photo</string>
+  <string name="app_name">Caméra</string>
   <string name="battery_overheat">Quittez l\'appareil photo. La température de la batterie est trop élevée</string>
   <string name="buffer_overflow_error_msg">Enregistrement impossible. Type de résolution non pris en charge par la carte mémoire</string>
   <string name="camcorder_label">Caméra</string>

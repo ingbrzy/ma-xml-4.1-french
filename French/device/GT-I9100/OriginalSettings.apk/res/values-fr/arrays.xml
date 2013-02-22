@@ -134,7 +134,7 @@
         <item>Recherche…</item>
         <item>Connexion…</item>
         <item>Authentification…</item>
-        <item>"Obtention d'adresse IP…"</item>
+        <item>"Obtention d\'adresse IP…"</item>
         <item>Connecté</item>
         <item>Suspendu</item>
         <item>Déconnection…</item>
@@ -146,7 +146,7 @@
         <item>Recherche…</item>
         <item>Connexion à %1$s…</item>
         <item>Authentification avec %1$s…</item>
-        <item>"Obtention d'adresse IP depuis %1$s…"</item>
+        <item>"Obtention d\'adresse IP depuis %1$s…"</item>
         <item>Connecté à %1$s</item>
         <item>Suspendu</item>
         <item>Déconnection de %1$s…</item>
@@ -188,7 +188,7 @@
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Presser le bouton</item>
-        <item>"PIN depuis l'appareil source"</item>
+        <item>"PIN depuis l\'appareil source"</item>
         <item>PIN depuis le téléphone</item>
     </string-array>
     <string-array name="wifi_p2p_status">
@@ -241,8 +241,8 @@
         <item>2</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
-        <item>"Temps d'utilisation"</item>
-        <item>"Nombre d'exécution"</item>
+        <item>"Temps d\'utilisation"</item>
+        <item>"Nombre d\'exécution"</item>
         <item>Nom</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
@@ -255,7 +255,7 @@
     <string-array name="wifi_network_setup">
         <item>Eteint</item>
         <item>Presser le bouton</item>
-        <item>"PIN depuis le point d'accès"</item>
+        <item>"PIN depuis le point d\'accès"</item>
         <item>PIN depuis le téléphone</item>
     </string-array>
     <string-array name="wifi_ip_settings">

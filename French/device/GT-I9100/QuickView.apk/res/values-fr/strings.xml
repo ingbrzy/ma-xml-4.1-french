@@ -8,18 +8,18 @@
     <string name="camera_history">Historique</string>
     <string name="OK_STRING">OK</string>
     <string name="gridview_cancelbutton_text">Annuler</string>
-    <string name="no_way_to_share_image">"Pas d'application pour partager la photo"</string>
-    <string name="no_way_to_share_video">"Pas d'application pour partager la vidéo"</string>
+    <string name="no_way_to_share_image">"Pas d\'application pour partager la photo"</string>
+    <string name="no_way_to_share_video">"Pas d\'application pour partager la vidéo"</string>
     <string name="confirm_delete_title">Effacer</string>
-    <string name="confirm_delete_message">"L'image sera effacée"</string>
+    <string name="confirm_delete_message">"L\'image sera effacée"</string>
     <string name="confirm_delete_video_message">La vidéo sera effacée</string>
-    <string name="setImage">"Définir l'image comme"</string>
-    <string name="sendImage">"Partager l'image via"</string>
+    <string name="setImage">"Définir l\'image comme"</string>
+    <string name="sendImage">"Partager l\'image via"</string>
     <string name="sendVideo">Partager la vidéo via</string>
     <string name="preparing_sd">Préparation de la carte SD…</string>
     <string name="media_scanner_running">Scanner de fichiers média en cours...</string>
     <string name="no_sdcard">Pas de carte SD détectée</string>
-    <string name="no_media_found">"Pas d'objet"</string>
+    <string name="no_media_found">"Pas d\'objet"</string>
     <string name="OPTION_1">OPTION 1</string>
     <string name="OPTION_2">OPTION 2</string>
     <string name="OPTION_3">OPTION 3</string>
@@ -46,7 +46,7 @@ défaut."</string>
     <string name="DEST_RECENTRECIPIENT">"Destinataire
  récent"</string>
     <string name="DEST_PHONEBOOK">"Carnet
- d'adresse"</string>
+ d\'adresse"</string>
     <string name="DEST_NEWNUMBER">"Nouveau
  numéro"</string>
     <string name="DEST_NEWEMAIL">"Nouvel

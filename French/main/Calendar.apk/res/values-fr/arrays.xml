@@ -321,10 +321,10 @@
         <item>Agenda</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>"J'arrive dans 2 minutes."</item>
+        <item>"J\'arrive dans 2 minutes."</item>
         <item>Sois là dans 10 minutes.</item>
         <item>Partez devant et commencez sans moi.</item>
-        <item>"Désolé j'ai un imprévu, nous allons devoir reprogrammer."</item>
+        <item>"Désolé j\'ai un imprévu, nous allons devoir reprogrammer."</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Toujours</item>
