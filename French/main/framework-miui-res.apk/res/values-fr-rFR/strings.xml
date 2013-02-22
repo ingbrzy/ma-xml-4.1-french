@@ -421,7 +421,7 @@
   <string name="resourcebrowser_lable">Ressources</string>
   <string name="reverse_all">Effacer tout</string>
   <string name="safetylegal_activity_unreachable">Votre téléphone n\'est pas connecté à un service de données. Pour afficher ces informations maintenant, allez à %s de n\'importe quel ordinateur connecté à Internet.</string>
-  <string name="screen_on_proximity_sensor_hint">Astuce : Appuyez longuement sur 'Power' pour quitter le mode d\'utilisation abusive. Voir paramètres - paramètres d\'affichage pour désactiver</string>
+  <string name="screen_on_proximity_sensor_hint">Astuce : Appuyez longuement sur \'Power\' pour quitter le mode d\'utilisation abusive. Voir paramètres - paramètres d\'affichage pour désactiver</string>
   <string name="screen_on_proximity_sensor_summary">Mode de mauvaise utilisation activée. Les fonctions de téléphonie sont actuellement désactivées !</string>
   <string name="screen_on_proximity_sensor_title">Empêcher toute utilisation abusive du téléphone</string>
   <string name="sd_not_available">Carte SD non montée ou indisponible</string>
