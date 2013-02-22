@@ -5,7 +5,7 @@
     <item quantity="one">Le mot de passe doit contenir au moins 1 lettre.</item>
   </plurals>
   <plurals name="lockpassword_password_requires_lowercase">
-    <item quantity="other">Le mot de passe doit contenir au moins %d minuscules.</item>
+    <item quantity="other">Le mot de passe doit contenir au moins %d lettres minuscules.</item>
     <item quantity="one">Le mot de passe doit contenir au moins une lettre minuscule.</item>
   </plurals>
   <plurals name="lockpassword_password_requires_uppercase">
@@ -14,7 +14,7 @@
   </plurals>
   <plurals name="lockpassword_password_requires_numeric">
     <item quantity="other">Le mot de passe doit contenir au moins %d chiffres numériques.</item>
-    <item quantity="one">Le mot de passe doit contenir au moins 1 chiffre numérique.</item>
+    <item quantity="one">Le mot de passe doit contenir au moins un chiffre numérique.</item>
   </plurals>
   <plurals name="lockpassword_password_requires_symbols">
     <item quantity="other">Le mot de passe doit contenir au moins %d caractères spéciaux.</item>
@@ -22,6 +22,6 @@
   </plurals>
   <plurals name="lockpassword_password_requires_nonletter">
     <item quantity="other">Le mot de passe doit contenir au moins %d caractères autres que des lettres.</item>
-    <item quantity="one">Le mot de passe doit contenir au moins 1 caractère autre qu\'une lettre.</item>
+    <item quantity="one">Le mot de passe doit contenir au moins un caractère autre qu\'une lettre.</item>
   </plurals>
 </resources>
