@@ -1073,7 +1073,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="multi_touch_points_category_title">Points multi-touch</string>
   <string name="multi_touch_points_preference">Redémarrez pour activer</string>
   <string name="musicfx_title">Effets musicaux</string>
-  <string name="nearby_wifi">Sélectionner une connexion Wi-Fi proche</string>
+  <string name="nearby_wifi">Connexion Wi-Fi proche</string>
   <string name="network_detail">Détails du réseau %s</string>
   <string name="network_settings_title">Réseaux mobiles</string>
   <string name="network_state_label">État du réseau:</string>
@@ -1093,7 +1093,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="no_running_services">Aucun service utilisé</string>
   <string name="no_services">Pas active</string>
   <string name="normal_date_format">Régional (%s)</string>
-  <string name="notification_pulse_title">Clignoter lors d\'une notification</string>
+  <string name="notification_pulse_title">Clignoter lors d\'une notif.</string>
   <string name="notification_sound_dialog_title">Sélectionner une sonnerie de notification</string>
   <string name="notification_sound_title">Notifications par défaut</string>
   <string name="notification_vibrate_abbreviation">Notifications</string>
@@ -1293,12 +1293,12 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="screen">Écran</string>
   <string name="screen_button_custom">Personnaliser la position des touches tactiles</string>
   <string name="screen_button_key">Écran de touches virtuelles</string>
-  <string name="screen_color_temperature_adjust">Ajuster la température des couleurs</string>
+  <string name="screen_color_temperature_adjust">Température des couleurs</string>
   <string name="screen_compatibility_label">Compatibilité écran</string>
   <string name="screen_compatibility_text">Cette application n\'est peut-être pas conçue pour votre écran. Vous pouvez contrôler l\'ajustement de l\'application par rapport à votre écran ici</string>
   <string name="screen_on_proximity_sensor_summary">Désactive les fonctions d\'appels si l\'appareil est dans la poche (via le détecteur de proximité).</string>
-  <string name="screen_on_proximity_sensor_title">Éviter les erreurs de manipulation</string>
-  <string name="screen_saturation_adjust">Ajuster la saturation</string>
+  <string name="screen_on_proximity_sensor_title">Éviter les erreurs de manip.</string>
+  <string name="screen_saturation_adjust">Saturation</string>
   <string name="screen_timeout">Mise en veille de l\'écran</string>
   <string name="screen_timeout_summary">Après %1$s d\'inactivité</string>
   <string name="screen_timeout_title">Délai de mise en veille de l\'écran</string>
@@ -1527,7 +1527,7 @@ Remarque: pour environnement ubuntu 8.04</string>
 %s</string>
   <string name="sync_plug">Confirmer</string>
   <string name="sync_settings">Comptes et synchronisation</string>
-  <string name="sync_wifi_label">Paramètres de la synchronisation Wi-Fi</string>
+  <string name="sync_wifi_label">Sync. Wi-Fi</string>
   <string name="system">Système</string>
   <string name="system_package">Impossible d\'installer les mises à jour système sur la mémoire externe</string>
   <string name="system_update_settings_list_item_summary">Confirmer</string>
@@ -1641,7 +1641,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="unmount_inform_text">La carte SD sera démontée</string>
   <string name="untitled_apn">Sans titre</string>
   <string name="upload_debug_log_summary">Envoyer le journal de débogage lorsqu\'une connexion Wi-Fi est disponible afin de permettre à l\'équipe de développer une ROM plus stable</string>
-  <string name="upload_debug_log_title">Envoyer le journal de débogage</string>
+  <string name="upload_debug_log_title">Envoyer journal de débogage</string>
   <string name="usage_log">Statistiques d\'utilisation de l\'application</string>
   <string name="usage_name_percent">%1$s - %2$s%%</string>
   <string name="usage_stats_label">Statistiques d\'utilisation</string>
@@ -1678,7 +1678,7 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="use_default_tts_settings_summary">Les paramètres par défaut ci-dessous annulent les paramètres de l\'application</string>
   <string name="use_default_tts_settings_title">Toujours utiliser mes paramètres</string>
   <string name="use_location_summary">Autoriser Google à utiliser vos données de position pour améliorer les résultats de recherche et d\'autres services</string>
-  <string name="use_location_title">Localisation et recherche Google</string>
+  <string name="use_location_title">Localisation Google</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utiliser la langue système</string>
   <string name="user_add_user_menu">Ajouter un utilisateur</string>
   <string name="user_confirm_remove_message">Voulez-vous vraiment supprimer le compte utilisateur ainsi que toutes les données associées de l\'appareil ?</string>
@@ -2028,8 +2028,8 @@ Remarque: pour environnement ubuntu 8.04</string>
   <string name="wifi_wapi_psk_type">Type de mot de passe</string>
   <string name="wifi_wapi_user_cert">Certificat utilisateur</string>
   <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
-  <string name="wifi_wps_available_first_item">\nRéseau protégé disponible</string>
-  <string name="wifi_wps_available_second_item">\nRéseau protégé disponible</string>
+  <string name="wifi_wps_available_first_item">\nWPS</string>
+  <string name="wifi_wps_available_second_item">\nWPS</string>
   <string name="wifi_wps_complete">WPS terminé. Connexion au réseau...</string>
   <string name="wifi_wps_connected">Connecté au réseau Wi-Fi %s</string>
   <string name="wifi_wps_failed">Impossible de démarrer WPS. Veuillez réessayer</string>

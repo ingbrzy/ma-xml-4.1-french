@@ -748,7 +748,7 @@ Appuyez sur OK pour continuer.</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G privilégiée</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Automatique</string>
   <string name="preferred_network_type_pref_entries_global_miui">Global</string>
-  <string name="preferred_network_type_pref_entries_only_2g_miui">2G seulement (consomme moins d\'énergie)</string>
+  <string name="preferred_network_type_pref_entries_only_2g_miui">2G seulement (moins énergivore)</string>
   <string name="preferred_network_type_pref_entries_only_3g_miui">3G seulement</string>
   <string name="preferred_network_type_title_miui">Sélection du type de réseau</string>
   <string name="primary_account">Principal</string>
