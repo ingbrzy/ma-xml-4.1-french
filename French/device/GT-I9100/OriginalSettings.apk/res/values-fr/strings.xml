@@ -1534,7 +1534,7 @@ Une approche de Google pour la synchronisation des données permettant l\'accès
     <string name="data_usage_app_restrict_dialog">Cette fonctionnalité peut entraîner l\'arrêt d\'une application qui repose sur les données d\'arrière plan lorsque l\'interface WiFi n\'est pas disponible.
 
 Vous pouvez trouver plus approprié de contrôler cette utilisation des données dans les paramètres d\'application.</string>
-    <string name="data_usage_restrict_denied_dialog">La restriction de donnée 'arrière plan n\'est possible que si une limite de données a été définie.</string>
+    <string name="data_usage_restrict_denied_dialog">La restriction de donnée \'arrière plan n\'est possible que si une limite de données a été définie.</string>
     <string name="data_usage_cycle_editor_title">Date de ré-initialisation du cycle de données</string>
     <string name="data_usage_cycle_editor_subtitle">Date de chaque mois:</string>
     <string name="data_usage_cycle_editor_positive">Définir</string>
