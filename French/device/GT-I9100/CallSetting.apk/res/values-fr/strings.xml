@@ -142,8 +142,8 @@
     <string name="callsettings_callwaiting_deactivate">Appel en attent désactivé</string>
     <string name="callsettings_voicecall_barring_status">Statut de la limitation d\'appel</string>
     <string name="callsettings_call_barring_list1">Tous les appels sortants</string>
-    <string name="callsettings_call_barring_list2">Appels Int'l</string>
-    <string name="callsettings_call_barring_list3">Appels Int'l Sauf de la maison</string>
+    <string name="callsettings_call_barring_list2">Appels Int\'l</string>
+    <string name="callsettings_call_barring_list3">Appels Int\'l sauf de la maison</string>
     <string name="callsettings_call_barring_list4">Tous le appels entrant</string>
     <string name="callsettings_call_barring_list5">Entrant sur itinérance</string>
     <string name="callsettings_call_barring_list6">Annuler tous</string>
